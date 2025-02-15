@@ -16,6 +16,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/callmemaybe.png
 Name: CallMeMaybe【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/callmemaybe/js.json
 
+Package: com.sini921.classicfolders3
+Version: 3.0.6
+Architecture: iphoneos-arm64
+Maintainer: CoolStar & Lizynz & SINI
+Installed-Size: 4328
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Filename: deb/com.sini921.classicfolders3_3.0.6_iphoneos-arm64.deb
+Size: 3279278
+MD5sum: 02c6f064b386290a5338a1a988a44cad
+SHA1: 940f7141d2bf760fb73ca1e11de7d98abc9810ce
+SHA256: 77c7ce3420c681239f1ec769edd6f92e73349b15e55795e4767290a08e1c6f20
+Section: 越狱插件
+Description: 经典文件夹，基于开源代码修改了一些细节编译并汉化
+Author: CoolStar & Lizynz & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/classicfolders3.png
+Name: ClassicFolders 3【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/classicfolders3/js.json
+
 Package: com.sini921.freepip
 Version: 0.0.4
 Architecture: iphoneos-arm64
