@@ -66,12 +66,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.8-0",
+                    "text": "3.8-1",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024年8月7日",
+                    "text": "2024年02月16日",
                     "title": "更新日期"
                 },
                 {
@@ -90,6 +90,14 @@
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 3.8-1\n- 修复微信8.0.56不显示工具栏\n- 修复灰度测试用户转载视频不能自动缓存问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
