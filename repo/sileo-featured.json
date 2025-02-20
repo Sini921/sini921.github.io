@@ -1,0 +1,26 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius":10,
+    "banners": [
+        {
+            "url": "http://sini921.github.io/repo/images/freepip.png",
+            "title": "FreePIP",
+            "package":"com.sini921.freepip",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/showmytouches.png",
+            "title": "ShowMyTouches",
+            "package":"com.sini921.showmytouches",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/callmemaybe.png",
+            "title": "CallMeMaybe",
+            "package":"com.sini921.callmemaybe",
+            "hideShadow": true
+        },
+
+    ]
+}
