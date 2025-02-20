@@ -21,6 +21,12 @@
             "package":"com.sini921.callmemaybe",
             "hideShadow": true
         },
+        {
+            "url": "http://sini921.github.io/repo/images/classicfolders3.png",
+            "title": "ClassicFolders 3",
+            "package":"com.sini921.classicfolders3",
+            "hideShadow": true
+        },
 
     ]
 }
