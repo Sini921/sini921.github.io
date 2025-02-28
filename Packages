@@ -1759,18 +1759,17 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/eneko.png
 Name: Eneko【rootless】
 
 Package: com.sini.ersatz
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
 Maintainer: Skitty
-Installed-Size: 248
 Depends: mobilesubstrate, preferenceloader
-Filename: rootless/com.sini.ersatz_1.0_iphoneos-arm64.deb
-Size: 42912
-MD5sum: a1315dbe3285b7d307d4dbc960b08a38
-SHA1: f2fc1e85e70b728ada544c9d2e3de8dddf015915
-SHA256: 3a440495a79e38811153ff94b3f267c3f0d9d4892257fe91e880ac0ab02dc6b8
+Filename: rootless/com.sini.ersatz_1.0.1_iphoneos-arm64.deb
+Size: 49164
+MD5sum: 76bbbbf036f2a3bf55f6615990084fab
+SHA1: b1e4491e0cd745ac0cd496f42d5f4533c572443a
+SHA256: 1617e0750c73fd6d02ea945adfa6ca5169bdd1f0417f44a0c61769efe64dde23
 Section: 越狱插件
-Description: 全局替换任意文本!
+Description: 替换系统范围内的任何文本！季伯奥迪哥备份
 Author: Skitty
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ersatz.png
 Name: Ersatz【rootless】
