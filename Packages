@@ -138,7 +138,7 @@ Description: 分词，翻译。
 Author: lclrc(SquidForce)
 icon: https://sini921.github.io/repo/sileodepiction/icon/hammerit.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/hammerit/js.json
-Name: Hammer It【rootless】
+Name: Hammer It【rootless】It
 
 Package: com.sini.3dappversionspoofer
 Version: 2.1.1
@@ -308,11 +308,11 @@ Architecture: iphoneos-arm64
 Maintainer: 77Theme
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: rootless/com.sini.77theme_1.0.0-1_iphoneos-arm64.deb
-Size: 3941756
-MD5sum: ccd8efb88df2b35c535aaeadc5daa3b5
-SHA1: ac02926cb8ac6ae19fcadff89e14d6e2bea491d8
-SHA256: b431b28793e5f6ec5dd2f166e1e0cbc32e60d09c3d925f1688c2f152efad70b4
-Section: 美化
+Size: 3946532
+MD5sum: 51532c68f5587b59e5eb45606f1828dc
+SHA1: f636bb00fa7d5dbf8e95f1d54901483cdfaf500c
+SHA256: c333e61397ac4938d8279e3154444b8294c544c2b579aae515fbd1b90c21d6c1
+Section: 微信插件
 Priority: optional
 Description: 微信主题美化，主题需付费
 Author: 77Theme
