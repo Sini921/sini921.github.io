@@ -1,0 +1,190 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://sini921.github.io/repo/images/themepro.png",
+    "tintColor": "#6E00C9",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "插件介绍",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/banyunjituan",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 描述\n- 微信主题美化\n- 插件免费，主题需付费",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "截图",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/themepro/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/themepro/Screenshot_02.png" 
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "其他",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "MustangYM",
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "3.7.3",
+                    "title": "版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2025年01月24日",
+                    "title": "更新日期"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS15.0-iOS16.6.1",
+                    "title": "支持的系统"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/banyunjituan",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 3.7.3\n- 适配微信8.0.56版本",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+
+                {
+                    "markdown": "#### 版本: 3.7.2\n- 修复点击首页+号菜单添加好友闪退",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 3.7.1\n- 新增歌词速度设置\n- 新增全局心情调用主题素材\n- 修复8049“我”页面没有背景问题\n- 修复8050不显示顶栏问题\n- 全面适配8055版本\n- 修复大段文案填入一整首歌超长歌词进不了微信设置(更新后这里会清空请重新设置)",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 3.5.7\n- 新增Gif动图支持切换暗黑，且做了性能优化。\n- 新增全局心情动画。\n- 新增全局圆头像。\n- 新增资料页居中，水平，唱片/唱针，KTV歌词等玩法。\n- 修复聊天气泡防炸裂",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 3.4.4\n- 修复了服务页美团团购图标不显示。\n- 更新支持4个主页面,聊天页面,朋友圈动态背景。同时支持动态背景 和静态背景分别独立切换(设置在配套设置里面,用户自行切换,切换后 需要重启)\n- 解决用户切猪咪主题未关闭TP导致小底栏消失问题\n- 特别说明:考虑到动态主题包的大小,以及对手机性能的要求,动态背 景不支持暗黑切换,如果你这个主题带有暗黑模式关闭背景或切换为静态背景后,重启微信打开系统跟随或者暗黑模式才可以正常切换暗黑。首次进入聊天页面的动态背景,需要预加载一下动态背景,会有个一秒内的闪烁加载过程,之后就不会。另外动态背景不支持DIY功能。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 3.3.5\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 3.3.4\n- 修复了8054WX从其他页面返回首页,底栏会黑一下的问题\n- 修复了我的页面订单与卡包变成购物订单与卡包图标不显示问题\n- 新增一个设置组“个性化设置”原“其他设置”改名为“配套设置”\n- 新增图标动效功能,大小底栏设置(配套设置内),各种字体颜色修 改,背景透明功能(个性化设置内)\n- 修复了从公众号分类会到首页,顶栏消失问题\n- 修复了用户3000+以上主题,应用主题显示不完整的问题\n- (PS:小底栏状态下,更换字体小底栏会消失,需要重启一下WX,因为 不同PO的角标设计不同,不是所有的主题都适合使用小底栏这个自己可以 去尝试)",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 3.1.6\n- 修复宝盒之门切换布局按钮失效问题\n- 适配8.0.54新版本图标加载",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 3.1.4\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "本源公告",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/banyunjituan",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 季伯之家源:\n- 本源仅为搬运一些自已常用的插件方便自用以及学习交流测试备份\n- 源内插件均来自互联网\n- 安装以后请于24小时内删除\n- 安装以后出现异常与本源无关\n- 如有冒犯，请联系我指定下架某个插件\n- 季伯奥迪哥",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        }
+    ],
+}

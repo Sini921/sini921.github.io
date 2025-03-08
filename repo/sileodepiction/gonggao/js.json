@@ -1,0 +1,121 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://sini921.github.io/repo/images/likaixin.png",
+    "tintColor": "#6E00C9",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "季伯之家源公告",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/banyunjituan",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 季伯奥迪哥:\n- 本源仅为搬运一些自已常用的插件方便自用以及学习交流测试备份\n- 源内插件均来自互联网\n- 安装以后请于24小时内删除\n- 安装以后出现异常与本源无关\n- 如有冒犯，请联系我指定下架某个插件",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/gonggao/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/gonggao/Screenshot_02.png" 
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "季伯之家核心成员",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯奔驰姐(李开心)",
+                    "title": "颜值担当"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯奥迪哥(季伯橙)",
+                    "title": "联合创始人"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯腾",
+                    "title": "首席执行官"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯龘",
+                    "title": "项目部经理"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯达",
+                    "title": "人力资源部"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯毅",
+                    "title": "外交部发言人"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯仰",
+                    "title": "美术总监"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯强",
+                    "title": "市场部经理"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯勃",
+                    "title": "首席人事官"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "玛莎拉蒂哥(季伯阮)",
+                    "title": "首席运营官"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯辉",
+                    "title": "技术部经理"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯常",
+                    "title": "季伯创始人"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "季伯福",
+                    "title": "保安部部长"
+                }
+            ]
+        }
+    ],
+}

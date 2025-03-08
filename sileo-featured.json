@@ -1,0 +1,38 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius":10,
+    "banners": [
+        {
+            "url": "http://sini921.github.io/repo/images/jiboxin5.png",
+            "title": "季伯之家",
+            "package":"com.sini.gonggao",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/jiboxin4.png",
+            "title": "季伯之家",
+            "package":"com.sini.gonggao",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/jiboxin3.png",
+            "title": "季伯之家",
+            "package":"com.sini.gonggao",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/jiboxin.png",
+            "title": "季伯之家",
+            "package":"com.sini.gonggao",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/jiboxin2.png",
+            "title": "季伯之家",
+            "package":"com.sini.gonggao",
+            "hideShadow": true
+        },
+
+    ]
+}

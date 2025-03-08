@@ -1,0 +1,149 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://sini921.github.io/repo/images/replyactions.png",
+    "tintColor": "#6E00C9",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "插件介绍",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/banyunjituan",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 描述\n- 来消息通知弹出回复框\n- 锁屏界面也可以弹出回复框",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "截图",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/replyactions/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/replyactions/Screenshot_02.png" 
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/replyactions/Screenshot_03.png" 
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/replyactions/Screenshot_04.png" 
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/replyactions/Screenshot_05.png" 
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/replyactions/Screenshot_06.png" 
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "其他",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "sergy",
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2.0.0",
+                    "title": "版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2024年12月12日",
+                    "title": "更新日期"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS15.0-iOS16.6.1",
+                    "title": "支持的系统"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/banyunjituan",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.0.0\n- 在此版本中，当通知中心/锁屏可见时，模式预览将不再自动显示。这是为了阻止恼人的错误，即即使您关闭预览，预览也会继续显示。\n- 展开锁定屏幕上的通知将允许您打开模式预览。\n- 修复了调整冲突（Dayn、Lyrication）\n- 修复了从搜索中选择联系人时，快速撰写上的联系人选择不会被取消的错误\n- 自定义横幅设计 - 与您选择的主题相匹配的自定义横幅设计\n- 横幅模式- 启用此模式不会自动显示模式预览，仅显示横幅；展开横幅将打开模式预览\n- 隐私模式- 启用此模式将要求您进行身份验证（当设备锁定时），然后才能打开模式预览。\n- 偏执模式- 类似于隐私模式，但更强大。这将始终要求您在显示模式预览之前进行身份验证。\n- 添加了一个选项来禁用对选定应用程序的调整\n- 群组消息传递 - 当您在预览可见时收到新消息（来自同一个人）时，该特定新消息将自动附加在预览中（提示：预览上的消息文本是可滚动的）\n- 在快速撰写中添加了新选项；长按人物图标现在可以让您从最近的对话列表中进行选择\n- 我重新设计了日程日期和时间选择器\n- 9个可自定义的打开快速撰写选项\n- 1. 音量下降 + 音量上升\n- 2. 音量调高\n- 3. 音量下降\n- 4. 状态栏点击\n- 5. 状态栏双击\n- 6. 状态栏按住\n- 7. 状态栏向左滑动\n- 8. 状态栏向右滑动\n- 9. 摇动装置",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.0.3\n- 改进了检查有根/无根根根路径的方法（如opa334所建议的)\n- 更新图标\n- 重构了它处理媒体的方式\n- 默认情况下始终启用扩展",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "本源公告",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/banyunjituan",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 季伯之家源:\n- 本源仅为搬运一些自已常用的插件方便自用以及学习交流测试备份\n- 源内插件均来自互联网\n- 安装以后请于24小时内删除\n- 安装以后出现异常与本源无关\n- 如有冒犯，请联系我指定下架某个插件\n- 季伯奥迪哥",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        }
+    ],
+}
