@@ -3360,6 +3360,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: Record 'n' Torch【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/recordntorch/js.json
 
+Package: com.sini.recordntorch
+Version: 1.8.4
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 11.0), gsc.camera-flash
+Filename: rootless/com.sini.recordntorch_1.8.4_iphoneos-arm64.deb
+Size: 4444
+MD5sum: c7b07ca27ac6d16f1147d23695aeae77
+SHA1: f8b592e0b2049b08812855e9b8d7e43374c8fc4e
+SHA256: cd4932679d1a15dc593fe218dc58d6e1d83801517ec06dc3d5b7cf429856d680
+Section: 越狱插件
+Description: 录制视频时切换 LED 手电筒。
+Author: PoomSmart
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: Record 'n' Torch【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/recordntorch/js.json
+
 Package: com.sini.recordpause
 Version: 2.0.3
 Architecture: iphoneos-arm64
@@ -3409,6 +3427,24 @@ SHA1: e6b3d5dcb695ab806cdc142314bf5b286ebe1365
 SHA256: 1a3efc5cca44b874a0f6e66cd0f2844469683045feda8c50975b73725911d8e5
 Section: 越狱插件
 Description: 在iOS相机应用程序中暂停/恢复视频录制。
+Author: PoomSmart
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: RecordPause【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/recordpause/js.json
+
+Package: com.sini.recordpause
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (<< 18.0)
+Filename: rootless/com.sini.recordpause_2.0.6_iphoneos-arm64.deb
+Size: 11600
+MD5sum: 026179fb542b2672f7cda89b008f9d01
+SHA1: 3bd9bba4baaeb39751b1d0217accc8f8dc0d7080
+SHA256: 721a76514b4f5ac66f6c2cd6699497cea00c7f38670fef45e0be965c317371a5
+Section: 越狱插件
+Description: 暂停/恢复 iOS 相机 app 中的视频录制。
 Author: PoomSmart
 Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: RecordPause【rootless】
@@ -3777,6 +3813,24 @@ Size: 903540
 MD5sum: 8a9a40ed213dc01f1208774dcba48558
 SHA1: 921be7973ad762c1fc74a2ec35116c1f65668597
 SHA256: 0d838c12eb0f1e7ee7e5d36716c840ec1b3fab58a5c83e9e3548fef9718f55ed
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载。
+Author: lenglengyu
+Icon: https://sini921.github.io/repo/sileodepiction/icon/shortvideodl.png
+Name: 短视频助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/shortvideodl/js.json
+
+Package: com.sini.shortvideodl
+Version: 1.9.1
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 3348
+Depends: mobilesubstrate, preferenceloader
+Filename: rootless/com.sini.shortvideodl_1.9.1_iphoneos-arm64.deb
+Size: 903732
+MD5sum: d0040ea27755102cf6b275ef49284ed4
+SHA1: 7ffdf74fac6944964aae901c364f99428b21a07c
+SHA256: 12eff5ac3f36441e9429efd8a1701e1f4e95c80cd620bede3fc203cc040f3117
 Section: 应用破解
 Description: 支持抖音、快手、微视等无水印下载。
 Author: lenglengyu
