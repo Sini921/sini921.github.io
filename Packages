@@ -2022,6 +2022,25 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
 Name: DYYY【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
 
+Package: com.sini.dyyy
+Version: 2.0-9
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini.dyyy_2.0-9_iphoneos-arm64.deb
+Size: 55100
+MD5sum: 1c9e5aa083fd04d28e9c672634381130
+SHA1: 273891b83239c8429d799748e62e088ee5440594
+SHA256: 260c6ddba4e3552a4d94c14b9b498f99bc00e64dcd13e4e7f4f2fed22c43053b
+Section: 应用破解
+Priority: optional
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
+Name: DYYY【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
+
 Package: com.sini.easynotifications
 Version: 3.0
 Architecture: iphoneos-arm64
