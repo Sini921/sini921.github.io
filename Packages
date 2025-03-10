@@ -2041,6 +2041,25 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
 Name: DYYY【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
 
+Package: com.sini.dyyy
+Version: 2.0-9END
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini.dyyy_2.0-9END_iphoneos-arm64.deb
+Size: 56024
+MD5sum: bb834602dfcd8a4d9a1c56bcd7ab390b
+SHA1: 4bce00e9dfd07b7df60f86d9b825324a449f777a
+SHA256: 1ea74d90d755ed284fad12cc1ed9591e27368017c48ce4909f1d661a1ce425f0
+Section: 应用破解
+Priority: optional
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
+Name: DYYY【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
+
 Package: com.sini.easynotifications
 Version: 3.0
 Architecture: iphoneos-arm64
@@ -2735,18 +2754,18 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/ketty.png
 Name: MeowTimeMachine【rootless】
 
 Package: com.sini.misakahelper
-Version: 2.1-0.END
+Version: 2.1-0END
 Architecture: iphoneos-arm64
 Maintainer: Misaka
 Depends: mobilesubstrate
 Conflicts: misakahelper
 Replaces: misakahelper
 Provides: misakahelper
-Filename: rootless/com.sini.misakahelper_2.1-0.END_iphoneos-arm64.deb
-Size: 13178600
-MD5sum: 705aaf7fb90c9cb82b0058f60d7647b6
-SHA1: 948b0438f414042f7962db70a4df6d38f6b8a23b
-SHA256: 8a0f5c760939cfbb25e56028dc3b87299adc10d5e312034e5ebc139d9582d688
+Filename: rootless/com.sini.misakahelper_2.1-0END_iphoneos-arm64.deb
+Size: 13178044
+MD5sum: 6f065c52f305c933ed108ca8bcb9159d
+SHA1: d5741ae48fdd54e22fc1208bc363cfb0d61cf749
+SHA256: a75f508b91209d342582d622b42b8a73c5edb6d83842415cd386812732890bfa
 Section: 微信插件
 Priority: optional
 Description: 微信Misaka无需授权版
@@ -2756,15 +2775,15 @@ Name: MisakaHelper【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/misakahelper/js.json
 
 Package: com.sini.misakahelper
-Version: 2.1.1-END
+Version: 2.1.1END
 Architecture: iphoneos-arm64
 Maintainer: Misaka
 Depends: mobilesubstrate
-Filename: rootless/com.sini.misakahelper_2.1.1-END_iphoneos-arm64.deb
-Size: 13206624
-MD5sum: bb16d044a16a7a83d7d07e55b43202c0
-SHA1: 434bd9dae3a5a60a343e510a556b6b5fd7373633
-SHA256: 8ffb8e180709a162261b621cf123e5b8b8218e873269e2b32499255e04fefa5a
+Filename: rootless/com.sini.misakahelper_2.1.1END_iphoneos-arm64.deb
+Size: 13206184
+MD5sum: 26a7587310aa2b0bdf548f5e83277382
+SHA1: 1e3e175c2053dcb6bdf96a7cf055b7a35e9e7fee
+SHA256: ee4653510c6716afd2b688a461cfc062cf66a600720b21fdaa9388a87bbdbd8e
 Section: 微信插件
 Priority: optional
 Description: MisakaHelper
