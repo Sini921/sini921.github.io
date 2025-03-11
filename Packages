@@ -855,10 +855,10 @@ Maintainer: Nets
 Installed-Size: 400
 Depends: firmware (>= 12.0), mobilesubstrate
 Filename: rootless/com.sini.awemefullscreen_1.2-6_iphoneos-arm64.deb
-Size: 167972
-MD5sum: 11f87577f49c0336abbcc324767d52e3
-SHA1: f533f9034d72c66d4ca9d8d30663b4696036fca1
-SHA256: 5c5505ccf4523e4fd80f752e74169b09eac4da74f3c1628b0ef6f4d9bb0d82a4
+Size: 168400
+MD5sum: bbf42c7c0cc633763c8ee03efcbbc424
+SHA1: e1ae7b0067b11efef95b5f072d0c965a323acda2
+SHA256: 7db857340d5b2d24da29fc15497d0ffbaa1a9f7d5014c108e599705efe8b5358
 Section: 应用破解
 Description: 抖音主页全屏。仅在31.9.0版本上测试
 Author: Netskao
@@ -3941,6 +3941,24 @@ Size: 917448
 MD5sum: 6a48e7e7819241d71576155d4398abe4
 SHA1: 532ec462ed48a3eb5ed039ced8b108702d86e3cf
 SHA256: ab6a74171c17d522fdd79312f13cdd019464ff9adabd7085d390c0d6f4c6ce65
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载。
+Author: lenglengyu
+Icon: https://sini921.github.io/repo/sileodepiction/icon/shortvideodl.png
+Name: 短视频助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/shortvideodl/js.json
+
+Package: com.sini.shortvideodl
+Version: 1.9.2K
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 3420
+Depends: mobilesubstrate, preferenceloader
+Filename: rootless/com.sini.shortvideodl_1.9.2K_iphoneos-arm64.deb
+Size: 918664
+MD5sum: b484f301cca2651ab1c5a5569e1dec60
+SHA1: 1aa9cfc0aa0aa1f087cc20a87d74737090a47785
+SHA256: 8f8ade7a4ebcafccce1989cfd185f34330f90a5efe37db433adc6ce72322807a
 Section: 应用破解
 Description: 支持抖音、快手、微视等无水印下载。
 Author: lenglengyu

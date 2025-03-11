@@ -98,7 +98,7 @@
                     "markdown": "#### 版本: 1.2-6\n- 修复新版UI偏移",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
-                }
+                },
                 {
                     "class": "DepictionSeparatorView"
                 },
