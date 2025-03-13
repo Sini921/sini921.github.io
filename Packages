@@ -1627,19 +1627,19 @@ Name: 微信斗图助手【rootless】
 Sponsor: admin@25mao.com
 
 Package: com.sini.douyinhelper
-Version: 1.0-1
+Version: 1.0-8
 Architecture: iphoneos-arm64
 Maintainer: XUUᶻ
-Installed-Size: 560
+Installed-Size: 624
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.douyinhelper_1.0-1_iphoneos-arm64.deb
-Size: 84196
-MD5sum: 913a28a7a7f290c44b98627b07b94b34
-SHA1: 682e016bcd238ba8c3927209b5ab1076918d3fe7
-SHA256: e5d718c2e57c6eb91053e0807ab506eef3cf72a587057792796ce8a5dbb65a96
+Filename: rootless/com.sini.douyinhelper_1.0-8_iphoneos-arm64.deb
+Size: 109476
+MD5sum: 330d4bc9bcdb1e1e575a73229853f9e2
+SHA1: 5d9a0607fc4d46097b50fa90b79236c87b2bdbbf
+SHA256: eae8f57e8d753374d2e878f95469051a645ec718a8effad15532b1dbc83a6298
 Section: 应用破解
 Priority: optional
-Description: 仅供学习交流，请在 24 小时内自觉删除。
+Description: 双指长按或设置页面调出
 Author: XUUᶻ
 Icon: https://sini921.github.io/repo/sileodepiction/icon/douyinhelper.png
 Name: 抖音助手【rootless】
