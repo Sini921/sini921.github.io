@@ -5788,6 +5788,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
 Name: FreePIP【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
 
+Package: com.sini921.freepip
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: Soh Satoh & SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini921.freepip_0.0.5_iphoneos-arm64.deb
+Size: 4990
+MD5sum: acbf2ab1112918e329903b84386dafc9
+SHA1: e4c7f7872524a4dcb8d124636dfeaba701def828
+SHA256: cd8994db71909ad88c2e50d81a1145f54b336e4e8bda62a252ef6491094987a1
+Section: 越狱插件
+Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，优化了一些代码，改进了一些细节
+Author: Soh Satoh & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
+Name: FreePIP【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
+
 Package: com.sini921.griddy
 Version: 1.0.5
 Architecture: iphoneos-arm64
