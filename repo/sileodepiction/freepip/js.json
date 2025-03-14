@@ -18,7 +18,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 系统画中画功能增强\n- 优化了一些代码，改进了一些细节\n- 长按画中画窗口切换模式\n- 灰色边框为自由模式(即随意放大缩小移动位置)\n- 蓝色边框为固定模式(即原生模式)",
+                    "markdown": "## 描述\n- 系统画中画功能增强\n- 基于开源，优化了一些代码，改进了一些细节\n- 长按画中画窗口切换模式\n- 灰色边框为自由模式(即随意放大缩小移动位置)\n- 蓝色边框为固定模式(即原生模式)",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -95,7 +95,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 0.0.5\n- 应辣鸡群友*季伯毅*的要求\n- 修改蓝色边框为橙色\n- 默认模式修改为橙色边框模式\n- 修改了边框宽度",
+                    "markdown": "#### 版本: 0.0.5\n- 应辣鸡群友季伯毅的要求\n- 修改蓝色边框为橙色\n- 默认模式修改为橙色边框模式\n- 修改了边框宽度",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
