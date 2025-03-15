@@ -66,12 +66,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "END",
+                    "text": "2.1-1",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年03月10日",
+                    "text": "2025年03月15日",
                     "title": "更新日期"
                 },
                 {
@@ -90,6 +90,14 @@
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.1-1\n- 复制文案功能,方便快捷地获取文本内容。\n- 右侧栏缩放率设置,支持0.1-5,推荐最佳值为0.85。\n- 自定义右侧栏映射关系,允许用户自定义图标与功能的对应关系。\n- 自定义图标放在沙盒目录DYYY文件夹,like_after.png已点赞,like_before.png未点赞,comment.png评论,unfavorite.png未收藏,favorite.png已收藏,share.png分享",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
