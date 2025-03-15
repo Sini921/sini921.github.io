@@ -1167,6 +1167,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: CC18【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cc18/js.json
 
+Package: com.sini.ccautobrightness
+Version: 1.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 168
+Depends: com.opa334.ccsupport
+Filename: rootless/com.sini.ccautobrightness_1.0.0-1_iphoneos-arm64.deb
+Size: 18084
+MD5sum: d8fe8ee5243a98d2940b02eb1969aa35
+SHA1: 2c7bc84027cfce4a137754a0c9f0a871b4e2c1fb
+SHA256: d1b66d82feaf664654d0e52ddf9e7a9ab8d6a56561b4a549c3ab5f9f93a1b526
+Section: 越狱插件
+Description: 控制中心自动亮度模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccautobrightness.png
+Name: CCAutoBrightness【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccautobrightness/js.json
+
 Package: com.sini.ccborder
 Version: 1.1.8
 Architecture: iphoneos-arm64
@@ -1221,6 +1239,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: CCLess++【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccless/js.json
 
+Package: com.sini.cclocation
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 164
+Depends: com.opa334.ccsupport
+Filename: rootless/com.sini.cclocation_1.1.0-1_iphoneos-arm64.deb
+Size: 14260
+MD5sum: 41f9cd20ce6ea1ae6f33ca30f3261db6
+SHA1: 9e13b576de9e9a727e1c9575651c73bd3d3eeb2a
+SHA256: d6ef2a8a418cf1db877f9afaad938c23c825aa7c0a9ddba39385827731f9559e
+Section: 越狱插件
+Description: 控制中心定位开关模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cclocation.png
+Name: CCLocation【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cclocation/js.json
+
 Package: com.sini.ccmusicartwork
 Version: 1.0.6
 Architecture: iphoneos-arm64
@@ -1258,6 +1294,42 @@ Author: Netskao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccpower.png
 Name: CCPower【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccpower/js.json
+
+Package: com.sini.ccrespring
+Version: 2.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 192
+Depends: com.opa334.ccsupport
+Filename: rootless/com.sini.ccrespring_2.0.0-1_iphoneos-arm64.deb
+Size: 20348
+MD5sum: 644b4ad72572a0271924b45355322c10
+SHA1: 3a6746eab4b4c92879a9238e027bc5ce2e67016c
+SHA256: 8842390b23e5566746876416fafef0da0944877af4f037bfe8e6d997ed658390
+Section: 越狱插件
+Description: 控制中心注销模块，点击注销，长按更多电源选项
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccrespring.png
+Name: CCRespring【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccrespring/js.json
+
+Package: com.sini.ccvpn
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 187
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: rootless/com.sini.ccvpn_1.0.6_iphoneos-arm64.deb
+Size: 23380
+MD5sum: d84bd0787ac21037da8d6fd3d2c8bc82
+SHA1: bb8a4197fb777ba525d5bbda9f02b5ff6747c111
+SHA256: 9470b0affe54ba1383bb6f980da673cf16950d5dd53d5fb6e1021448eb98eb75
+Section: 越狱插件
+Description: 用于连接/断开VPN的控制中心模块
+Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccvpn.png
+Name: CCVPN【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccvpn/js.json
 
 Package: com.sini.centra
 Version: 1.0
