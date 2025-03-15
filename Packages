@@ -2470,6 +2470,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/kayoko.png
 Name: Kayoko【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayoko/js.json
 
+Package: com.sini.kayoko
+Version: 2.8
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: rootless/com.sini.kayoko_2.8_iphoneos-arm64.deb
+Size: 127120
+MD5sum: fdc7067bc05dbeef029095597cb340aa
+SHA1: 4d3fa2f5672dda159f6ba91c396b43378893f650
+SHA256: ae9cf603953b7b466f78d9919408bfa16350a8057ac1b88e5cccc389c0bd0c0f
+Section: 越狱插件
+Description: iOS版剪贴板管理器。
+Author: Alexandra Aurora Göttlicher
+Icon: https://sini921.github.io/repo/sileodepiction/icon/kayoko.png
+Name: Kayoko【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayoko/js.json
+
 Package: com.sini.kbstyle
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -6371,6 +6389,24 @@ SHA1: 01994182a7da18f2324c9269274695fb3c9b5525
 SHA256: 444ffc754d4b4e5d56d11c2e91050d60cb91d226b7448063fc5a7609e0537b9b
 Section: 越狱插件
 Description: 82flex修复支持iOS16
+Author: Alexandra Aurora Göttlicher
+Icon: https://sini921.github.io/repo/sileodepiction/icon/kayoko.png
+Name: Kayoko【roothide】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayoko/js.json
+
+Package: com.sini.kayoko
+Version: 2.8
+Architecture: iphoneos-arm64e
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 968
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: roothide/com.sini.kayoko_2.8_iphoneos-arm64e.deb
+Size: 127920
+MD5sum: 248aed1cb919cd3aa13244784ca90fea
+SHA1: 28041874ace8c234298b713d8190a38e096b943f
+SHA256: b05f0ba6d25cdc7967bf5dcb9612ee97ae24f64ac39ec29869c2d01fede04fcb
+Section: 越狱插件
+Description: iOS版剪贴板管理器。
 Author: Alexandra Aurora Göttlicher
 Icon: https://sini921.github.io/repo/sileodepiction/icon/kayoko.png
 Name: Kayoko【roothide】
