@@ -66,7 +66,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.1-1",
+                    "text": "2.1-2",
                     "title": "版本"
                 },
                 {
@@ -90,6 +90,14 @@
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.1-2\n- 新增时间标签位置\n- 参考lenglengyu开源代码\n- 新增时间标签颜色调整,支持random\n- 新增旧面板长按下载\n- 感谢2023girl提供大量代码支持\n- 新增设置入口\n- 优化配色方案\n- 文案同步缩放支持",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
