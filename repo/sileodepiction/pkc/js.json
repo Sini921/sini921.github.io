@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.6-9",
+                    "text": "0.7-0",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年03月04日",
+                    "text": "2025年03月19日",
                     "title": "更新日期"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.7-0\n- `抖音解析`新增功能，支持视频解析、自动回复\n- `引用Pro`新增功能\n- `自定义文视图Api`优化功能，增加抹除按钮、页面优化、动态参数识别优化兼容存在“空格”的参数\n- `PKC指令`部分回复文本录入框，支持快速引用PKC指令，更便捷地配置规则\n- `群管理Pro`群黑名单检测时间优化，改为秒踢黑名单\n- `关键词回复`增加自动撤回\n- `设置入口`修复最新官方版本在设置页面没入口问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"

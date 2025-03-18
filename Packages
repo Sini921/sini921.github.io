@@ -2262,6 +2262,25 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
 Name: DYYY【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
 
+Package: com.sini.dyyy
+Version: 2.1-6
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 584
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini.dyyy_2.1-6_iphoneos-arm64.deb
+Size: 91340
+MD5sum: f213804b6b1451e9f18c69a9ef94ef10
+SHA1: 7f444194f724cf4ba381f503ed5f12ff884e1758
+SHA256: e33e246a6cab60187a647fde5e0d43e5b2894b604d0ba85e8cd4cb96bf7e33fb
+Section: 应用破解
+Priority: optional
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
+Name: DYYY【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
+
 Package: com.sini.easynotifications
 Version: 3.0
 Architecture: iphoneos-arm64
@@ -3371,6 +3390,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/pkc.png
 Name: PKC【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/pkc/js.json
 Sponsor: Curtin <https://qr.alipay.com/2m612122dnnr9q6o488dgab>
+
+Package: com.sini.pkc.rootless
+Version: 0.7-0
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: rootless/com.sini.pkc.rootless_0.7-0_iphoneos-arm64.deb
+Size: 816232
+MD5sum: 87ed8ce1ed06dd1b1a2b0c58afa9bc0e
+SHA1: ccf994c2781447aff01bbe76246b069f7e88688a
+SHA256: 93f5c4cf4a1bdd6595a3ecf200874d8a5266d1e9dd723b6768782396c73e9361
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://sini921.github.io/repo/sileodepiction/icon/pkc.png
+Name: PKC_无根【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/pkc/js.json
 
 Package: com.sini.plampycc
 Version: 1.0.2
