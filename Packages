@@ -2353,6 +2353,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/enhance.png
 Name: WeChatEnhance【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/enhance/js.json
 
+Package: com.sini.enhance
+Version: 1.0.9
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 880
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.enhance_1.0.9_iphoneos-arm64.deb
+Size: 166584
+MD5sum: 26e1f7e6a0e2abbda0cd6c0b99d88e91
+SHA1: 0982e4c077ac11bde8b56f78cbe52c582de9bbef
+SHA256: 69f46da47bd021993f3dd171b5cbc6bd2fa40731be311852f1e1b51d4a0de928
+Section: 微信插件
+Description: 微信增强插件，支持聊天按钮布局自定义等功能。
+Author: 愫 茶
+Icon: https://sini921.github.io/repo/sileodepiction/icon/enhance.png
+Name: WeChatEnhance【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/enhance/js.json
+
 Package: com.sini.ersatz
 Version: 1.0.1
 Architecture: iphoneos-arm64
