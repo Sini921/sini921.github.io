@@ -2404,23 +2404,6 @@ Author: CydiaGeek <lucaluca86@aol.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/bar.png
 Name: FakeDualSIM【rootless】
 
-Package: com.sini.fakesignalbar
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: alias20
-Installed-Size: 364
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: rootless/com.sini.fakesignalbar_0.1_iphoneos-arm64.deb
-Size: 15452
-MD5sum: 10a1e05d01f8feecc14853123123d59c
-SHA1: ff19b16d2f5a6d6a25d533af5e9a00a726ee3b94
-SHA256: 7d3b3394851892fefc364326a55ba69eea1ae250f06152a04e823033f29a203d
-Section: 越狱插件
-Description: 为没有使用双卡的双卡机型添加虚假副卡
-Author: alias20
-Icon: https://sini921.github.io/repo/sileodepiction/icon/bar.png
-Name: FakeSignalBar【rootless】
-
 Package: com.sini.fightenegery
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -6081,6 +6064,24 @@ Author: CoolStar & Lizynz & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/classicfolders3.png
 Name: ClassicFolders 3【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/classicfolders3/js.json
+
+Package: com.sini921.fakesignalbar
+Version: 0.1
+Architecture: iphoneos-arm64
+Maintainer: alias20
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: rootless/com.sini921.fakesignalbar_0.1_iphoneos-arm64.deb
+Size: 34878
+MD5sum: 09acc34cf990596c16a36e15a4a4e734
+SHA1: f81e97e47d07a8104b558767855a2e489882c904
+SHA256: 69b2e1065c9f046500e06dd138d15cf1e8946a0ad45e664493355d1abdf416fe
+Section: 越狱插件
+Description: 自定义运营商名称、信号强度、蜂窝连接等等！基于开源汉化编译。
+Author: alias20 & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/fakesignalbar.png
+Name: FakeSignalBar【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakesignalbar/js.json
 
 Package: com.sini921.freepip
 Version: 0.0.4
