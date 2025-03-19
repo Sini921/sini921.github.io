@@ -90,6 +90,14 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
+                    "markdown": "#### 版本: 1.9.8\n- 优化抖音视频倍速，即时生效。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "markdown": "#### 版本: 1.9.7k\n- 抖音将弹幕按钮替换为视频倍速按钮。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
