@@ -3923,6 +3923,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sanfransyms.png
 Name: SanFranSyms【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/sanfransyms/js.json
 
+Package: com.sini.savephotos
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: rootless/com.sini.savephotos_1.1_iphoneos-arm64.deb
+Size: 4532
+MD5sum: d1242a2c9e5648b722ecc6ea06c00c92
+SHA1: 4c4d2818b3a0558d462e455877e9b22ed27e5597
+SHA256: 0c28cce5806df0c7585ce1948bb7e7c9638e1396621889d063fd06005242d64a
+Section: 越狱插件
+Description: 超过7个按钮时UI补全至7个,强迫症福音~!!!
+Author: zqbb
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: Hello Snapper【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/savephotos/js.json
+
 Package: com.sini.scinsta
 Version: 0.6.0
 Architecture: iphoneos-arm64
