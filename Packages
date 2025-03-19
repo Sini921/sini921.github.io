@@ -2394,15 +2394,16 @@ Architecture: iphoneos-arm64
 Maintainer: CydiaGeek <lucaluca86@aol.com>
 Depends: mobilesubstrate
 Filename: rootless/com.sini.fakedualsim_1.0.1_iphoneos-arm64.deb
-Size: 4096
-MD5sum: 86c75e0a90e0d8b25fdd394853f7d560
-SHA1: df24b7a93cde6edfa948ecdb02019ce0106ea228
-SHA256: 0e9d6ed724248f898ba87340a0062761815b77d5c825fbbb06fbbd2a4861ca29
+Size: 4168
+MD5sum: 8e47ce2b759a3eb81801c5ab1aabd817
+SHA1: f3baa8ce22ae5aab47033f96b59ce47edbbab696
+SHA256: e3e4fb7f57bbd9f83e9a06b61b2cb20429956a7986394e1c536ed161364542dd
 Section: 越狱插件
-Description: 添加虚假副卡
+Description: 单卡机型安装此插件配合FakeSignalBar可开启双卡信号
 Author: CydiaGeek <lucaluca86@aol.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/bar.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: FakeDualSIM【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakedualsim/js.json
 
 Package: com.sini.fightenegery
 Version: 1.0.0
@@ -4325,6 +4326,24 @@ Size: 906700
 MD5sum: bfe81ceef61e9ec8f093174e7450ce9d
 SHA1: 6700e435ec02f2c628be2f5e95034b146f2230e0
 SHA256: c236115735bc4b58165444c1bc21bcd1362e0bf15d83e2b48069536f824ba3b7
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载。
+Author: lenglengyu
+Icon: https://sini921.github.io/repo/sileodepiction/icon/shortvideodl.png
+Name: 短视频助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/shortvideodl/js.json
+
+Package: com.sini.shortvideodl
+Version: 1.9.7
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 3480
+Depends: mobilesubstrate, preferenceloader
+Filename: rootless/com.sini.shortvideodl_1.9.7_iphoneos-arm64.deb
+Size: 913400
+MD5sum: ac230d563f90b8c3672c9b7a6605292b
+SHA1: 5a29b14adb3493568ba959049928b89a2645a03a
+SHA256: c6896ed2f58e45df1ff723fd59d482c0a9be9c26ea060bc2f72645b0793c380c
 Section: 应用破解
 Description: 支持抖音、快手、微视等无水印下载。
 Author: lenglengyu
