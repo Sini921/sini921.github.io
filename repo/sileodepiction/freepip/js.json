@@ -102,7 +102,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 0.0.4\n- 这个源主很懒\n- 懒得写更新日志",
+                    "markdown": "#### 版本: 0.0.4\n- 修改边框颜色为蓝色与灰色\n- 加粗边框\n- 优化了一些代码",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }
