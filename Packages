@@ -2532,6 +2532,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/fightenegery.png
 Name: 多彩壁纸Pro【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/fightenegery/js.json
 
+Package: com.sini.filzacrack
+Version: 1.1-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 88
+Depends: firmware (>= 15.0), mobilesubstrate, com.tigisoftware.filza64bit
+Filename: rootless/com.sini.filzacrack_1.1-8_iphoneos-arm64.deb
+Size: 4980
+MD5sum: c789a939259c2bcd14af9fe6c93db81b
+SHA1: 412f430f54c7deb396818809fb37c3dd00006692
+SHA256: a10351cb4ea6a7ae0ad02a13aa546b4e722517c1d2227e3e5f39531d3b1468fc
+Section: 越狱插件
+Description: Filza破解
+Author: Netskao
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: Filza Crack【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/filzacrack/js.json
+
 Package: com.sini.flexlist
 Version: 1.4-2
 Architecture: iphoneos-arm64
