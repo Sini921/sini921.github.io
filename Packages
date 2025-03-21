@@ -4513,6 +4513,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/shortvideodl.png
 Name: 短视频助手【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/shortvideodl/js.json
 
+Package: com.sini.shortvideodl
+Version: 1.9.9K
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 3548
+Depends: mobilesubstrate, preferenceloader
+Filename: rootless/com.sini.shortvideodl_1.9.9K_iphoneos-arm64.deb
+Size: 930160
+MD5sum: ef1bc75e722fcdc31ccf87b9f3fb2139
+SHA1: 235b2f63a4b5cc2dfee545ca8fd0f88af3c38d22
+SHA256: 26ea2e3a1ff5a844a63b271f86ed8cc34cfb2d818b9b4e81b9983bb10db11e26
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载。
+Author: lenglengyu
+Icon: https://sini921.github.io/repo/sileodepiction/icon/shortvideodl.png
+Name: 短视频助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/shortvideodl/js.json
+
 Package: com.sini.shuffle
 Version: 1.6.2
 Architecture: iphoneos-arm64
