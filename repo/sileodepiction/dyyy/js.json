@@ -64,12 +64,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.1-6",
+                    "text": "2.1-7",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年03月19日",
+                    "text": "2025年03月21日",
                     "title": "更新日期"
                 },
                 {
@@ -88,6 +88,14 @@
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.1-7\n- 修复隐藏去汽水听遗留的空白\n- 新增实况照片单独、全部下载\n- 优化GIF表情包单帧处理异常",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
