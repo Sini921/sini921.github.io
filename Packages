@@ -3215,6 +3215,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/miyou.png
 Name: 微信助手【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/miyou/js.json
 
+Package: com.sini.miyou
+Version: 3.8-3
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: rootless/com.sini.miyou_3.8-3_iphoneos-arm64.deb
+Size: 9036824
+MD5sum: 1626a6c4aae1c750967f89c22419428b
+SHA1: c81624259957d75c9902dedc5cdd7610c81b0669
+SHA256: f9110045514e1c54d45fd1f3e09dff33af2a7f51481f868388323da0298a8f18
+Section: 微信插件
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Icon: https://sini921.github.io/repo/sileodepiction/icon/miyou.png
+Name: 微信助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/miyou/js.json
+
 Package: com.sini.msgfilt.rootless
 Version: 1.0-5.1
 Architecture: iphoneos-arm64
