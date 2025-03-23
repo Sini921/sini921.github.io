@@ -1786,6 +1786,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dumpapp.png
 Name: 锤子助手【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dumpapp/js.json
 
+Package: com.sini.dumpapp.wechat-rootless
+Version: 2.0.6
+Architecture: iphoneos-arm64
+Maintainer: DumpApp
+Installed-Size: 28608
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: rootless/com.sini.dumpapp.wechat-rootless_2.0.6_iphoneos-arm64.deb
+Size: 10517628
+MD5sum: fa328f5b6e1378c8fd4dec3ceacf7a51
+SHA1: 947e5acf07a317d7938e74835c0b4a8ee9328b11
+SHA256: 8a50747509816d0d31cf38f3c57c7e43359769484b97d19d8d6219db1ff4a33d
+Section: 微信插件
+Description: 微信插件
+Author: DumpApp
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dumpapp.png
+Name: 锤子助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dumpapp/js.json
+
 Package: com.sini.dumpdecrypter
 Version: 1.5-1
 Architecture: iphoneos-arm64
@@ -4669,6 +4687,23 @@ Size: 970772
 MD5sum: 87bad5fb607091ae762faedc0fef4332
 SHA1: 7298d2b6a1ce97cec3098f2ffdccea31ccb57487
 SHA256: b93da012bf2cc94996bb5fa183e7037ad0c04f88e67bcb050c52902d08fa833b
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载。
+Author: lenglengyu
+Icon: https://sini921.github.io/repo/sileodepiction/icon/shortvideodl.png
+Name: 短视频助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/shortvideodl/js.json
+
+Package: com.sini.shortvideodl
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Installed-Size: 3680
+Depends: mobilesubstrate, preferenceloader
+Filename: rootless/com.sini.shortvideodl_2.0.2_iphoneos-arm64.deb
+Size: 972056
+MD5sum: 40abf05de6c320787a32c48793e6aa29
+SHA1: 9c2a3985eaa6d6fc00a13a802739288ce2317b73
+SHA256: 1d052e5bf093546493725045909613ddb7034ec3051099ff23e93559f81f5b96
 Section: 应用破解
 Description: 支持抖音、快手、微视等无水印下载。
 Author: lenglengyu
