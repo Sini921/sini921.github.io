@@ -1768,6 +1768,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dumpapp.png
 Name: 锤子助手【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dumpapp/js.json
 
+Package: com.sini.dumpapp.wechat-rootless
+Version: 2.0.5
+Architecture: iphoneos-arm64
+Maintainer: DumpApp
+Installed-Size: 28364
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: rootless/com.sini.dumpapp.wechat-rootless_2.0.5_iphoneos-arm64.deb
+Size: 10440416
+MD5sum: b4e3cb3698ae4e0e609d7371d0628d94
+SHA1: eb14ba68360b7e4e599dafe5040f7621a31dbb7a
+SHA256: f9a5ff695719432e97c052e6bc13ce0cf38ea254b65f36a3bebe3656cfb8f3b8
+Section: 微信插件
+Description: 微信插件
+Author: DumpApp
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dumpapp.png
+Name: 锤子助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dumpapp/js.json
+
 Package: com.sini.dumpdecrypter
 Version: 1.5-1
 Architecture: iphoneos-arm64
