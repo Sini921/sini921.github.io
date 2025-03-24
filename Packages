@@ -741,6 +741,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
 Name: AppStoreTroller【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
 
+Package: com.sini.appstoretroller
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: Mineek
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.appstoretroller_0.0.5_iphoneos-arm64.deb
+Size: 20088
+MD5sum: c3ba7467f8401f0ab02072955e709d6a
+SHA1: 708acdc9269fc820ff635404006b9e0831a31def
+SHA256: 2f4dc69c83435485ca6d7895c58293f061a3c9d0229760b7f0bba78b01ec1e9a
+Section: 越狱插件
+Description: 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用，入库了以后可以安装兼容你系统的版本(如果有的话)
+Author: Mineek
+Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
+Name: AppStoreTroller【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
+
 Package: com.sini.atria
 Version: 1.4.1
 Architecture: iphoneos-arm64
@@ -4740,6 +4758,24 @@ MD5sum: 40abf05de6c320787a32c48793e6aa29
 SHA1: 9c2a3985eaa6d6fc00a13a802739288ce2317b73
 SHA256: 1d052e5bf093546493725045909613ddb7034ec3051099ff23e93559f81f5b96
 Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载。
+Author: lenglengyu
+Icon: https://sini921.github.io/repo/sileodepiction/icon/shortvideodl.png
+Name: 短视频助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/shortvideodl/js.json
+
+Package: com.sini.shortvideodl
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 3712
+Depends: mobilesubstrate, preferenceloader
+Filename: rootless/com.sini.shortvideodl_2.0.3_iphoneos-arm64.deb
+Size: 974556
+MD5sum: abb980e84549c10a8e4e3f0878207e20
+SHA1: 29219bed1d24a80ee70ac54a9144b06fe7b9d0a5
+SHA256: 03bd5d6265b609da93f875628ace46c53ff7b38962858b8122edf2381f6e2f98
+Section: 越狱插件
 Description: 支持抖音、快手、微视等无水印下载。
 Author: lenglengyu
 Icon: https://sini921.github.io/repo/sileodepiction/icon/shortvideodl.png
