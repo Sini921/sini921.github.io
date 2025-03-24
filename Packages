@@ -730,16 +730,16 @@ Architecture: iphoneos-arm64
 Maintainer: Mineek
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini.appstoretroller_0.0.2_iphoneos-arm64.deb
-Size: 20020
-MD5sum: c9856cf89afdf0342d6afc3373e75482
-SHA1: 9456b3258218b9d0da87e507879cee187e2811e9
-SHA256: 967263009159f35977bdbe40fcb2e50a1a5207c7bc7a9b3178931f57a6c909ee
+Size: 20024
+MD5sum: 961e162a4e42a924da88fd07bafa2240
+SHA1: d33cecf85d36e8da04e4d1ed722baa41a89a9653
+SHA256: 5870643edfeb9f2cec5efe7dc90a565a189c83c04f16575bfff4b260c9652759
 Section: 越狱插件
 Description: 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用，入库了以后可以安装兼容你系统的版本(如果有的话)
 Author: Mineek & Nathan Senter
-Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretrollern.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
 Name: AppStoreTroller【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretrollern/js.json
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
 
 Package: com.sini.atria
 Version: 1.4.1
