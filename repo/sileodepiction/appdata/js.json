@@ -97,6 +97,14 @@
                     "markdown": "#### 版本: 1.4.4\n- 这个源主很懒\n- 懒得写更新日志",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.4.1\n- 有个季伯说这个版本好",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 }
             ]
         },

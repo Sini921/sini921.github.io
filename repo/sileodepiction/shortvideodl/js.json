@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.0.3k",
+                    "text": "2.0.4",
                     "title": "版本"
                 },
                 {
@@ -85,6 +85,14 @@
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.0.4\n- 小红书支持评论区图片、实况图片无水印下载了(双指双击)。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
