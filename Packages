@@ -320,6 +320,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/77theme.png
 Name: 77Theme【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/77theme/js.json
 
+Package: com.sini.77theme
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: 77Theme
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini.77theme_1.0.1_iphoneos-arm64.deb
+Size: 3965664
+MD5sum: 48259f8f569cf19a864610612e2a9486
+SHA1: b71c64ced615d9be8c1a6d5e64d279c4dfd325ec
+SHA256: ccaed184cfab8a7f3e19117864c42b4382f3204bcb407aa1bc4bfbb0ff11ddb1
+Section: 微信插件
+Priority: optional
+Description: 微信主题美化，主题需付费
+Author: 77Theme
+Icon: https://sini921.github.io/repo/sileodepiction/icon/77theme.png
+Name: 77Theme【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/77theme/js.json
+
 Package: com.sini.AppIndex
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -4756,6 +4774,24 @@ Size: 974752
 MD5sum: 0a6dcc99536646ab9bd3edbce493b09b
 SHA1: 8e67dd44f5bb5b086587ed3f2791dc1a3bf6520b
 SHA256: 4d164f657749e5d213cdd058f20bb649dadaf77e6ba0258ddc94ea9fac2d711c
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载。
+Author: lenglengyu
+Icon: https://sini921.github.io/repo/sileodepiction/icon/shortvideodl.png
+Name: 短视频助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/shortvideodl/js.json
+
+Package: com.sini.shortvideodl
+Version: 2.0.3K
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 3712
+Depends: mobilesubstrate, preferenceloader
+Filename: rootless/com.sini.shortvideodl_2.0.3K_iphoneos-arm64.deb
+Size: 977412
+MD5sum: 621a8d0ab875b764212dba902e14022f
+SHA1: 2eb54875fa9a0ba235a82dc6b65f7421c1351718
+SHA256: 1939cfe07fb03584a2bf1228b25ab7354eec2f225b0b6af5027ae2db04a823db
 Section: 应用破解
 Description: 支持抖音、快手、微视等无水印下载。
 Author: lenglengyu
