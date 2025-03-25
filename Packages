@@ -1364,6 +1364,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
 Name: CCBorder16【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
 
+Package: com.sini.ccborder
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: 妖刀
+Installed-Size: 448
+Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
+Filename: rootless/com.sini.ccborder_1.2_iphoneos-arm64.deb
+Size: 41284
+MD5sum: 9fd975f7e500b4fa80ad159155daa75a
+SHA1: cdb029e6aeb0f8a3f44bd25c3262389b226a97b6
+SHA256: 7480450d0b00d9ee8a23a20a27ebb17b98f8bbb2f00d1913836ad5c5e2afb046
+Section: 越狱插件
+Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
+Author: fiore & p2kdev & 妖刀
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder16【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
+
 Package: com.sini.ccless
 Version: 2.0.6
 Architecture: iphoneos-arm64
