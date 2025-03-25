@@ -6213,6 +6213,24 @@ Author: Netskao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 Name: WeChatNotiAvatar【rootless】
 
+Package: com.sini.wechatpushmsgpage
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: rootless/com.sini.wechatpushmsgpage_0.0.1_iphoneos-arm64.deb
+Size: 23136
+MD5sum: 9ca2fc64739b499be74050597dc6d837
+SHA1: 3c1711c0323004ec1f7c6d9e5879e1cb6d68fa69
+SHA256: d3156597ddcf9c363ef4905600555478ce340da35f787b7bea4242190d3829c5
+Section: 微信插件
+Description: 微信插件，弥补点击微信通知无法跳转到聊天界面。
+Author: be-huge
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wechatpushmsgpage.png
+Name: WechatPushMsgPage【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/wechatpushmsgpage/js.json
+
 Package: com.sini.wechatuiswitchloader
 Version: 1.1-4
 Architecture: iphoneos-arm64
