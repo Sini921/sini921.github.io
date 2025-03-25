@@ -90,7 +90,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 2.0.4\n- 小红书支持评论区图片、实况图片无水印下载了(双指双击)。",
+                    "markdown": "#### 版本: 2.0.4\n- 优化抖音倍速播放。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
