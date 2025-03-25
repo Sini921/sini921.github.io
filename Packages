@@ -2479,124 +2479,16 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/eneko.png
 Name: Eneko【rootless】
 
 Package: com.sini.enhance
-Version: 1.0.8-1+debug
-Architecture: iphoneos-arm64
-Maintainer: 愫 茶
-Installed-Size: 1488
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.enhance_1.0.8-1+debug_iphoneos-arm64.deb
-Size: 227492
-MD5sum: d3439f858fa501126be244e6d3a6de07
-SHA1: 8f9e13fcaaa4774be77c9a2d38bef195f127f936
-SHA256: f2b0895de543083c82248251a85fa8de9bc939824700e0ef7cc0c5d4851202d9
-Section: 微信插件
-Description: 微信增强插件，支持聊天按钮布局自定义等功能。
-Author: 愫 茶
-Icon: https://sini921.github.io/repo/sileodepiction/icon/enhance.png
-Name: WeChatEnhance【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/enhance/js.json
-
-Package: com.sini.enhance
-Version: 1.0.9
-Architecture: iphoneos-arm64
-Maintainer: 愫 茶
-Installed-Size: 880
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.enhance_1.0.9_iphoneos-arm64.deb
-Size: 166584
-MD5sum: 26e1f7e6a0e2abbda0cd6c0b99d88e91
-SHA1: 0982e4c077ac11bde8b56f78cbe52c582de9bbef
-SHA256: 69f46da47bd021993f3dd171b5cbc6bd2fa40731be311852f1e1b51d4a0de928
-Section: 微信插件
-Description: 微信增强插件，支持聊天按钮布局自定义等功能。
-Author: 愫 茶
-Icon: https://sini921.github.io/repo/sileodepiction/icon/enhance.png
-Name: WeChatEnhance【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/enhance/js.json
-
-Package: com.sini.enhance
-Version: 1.1.0
-Architecture: iphoneos-arm64
-Maintainer: 愫 茶
-Installed-Size: 896
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.enhance_1.1.0_iphoneos-arm64.deb
-Size: 170220
-MD5sum: a04a39f23734e20543481bce4928751c
-SHA1: 5aa90e898c101934b7cf16334fd20d284f7f73bf
-SHA256: 906ba892f3c5dfc3af09aad778df25ac0d5466c9e66080d2636440d58e5e9cc3
-Section: 微信插件
-Description: 微信增强插件，支持聊天按钮布局自定义等功能。(微信内插件版本号还是1.0.9，作者没改，可能是忘了，在这里区分版本就行了)
-Author: 愫 茶
-Icon: https://sini921.github.io/repo/sileodepiction/icon/enhance.png
-Name: WeChatEnhance【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/enhance/js.json
-
-Package: com.sini.enhance
-Version: 1.1.1
-Architecture: iphoneos-arm64
-Maintainer: 愫 茶
-Installed-Size: 960
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.enhance_1.1.1_iphoneos-arm64.deb
-Size: 188016
-MD5sum: cd046b3ccc5adc186b416403620e3583
-SHA1: ccab03abed1a96ac19e4305cd438e8c23a2732c8
-SHA256: 53ac579079972440369b2b4e6ceaf6f9f248f5901fb049d0d978d9f0dfdc9e37
-Section: 微信插件
-Description: 微信增强插件，支持聊天按钮布局自定义等功能。
-Author: 愫 茶
-Icon: https://sini921.github.io/repo/sileodepiction/icon/enhance.png
-Name: WeChatEnhance【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/enhance/js.json
-
-Package: com.sini.enhance
-Version: 1.1.2END
-Architecture: iphoneos-arm64
-Maintainer: 愫 茶
-Installed-Size: 992
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.enhance_1.1.2END_iphoneos-arm64.deb
-Size: 193408
-MD5sum: abd24e19c04561d882ff6c344d47b20e
-SHA1: 37566b5b9eeb5cad01c001b17e1857ee38749246
-SHA256: 87cc90d2de2c02f8f86a16800509fee7a01805e9540a0ffa95e91a16838c806e
-Section: 微信插件
-Description: 微信增强插件，支持聊天按钮布局自定义等功能。
-Author: 愫 茶
-Icon: https://sini921.github.io/repo/sileodepiction/icon/enhance.png
-Name: WeChatEnhance【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/enhance/js.json
-
-Package: com.sini.enhance
-Version: 1.1.5
-Architecture: iphoneos-arm64
-Maintainer: 愫 茶
-Installed-Size: 1060
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.enhance_1.1.5_iphoneos-arm64.deb
-Size: 211036
-MD5sum: 384a35947ecc2db21850e1c5f93235f7
-SHA1: 4be98e0c30e352ed4b9c82a28299be1d51afc284
-SHA256: a09a3f2129d74489d929adacbb1461a4b246224688027df456614cee201d8370
-Section: 微信插件
-Description: 微信增强插件，支持聊天按钮布局自定义等功能。
-Author: 愫 茶
-Icon: https://sini921.github.io/repo/sileodepiction/icon/enhance.png
-Name: WeChatEnhance【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/enhance/js.json
-
-Package: com.sini.enhance
-Version: 1.1.6
+Version: 1.1.7
 Architecture: iphoneos-arm64
 Maintainer: 愫 茶
 Installed-Size: 1124
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.enhance_1.1.6_iphoneos-arm64.deb
-Size: 227948
-MD5sum: 4d62dd33f0363e5e2bcd192a10d4457e
-SHA1: 426fd29f0d2e4422d8ba9a832d931ef1dfccc64e
-SHA256: cf35a7902fc2f68cbe7189259269b832e080aa269a7c2741788077e135c446ad
+Filename: rootless/com.sini.enhance_1.1.7_iphoneos-arm64.deb
+Size: 232520
+MD5sum: bd751f80ca12e888dffe67219f1c95ee
+SHA1: a3f21988f1a721c14f0ce19a15d76f22400ffbb5
+SHA256: ab65aeae3044ee408cdc6b0f032cdb8b6a362f343a64f5472f3fd27d16a32688
 Section: 微信插件
 Description: 微信增强插件，支持聊天按钮布局自定义等功能。
 Author: 愫 茶
