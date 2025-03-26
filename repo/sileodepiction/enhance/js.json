@@ -61,12 +61,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.7",
+                    "text": "1.1.9",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年03月25日",
+                    "text": "2025年03月27日",
                     "title": "更新日期"
                 },
                 {
@@ -85,6 +85,14 @@
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.9\n- 新增屏蔽聊天界面撤回标签（可能会误判）\n- 新增屏蔽聊天界面拍一拍标签（可能会误判)\n- 添加一键重置所有插件配置（非本插件，所有！）\n- 再次尝试修复触摸轨迹自定义图丢失的问题（已经3天没有丢失了）\n- 新增屏蔽语音信息右侧小红点和转语音文字按钮\n- 修复通讯录自定义会失效的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
