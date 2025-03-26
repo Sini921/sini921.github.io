@@ -56,17 +56,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "lxcloud",
+                    "text": "huami & lxcloud",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.0-8",
+                    "text": "1.0-9",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年03月25日",
+                    "text": "2025年03月27日",
                     "title": "更新日期"
                 },
                 {
@@ -85,6 +85,14 @@
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.0-9\n- 新增长按菜单毛玻璃效果\n- 支持自定义毛玻璃颜色\n- 支持自定义毛玻璃透明度\n- 与圆角、边框、阴影效果完美兼容\n- 修复部分界面切换时的显示异常",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
