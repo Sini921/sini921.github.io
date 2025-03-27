@@ -17,7 +17,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 在AppStore中安装应用时伪装系统版本\n- 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用\n- 入库了以后可以安装兼容你系统的版本(如果有的话)",
+                    "markdown": "## 描述\n- 在AppStore中安装应用时伪装系统版本\n- 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用\n- 入库了以后可以安装兼容你系统的版本(如果有的话)\n- 基于开源汉化编译",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
