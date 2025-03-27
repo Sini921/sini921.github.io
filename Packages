@@ -5396,6 +5396,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sutuplus.png
 Name: 酸果【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/sutuplus/js.json
 
+Package: com.sini.sutuplus
+Version: 5.9.7-9-1
+Architecture: iphoneos-arm64
+Maintainer: Carby <super.cat.sutuplus@gmail.com>
+Installed-Size: 1732
+Depends: mobilesubstrate
+Filename: rootless/com.sini.sutuplus_5.9.7-9-1_iphoneos-arm64.deb
+Size: 501020
+MD5sum: 31a1ed6dea09c25fc2039bc6c31d1373
+SHA1: 307b0f5fa0bebb3546c4af4e37c439ba42b5d4a4
+SHA256: 6677917b752da860e4bc737c30a5b0617ef46d4ec0aa8cf336d3c8761021ed2f
+Section: 微信插件
+Description: 本插件安装包来自苏兔源
+Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sutuplus.png
+Name: 酸果【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/sutuplus/js.json
+
 Package: com.sini.swipeextenderx
 Version: 1.6.1~2
 Architecture: iphoneos-arm64
