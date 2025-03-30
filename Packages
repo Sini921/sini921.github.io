@@ -3627,6 +3627,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/pkc.png
 Name: PKC_无根【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/pkc/js.json
 
+Package: com.sini.pkc.rootless
+Version: 0.7-1
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: rootless/com.sini.pkc.rootless_0.7-1_iphoneos-arm64.deb
+Size: 819032
+MD5sum: 5c08aeebabdf1f6997767d8677a725f7
+SHA1: e2944fa61054eb07e19016f879dbece592b039bd
+SHA256: 48708a3837666e52f8fc27bf331ca014f17ddbdbfa10b4675af11fc5a5592d1d
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://sini921.github.io/repo/sileodepiction/icon/pkc.png
+Name: PKC【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/pkc/js.json
+
 Package: com.sini.plampycc
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -4811,6 +4829,24 @@ Size: 1046048
 MD5sum: 6de1f1ef0c6e443545d9f3a50aaafb59
 SHA1: f1524a0671cb4ec92c535b137143c2a6dfe9abb7
 SHA256: fa1ca52434d002b9c1b289fba00a70f68a177b3c7a70d5ed5de972d18a04a78c
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载。
+Author: lenglengyu
+Icon: https://sini921.github.io/repo/sileodepiction/icon/shortvideodl.png
+Name: 短视频助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/shortvideodl/js.json
+
+Package: com.sini.shortvideodl
+Version: 2.0.8
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 4004
+Depends: mobilesubstrate, preferenceloader
+Filename: rootless/com.sini.shortvideodl_2.0.8_iphoneos-arm64.deb
+Size: 1049940
+MD5sum: 420800f823d277562fd89edec3c874be
+SHA1: 19bc74f57f243bdf68da3b5f166dbd5c9b5e94db
+SHA256: 86fdacae044ee77b89e650d0a1861b106016eaa3092fc003a9f0f735b0552870
 Section: 应用破解
 Description: 支持抖音、快手、微视等无水印下载。
 Author: lenglengyu

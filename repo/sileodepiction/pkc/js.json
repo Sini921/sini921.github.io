@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.7-0",
+                    "text": "0.7-1",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年03月19日",
+                    "text": "2025年03月30日",
                     "title": "更新日期"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.7-1\n- 关键词回复自动撤回，区分关键词和回复内容\n- 文字转语音更换“默认”音色来源的地址；长按导入本地音色文件则自动切换本地源\n- 修复发现页壁纸问题\n- 修复部分功能失效问题（如拍一拍相关功能、群近期记录等）",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
