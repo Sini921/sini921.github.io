@@ -338,6 +338,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/77theme.png
 Name: 77Theme【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/77theme/js.json
 
+Package: com.sini.77theme
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: 77Theme
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini.77theme_1.0.3_iphoneos-arm64.deb
+Size: 3960904
+MD5sum: a6a1b8379872a1aab575366f6b9516e1
+SHA1: 82a2921920c6c9c0576fd6f8875fba80768c67eb
+SHA256: 416659f26ed09db88451c8e47186039f78acc5074ed9a9bf91a5bc85cbc1593a
+Section: 微信插件
+Priority: optional
+Description: 微信主题美化，主题需付费
+Author: 77Theme
+Icon: https://sini921.github.io/repo/sileodepiction/icon/77theme.png
+Name: 77Theme【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/77theme/js.json
+
 Package: com.sini.AppIndex
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -3339,6 +3357,31 @@ Author: lordscotland <admin@officialscheduler.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/mterminal.png
 Name: MTerminal【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/mterminal/js.json
+
+Package: com.sini.noapplemobilerepair
+Version: 0.0.1-103
+Architecture: iphoneos-arm64
+Maintainer: xybp888
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.noapplemobilerepair_0.0.1-103_iphoneos-arm64.deb
+Size: 10884
+MD5sum: dc16aafebc13634f9300e6aa9ffc3cec
+SHA1: 66678952124883152682d10db426f153476df601
+SHA256: 2f24763b01fa0f235bc14c5f1a3dad60e938cb0a7701a12a780b4fc6954864d6
+Section: 越狱插件
+Description: No Apple MobileRepair
+ (禁止在设置页面显示维修记录,例如更换电池的提醒,屏幕等)
+ 本插件免费使用,安装即可生效,无设置!
+ 本插件在 16.5 多巴胺越狱环境下测试通过,其他系统自行测试
+ 1.更换第三方电池后，开启显示正常电池健康值。
+ 2.屏蔽关于本机显示未知部件记录。
+ 3.屏蔽设置显示红1以及电池更新提醒信息。
+ 4.屏蔽设置系统OTA 升级显示红1提醒信息
+Author: xybp888
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: No Apple MobileRepair
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/noapplemobilerepair/js.json
 
 Package: com.sini.noapplemobilerepair
 Version: 0.0.1-18
