@@ -64,12 +64,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.1-7",
+                    "text": "2.2-2",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年03月21日",
+                    "text": "2025年04月01日",
                     "title": "更新日期"
                 },
                 {
@@ -88,6 +88,14 @@
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.2-2\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
