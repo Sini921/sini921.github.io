@@ -2855,6 +2855,24 @@ Name: Jade【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/jade/js.json
 Sponsor: Nightwind and thetimeloop
 
+Package: com.sini.jade
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: Nightwind & thetimeloop
+Installed-Size: 1502
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
+Filename: rootless/com.sini.jade_1.0.5_iphoneos-arm64.deb
+Size: 308124
+MD5sum: 8f2b160eea2395344d64a3e7239edf09
+SHA1: edeb3d05471e8279fa23fb3de84519192a1b9ff0
+SHA256: f3b0dea8b166fa8a12aeb34c781d1cbc341e3e8b44a63ea1e4ce4a0f08d6f515
+Section: 越狱插件
+Description: 控制中心
+Author: Nightwind & thetimeloop
+Icon: https://sini921.github.io/repo/sileodepiction/icon/jade.png
+Name: Jade【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/jade/js.json
+
 Package: com.sini.jpyj
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -7276,24 +7294,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/svp.png
 Name: split-view-pro【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/svp/js.json
 Ts: sp-sss
-
-Package: con.sini.jade
-Version: 1.0.5
-Architecture: iphoneos-arm64
-Maintainer: Nightwind & thetimeloop
-Installed-Size: 1502
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
-Filename: rootless/con.sini.jade_1.0.5_iphoneos-arm64.deb
-Size: 307784
-MD5sum: 56556c21418ee8895d6c3d16e2dc424d
-SHA1: 0ccf42a646d6dbb1c4ca5ae078007d04b2d77675
-SHA256: 5434b35ff314e8bd0ec9e6e88b5eaa5aacddd7b6c37d77e61eb8b6fcd0994400
-Section: 越狱插件
-Description: 控制中心
-Author: Nightwind & thetimeloop
-Icon: https://sini921.github.io/repo/sileodepiction/icon/jade.png
-Name: Jade【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/jade/js.json
 
 Package: libskittycolor
 Version: 1.0
