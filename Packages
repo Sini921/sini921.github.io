@@ -6456,6 +6456,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/wechatpushmsgpage.png
 Name: WechatPushMsgPage【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wechatpushmsgpage/js.json
 
+Package: com.sini.wechatsong
+Version: 2.0+debug
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.wechatsong_2.0+debug_iphoneos-arm64.deb
+Size: 46760
+MD5sum: 4f982bbc3bf0164d41793dfc1ba5892e
+SHA1: 65bd82372b74f3c71d57a38bda00d0d4251734ac
+SHA256: fa4901ddee4de19105e1e1f3410265d38d24ca8961f053cc0f21fa86d8ee73da
+Section: 微信插件
+Description: 用于mikoto和黄白点歌的衍生，DIY歌曲封面信息，季伯腾要求上架
+Author: A
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: wechatsong【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/wechatsong/js.json
+
 Package: com.sini.wechatuiswitchloader
 Version: 1.1-4
 Architecture: iphoneos-arm64
