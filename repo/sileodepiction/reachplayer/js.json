@@ -90,7 +90,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 2.13-28\n- 新增专辑封面、图片背景自定义\n- 新增唱片、唱针相关自定义",
+                    "markdown": "#### 版本: 2.13-28\n- 新增专辑封面、图片背景自定义\n- 新增唱片、唱针相关自定义\n- 新增跳转至插件目录",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
