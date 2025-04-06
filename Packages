@@ -6294,6 +6294,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/wcmypageinfocenter.png
 Name: WCMyPageInfoCenter【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wcmypageinfocenter/js.json
 
+Package: com.sini.wcmypageinfocenter
+Version: 1.2-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 220
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: rootless/com.sini.wcmypageinfocenter_1.2-2_iphoneos-arm64.deb
+Size: 66468
+MD5sum: ea9859661017192940c7bcf0dcad1291
+SHA1: 5bfd4f97c28a2f569e57589efd5d76ebb0e2d052
+SHA256: 6cd41bd18fcb3a1016634a67e9026f2c375b7d0c9ef75e324bece866ae80e88a
+Section: 微信插件
+Description: 微信我的页面信息居中，仅支持8.0.31及以上版本
+Author: Netskao
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wcmypageinfocenter.png
+Name: WCMyPageInfoCenter【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/wcmypageinfocenter/js.json
+
 Package: com.sini.wcnicknameavatarstyle
 Version: 1.0-2
 Architecture: iphoneos-arm64
