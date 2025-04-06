@@ -17,7 +17,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 群管理Pro、标签Pro\n- 显示群友真名字、群管标识\n- 艾特提醒、动态群昵称\n- 自定义API(图、文本、视频)、消息统计、加密对话\n- Bark消息推送、定时问候、JD自动签到\n- 好友分析、会话分析、每天60s新闻快报\n- 防撤回、退群监控、步数定时修改、朋友圈特别关注\n- 自动更新微信状态、长头像\n- 消息二次确认、拍一拍二次确认\n- 艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计\n- 关键词自动回复、转账自动收款、收款自动回复\n- 批量退群、批量修改群昵称\n- 自动通过好友请求、自动互删好友、id加好友、匿名艾特等",
+                    "markdown": "## 描述\n- 微信插件",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.7-1",
+                    "text": "0.7-2",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年03月30日",
+                    "text": "2025年04月07日",
                     "title": "更新日期"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/banyunjituan",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.7-2\n- 群管标识字体颜色自定义区分深色背景和浅色背景\n- 标签Pro修复错误显示问题\n- 修复艾特所有人员浮窗提示不生效问题\n- 修复壁纸等bug",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
