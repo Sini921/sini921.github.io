@@ -6854,10 +6854,10 @@ Maintainer: Mineek
 Installed-Size: 584
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini921.appstoretroller_0.1_iphoneos-arm64.deb
-Size: 74694
-MD5sum: eb097fea08f1e84d3b84048f0ae176fb
-SHA1: b4bb4afa38017a6506055c597c62f62551a51687
-SHA256: a45de80a985d3f147f838973abab1c6803990449cbd2d0d9d6b5fe636be5ea86
+Size: 74712
+MD5sum: a96a50f62f49522c6ecea8e46b4ff39e
+SHA1: 256f9328ab20eb9172e672147d04ce51c59e7e93
+SHA256: 780014f7757585f407fda82124f72c2ba79f139dee9aec9fbc9833f9e11fdf9e
 Section: 越狱插件
 Description: 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用，入库了以后可以安装兼容你系统的版本(如果有的话)，基于开源汉化编译
 Author: Mineek & Nathan & SINI
