@@ -6527,6 +6527,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/wcnicknameavatarstyle.p
 Name: WCNicknameAvatarStyle【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wcnicknameavatarstyle/js.json
 
+Package: com.sini.wcnicknameavatarstyle
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 320
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.wcnicknameavatarstyle_2.1_iphoneos-arm64.deb
+Size: 47508
+MD5sum: 40e7f6c7927f1896645e01218705f0f1
+SHA1: 0fe7549f119be729138844fa3503ab6a9d17453c
+SHA256: bf638f475b927e59648edabac880541b2de10673d200cf723275ed20d63f957d
+Section: 微信插件
+Description: 为微信聊天界面标题添加头像
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wcnicknameavatarstyle.png
+Name: WCNicknameAvatarStyle【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/wcnicknameavatarstyle/js.json
+
 Package: com.sini.wcpluginsplus.rootless
 Version: 0.1-3
 Architecture: iphoneos-arm64
