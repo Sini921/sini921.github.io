@@ -1,0 +1,160 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://sini921.github.io/repo/images/dingtu.png",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "插件介绍",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/jibozhijia",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 描述\n- 微信插件",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "截图",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/WCEhance/Screenshot_01.png" 
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "其他",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "huami & lxcloud",
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.1-0",
+                    "title": "版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2025年04月12日",
+                    "title": "更新日期"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS15.0-iOS16.6.1",
+                    "title": "支持的系统"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/jibozhijia",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1-0\n- 新增隐藏免打扰图标\n- 重构颜色选择，沿用了iOS官方颜色选择器，更精确的颜色选择\n- 重构提示弹窗，需要重启的功能项提供了取消选项\n- 优化了部分配置项交互以及一些小细节\n- 修复颜色选择器在部分系统上显示异常",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.0-9\n- 新增长按菜单毛玻璃效果\n- 支持自定义毛玻璃颜色\n- 支持自定义毛玻璃透明度\n- 与圆角、边框、阴影效果完美兼容\n- 修复部分界面切换时的显示异常",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.0-8\n- 新增57版本伪装选项\n- 新增圆角头像边框选项\n- 支持自定义边框颜色\n- 支持自定义边框宽度\n- 修复部分用户闪退问题\n- 修复版本切换时的配置冲突\n- 修复部分用户圆角失效问题\n- 重构圆角头像实现方法",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.0-7\n- 新增头像边框\n- 在启用头像圆角后可选择开启边框\n- 边框效果默认为1.5pX浅灰色\n- 后续有空了添加自定义\n- 新增禁用微信热更新\n- 启用后需重启微信生效\n- 可以修复部分插件因热更新导致的闪退",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.0-6\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.0-5\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "本源公告",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/jibozhijia",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 季伯之家源:\n- 本源仅为搬运一些自已常用的插件方便自用以及学习交流测试备份\n- 源内插件均来自互联网\n- 安装以后请于24小时内删除\n- 安装以后出现异常与本源无关\n- 如有冒犯，请联系我指定下架某个插件\n- 季伯奥迪哥",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        }
+    ],
+}

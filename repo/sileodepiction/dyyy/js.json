@@ -1,0 +1,235 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://sini921.github.io/repo/images/dingtu.png",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "插件介绍",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/jibozhijia",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 描述\n- 抖音增强插件，双指长按呼出设置项\n- 弹幕随机颜色填random\n- 首页净化、时间归属地显示、自动播放、关注收藏二次确认等\n- 调整一些透明度，隐藏一些按钮",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "截图",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/dyyy/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/dyyy/Screenshot_02.png" 
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "其他",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Huami",
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2.2-2",
+                    "title": "版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2025年04月01日",
+                    "title": "更新日期"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS15.0-iOS16.6.1",
+                    "title": "支持的系统"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/jibozhijia",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.2-2\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.1-7\n- 修复隐藏去汽水听遗留的空白\n- 新增实况照片单独、全部下载\n- 优化GIF表情包单帧处理异常",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.1-6\n- 新增评论区文案复制,可直接复制内容\n- 新增移除顶栏朋友\n- 新增移除消息页顶部联系人列表\n- 优化GIF动图支持,直接为GIF\n- 优化视频进度条时间显示,PR:#32 感谢iOSMie\n- 优化屏蔽广告逻辑,#31感谢贡献\n- 修复隐藏左侧栏影响到其他按钮\n- 修复部分设备替换图标显示异常\n- 重新加入自动播放逻辑\n- 优化媒体处理等若干逻辑",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.1-5\n- 新增双击打开评论区\n- 新增GIF动图支持\n- 新增视频进度条时间显示\n- 新增去广告功能\n- 新增隐藏关注页xx直播\n- 感谢(Huangbai233)提供代码贡献\n- 新增隐藏聊天页头像列表\n- 新增隐藏首页左侧栏\n- 优化顶栏移除方案，支持长按调整排序\n- 感谢(Wuang ོ )提供代码参考",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.1-4+debug\n- 由于作者没有写完，所以未发版，所以修改版本号以做区分\n- 黄白大佬提交的pr\n- 新增双击打开评论区\n- 新增视频进度时间显示\n- 非正式版需要可以暂时先用\n- 等弄好实况和gif再发正式版(下周的事情了)",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.1-4\n- 新增评论区表情包下载,使用官方下载按钮与自定义实现\n- 感谢Wuang提供代码参考\n- 新增评论区图片无水印下载",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.1-3\n- 新增评论区实况图片无水印下载(by2023girl),使用官方下载按钮\n- 优化文案大小处理算法(byWuang)\n- 修复全屏模式下打开评论区后底部变黑\n- 修复全屏模式下部分用户直播错位问题\n- 修复未在首页情况下打开评论顶部变黑",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.1-2\n- 新增时间标签位置\n- 参考lenglengyu开源代码\n- 新增时间标签颜色调整,支持random\n- 新增旧面板长按下载\n- 感谢2023girl提供大量代码支持\n- 新增设置入口\n- 优化配色方案\n- 文案同步缩放支持",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.1-1\n- 复制文案功能,方便快捷地获取文本内容。\n- 右侧栏缩放率设置,支持0.1-5,推荐最佳值为0.85。\n- 自定义右侧栏映射关系,允许用户自定义图标与功能的对应关系。\n- 自定义图标放在沙盒目录DYYY文件夹,like_after.png已点赞,like_before.png未点赞,comment.png评论,unfavorite.png未收藏,favorite.png已收藏,share.png分享",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: END\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.0-9\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.0-8\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.0-7\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.0-6\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.0-5\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "本源公告",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/jibozhijia",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 季伯之家源:\n- 本源仅为搬运一些自已常用的插件方便自用以及学习交流测试备份\n- 源内插件均来自互联网\n- 安装以后请于24小时内删除\n- 安装以后出现异常与本源无关\n- 如有冒犯，请联系我指定下架某个插件\n- 季伯奥迪哥",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        }
+    ],
+}

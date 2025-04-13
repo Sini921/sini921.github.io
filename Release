@@ -1,0 +1,8 @@
+Origin: - 季伯之家
+Label: - 季伯之家
+Suite: stable
+Version: 1.0
+Codename: Sini921
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: 源内插件仅为自用备份。

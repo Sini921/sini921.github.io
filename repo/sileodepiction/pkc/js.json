@@ -1,0 +1,204 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://sini921.github.io/repo/images/dingtu.png",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "插件介绍",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/jibozhijia",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 描述\n- 微信插件",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "截图",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/pkc/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/pkc/Screenshot_02.png" 
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "其他",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Curtin",
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "0.7-2",
+                    "title": "版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2025年04月07日",
+                    "title": "更新日期"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS15.0-iOS16.6.1",
+                    "title": "支持的系统"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/jibozhijia",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.7-2\n- 群管标识字体颜色自定义区分深色背景和浅色背景\n- 标签Pro修复错误显示问题\n- 修复艾特所有人员浮窗提示不生效问题\n- 修复壁纸等bug",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.7-1\n- 关键词回复自动撤回，区分关键词和回复内容\n- 文字转语音更换“默认”音色来源的地址；长按导入本地音色文件则自动切换本地源\n- 修复发现页壁纸问题\n- 修复部分功能失效问题（如拍一拍相关功能、群近期记录等）",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.7-0\n- `抖音解析`新增功能，支持视频解析、自动回复\n- `引用Pro`新增功能\n- `自定义文视图Api`优化功能，增加抹除按钮、页面优化、动态参数识别优化兼容存在“空格”的参数\n- `PKC指令`部分回复文本录入框，支持快速引用PKC指令，更便捷地配置规则\n- `群管理Pro`群黑名单检测时间优化，改为秒踢黑名单\n- `关键词回复`增加自动撤回\n- `设置入口`修复最新官方版本在设置页面没入口问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.6-9\n- [转账回复]文本回复增加逐行回复模式;增加图片、视频回复模式;私聊模式增加不触发名单;增 加自动打标签\n- [关键词回复]文本回复增加逐行回复模式;增加图片、视频回复模式;私聊模式增加不触发名单;增 加自动打标签;优化仅艾特回复\n- [消息统计]-[词云分析]增加总开关(按需启用)、分析词去掉表情等特殊字符\n- [文字转语音]音色来源增加本地导入音色文件(支 持窗口长按导入音色文件ys.json),解决线上加载 失败问题;FV音色增加可选择代理模式(如有自用 搭建PKC代理需更新容器，更新命令：docker pull curtinlv/pkc-agent)\n- [插件配置备份与恢复]增加PKC数据备份/还原(指好友分析、会话分析、Lastname、群管理Pro、音色文件、背景图、铃声等PKC插件相关数据,支持打包导入导出)\n- [朋友圈增强]新增2个功能:摇一摇隐藏昵称和隐藏顶部头像昵称\n- [群管理Pro]警告消息增加艾特提醒对方\n- [加密对话]修复56没自动解密问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.6-8\n- [消息统计]优化功能,兼容新版V、新增词云分析、红包金额统计、未发言统计等指令\n- [好友分析]新增重置数据按钮\n- 修复[个性化功能]-[签名复制]失效问题\n- 优化代码,解决一些问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.6-7\n- 修复软件在8054一些问题，如群管理Pro二维码检测失效、文件警告失效、加密图转发失效、关键词回复聊天记录图失效等问题\n- [朋友圈特别关注]支持Live实况转发到本人窗口\n- [文转语]新增FV积分兑换字符按钮、查询剩余字符按钮\n- [个性签名复制]优化，点击自己签名设置则不触发复制",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.6-6\n- [文转语]新增FV音色自动签到,获取每日免费积分\n- [文转语]修复启用背景音,但背景音为空时,导致闪退问题\n- [个性化功能]新增透明气泡开关\n- [个性化功能]新增一键拷贝个性签名功能\n- 优化收款自动回复,回复模式增加选项【不回复】\n- 修复8054消息推送、自动收款、群管理Pro功能失效问题\n- 新增黑名单机制",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.6-5\n- 优化群设置页面,默认折叠PKC功能\n- [文转语]背景音可长按音频文件直接导入\n- [文转语]语音转MP3兼容低版本V\n- [文转语]修复启用自动清理缓存,无法发送二次 元音色Bug\n- [标签Pro]修复54版本标签在通讯录-服务号前 错位显示问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.6-4\n- 修复“随机”背景音闪退问题\n- 优化背景音导入按钮（部分设备没显示按钮)\n- 新增反向代理，支持填写代理地址，解决一些网站无法访问。快速部署反向代理：PKC反向代理项目\n- 优化文字转语音Pro按钮\n- 增加FV音色情绪\n- 增加语音转MP3\n- 增加自动清理缓存\n- 增加快捷音色页面指令\n- 修复X轴范围填写问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.6-3\n- 修复琅琅音色转换成功，发送失败问题\n- 背景音开启没设置背景音发送失败问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.6-2\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "本源公告",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/jibozhijia",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 季伯之家源:\n- 本源仅为搬运一些自已常用的插件方便自用以及学习交流测试备份\n- 源内插件均来自互联网\n- 安装以后请于24小时内删除\n- 安装以后出现异常与本源无关\n- 如有冒犯，请联系我指定下架某个插件\n- 季伯奥迪哥",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        }
+    ],
+}
