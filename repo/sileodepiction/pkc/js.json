@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.7-2",
+                    "text": "0.7-3",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年04月07日",
+                    "text": "2025年04月15日",
                     "title": "更新日期"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.7-3\n- 拍一拍二次确认，隐藏昵称头像，修复引用消息，没隐藏昵称问题和增加持续隐藏开关,启用则滑动，记录也会同步隐藏\n- 拍一拍二次确认，匿名艾特，修复在引用消息时闪退问题(兼容8057)\n- 关键词/收款自动回复，修复回复内容选择记录时闪退问题(兼容8057)\n- 加密对话，优化文本加密,增加自定义显示内容、标志等\n- 抖音解析，支持解析滑块作品视频;支持图文作品解析;增加视频文件发送模式(可尽量保证视频质量）\n- 增加关闭更新通知开关\n- 修复bug(标签Pro/输入框0透明/本人艾特的提示)",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
