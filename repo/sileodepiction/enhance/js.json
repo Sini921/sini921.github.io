@@ -61,12 +61,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2.6",
+                    "text": "1.2.8",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年04月12日",
+                    "text": "2025年04月15日",
                     "title": "更新日期"
                 },
                 {
@@ -85,6 +85,22 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.2.8\n- 添加虚拟定位",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.2.7\n- 自动回复列表-添加AI回复",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
