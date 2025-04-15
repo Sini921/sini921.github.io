@@ -6762,6 +6762,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/wctimelinemessagetail.p
 Name: WCTimeLineMessageTail【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wctimelinemessagetail/js.json
 
+Package: com.sini.wechat-push-msg-page
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: rootless/com.sini.wechat-push-msg-page_0.0.1_iphoneos-arm64.deb
+Size: 23176
+MD5sum: 6b8dddc6f0ae4f8cb43ebd8e30cfb8d8
+SHA1: 82d0c276e956773613df455fc86ac408d5d70c06
+SHA256: 5d7c5c315eb383da8f6f985333714770704ba629758c23a3e1a7f830fa37f1ea
+Section: 微信插件
+Description: 微信插件，弥补点击微信通知无法跳转到聊天界面。
+Author: be-huge
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat-push-msg-page.png
+Name: WechatPushMsgPage【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/wechat-push-msg-page/js.json
+
 Package: com.sini.wechat.xuanzhuan
 Version: 0.0.1-28
 Architecture: iphoneos-arm64
@@ -6815,24 +6833,6 @@ Author: Netskao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 Name: WeChatNotiAvatar【rootless】
 
-Package: com.sini.wechatpushmsgpage
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: be-huge
-Installed-Size: 232
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: rootless/com.sini.wechatpushmsgpage_0.0.1_iphoneos-arm64.deb
-Size: 23136
-MD5sum: 9ca2fc64739b499be74050597dc6d837
-SHA1: 3c1711c0323004ec1f7c6d9e5879e1cb6d68fa69
-SHA256: d3156597ddcf9c363ef4905600555478ce340da35f787b7bea4242190d3829c5
-Section: 微信插件
-Description: 微信插件，弥补点击微信通知无法跳转到聊天界面。
-Author: be-huge
-Icon: https://sini921.github.io/repo/sileodepiction/icon/wechatpushmsgpage.png
-Name: WechatPushMsgPage【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/wechatpushmsgpage/js.json
-
 Package: com.sini.wechatsong
 Version: 2.0+debug
 Architecture: iphoneos-arm64
@@ -6840,15 +6840,15 @@ Maintainer: Axs
 Installed-Size: 388
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini.wechatsong_2.0+debug_iphoneos-arm64.deb
-Size: 46760
-MD5sum: 4f982bbc3bf0164d41793dfc1ba5892e
-SHA1: 65bd82372b74f3c71d57a38bda00d0d4251734ac
-SHA256: fa4901ddee4de19105e1e1f3410265d38d24ca8961f053cc0f21fa86d8ee73da
+Size: 47008
+MD5sum: b438cbc369402d2ad735e53aa3742284
+SHA1: 9b5b2632c37b57f695bac7e26e8ec4edf1930c46
+SHA256: b7b53b1aa38e7d446f75587876cc90499f16845e4049f25a4bbb1f8159826597
 Section: 微信插件
 Description: 用于mikoto和黄白点歌的衍生，DIY歌曲封面信息，季伯腾要求上架
 Author: A
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: wechatsong【rootless】
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wechatsong.png
+Name: 微信点歌封面自定义【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wechatsong/js.json
 
 Package: com.sini.wechatuiswitchloader
@@ -7439,6 +7439,24 @@ Author: 网友
 Icon: https://sini921.github.io/repo/sileodepiction/icon/sn3.png
 Name: snapper3中文图标【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zhforsnapper3/js.json
+
+Package: com.sink.wechat-push-msg-page
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: rootless/com.sink.wechat-push-msg-page_0.0.2_iphoneos-arm64.deb
+Size: 23336
+MD5sum: a33dfe3619c8510747dd897d476ece8d
+SHA1: 10b8867959db0f3b14b5717c9d18a4d2ebf5efc0
+SHA256: 38563181bb66d64bac049128e10e39a1ed0fd32a2d3a7f2ba3ed698ca13f6b27
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat-push-msg-page.png
+Name: WechatPushMsgPage【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/wechat-push-msg-page/js.json
 
 Package: com.spark.snowboard
 Version: 1.5.37-Beta4-rootless
