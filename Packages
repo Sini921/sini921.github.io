@@ -6780,6 +6780,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat-push-msg-page.pn
 Name: WechatPushMsgPage【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wechat-push-msg-page/js.json
 
+Package: com.sini.wechat-push-msg-page
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: rootless/com.sini.wechat-push-msg-page_0.0.2_iphoneos-arm64.deb
+Size: 23340
+MD5sum: 92a2f0ccf290d1abc582f2cd18425721
+SHA1: 2b0325dde33848304354fdf3c45f77dd5e4c956a
+SHA256: a4e381fb71afd9af37d71e3d6ce497b6e885394392b676346b697c0995da9f9f
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat-push-msg-page.png
+Name: WechatPushMsgPage【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/wechat-push-msg-page/js.json
+
 Package: com.sini.wechat.xuanzhuan
 Version: 0.0.1-28
 Architecture: iphoneos-arm64
@@ -7439,24 +7457,6 @@ Author: 网友
 Icon: https://sini921.github.io/repo/sileodepiction/icon/sn3.png
 Name: snapper3中文图标【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zhforsnapper3/js.json
-
-Package: com.sink.wechat-push-msg-page
-Version: 0.0.2
-Architecture: iphoneos-arm64
-Maintainer: be-huge
-Installed-Size: 232
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: rootless/com.sink.wechat-push-msg-page_0.0.2_iphoneos-arm64.deb
-Size: 23336
-MD5sum: a33dfe3619c8510747dd897d476ece8d
-SHA1: 10b8867959db0f3b14b5717c9d18a4d2ebf5efc0
-SHA256: 38563181bb66d64bac049128e10e39a1ed0fd32a2d3a7f2ba3ed698ca13f6b27
-Section: 微信插件
-Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
-Author: be-huge
-Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat-push-msg-page.png
-Name: WechatPushMsgPage【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/wechat-push-msg-page/js.json
 
 Package: com.spark.snowboard
 Version: 1.5.37-Beta4-rootless
