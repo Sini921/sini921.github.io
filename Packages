@@ -140,6 +140,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/hammerit.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/hammerit/js.json
 Name: Hammer It【rootless】
 
+Package: com.miro.libmiroshared
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 4936
+Depends: firmware (>=14.0)
+Filename: rootless/com.miro.libmiroshared_1.0.2_iphoneos-arm64.deb
+Size: 733844
+MD5sum: 745e2267aba137ba6d442d06fa59c7c9
+SHA1: cf383e4d43e1fc019872ffa1869c643a40424cfa
+SHA256: 2f74e3f593105c205aac6764cc84d9049932640b4833764d1575d6834187275f
+Section: 插件依赖
+Description: 有些插件需要这个依赖
+Author: MiRO <tweaks_support@miro92.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
+Name: libMiROShared【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/libmiroshared/js.json
+
 Package: com.sini.3dappversionspoofer
 Version: 2.1.1
 Architecture: iphoneos-arm64
@@ -3336,6 +3354,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: MagSafe充电动画【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/magsafe/js.json
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: com.sini.marker
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 704
+Depends: firmware (>=14.0), mobilesubstrate, preferenceloader, com.miro.libmiroshared (>=1.0.2)
+Filename: rootless/com.sini.marker_2.0.1_iphoneos-arm64.deb
+Size: 112284
+MD5sum: 70fce171b42d20ec455506fc02929a97
+SHA1: 3555a90ba318a3e62b84ceaba43430ba1c68c03a
+SHA256: 721a6fc1cabc4a9edf7df639ace843c3e50ecc23fdf74a92c6afc0213d6a90a6
+Section: 越狱插件
+Description: 键盘任意位置滑动移动光标(加入刀刀源汉化)
+Author: MiRO <tweaks_support@miro92.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/marker.png
+Name: Marker【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/marker/js.json
 
 Package: com.sini.medousa
 Version: 1.1
