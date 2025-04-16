@@ -6744,6 +6744,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat-push-msg-page.pn
 Name: WechatPushMsgPage【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wechat-push-msg-page/js.json
 
+Package: com.sini.wechat-push-msg-page
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: rootless/com.sini.wechat-push-msg-page_0.0.3_iphoneos-arm64.deb
+Size: 23292
+MD5sum: 015cdeddcfe7e3aa8dbf0c88781bcd4f
+SHA1: 0fbcba710722f0e803fbb37d4027b59accf82e87
+SHA256: 1c68d9f59978e05ad2ef72d5c96604c045e59551a9eb678678754a4a8742381e
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat-push-msg-page.png
+Name: WechatPushMsgPage【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/wechat-push-msg-page/js.json
+
 Package: com.sini.wechat.xuanzhuan
 Version: 0.0.1-28
 Architecture: iphoneos-arm64
