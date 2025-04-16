@@ -61,12 +61,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2-9",
+                    "text": "1.3-0",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年04月16日",
+                    "text": "2025年04月17日",
                     "title": "更新日期"
                 },
                 {
@@ -85,6 +85,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.3-0\n- 修复添加字体无反应的问题\n- 修复信息直达冲突\n- 时间自定义添加伪已读标签",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
