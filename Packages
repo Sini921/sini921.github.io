@@ -7224,6 +7224,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
 Name: AppStoreTroller【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
 
+Package: com.sini921.appstoretroller
+Version: 0.1.1
+Architecture: iphoneos-arm64
+Maintainer: Mineek & Nathan & SINI
+Installed-Size: 584
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini921.appstoretroller_0.1.1_iphoneos-arm64.deb
+Size: 75582
+MD5sum: e1b9dbb187ac08f6e02d5e6296a467d6
+SHA1: 360034a60544e47b7bb8d6253ba6a7b31594067e
+SHA256: 1975083c3c5f3720ba92239152685f455c3a2056ddfc9e7a74756a4e7015a839
+Section: 越狱插件
+Description: 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用，入库了以后可以安装兼容你系统的版本(如果有的话)，基于开源汉化编译
+Author: Mineek & Nathan & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
+Name: AppStoreTroller【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
+
 Package: com.sini921.callmemaybe
 Version: 1.0.1
 Architecture: iphoneos-arm64

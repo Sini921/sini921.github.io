@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.1",
+                    "text": "0.1.1",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年04月09日",
+                    "text": "2025年04月17日",
                     "title": "更新日期"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.1.1\n- 同步Nathan最新源代码\n- 修复有时杀死进程的问题?",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
