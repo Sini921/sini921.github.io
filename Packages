@@ -4384,6 +4384,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/rocket.png
 Name: Rocket for Instagram【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/rocket/js.json
 
+Package: com.sini.rose
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Litten
+Installed-Size: 2832
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Filename: rootless/com.sini.rose_1.1.0_iphoneos-arm64.deb
+Size: 428620
+MD5sum: fc88e814448148428bfcf77cf1dcd0a6
+SHA1: 12bf1760b6023bfa6e1596d050b0efd6f733c4a4
+SHA256: bc39fe5558c6eae42b9218b004cc32775e6aaa36681dd179c7cb4f62adacbab9
+Section: 越狱插件
+Description: 自定义震动
+Author: Litten
+Icon: https://sini921.github.io/repo/sileodepiction/icon/rose.png
+Name: Rose【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/rose/js.json
+
 Package: com.sini.rune.zhcn
 Version: 1.3
 Architecture: iphoneos-arm64
