@@ -530,6 +530,23 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/HBWechatHelper.png
 Name: 黄白助手【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/HBWechatHelper/js.json
 
+Package: com.sini.HBWechatHelper
+Version: 1.8.2
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: rootless/com.sini.HBWechatHelper_1.8.2_iphoneos-arm64.deb
+Size: 11113260
+MD5sum: 4a7334704c76ae57b7c632e73fab3ab7
+SHA1: 12c48abda858364bafb3720c452a8720c4dfc043
+SHA256: d439a7d6eeb37de1d1c5afc9bdcd73e59211fb280ac0e05bc611bc8ebe4c49a5
+Section: 微信插件
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/HBWechatHelper.ailun.png
+Name: 黄白助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/HBWechatHelper.ailun/js.json
+
 Package: com.sini.MikotoHelper
 Version: 1.3.6
 Architecture: iphoneos-arm64
@@ -760,6 +777,24 @@ Author: huami & Lxcloud
 Icon: https://sini921.github.io/repo/sileodepiction/icon/WCEhance.png
 Name: 微信增强【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
+
+Package: com.sini.WCFullSwipe
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.WCFullSwipe_1.3_iphoneos-arm64.deb
+Size: 4420
+MD5sum: b3903dc288b722be8a5ccada3927efda
+SHA1: 56cd9c944ca7599b25842108585bd4a171570901
+SHA256: 44741cb4ca383c628809684a441fdef2ea327879e21fdc3f8410a4fd09fefa11
+Section: 微信插件
+Description: 为微信扩展全屏滑动返回
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/WCFullSwipe.png
+Name: WCFullSwipe【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCFullSwipe/js.json
 
 Package: com.sini.actionbarreborn
 Version: 1.1-2
