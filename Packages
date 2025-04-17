@@ -536,16 +536,16 @@ Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
 Filename: rootless/com.sini.HBWechatHelper_1.8.2_iphoneos-arm64.deb
-Size: 11113260
-MD5sum: 4a7334704c76ae57b7c632e73fab3ab7
-SHA1: 12c48abda858364bafb3720c452a8720c4dfc043
-SHA256: d439a7d6eeb37de1d1c5afc9bdcd73e59211fb280ac0e05bc611bc8ebe4c49a5
+Size: 11115672
+MD5sum: 46f720ef3f2652f4b641a70ded41fe18
+SHA1: 842a0e4d39bc137f0a12f46d40fe68eabebdaa75
+SHA256: 7c19835fd5c5ec90044d83335316a6dddade6153ad47b97c7051d43f7b63f044
 Section: 微信插件
 Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
 Author: HuangBai <QQ:1343309363@qq.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/HBWechatHelper.ailun.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/HBWechatHelper.png
 Name: 黄白助手【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/HBWechatHelper.ailun/js.json
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/HBWechatHelper/js.json
 
 Package: com.sini.MikotoHelper
 Version: 1.3.6
