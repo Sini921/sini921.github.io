@@ -5978,6 +5978,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/swi.png
 Name: SwipeExtenderX【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/swipeextenderx/js.json
 
+Package: com.sini.swipeselection
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: iCraze
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: rootless/com.sini.swipeselection_2.0_iphoneos-arm64.deb
+Size: 14420
+MD5sum: 711d670429831ab046fb3c01ec582938
+SHA1: 52f7adb33a23d99a293f3d2255f153bcb7fa6e11
+SHA256: d650c64c2df67e0b873b4faa1eafc2d3849154492f91a4a98a93b3e9b0101742
+Section: 越狱插件
+Description: 沿键盘滑动以移动光标并选择文本。
+Author: Kyle Howells
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: SwipeSelection【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/swipeselection/js.json
+
 Package: com.sini.symbols
 Version: 3.0
 Architecture: iphoneos-arm64
