@@ -61,12 +61,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.1.3",
+                    "text": "2.1.4",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年04月17日",
+                    "text": "2025年04月18日",
                     "title": "更新日期"
                 },
                 {
@@ -85,6 +85,17 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.1.4\n- 快手添加视频倍速按钮、无水印实况图片保存(悬浮按钮)、用户禁止下载的图片无水印保存(双指双击图片)。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "class": "DepictionSeparatorView"
