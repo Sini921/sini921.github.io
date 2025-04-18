@@ -6851,6 +6851,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat-pop-vc.png
 Name: WeChatPopVC【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wechat-pop-vc/js.json
 
+Package: com.sini.wechat-pop-vc
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: rootless/com.sini.wechat-pop-vc_0.0.3_iphoneos-arm64.deb
+Size: 21676
+MD5sum: 70ee9baaef015802cc8d1313aa5e1f69
+SHA1: f241c6854a2f038b8ce5f1d0beaf43076bdc00e6
+SHA256: cfd1ee64462b5abbcc0889b8294d113c427533f6be9d703894f8119cb039b726
+Section: 微信插件
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
+Author: be-huge
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat-pop-vc.png
+Name: WeChatPopVC【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/wechat-pop-vc/js.json
+
 Package: com.sini.wechat-push-msg-page
 Version: 0.0.1
 Architecture: iphoneos-arm64
