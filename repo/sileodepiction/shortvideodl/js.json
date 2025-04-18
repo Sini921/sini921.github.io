@@ -98,9 +98,6 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
                     "markdown": "#### 版本: 2.1.3\n- 抖音减少直播实时人数刷新频率，避免刷新过于频繁导致闪退。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
