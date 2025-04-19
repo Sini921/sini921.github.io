@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.7.3",
+                    "text": "3.8.3",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年01月24日",
+                    "text": "2025年04月19日",
                     "title": "更新日期"
                 },
                 {
@@ -94,6 +94,14 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
+                    "markdown": "#### 版本: 3.8.3\n- 解决文字改色不生效问题\n- 解决大底栏会闪烁一下的问题，小底栏在配套设置里面新增了一个弹出动画开关功能\n- 解决个人资料页居中，头像框等功能不生效问题\n- 备注页面填写框背景问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "markdown": "#### 版本: 3.7.3\n- 适配微信8.0.56版本",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
@@ -101,7 +109,6 @@
                 {
                     "class": "DepictionSeparatorView"
                 },
-
                 {
                     "markdown": "#### 版本: 3.7.2\n- 修复点击首页+号菜单添加好友闪退",
                     "useSpacing": true,

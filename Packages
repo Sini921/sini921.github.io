@@ -6389,6 +6389,25 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/themepro.png
 Name: ThemePro【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/themepro/js.json
 
+Package: com.sini.themepro
+Version: 3.8.3
+Architecture: iphoneos-arm64
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Filename: rootless/com.sini.themepro_3.8.3_iphoneos-arm64.deb
+Size: 5757204
+MD5sum: ab696f3b0d3aca2f09816febc611e98f
+SHA1: a7943238ff71e21f693ecdb37e811f6977a46e8e
+SHA256: 70be0bcd0e71131712d315fd017dbab9e744dad0f1a3c9de6d669d0feb482bae
+Section: 微信插件
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: MustangYM <mm13299079785@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/themepro.png
+Name: ThemePro【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/themepro/js.json
+
 Package: com.sini.tinge
 Version: 1.2.2
 Architecture: iphoneos-arm64
