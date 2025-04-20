@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1-1",
+                    "text": "1.1-2",
                     "title": "版本"
                 },
                 {
@@ -85,6 +85,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1-2\n- 重构隐藏群人数，支持动态居中\n- 重构助手快捷栏样式，移除模态效果，沿用微信原生UI\n- 修复隐藏二维码在最新版微信失效\n- 修复部分用户可能闪退问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"

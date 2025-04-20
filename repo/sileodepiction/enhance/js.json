@@ -61,12 +61,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.3-1",
+                    "text": "1.3-2",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年04月20日",
+                    "text": "2025年04月21日",
                     "title": "更新日期"
                 },
                 {
@@ -85,6 +85,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.3-2\n- 临时屏蔽底栏透明度。\n- FaceID背景适配深色模式。\n- 新增:本地检测123网盘文件，实现更新检测与更新日志查看。\n- 手动触发更新检测方式为，点击版本信息\n- 修复:使用自定义图片作为触摸轨迹时，潜在的闪退问题，1.0.0版本就存在了🤡。\n- 开启透明度导致的卡死问题。遇到卡死时，等待自行闪退，多次闪退后会触发清理缓存，清理即可。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
