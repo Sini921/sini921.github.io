@@ -69,7 +69,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.14-7",
+                    "text": "2.15-3",
                     "title": "版本"
                 },
                 {
@@ -93,6 +93,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.15-3\n- 修复有些设备无法去相册选择图片的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
