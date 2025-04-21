@@ -3833,6 +3833,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: Oh My Insets【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ohmyinsets/js.json
 
+Package: com.sini.ohmyinsets
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1600
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: rootless/com.sini.ohmyinsets_1.2_iphoneos-arm64.deb
+Size: 209860
+MD5sum: 6a24204f374001a5d1744099e6cc4999
+SHA1: d35e630091d7237ac77c370cfa136a42ec044ff1
+SHA256: 6e4680427a5c51a8c23b2db28d32f93f23ca104d1cead6b0bd3246fd37880049
+Section: 越狱插件
+Description: 控制中心五列
+Author: Lessica <82flex@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ohmyinsets.png
+Name: Oh My Insets【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ohmyinsets/js.json
+
 Package: com.sini.onesettings
 Version: 2.2
 Architecture: iphoneos-arm64
