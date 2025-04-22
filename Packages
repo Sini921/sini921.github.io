@@ -1010,6 +1010,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: App Lecard【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/applecard/js.json
 
+Package: com.sini.artworkspinner
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: rootless/com.sini.artworkspinner_1.1_iphoneos-arm64.deb
+Size: 27796
+MD5sum: cd8ff37d87e4867051e7854a90a9b928
+SHA1: 03fd8b9c901c0f722be5f855c2d5596ec4730f97
+SHA256: e58873617c0cb4f95c999f9953db8aa90838fde4f2901ad20a2d25ac82eef471
+Section: 越狱插件
+Description: 旋转专辑封面！
+Author: Lessica
+Icon: https://sini921.github.io/repo/sileodepiction/icon/artworkspinner.png
+Name: ArtworkSpinner【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/artworkspinner/js.json
+
 Package: com.sini.atria
 Version: 1.4.1
 Architecture: iphoneos-arm64
