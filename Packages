@@ -802,11 +802,11 @@ Architecture: iphoneos-arm64
 Maintainer: Lxcloud
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: rootless/com.sini.WCEhance_1.1-2_iphoneos-arm64.deb
-Size: 61576
-MD5sum: 0e904cf44a0b5eedc4254e2f0b37c9d5
-SHA1: 2f11fdc11f44f51627422aacc474e27ad71f55b5
-SHA256: bdef5c55196034c7c2b97c81da3cebf9d7ffd743abb33f64fefb4fac21bf7f71
-Section: 越狱插件
+Size: 61624
+MD5sum: 5e957beb7ddef8d352610d66405ced74
+SHA1: 8099d93b67a61de833d85f1078272ed3b92a6c30
+SHA256: ffee079d6f97ebf9492105207690f161d847b74aa36f9e285f09bf032da05e4e
+Section: 微信插件
 Priority: optional
 Description: 微信增强，用于优化一些反人类设计并增强功能
 Author: huami & Lxcloud
