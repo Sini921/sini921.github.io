@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.9.7-9-1",
+                    "text": "5.9.8-1-1",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年03月27日",
+                    "text": "2025年04月22日",
                     "title": "更新日期"
                 },
                 {
@@ -93,8 +93,9 @@
                 {
                     "class": "DepictionSeparatorView"
                 },
+
                 {
-                    "markdown": "#### 版本: 5.9.7-9-1\n- 这个源主很懒\n- 懒得写更新了什么",
+                    "markdown": "#### 版本: 5.9.8-1-1\n- 优化首页背景透明功能,新增聊天背景透明 (建议数值30-70)\n- 兼容8.0.58与59版本\n- 修复和其他工具共存时,部分主题聊天页更多按钮显示空白的问题\n- 修复修改聊天色值导致引用文字颜色一同被修改的问题\n- 一些其他不记得的小优化",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
