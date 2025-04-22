@@ -1028,6 +1028,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/artworkspinner.png
 Name: ArtworkSpinner【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/artworkspinner/js.json
 
+Package: com.sini.artworkspinner
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 384
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: rootless/com.sini.artworkspinner_1.2_iphoneos-arm64.deb
+Size: 28052
+MD5sum: d5e040ab8c80a390282b5d3b100878a3
+SHA1: e669b7dedb259e0bbfac07911b8045b312cf4763
+SHA256: 4f2a3f982ac225e3a0a845585273558a2da8e086c2592ae1544571a52dcb059f
+Section: 越狱插件
+Description: 旋转专辑封面！
+Author: Lessica
+Icon: https://sini921.github.io/repo/sileodepiction/icon/artworkspinner.png
+Name: ArtworkSpinner【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/artworkspinner/js.json
+
 Package: com.sini.atria
 Version: 1.4.1
 Architecture: iphoneos-arm64
