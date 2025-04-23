@@ -3753,6 +3753,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/mterminal.png
 Name: MTerminal【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/mterminal/js.json
 
+Package: com.sini.n95
+Version: 4.4
+Architecture: iphoneos-arm64
+Maintainer: Ethan Whited
+Installed-Size: 15096
+Depends: mobilesubstrate
+Filename: rootless/com.sini.n95_4.4_iphoneos-arm64.deb
+Size: 11965840
+MD5sum: 391304a16ed388594be0c5edafac7c61
+SHA1: ebffac4721140f294ae1a2fb3687d8a60aa588ec
+SHA256: d7c9e5a489ba322478e6c7d5c0b6b7cc07379105c6296265d6520fda0b6521b4
+Section: 越狱插件
+Description: 好像是个什么花里胡哨的插件，应群友要求汉化上架备份
+Author: Ethan Whited
+Icon: https://sini921.github.io/repo/sileodepiction/icon/n95.png
+Name: N95【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/n95/js.json
+
 Package: com.sini.noapplemobilerepair
 Version: 0.0.1-103
 Architecture: iphoneos-arm64
