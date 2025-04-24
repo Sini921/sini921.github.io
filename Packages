@@ -2108,6 +2108,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
 Name: 微信斗图助手【rootless】
 Sponsor: admin@25mao.com
 
+Package: com.sini.doutu.rootless
+Version: 3.1-6
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: rootless/com.sini.doutu.rootless_3.1-6_iphoneos-arm64.deb
+Size: 1051684
+MD5sum: 05a6483c003ce870aa6e3257d26c77cb
+SHA1: 27af4f3ef5e51dabf23750344b008442ccdc0995
+SHA256: 3b63568c20e385c01e36dfa788435bb4b9afa8d1db24413db314ae0a320c629f
+Section: 微信插件
+Priority: optional
+Description: 斗图助手
+Author: Mao
+Icon: https://sini921.github.io/repo/sileodepiction/icon/doutu.rootless.png
+Name: 斗图助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/doutu.rootless/js.json
+
 Package: com.sini.dumpapp.wechat-rootless
 Version: 2.0.4
 Architecture: iphoneos-arm64
@@ -3748,6 +3766,24 @@ SHA256: f9110045514e1c54d45fd1f3e09dff33af2a7f51481f868388323da0298a8f18
 Section: 微信插件
 Priority: optional
 Description: 微信助手-Rootless版
+Author: Mao
+Icon: https://sini921.github.io/repo/sileodepiction/icon/miyou.png
+Name: 微信助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/miyou/js.json
+
+Package: com.sini.miyou
+Version: 3.8-4
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: rootless/com.sini.miyou_3.8-4_iphoneos-arm64.deb
+Size: 9297216
+MD5sum: 75c62554e55f705c670216d2b3af44b6
+SHA1: efc9efa2181329bec03b1e64c0c59b001147576c
+SHA256: 8d154f7f127553e671461d44a149517946ffd0ec8c447e3c1e655d848bd53db4
+Section: 微信插件
+Priority: optional
+Description: 微信助手
 Author: Mao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/miyou.png
 Name: 微信助手【rootless】
