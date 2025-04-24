@@ -1064,6 +1064,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/artworkspinner.png
 Name: ArtworkSpinner【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/artworkspinner/js.json
 
+Package: com.sini.artworkspinner
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: Lessica
+Installed-Size: 424
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: rootless/com.sini.artworkspinner_1.6_iphoneos-arm64.deb
+Size: 39144
+MD5sum: a33034f4a8846071d92a7e969621d6bd
+SHA1: aa652b2e71194cde2d49a6ebd005803776e6cb6b
+SHA256: 6275ec996bfc5c04538c04f503d2666acd0189d683a3f013441edbb2e3db94c1
+Section: 越狱插件
+Description: 旋转专辑封面！
+Author: Lessica
+Icon: https://sini921.github.io/repo/sileodepiction/icon/artworkspinner.png
+Name: ArtworkSpinner【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/artworkspinner/js.json
+
 Package: com.sini.atria
 Version: 1.4.1
 Architecture: iphoneos-arm64
@@ -2885,6 +2903,24 @@ Size: 451444
 MD5sum: 949b3efbdb0f38c45b7936787a1997f2
 SHA1: 83f6ac57a23c1df70288c6a57b4b0d19e6ba9529
 SHA256: 4d9134d3d5b8233eca427163d6cc02af599b514327a14507c068541f5d370025
+Section: 微信插件
+Description: 微信插件，支持聊天按钮布局自定义等。
+Author: 愫 茶
+Icon: https://sini921.github.io/repo/sileodepiction/icon/enhance.png
+Name: WeChatEnhance【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/enhance/js.json
+
+Package: com.sini.enhance
+Version: 1.3-5
+Architecture: iphoneos-arm64
+Maintainer: 愫 茶
+Installed-Size: 2024
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.enhance_1.3-5_iphoneos-arm64.deb
+Size: 444812
+MD5sum: 356977ee7230e579f465834653c699bb
+SHA1: 3b683394b0f46a145b38600d366f79abd6e5c193
+SHA256: 85c86c4e2ec4c86039e5811dcf2bc56fbbd23d8d19fb100e52bb547272027da3
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
@@ -5537,6 +5573,24 @@ Size: 1660308
 MD5sum: 237d4455903e95bb73192cafd5cbaee3
 SHA1: fc382c3f7f8a1ab447fbadbc3232044f2dd8dcac
 SHA256: cdce294ef8e83bff3c7841f67e5c481d64d729323cd29d2c06cf8af5cffa9ed8
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载。
+Author: lenglengyu
+Icon: https://sini921.github.io/repo/sileodepiction/icon/shortvideodl.png
+Name: 短视频助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/shortvideodl/js.json
+
+Package: com.sini.shortvideodl
+Version: 2.1.5
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 3736
+Depends: mobilesubstrate, preferenceloader
+Filename: rootless/com.sini.shortvideodl_2.1.5_iphoneos-arm64.deb
+Size: 986884
+MD5sum: 8c5ab3d14ab0fb0dd78c90035c6e2c9e
+SHA1: c917cf0028fab6e77bc02afa1d68185fa5ad2087
+SHA256: cd3fbf5c8d41af24af6cb33ddb4612591f80d4c8fc5fffa3ffae4d12b6b0101a
 Section: 应用破解
 Description: 支持抖音、快手、微视等无水印下载。
 Author: lenglengyu
