@@ -69,12 +69,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.15-3",
+                    "text": "2.17-8",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年04月21日",
+                    "text": "2025年04月24日",
                     "title": "更新日期"
                 },
                 {
@@ -93,6 +93,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.17-8\n- 新增单击状态栏，长按状态栏，左滑、右滑状态栏等启用手势\n- 恢复系统原本的底部启用便捷访问的滑动手势逻辑(解决偶尔呼出失灵的问题)以及顶部单击、上滑关闭便捷访问手势\n- 新增禁用点击关闭便捷访问开关\n- 箭头透明度新增开关\n- 其他设置新增上一首、下一首、播放暂停等按钮自定义\n- 其他设置中的背景高度滑块移动至布局设置最下面",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
