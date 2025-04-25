@@ -61,12 +61,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1-2",
+                    "text": "1.1-3",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年04月18日",
+                    "text": "2025年04月25日",
                     "title": "更新日期"
                 },
                 {
@@ -85,6 +85,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1-3\n- 新增消息引用手势，快捷删除对方消息，引用自己消息，手势方向\n- 默认左滑可引用回复对方消息、撤回自身消息\n- 启用快捷删除对方消息，引用回复对方功能将变为删除功能，启用引用自己消息，撤回功能将变为引用消息功能\n- 重构表情包圆角处理逻辑",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
