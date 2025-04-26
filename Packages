@@ -866,6 +866,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/WCEhance.png
 Name: 微信增强【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
 
+Package: com.sini.WCEhance
+Version: 1.1-4
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini.WCEhance_1.1-4_iphoneos-arm64.deb
+Size: 64568
+MD5sum: ab60bc8c26eb7fcd16c5f4a77fbc031c
+SHA1: 5560b293769e2f25042d8c23bc115b4551c3711a
+SHA256: 169984e550567031694f3ebc5462bbb04e1219cc341019364aa6f01294499fdc
+Section: 越狱插件
+Priority: optional
+Description: 微信增强,用于优化一些反人类设计和增强功能。
+Author: huami & Lxcloud
+Icon: https://sini921.github.io/repo/sileodepiction/icon/WCEhance.png
+Name: 微信增强【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
+
 Package: com.sini.WCFullSwipe
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -883,6 +901,24 @@ Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/WCFullSwipe.png
 Name: WCFullSwipe【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCFullSwipe/js.json
+
+Package: com.sini.WCPluginsOrder
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.WCPluginsOrder_1.0-2_iphoneos-arm64.deb
+Size: 15196
+MD5sum: a52f6dcc37e57a51928ceb8db29098f5
+SHA1: b2438e5d5823f84d3358c29b986200ea60f65c9b
+SHA256: ce0c6810f194a0cc5c93f08befe197e5d3ef2a19c33280ecb81fdc2dcaaf862b
+Section: 微信插件
+Description: 一个很棒的MobileSubstrate调整！
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPluginsOrder.png
+Name: WCPluginsOrder【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPluginsOrder/js.json
 
 Package: com.sini.WCPluginsOrder
 Version: 1.0.1
