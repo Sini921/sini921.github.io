@@ -884,6 +884,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/WCFullSwipe.png
 Name: WCFullSwipe【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCFullSwipe/js.json
 
+Package: com.sini.WCPluginsOrder
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.WCPluginsOrder_1.0.1_iphoneos-arm64.deb
+Size: 11320
+MD5sum: b2c176b4bc0b5b379ec4051a034e1074
+SHA1: 8f8bf037a3150b2cdd7eddc19b7c3df6742b305d
+SHA256: 4d1b44877a2797454a3a2c7f4290a2627236357f4711e2c06fad5d2114adce21
+Section: 微信插件
+Description: 一个很棒的MobileSubstrate调整！
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPluginsOrder.png
+Name: WCPluginsOrder【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPluginsOrder/js.json
+
 Package: com.sini.actionbarreborn
 Version: 1.1-2
 Architecture: iphoneos-arm64
