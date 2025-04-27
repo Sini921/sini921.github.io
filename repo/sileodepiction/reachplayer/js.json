@@ -69,12 +69,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.17-8",
+                    "text": "2.18-9",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年04月24日",
+                    "text": "2025年04月28日",
                     "title": "更新日期"
                 },
                 {
@@ -93,6 +93,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.18-9\n- 重新分类设置项，方便后续加功能\n- 多项设置项改版，新增更多自定义\n- 启用手势新增长按锁屏键\n- 新增歌曲信息自定义，可以自由设置显示哪些信息\n- 歌曲信息新增两个滑块，现在可随意单独调歌曲信息位置\n- 新增歌曲信息毛玻璃背景\n- 修复自定义路径跳转不了的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
