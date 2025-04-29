@@ -61,12 +61,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.3-5",
+                    "text": "1.3-6",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年04月24日",
+                    "text": "2025年04月29日",
                     "title": "更新日期"
                 },
                 {
@@ -85,6 +85,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.3-6\n- 其他代细节方面的优化。\n- 所有颜色选择部分支持深色浅色单独设置(除触摸轨迹）",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
