@@ -1595,6 +1595,23 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/bhtwitter.png
 Name: BHTwitter【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/bhtwitter/js.json
 
+Package: com.sini.bhtwitter
+Version: 4.4-1
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Depends: mobilesubstrate, ws.hbang.common
+Filename: rootless/com.sini.bhtwitter_4.4-1_iphoneos-arm64.deb
+Size: 7610400
+MD5sum: 9cecddadc3453337f77cceb8dd4526f7
+SHA1: ba23dff45aaba5832fdf0442a1f04646f963b7f8
+SHA256: 0ef4106964d8317fc6ba986d915bcae0889b173114df51ac15e963bfa2008c5a
+Section: 应用破解
+Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
+Author: Bandar Alruwaili
+Icon: https://sini921.github.io/repo/sileodepiction/icon/bhtwitter.png
+Name: BHTwitter【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/bhtwitter/js.json
+
 Package: com.sini.bigshot
 Version: 1.1
 Architecture: iphoneos-arm64
