@@ -6818,6 +6818,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/themebox.png
 Name: 主题盒子【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/themebox/js.json
 
+Package: com.sini.themebox
+Version: 2.0.5-1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 8704
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.themebox_2.0.5-1_iphoneos-arm64.deb
+Size: 3865296
+MD5sum: 635c6ea08b488fd998e7168021bd93c1
+SHA1: c8b2b1c20a38e8a01acec2fbe18e7586193b5734
+SHA256: 5cbe5692b5f86b29263ab5ada9a322480224bea0fd66b549932e4369b46ed02d
+Section: 微信插件
+Description: 微信主题盒子
+Author: WeChat
+Icon: https://sini921.github.io/repo/sileodepiction/icon/themebox.png
+Name: 主题盒子【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/themebox/js.json
+
 Package: com.sini.themepro
 Version: 3.7.1
 Architecture: iphoneos-arm64
