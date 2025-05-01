@@ -884,6 +884,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/WCEhance.png
 Name: 微信增强【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
 
+Package: com.sini.WCEhance
+Version: 1.1-5
+Architecture: iphoneos-arm64
+Maintainer: Lxcloud
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini.WCEhance_1.1-5_iphoneos-arm64.deb
+Size: 996632
+MD5sum: ccaa82065efe8d4fafe7780f59a0ffea
+SHA1: 9cbd5260bc318dae4ca18567331f7538b930cd96
+SHA256: 0e685ed0cee3301e8a12a218918da696cc79c208f9a203c3a40d7373bf1a64cf
+Section: 微信插件
+Priority: optional
+Description: 微信增强,用于优化一些反人类设计和增强功能。
+Author: huami & Lxcloud
+Icon: https://sini921.github.io/repo/sileodepiction/icon/WCEhance.png
+Name: 微信增强【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
+
 Package: com.sini.WCFullSwipe
 Version: 1.3
 Architecture: iphoneos-arm64

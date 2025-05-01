@@ -61,12 +61,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1-4",
+                    "text": "1.1-5",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年04月27日",
+                    "text": "2025年05月02日",
                     "title": "更新日期"
                 },
                 {
@@ -85,6 +85,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1-5\n- 新增颜色预览视图\n- 新增置顶群特权者\n- 新增朋友圈实况自动播放\n- 支持静音播放\n- 重构助手快捷键入口，iOS15以上采用模态弹出，15以下沿用原逻辑\n- 优化颜色选择选项\n- 优化了部分配置项交互以及一些小细节\n- 修复设置盒子顶栏后导致标题显示不全\n- 从个人资料进入朋友圈因为官方没有方法，静音无效，可以点开朋友圈详情静音查看，当开启静音播放后如果想有声音等实况播放完点一下实况按钮即可",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
