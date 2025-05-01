@@ -6020,6 +6020,27 @@ Author: Skitty & EvenDev
 Icon: https://sini921.github.io/repo/sileodepiction/icon/spec.png
 Name: Spectrum【rootless】
 
+Package: com.sini.springanimations
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 718
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
+Filename: rootless/com.sini.springanimations_1.1.1_iphoneos-arm64.deb
+Size: 57264
+MD5sum: b01b8dfef75adecbc56c28dbed7691c9
+SHA1: 77ff70a2449f1fee000568e7342321941d530550
+SHA256: 1060494171bcb45278c55a15346d4b36fe890042d0e6a36200610a85f6a87b3e
+Section: 越狱插件
+Priority: optional
+Description: 桌面动画，原图标太丑，换了个图标以及汉化
+Author: CydiaGeek <lucaluca86@aol.com>
+Dev: lucaluca86
+Icon: https://sini921.github.io/repo/sileodepiction/icon/springanimations.png
+Name: SpringAnimations【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/springanimations/js.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+
 Package: com.sini.staypro
 Version: 0.0.1
 Architecture: iphoneos-arm64
