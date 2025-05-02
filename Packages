@@ -8577,11 +8577,12 @@ Architecture: iphoneos-arm64
 Maintainer: Evelyn
 Depends: ellekit (>= 0.4), cy+cpu.arm64e, firmware (>= 15.0)
 Filename: rootless/oldabi_0.3.2_iphoneos-arm64.deb
-Size: 15000
-MD5sum: 0ae50bcf24f5a44a9640a54e47a5f498
-SHA1: 43cb822e17f450af50ccc57521346ec8e324e46d
-SHA256: 1c50c906c2a4be9fec907f370d476ff1a41bcbe87336e285c6b21df173b8d358
-Description: 支持 iOS 15.0+ 中的传统 arm64e ABI
+Size: 15072
+MD5sum: 5f1c860f23475c27e132501fc496ef7a
+SHA1: e38fd1fb14c94500626311038d246e176e97a6f2
+SHA256: d0f62eeda838b4fb3e62bc51388d880a618db65fec9bc2e4513fbdcfb53508a9
+Section: 插件依赖
+Description: 支持iOS15.0+中的传统arm64eABI。上传仅为源主测试使用，不懂这是什么的无关人员禁止安装。
 Author: Evelyn
 Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Name: Legacy arm64e Support【rootless】
