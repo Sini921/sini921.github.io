@@ -4758,6 +4758,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: RecordPause【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/recordpause/js.json
 
+Package: com.sini.reddit
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.reddit_0.0.2_iphoneos-arm64.deb
+Size: 10900
+MD5sum: 307ca58277879ebf57695d474fe5af5d
+SHA1: 6f4caaf9590d4f09403b99f463abab846e7119b7
+SHA256: 51d39f4c2bd50d144dc38ace4cac37689450c775f5b7459fe51c32db363bb21c
+Section: 汉化插件
+Description: Reddit界面、设置、功能汉化(rootless)简体中文包
+Author: 来了老弟
+Icon: https://sini921.github.io/repo/sileodepiction/icon/reddit.png
+Name: Reddit简体中文包【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/reddit/js.json
+
 Package: com.sini.removewidgetbg
 Version: 1.7
 Architecture: iphoneos-arm64
@@ -8552,6 +8570,22 @@ Author: Skitty
 Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Name: libskittycolor【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/libskittycolor/js.json
+
+Package: oldabi
+Version: 0.3.2
+Architecture: iphoneos-arm64
+Maintainer: Evelyn
+Depends: ellekit (>= 0.4), cy+cpu.arm64e, firmware (>= 15.0)
+Filename: rootless/oldabi_0.3.2_iphoneos-arm64.deb
+Size: 15000
+MD5sum: 0ae50bcf24f5a44a9640a54e47a5f498
+SHA1: 43cb822e17f450af50ccc57521346ec8e324e46d
+SHA256: 1c50c906c2a4be9fec907f370d476ff1a41bcbe87336e285c6b21df173b8d358
+Description: 支持 iOS 15.0+ 中的传统 arm64e ABI
+Author: Evelyn
+Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
+Name: Legacy arm64e Support【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/oldabi/js.json
 
 Package: org.thebigboss.libcolorpicker
 Version: 1.6.9.1
