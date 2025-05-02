@@ -7782,6 +7782,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/xhshook.png
 Name: 小红薯【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/xhshook/js.json
 
+Package: com.sini.xhshook
+Version: 1.1.6-2
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 4440
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.xhshook_1.1.6-2_iphoneos-arm64.deb
+Size: 1502428
+MD5sum: c34ab16c09854e2e917c0a331a5a4782
+SHA1: fb89645d50038c764d97a5a4a46986aaeddf9bd8
+SHA256: ffefc66f4d7fff15274aef6cabbec75a33068601be726465c2178defad1ae4d9
+Section: 应用破解
+Description: 朋友需要才制作了此插件 APP设置界面右上角打开插件界面 或 双指长按设置界面 功能：默认移除一些广告 原生按钮无水印保存图片 视频 live图 评论区图片·live图 长按文案复制
+Author: x✨
+Icon: https://sini921.github.io/repo/sileodepiction/icon/xhshook.png
+Name: 小红薯【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/xhshook/js.json
+
 Package: com.sini.xhstranslator
 Version: 1.0
 Architecture: iphoneos-arm64
