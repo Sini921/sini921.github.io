@@ -3629,11 +3629,11 @@ Installed-Size: 248
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport (>= 1.2)
 Filename: rootless/com.sini.locationservicecc_0.1-7_iphoneos-arm64.deb
-Size: 34524
-MD5sum: c87039ec628c5a8ed5bca08c3bf9647b
-SHA1: 6fb624156d138ea19739252d0d06e579554baf0a
-SHA256: 7fbeabeca92bd1d50bdf643d9e4163549268c301d71e536b06ae312f4c1b1887
-Section: Addons (ControlCenter)
+Size: 34544
+MD5sum: 991cfaa574d1aa79be672702aa9d4457
+SHA1: eea5e10575ba2f251251401aa2807781bfd434aa
+SHA256: d9087f2b91fa6d0307a7a4004ce75b0065b028a84188e76911e1a75f167ed333
+Section: 越狱插件
 Description: 从控制中心打开或关闭定位
 Author: ichitaso
 Dev: ichitaso
