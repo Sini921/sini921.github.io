@@ -3621,6 +3621,26 @@ Name: 左滑返回【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/leftpan/js.json
 Sponsor: 思念变成海
 
+Package: com.sini.locationservicecc
+Version: 0.1-7
+Architecture: iphoneos-arm64
+Maintainer: ichitaso
+Installed-Size: 248
+Pre-Depends: firmware (>= 11.0)
+Depends: com.opa334.ccsupport (>= 1.2)
+Filename: rootless/com.sini.locationservicecc_0.1-7_iphoneos-arm64.deb
+Size: 34524
+MD5sum: c87039ec628c5a8ed5bca08c3bf9647b
+SHA1: 6fb624156d138ea19739252d0d06e579554baf0a
+SHA256: 7fbeabeca92bd1d50bdf643d9e4163549268c301d71e536b06ae312f4c1b1887
+Section: Addons (ControlCenter)
+Description: 从控制中心打开或关闭定位
+Author: ichitaso
+Dev: ichitaso
+Icon: https://sini921.github.io/repo/sileodepiction/icon/locationservicecc.png
+Name: LocationService【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/locationservicecc/js.json
+
 Package: com.sini.lockbuttonx
 Version: 0.0.1
 Architecture: iphoneos-arm64
