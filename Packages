@@ -1278,6 +1278,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: 相册画中画【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/avphotos/js.json
 
+Package: com.sini.avpn
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: CyPwn
+Installed-Size: 3212
+Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
+Filename: rootless/com.sini.avpn_1.0.2_iphoneos-arm64.deb
+Size: 508484
+MD5sum: 8931de84451955cb1c58415bbd337daa
+SHA1: 0cc1f05b1d7e61e9597dcbb504b202e35e602e97
+SHA256: 05e7e7357cd4976d7e97955158532a85c848ae38e5c1bb9d3a3ae267a7f6bd44
+Section: 越狱插件
+Description: 根据你的需要自动启用或禁用 VPN，确保流畅的浏览体验。
+Author: Snail <mu514983786@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/avpn.png
+Name: AutoVPN【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/avpn/js.json
+
 Package: com.sini.awemealwaysshowtime
 Version: 1.1-1
 Architecture: iphoneos-arm64
