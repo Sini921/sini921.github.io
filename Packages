@@ -8353,6 +8353,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/callmemaybe.png
 Name: CallMeMaybe【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/callmemaybe/js.json
 
+Package: com.sini921.chatgpthook
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini921.chatgpthook_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 4290
+MD5sum: e08e6e21aee37c1fa5daf613efe64cb2
+SHA1: c0a72d2438fe2d919b01b9d563ffa33b8da20647
+SHA256: 02ddec848e36edf20ded419bbc4debd89da9e470663eac949069c3f9a0c329df
+Section: 应用破解
+Description: 去掉ChatGPT每次打开都让我更新系统的弹窗
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/chatgpthook.png
+Name: ChatGPTHook【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/chatgpthook/js.json
+
 Package: com.sini921.classicfolders3
 Version: 3.0.6
 Architecture: iphoneos-arm64
