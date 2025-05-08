@@ -6181,6 +6181,24 @@ Name: SleeperX【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/sleeperx/js.json
 Sponsor: Sini921
 
+Package: com.sini.smallbanners
+Version: 1.2-8
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 900
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 17.0)
+Filename: rootless/com.sini.smallbanners_1.2-8_iphoneos-arm64.deb
+Size: 201844
+MD5sum: 8ec58ec8f56ba92a19443296990e1c44
+SHA1: 4b5b3b31857d3cd42fbebc4ede7b80711dd7d865
+SHA256: 36b1994036baccdb54ea5db876742c88f087237ea66a8bec620f674f67d2a2d9
+Section: 越狱插件
+Description: 小通知横幅。支持iOS15+
+Author: Netskao
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: SmallBanners【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/smallbanners/js.json
+
 Package: com.sini.smoothcursorios13
 Version: 0.0.1
 Architecture: iphoneos-arm64
