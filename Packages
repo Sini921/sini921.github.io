@@ -4249,6 +4249,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/miyou.png
 Name: 微信助手【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/miyou/js.json
 
+Package: com.sini.morecomplications
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Skitty
+Installed-Size: 416
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), preferenceloader
+Filename: rootless/com.sini.morecomplications_1.0_iphoneos-arm64.deb
+Size: 39056
+MD5sum: 999e77ede2ed58c18cf986a12a2a3781
+SHA1: 63a8bea30c3b204d101e9e099382e72b02ebc925
+SHA256: 2e191fc8f22320b6dcfb1e82f944a89b2a69d7ed25ad560ff1ab58b78279b6d0
+Section: 越狱插件
+Description: 为锁屏添加更多小组件
+Author: Skitty
+Icon: https://sini921.github.io/repo/sileodepiction/icon/morecomplications.png
+Name: MoreComplications【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/morecomplications/js.json
+
 Package: com.sini.msgfilt.rootless
 Version: 1.0-5.1
 Architecture: iphoneos-arm64
