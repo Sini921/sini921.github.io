@@ -974,6 +974,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPluginsOrder.png
 Name: WCPluginsOrder【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPluginsOrder/js.json
 
+Package: com.sini.WCToolGesture
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: wc
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.WCToolGesture_1.0_iphoneos-arm64.deb
+Size: 8248
+MD5sum: 08975e8bffd4ae4c794e405ce6d2e9fe
+SHA1: c92e5a5fc550860279af29e8a5c24fbbac95c1cd
+SHA256: e8125cbe9b74b9ef21f61c4d9b7f0e22ee56fae61ce7345189cf163a48bf7c4b
+Section: 微信插件
+Description: 微信输入框内嵌按键，右边朋友圈命名: clock_regular，左边视频通话命名: icons_filled_large_image
+Author: wc
+Icon: https://sini921.github.io/repo/sileodepiction/icon/WCToolGesture.png
+Name: WCToolGesture【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCToolGesture/js.json
+
 Package: com.sini.actionbarreborn
 Version: 1.1-2
 Architecture: iphoneos-arm64
