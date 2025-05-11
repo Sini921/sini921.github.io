@@ -8538,6 +8538,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/chatgpthook.png
 Name: ChatGPTHook【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/chatgpthook/js.json
 
+Package: com.sini921.chromahomebarx
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: Afnan Ahmad & SINI
+Installed-Size: 480
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: rootless/com.sini921.chromahomebarx_1.0-2_iphoneos-arm64.deb
+Size: 76528
+MD5sum: 8fc2bfd1cdf0282751e06ce4688056a7
+SHA1: c0ae8ee9f8cc04905f75f1afdcf9951abf2d9595
+SHA256: 1a4e9cfce6268e2281d65cbca768ccb28259113d3401945053f54a0dac663a07
+Section: 越狱插件
+Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根越狱
+Author: Afnan Ahmad & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/chromahomebarx.png
+Name: ChromaHomeBarX【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/chromahomebarx/js.json
+
 Package: com.sini921.classicfolders3
 Version: 3.0.6
 Architecture: iphoneos-arm64
