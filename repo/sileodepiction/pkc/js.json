@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.7-3",
+                    "text": "0.7-4",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年04月15日",
+                    "text": "2025年05月12日",
                     "title": "更新日期"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.7-4\n- 新增我邀请入群的群员功能（在群设置点击查看，应用场景：1可查看本人邀请进群的群员；2在无管理员权限的情况，也能将其踢出群聊）\n- 增加自动下载图、视频功能（用户的需求）\n- 修复群设置页面查看群近期操作点击消息后，无法跳转定位问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
