@@ -3301,6 +3301,25 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
 Name: DYYY【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyypro/js.json
 
+Package: com.sini.dyyypro
+Version: 2.2-7-1747033026
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2044
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini.dyyypro_2.2-7-1747033026_iphoneos-arm64.deb
+Size: 395956
+MD5sum: 7448582d407c21b6af7fb19bf1828b3e
+SHA1: 3c607df310d904dff9a22ca33c7fe799b577b696
+SHA256: a1b95ac8362ac01db723e73b3f76b7fcf6c4184ac41ad1a002afd9629ff5e4cd
+Section: 应用破解
+Priority: optional
+Description: 维他入我心版
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
+Name: DYYY【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyypro/js.json
+
 Package: com.sini.easynotifications
 Version: 3.0
 Architecture: iphoneos-arm64
@@ -9130,6 +9149,24 @@ Author: udevs
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dockx.png
 Name: DockX【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dockx/js.json
+
+Package: comsini.wechat-push-msg-page
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: rootless/comsini.wechat-push-msg-page_0.0.4_iphoneos-arm64.deb
+Size: 23476
+MD5sum: e5c8d02bf9221c725f269926e8181521
+SHA1: d4bb13d98600bb344300db67a25c5ad21b442091
+SHA256: 60c00b710e61afd52908742d662cb543ee9f8e46cab471cab88731af91a40ada
+Section: 微信插件
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Author: be-huge
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat-push-msg-page.png
+Name: WechatPushMsgPage【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/wechat-push-msg-page/js.json
 
 Package: libskittycolor
 Version: 1.0
