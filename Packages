@@ -8611,6 +8611,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/chromahomebarx.png
 Name: ChromaHomeBarX【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/chromahomebarx/js.json
 
+Package: com.sini921.chromahomebarx
+Version: 1.1-0
+Architecture: iphoneos-arm64
+Maintainer: Afnan Ahmad & SINI
+Installed-Size: 484
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: rootless/com.sini921.chromahomebarx_1.1-0_iphoneos-arm64.deb
+Size: 79444
+MD5sum: f76172721c7c20a24db14366336f69cb
+SHA1: a58958c5f193a478d03016564e4cba673c362b64
+SHA256: 82218323447fb46573dd47e14954e0b06d7452e71f50ab03575e98ce83f8d424
+Section: 越狱插件
+Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根越狱
+Author: Afnan Ahmad & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/chromahomebarx.png
+Name: ChromaHomeBarX【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/chromahomebarx/js.json
+
 Package: com.sini921.classicfolders3
 Version: 3.0.6
 Architecture: iphoneos-arm64
