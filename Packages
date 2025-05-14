@@ -3014,6 +3014,26 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
 Name: DYYY【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
 
+Package: com.sini.dyyy
+Version: 2.2-7
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2044
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini.dyyy_2.2-7_iphoneos-arm64.deb
+Size: 397916
+MD5sum: 3e25b7e1020f5d77dd21e541446c4b8d
+SHA1: 1ebd1de594e21dfe42526df85abc4b711545bcf4
+SHA256: d18c19fc53f2d7624306d349b3b51084bf8cb61e56c6ff369d2e92ddf70e599b
+Section: 应用破解
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
+Name: DYYY【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
+
 Package: com.sini.dyyypro
 Version: 2.2-4-1746321849
 Architecture: iphoneos-arm64
@@ -3386,6 +3406,25 @@ Size: 398680
 MD5sum: dce277a47f3d0c3e626634590fbf8580
 SHA1: e8a779fbb607ec55cc157ff78d9aa9e7229e3d00
 SHA256: 621ab0ead0ac1e200f26a6dbfd37e83346d971f1c1c56e91aca8282422379561
+Section: 应用破解
+Priority: optional
+Description: 维他入我心版
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
+Name: DYYY【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyypro/js.json
+
+Package: com.sini.dyyypro
+Version: 2.2-7-1747206544
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2060
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini.dyyypro_2.2-7-1747206544_iphoneos-arm64.deb
+Size: 398516
+MD5sum: ce9253b4d2c84808669ef5ffd1c7379f
+SHA1: d5925315b355e7ee2d84bf4f87cb056384f9e722
+SHA256: a904fe4f52f03af8128656d71a7c9a95ae4d732ff1509b98be23b6b267fdcb73
 Section: 应用破解
 Priority: optional
 Description: 维他入我心版
