@@ -61,12 +61,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1-6",
+                    "text": "1.1-7",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年05月06日",
+                    "text": "2025年05月15日",
                     "title": "更新日期"
                 },
                 {
@@ -85,6 +85,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1-7\n- 新增自定义撤回信息，支持自定义自己/对方撤回提示\n- 新增朋友圈圆角，朋友圈界面图片/视频/视频号圆角\n- 表情包圆角优化官方表情视图\n- 修复自拍转表情移到最前闪退",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
