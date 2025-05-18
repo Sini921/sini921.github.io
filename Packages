@@ -2112,57 +2112,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: ClassicKeyboardXS【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/classickeyboardxs/js.json
 
-Package: com.sini.colorfulwallpaperx
-Version: 4.2k
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: rootless/com.sini.colorfulwallpaperx_4.2k_iphoneos-arm64.deb
-Size: 1213400
-MD5sum: a0b6a550b329243cf2825b1fbffd14d3
-SHA1: c397324005d50f3133be230be5d48b36afe0eed7
-SHA256: 55c7835b29546b03660c85ce40511fbdce02ec207dc8303d8a121a587081f21b
-Section: 越狱应用
-Description: CBZ破解
-Author: Lessica
-Icon: https://sini921.github.io/repo/sileodepiction/icon/colorfulwallpaperx.png
-Name: ColorfulWallpaperX【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/colorfulwallpaperx/js.json
-
-Package: com.sini.colorfulwallpaperx
-Version: 4.5k
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: rootless/com.sini.colorfulwallpaperx_4.5k_iphoneos-arm64.deb
-Size: 1230616
-MD5sum: 6fff27f3ef16c406831d3280b59f4eb3
-SHA1: b8f003cd439fbbe8be1d803ba49ef833a5ea892e
-SHA256: 5a71cc018cf963a662c2d9b38ad36948cee4958172a705e10142721177d9e7ca
-Section: 越狱应用
-Description: CBZ破解
-Author: Lessica
-Icon: https://sini921.github.io/repo/sileodepiction/icon/colorfulwallpaperx.png
-Name: ColorfulWallpaperX【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/colorfulwallpaperx/js.json
-
-Package: com.sini.colorfulwallpaperx
-Version: 4.6k
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: rootless/com.sini.colorfulwallpaperx_4.6k_iphoneos-arm64.deb
-Size: 1234896
-MD5sum: c8af5810901db77a934c00d76fb66869
-SHA1: c4b8a421513460f4ce0b324e8f22ebbe50a3a246
-SHA256: 727f232e48df65dce8d078d31f0ab4e7acb6018df2b36159a61ab7d4409d504f
-Section: 越狱应用
-Description: CBZ破解
-Author: Lessica
-Icon: https://sini921.github.io/repo/sileodepiction/icon/colorfulwallpaperx.png
-Name: ColorfulWallpaperX【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/colorfulwallpaperx/js.json
-
 Package: com.sini.colormebadges
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -7839,23 +7788,6 @@ Author: P2KDev
 Icon: https://sini921.github.io/repo/sileodepiction/icon/tinge.png
 Name: Tinge【rootless】
 Sponsor: sini921
-
-Package: com.sini.touchvis
-Version: 2.8.1k
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: rootless/com.sini.touchvis_2.8.1k_iphoneos-arm64.deb
-Size: 708368
-MD5sum: a921793bf5e493997598dfe0eaec1985
-SHA1: 7fff96487399429284951384f083c31eea05c9ac
-SHA256: 1054df9f841dcdcc27ec64efa58843f23fcc1024fe8b1fd822d52eb3ec141645
-Section: 越狱插件
-Description: 触摸轨迹插件，装上本插件以后，腰不酸了，腿不疼了，心脏也不跳了。
-Author: Lessica
-Depiction: https://repo.cypwn.xyz/depiction/2728
-Icon: https://sini921.github.io/repo/sileodepiction/icon/touch.png
-Name: Touch-Viz【rootless】
 
 Package: com.sini.translucent3dmenus
 Version: 2.0
