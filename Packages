@@ -1088,10 +1088,10 @@ Maintainer: huami
 Installed-Size: 372
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini.WCPulse_1.0-7_iphoneos-arm64.deb
-Size: 63248
-MD5sum: 25d9cf4f1cff4dd4490a65991310a10b
-SHA1: c532da0054d0c9dcd2c28094d2cc0d457d840a1d
-SHA256: 21a8ccb67550d4a9819753edb39e336a67a31ec7acc27613c1335dcb6b3bd29e
+Size: 63280
+MD5sum: 8f921f83fa8247984874adf9cc21f181
+SHA1: cd96abb5832a2149dea7ac788a16efa30bcc0866
+SHA256: 7eafc5b18536cf94b04e12d98e61f1bb7d38318152036f101a60aac2506408fa
 Section: 微信插件
 Description: WCPulse
 Author: huami
