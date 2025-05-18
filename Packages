@@ -7771,6 +7771,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/themepro.png
 Name: ThemePro【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/themepro/js.json
 
+Package: com.sini.tie-gesture
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: be-huge
+Installed-Size: 672
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: rootless/com.sini.tie-gesture_1.0.0_iphoneos-arm64.deb
+Size: 102100
+MD5sum: 7300899cf64f27a4e93d2ec15409d0a2
+SHA1: 56a15efab4d24dbe9b21a001174c5e72488f4284
+SHA256: 4b8ea625dda257d76062a052d6ed1a098b49dddc4b7ed0e1fe9d661c198a0827
+Section: 越狱插件
+Description: 手势插件，一切从简即可。
+Author: be-huge
+Icon: https://sini921.github.io/repo/sileodepiction/icon/tie-gesture.png
+Name: TieGesture【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/tie-gesture/js.json
+
 Package: com.sini.tinge
 Version: 1.2.2
 Architecture: iphoneos-arm64
