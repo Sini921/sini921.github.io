@@ -3530,6 +3530,25 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
 Name: DYYY【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyypro/js.json
 
+Package: com.sini.dyyypro
+Version: 2.2-7-1747679636
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2260
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini.dyyypro_2.2-7-1747679636_iphoneos-arm64.deb
+Size: 441472
+MD5sum: 028874e91a81ea1bd451f7bcba58f87a
+SHA1: ae98046b67adafd95a823321d971f997e331d15b
+SHA256: 5da9fcd3b84f07bc994a4a3effad9758b067a9118dcbbf76669552651e2292a8
+Section: 应用破解
+Priority: optional
+Description: 维他入我心版
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
+Name: DYYY【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyypro/js.json
+
 Package: com.sini.easynotifications
 Version: 3.0
 Architecture: iphoneos-arm64
@@ -6627,6 +6646,24 @@ Size: 990160
 MD5sum: 4e5816dc1b97e7d03af69ac1d865a48a
 SHA1: 25cb1c3b5b7d1a6b799e7545e4cfbe3242e0d385
 SHA256: 52176942327ea05f2831b7e870aec7a474ebf012c3d33689e0267d51eb199fcb
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载。
+Author: lenglengyu
+Icon: https://sini921.github.io/repo/sileodepiction/icon/shortvideodl.png
+Name: 短视频助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/shortvideodl/js.json
+
+Package: com.sini.shortvideodl
+Version: 2.1.6
+Architecture: iphoneos-arm64
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 3640
+Depends: mobilesubstrate, preferenceloader
+Filename: rootless/com.sini.shortvideodl_2.1.6_iphoneos-arm64.deb
+Size: 957164
+MD5sum: 34b2b9467effb7f6306f2ecd2f62e967
+SHA1: c1cdaa6e18d490a26d989790fc39f35a8675ed6d
+SHA256: d766c43efe3927be2ae91ec68a8c0085a18b23bca37c133f817d6d8610fb4e50
 Section: 应用破解
 Description: 支持抖音、快手、微视等无水印下载。
 Author: lenglengyu

@@ -61,12 +61,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.1.5k",
+                    "text": "2.1.6",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年05月02日",
+                    "text": "2025年05月20日",
                     "title": "更新日期"
                 },
                 {
@@ -85,6 +85,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.1.6\n- 抖音优化秒过激励广告，基本完美。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
