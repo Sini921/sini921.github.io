@@ -7844,6 +7844,25 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/themepro.png
 Name: ThemePro【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/themepro/js.json
 
+Package: com.sini.themepro
+Version: 3.8.7
+Architecture: iphoneos-arm64
+Maintainer: MustangYM <MustangYM@yeah.net>
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Filename: rootless/com.sini.themepro_3.8.7_iphoneos-arm64.deb
+Size: 5827712
+MD5sum: f0905711fb81db58ae27f3027e3f0987
+SHA1: 3eb19e9c2f52963b9e9e0f9533cef1a5d98e5fe5
+SHA256: ebb786e4ce8f915a631310d91cc94b80d2b150816e1f089e1e27a39528493fcd
+Section: 微信插件
+Description: 微信主题美化，主题需付费
+Author: MustangYM <mm13299079785@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/themepro.png
+Name: ThemePro【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/themepro/js.json
+
 Package: com.sini.tie-gesture
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -8800,6 +8819,25 @@ MD5sum: ee309e4fb63dc9b1907cc4a0475ef64b
 SHA1: 727ca1a8530743212731e6eeb7ebadeb506f593c
 SHA256: 836b49dd142900090cb069b5e04d8da87c0ebc4b178a4735c8360d73e76b8f34
 Section: 应用破解
+Priority: optional
+Description: 免费插件，随缘更新。
+Author: vita
+Icon: https://sini921.github.io/repo/sileodepiction/icon/yuki.png
+Name: Yuki【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/yuki/js.json
+
+Package: com.sini.yuki
+Version: 0.0-3
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 240
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini.yuki_0.0-3_iphoneos-arm64.deb
+Size: 24764
+MD5sum: 31e606f6180557b4afdc74ccf048703b
+SHA1: ebcf34e2392c100c0e5bef39e722529df1ce4a3f
+SHA256: ce43ea8da82357504d4ef738ba751194f49114b4eeedabbe0e05e02e7c5853ff
+Section: 抖音插件
 Priority: optional
 Description: 免费插件，随缘更新。
 Author: vita
