@@ -1116,6 +1116,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPulse.png
 Name: WCPulse【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPulse/js.json
 
+Package: com.sini.WCPulse
+Version: 1.0-8
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 388
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.WCPulse_1.0-8_iphoneos-arm64.deb
+Size: 69584
+MD5sum: a37371eb2ec0b376c57ebfa226327637
+SHA1: f74afea71329cd598941bc5869aaa8b8aaa4f1e3
+SHA256: 0a0478942d9841c5fe57afe51787c3a939b01a47618d9d71d48b919322bf2129
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPulse.png
+Name: WCPulse【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPulse/js.json
+
 Package: com.sini.WCToolGesture
 Version: 1.0
 Architecture: iphoneos-arm64
