@@ -446,6 +446,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/77theme.png
 Name: 77Theme【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/77theme/js.json
 
+Package: com.sini.77theme
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: 77Theme
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini.77theme_1.0.7_iphoneos-arm64.deb
+Size: 5083976
+MD5sum: 6a0ee09a98d0b32f3367104c095ab588
+SHA1: 28c410127434f27c6b0f75f47cf4cf09bfaedc76
+SHA256: a664aa4d1c3ca922a4e97222590a6cf0a374d3754e248d5282ed776cca4cbf42
+Section: 微信插件
+Priority: optional
+Description: 微信主题美化，主题需付费
+Author: 77Theme
+Icon: https://sini921.github.io/repo/sileodepiction/icon/77theme.png
+Name: 77Theme【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/77theme/js.json
+
 Package: com.sini.AppIndex
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -5310,6 +5328,24 @@ Size: 833500
 MD5sum: d8dd4b61a4828654fe3317c505197497
 SHA1: d178be8c764f03e61d79bcd6a8d8662478fe974b
 SHA256: e36ed814abaeabe7656b80e59f58e7c0721fd321af52fa5418122ff3190d7699
+Section: 微信插件
+Priority: optional
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://sini921.github.io/repo/sileodepiction/icon/pkc.png
+Name: PKC【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/pkc/js.json
+
+Package: com.sini.pkc.rootless
+Version: 0.7-5
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: rootless/com.sini.pkc.rootless_0.7-5_iphoneos-arm64.deb
+Size: 871852
+MD5sum: e159bd79eecbf769e205545cf6fbfecc
+SHA1: b2aa7a951b6b99aa5738f5394d0cc448136ed2aa
+SHA256: e9a55d0b8f7ef56a6a1e4db485d6a8c2c41caad5a150796aca3d12d7a7eb97ca
 Section: 微信插件
 Priority: optional
 Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
