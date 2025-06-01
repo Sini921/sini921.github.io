@@ -1619,18 +1619,18 @@ Name: Filza Crack【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/filzacrack/js.json
 
 Package: com.sini.flexibleexpression
-Version: 1.1.0
+Version: 1.2.0
 Architecture: iphoneos-arm64
 Maintainer: SHTM
-Installed-Size: 992
+Installed-Size: 4324
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.flexibleexpression_1.1.0_iphoneos-arm64.deb
-Size: 362420
-MD5sum: d8484413ab0a1eb2d3c21d3b6560efcb
-SHA1: 512ba91493e66bf726ca071179e9fb334f7897b6
-SHA256: 8511ec966bfca5c300f8607d15183a1790a7de6fcc86c3ada9d41e25c9c93c02
+Filename: rootless/com.sini.flexibleexpression_1.2.0_iphoneos-arm64.deb
+Size: 3648760
+MD5sum: 9bc532b94852264b6d36d2f6ee84a932
+SHA1: c44499ea15e9b39e32fa20456ac57c6520d85b56
+SHA256: 46db905d11c7cbdb7043819fcb577fdd9092553cecbacae588fd192ba2db9fd1
 Section: 越狱插件
-Description: 灵动空间，灵动岛不再枯燥！1.1.0 更新内容：1. 添加对原生通知横幅的动画支持 2.添加原生通知应用图标旋转动画
+Description: 灵动空间，灵动岛不再枯燥！1.2.0 更新内容：1. 新增锁屏动画
 Author: SHTM
 Icon: https://sini921.github.io/repo/sileodepiction/icon/flexibleexpression.png
 Name: FlexibleExpression【rootless】
