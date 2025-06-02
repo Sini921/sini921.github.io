@@ -4341,6 +4341,25 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/yuki.png
 Name: Yuki【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/yuki/js.json
 
+Package: com.sini.yuki
+Version: 0.0-7
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 320
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini.yuki_0.0-7_iphoneos-arm64.deb
+Size: 50100
+MD5sum: 144970585a27764d14213d90ceef6d3f
+SHA1: f1f9bff9810890c025830e62326a8304fbb2c8f1
+SHA256: 9274c12cbe57e4e62863e3e42b34d6d44f4733f5c2d8d52aa25fb02657635457
+Section: 应用破解
+Priority: optional
+Description: 免费插件，随缘更新。
+Author: vita
+Icon: https://sini921.github.io/repo/sileodepiction/icon/yuki.png
+Name: Yuki【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/yuki/js.json
+
 Package: com.sini.zetsu
 Version: 1.5
 Architecture: iphoneos-arm64
