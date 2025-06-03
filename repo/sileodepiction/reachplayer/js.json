@@ -17,7 +17,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 便捷访问美化\n- 在便捷访问模式上方空白处添加音乐控件\n- 基于原作者@ETHN的开源优化编译\n- 感谢@鲨了个鱼的帮助\n- 感谢@橙子欣的赞助",
+                    "markdown": "## 描述\n- 便捷访问美化\n- 在便捷访问模式上方空白处添加音乐控件\n- 基于原作者@ETHN的开源优化编译\n- 感谢@鲨了个鱼的帮助",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },

@@ -1458,16 +1458,16 @@ Name: DYYY【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
 
 Package: com.sini.dyyypro
-Version: 2.2-7-1748905949
+Version: 2.2-7-1748991890
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 2292
+Installed-Size: 2288
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.dyyypro_2.2-7-1748905949_iphoneos-arm64.deb
-Size: 441296
-MD5sum: 69bdfc82e59b8738f089d1948764f8e8
-SHA1: 8a3afcc900178fcb64304cd6914dd6525bab3add
-SHA256: 1261679a0ad4bfd575cd17a42e06c57d40728476f20ec836a9ce129f24f3aa3b
+Filename: rootless/com.sini.dyyypro_2.2-7-1748991890_iphoneos-arm64.deb
+Size: 448152
+MD5sum: c33724dc12e71cf793304366910fb4ac
+SHA1: db2189768af9a27fde4230dea984ccf87d92193a
+SHA256: 93c04cc5923c4eb5e6192b79f5a913529d7f387f9e933dfb7e52261abbf06066
 Section: 应用破解
 Priority: optional
 Description: 维他入我心版
@@ -4828,42 +4828,6 @@ Name: snapper3中文图标【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zhforsnapper3/js.json
 
 Package: com.sini921.zoomanimation
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: SINI
-Installed-Size: 376
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.zoomanimation_0.0.1_iphoneos-arm64.deb
-Size: 36876
-MD5sum: ffe276ab350cdfc6f64bb3464fea3366
-SHA1: 1918e3b1e0a021d83dad71d0b549963f3fc370b5
-SHA256: 66fab8cf4d9db6c03c187c80e36d0a71fc8312ee26a60714643caff44ee5a492
-Section: 越狱插件
-Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。
-Author: SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/zoomanimation.png
-Name: ZoomAnimation【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/zoomanimation/js.json
-
-Package: com.sini921.zoomanimation
-Version: 0.0.1-2
-Architecture: iphoneos-arm64
-Maintainer: SINI
-Installed-Size: 412
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.zoomanimation_0.0.1-2_iphoneos-arm64.deb
-Size: 43962
-MD5sum: 4b56c52ed66cdaf63b050ae55b8afb81
-SHA1: 96df3d7abb75f50672cef30ebfc0e7898ae684f8
-SHA256: 6e644a2307f0d6c2a526b65143ef723925d4a168cb921d264ca6e294ddd5faf4
-Section: 越狱插件
-Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。注意！roothide请使用roothide专用包，通过转换rootless包可能无法使用。
-Author: SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/zoomanimation.png
-Name: ZoomAnimation【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/zoomanimation/js.json
-
-Package: com.sini921.zoomanimation
 Version: 0.0.1-3
 Architecture: iphoneos-arm64
 Maintainer: SINI
@@ -5234,17 +5198,17 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Name: uncar【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/uncar/js.json
 
-Package: com.huami.dyyypro
-Version: 2.2-7-1748905949
+Package: com.sini.dyyypro
+Version: 2.2-7-1748991890
 Architecture: iphoneos-arm64e
 Maintainer: huami
-Installed-Size: 2292
+Installed-Size: 2288
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.huami.dyyypro_2.2-7-1748905949_iphoneos-arm64e.deb
-Size: 441880
-MD5sum: 42cffdd454ff6d72d38073be7c0f3f24
-SHA1: 87d3b64e9cb714f9be0bbb371dd6e77cec35c2d7
-SHA256: 0456b28b3327d5b9c3e2ecb7f7cb3143460ae57d99a8ee5d4490444c20949dec
+Filename: roothide/com.sini.dyyypro_2.2-7-1748991890_iphoneos-arm64e.deb
+Size: 449368
+MD5sum: 95a04fecc1b3d2df04fddb540609bd24
+SHA1: 6ffa7a7ad9339f97e665e623817f1e2d69ab4dfc
+SHA256: af7d095c76d8b08a3d89380f68265143f71767b31dd652261b0029dc12613d46
 Section: 应用破解
 Priority: optional
 Description: 维他入我心版
@@ -5374,43 +5338,6 @@ Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/qq.png
 Name: QQAvatarRotation【roothide】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/qqavatarrotation/js.json
-
-Package: com.sini921.zoomanimation
-Version: 0.0.1
-Architecture: iphoneos-arm64e
-Maintainer: SINI
-Installed-Size: 376
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.zoomanimation_0.0.1_iphoneos-arm64e.deb
-Size: 38632
-MD5sum: f8cea79ad028777fce16fb926c94fc8a
-SHA1: 2c5140aaa2a8827b40cb57fd692464a09bb7f7fa
-SHA256: 2712c4a8046e5ebacce6f920f3355f85f14574d3832d9f7c96807e2696cfde78
-Section: 越狱插件
-Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。
-Author: SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/zoomanimation.png
-Name: ZoomAnimation【roothide】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/zoomanimation/js.json
-
-Package: com.sini921.zoomanimation
-Version: 0.0.1-2
-Architecture: iphoneos-arm64e
-Maintainer: SINI
-Installed-Size: 408
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.zoomanimation_0.0.1-2_iphoneos-arm64e.deb
-Size: 41952
-MD5sum: 6727711db4dbe43145748d4f810ee922
-SHA1: c5929170f5379dd81dcc4769096aefa0587afd1d
-SHA256: 328ac2e6c9885fec01a9c26fc87079ac168bac4176828dcf6aad30fdd2630502
-Section: 越狱插件
-Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。注意！roothide请使用roothide专用包，通过转换rootless包可能无法使用。
-Author: SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/zoomanimation.png
-Name: ZoomAnimation【roothide】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/zoomanimation/js.json
 
 Package: com.sini921.zoomanimation
 Version: 0.0.1-3
