@@ -42,6 +42,18 @@
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://sini921.github.io/repo/sileodepiction/reachplayer/Screenshot_02.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/reachplayer/Screenshot_03.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/reachplayer/Screenshot_04.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/reachplayer/Screenshot_05.png"
                         }
                     ]
                 },
@@ -65,12 +77,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.21-2",
+                    "text": "2.23-2",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年05月08日",
+                    "text": "2025年06月05日",
                     "title": "更新日期"
                 },
                 {
@@ -89,6 +101,30 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.23-2\n- 优化设置项内容\n- 改进了一些代码，优化了一些细节，提升了执行效率",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.23-1\n- 其他设置新增隐藏锁屏播放器",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.22-2\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"

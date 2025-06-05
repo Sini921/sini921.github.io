@@ -1437,26 +1437,6 @@ Author: 妖刀
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dynamic.png
 Name: DynamicStage 简体中文包【rootless】
 
-Package: com.sini.dyyy
-Version: 2.2-7
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 2044
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.dyyy_2.2-7_iphoneos-arm64.deb
-Size: 397916
-MD5sum: 3e25b7e1020f5d77dd21e541446c4b8d
-SHA1: 1ebd1de594e21dfe42526df85abc4b711545bcf4
-SHA256: d18c19fc53f2d7624306d349b3b51084bf8cb61e56c6ff369d2e92ddf70e599b
-Section: 应用破解
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
-Name: DYYY【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
-
 Package: com.sini.dyyypro
 Version: 2.2-7-1748991890
 Architecture: iphoneos-arm64
@@ -2765,24 +2745,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: RecordPause【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/recordpause/js.json
 
-Package: com.sini.reddit
-Version: 0.0.2
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.reddit_0.0.2_iphoneos-arm64.deb
-Size: 10900
-MD5sum: 307ca58277879ebf57695d474fe5af5d
-SHA1: 6f4caaf9590d4f09403b99f463abab846e7119b7
-SHA256: 51d39f4c2bd50d144dc38ace4cac37689450c775f5b7459fe51c32db363bb21c
-Section: 汉化插件
-Description: Reddit界面、设置、功能汉化(rootless)简体中文包
-Author: 来了老弟
-Icon: https://sini921.github.io/repo/sileodepiction/icon/reddit.png
-Name: Reddit简体中文包【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/reddit/js.json
-
 Package: com.sini.removewidgetbg
 Version: 1.7
 Architecture: iphoneos-arm64
@@ -2836,24 +2798,6 @@ Author: sergy
 Icon: https://sini921.github.io/repo/sileodepiction/icon/replyactions.png
 Name: ReplyActions【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/replyactions/js.json
-
-Package: com.sini.rocket
-Version: 3.8.32
-Architecture: iphoneos-arm64
-Maintainer: Rocket App
-Depends: firmware (>= 8.0), mobilesubstrate
-Filename: rootless/com.sini.rocket_3.8.32_iphoneos-arm64.deb
-Size: 1462132
-MD5sum: 24fa9d0a0f6973b13507194bdc48f96c
-SHA1: 538a79a7c24b6bb38300238cd1fe359307caa4c5
-SHA256: 8c559e0e00b12a7e79fa58e28a1fa8aa02e781077f7f4f41c78c23184cb7c668
-Section: 应用破解
-Priority: optional
-Description: Instagram 增强插件，加入刀刀源汉化，加入Cypwn源破解
-Author: Rocket App
-Icon: https://sini921.github.io/repo/sileodepiction/icon/rocket.png
-Name: Rocket for Instagram【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/rocket/js.json
 
 Package: com.sini.rose
 Version: 1.1.0
@@ -2940,24 +2884,6 @@ Author: zqbb
 Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: Hello Snapper【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/savephotos/js.json
-
-Package: com.sini.scinsta
-Version: 0.6.0
-Architecture: iphoneos-arm64
-Maintainer: SoCuul & 妖刀
-Installed-Size: 1872
-Depends: mobilesubstrate, ws.hbang.common
-Filename: rootless/com.sini.scinsta_0.6.0_iphoneos-arm64.deb
-Size: 505704
-MD5sum: 6ab629a8d91cc08bd2c17775f132d86a
-SHA1: 23809ae7a0e20c53bed2433ea160c30f5a67bd5c
-SHA256: 1797149829ce6e029eea2b80d59b355b5d2ae8051aa3dc8206ce7efc84d187ad
-Section: 应用破解
-Description: Instagram功能丰富的插件，可去广告、可隐藏推荐、二次确认、下载媒体等，长按主页面左上角“Instagram图标”进入插件设置，刀刀根据开源直接编译的中文版。
-Author: SoCuul
-Icon: https://sini921.github.io/repo/sileodepiction/icon/scinsta.png
-Name: SCInsta【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/scinsta/js.json
 
 Package: com.sini.senri
 Version: 1.1
