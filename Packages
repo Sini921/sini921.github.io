@@ -978,16 +978,16 @@ Name: CCAutoBrightness【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccautobrightness/js.json
 
 Package: com.sini.ccborder
-Version: 1.1.9
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: 妖刀
 Installed-Size: 448
 Depends: mobilesubstrate, firmware (>= 16.0), ws.hbang.alderis
-Filename: rootless/com.sini.ccborder_1.1.9_iphoneos-arm64.deb
-Size: 39868
-MD5sum: 401dda6a4365a3471d94b2bf0b920b93
-SHA1: 320fb41845abab6d45e79f1675e9d5140f96436e
-SHA256: df65aafd8abc7f916e778b98fcfb794d0e4203fb39dadb6b4dc10d36764f7285
+Filename: rootless/com.sini.ccborder_1.2_iphoneos-arm64.deb
+Size: 41280
+MD5sum: de4dbb1da29f715db1963664babb84be
+SHA1: a137f31298cf7243b66be715d34bc8fdb654561d
+SHA256: d6684e933e8c19e04d827aa44c8f7ad47973586743517e4b1ce33a946da90b24
 Section: 越狱插件
 Description: 类iOS18样式的控制中心，可调节控制中心模块形状，模块边框粗细，音量/亮度图形颜色，亮度/音量百分百等；基于p2kdev的开源定制。
 Author: fiore & p2kdev & 妖刀
