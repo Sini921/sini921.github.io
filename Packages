@@ -4412,60 +4412,6 @@ Name: ChatGPTHook【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/chatgpthook/js.json
 
 Package: com.sini921.chromahomebarx
-Version: 1.0-2
-Architecture: iphoneos-arm64
-Maintainer: Afnan Ahmad & SINI
-Installed-Size: 480
-Depends: mobilesubstrate, ws.hbang.alderis
-Filename: rootless/com.sini921.chromahomebarx_1.0-2_iphoneos-arm64.deb
-Size: 76528
-MD5sum: 8fc2bfd1cdf0282751e06ce4688056a7
-SHA1: c0ae8ee9f8cc04905f75f1afdcf9951abf2d9595
-SHA256: 1a4e9cfce6268e2281d65cbca768ccb28259113d3401945053f54a0dac663a07
-Section: 越狱插件
-Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根越狱
-Author: Afnan Ahmad & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/chromahomebarx.png
-Name: ChromaHomeBarX【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/chromahomebarx/js.json
-
-Package: com.sini921.chromahomebarx
-Version: 1.1-0
-Architecture: iphoneos-arm64
-Maintainer: Afnan Ahmad & SINI
-Installed-Size: 484
-Depends: mobilesubstrate, ws.hbang.alderis
-Filename: rootless/com.sini921.chromahomebarx_1.1-0_iphoneos-arm64.deb
-Size: 79444
-MD5sum: f76172721c7c20a24db14366336f69cb
-SHA1: a58958c5f193a478d03016564e4cba673c362b64
-SHA256: 82218323447fb46573dd47e14954e0b06d7452e71f50ab03575e98ce83f8d424
-Section: 越狱插件
-Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根越狱
-Author: Afnan Ahmad & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/chromahomebarx.png
-Name: ChromaHomeBarX【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/chromahomebarx/js.json
-
-Package: com.sini921.chromahomebarx
-Version: 1.2-1
-Architecture: iphoneos-arm64
-Maintainer: Afnan Ahmad & SINI
-Installed-Size: 484
-Depends: mobilesubstrate, ws.hbang.alderis
-Filename: rootless/com.sini921.chromahomebarx_1.2-1_iphoneos-arm64.deb
-Size: 79494
-MD5sum: 57dde3312534fd3667e41c3f7f532f1a
-SHA1: b72e673db397b8b1db32aaf8fc99de1fb5359aec
-SHA256: 95574d8de5e7ec2b60337a74a8651ffc6c96fd34c7dd684337bdf225d5db7a30
-Section: 越狱插件
-Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根越狱
-Author: Afnan Ahmad & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/chromahomebarx.png
-Name: ChromaHomeBarX【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/chromahomebarx/js.json
-
-Package: com.sini921.chromahomebarx
 Version: 1.2-2
 Architecture: iphoneos-arm64
 Maintainer: Afnan Ahmad & SINI
@@ -4754,16 +4700,16 @@ Name: snapper3中文图标【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zhforsnapper3/js.json
 
 Package: com.sini921.zoomanimation
-Version: 0.0.1-3
+Version: 0.0.1-4
 Architecture: iphoneos-arm64
 Maintainer: SINI
 Installed-Size: 388
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.zoomanimation_0.0.1-3_iphoneos-arm64.deb
-Size: 21468
-MD5sum: 9d4fdcaca56f20df9ecd5718668bee45
-SHA1: 986207aa12230410cc244f6d82bf9568a2eec81e
-SHA256: 0e0f08ca0bb8a3d1ad28a579dd54db329d9922318d3f6d411b887fb9b21b0a7d
+Filename: rootless/com.sini921.zoomanimation_0.0.1-4_iphoneos-arm64.deb
+Size: 21544
+MD5sum: e8044273a3d8fbd43a426216371570a6
+SHA1: 698066fcc71c9a997c8f42b452df20a9a325fc83
+SHA256: 1fbffa30daa05d2b9d3ef24157926eb77088bfbe4dcc97eef88b506a4fab4188
 Section: 越狱插件
 Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。注意！roothide请使用roothide专用包，通过转换rootless包可能无法使用。
 Author: SINI
@@ -5266,16 +5212,16 @@ Name: QQAvatarRotation【roothide】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/qqavatarrotation/js.json
 
 Package: com.sini921.zoomanimation
-Version: 0.0.1-3
+Version: 0.0.1-4
 Architecture: iphoneos-arm64e
 Maintainer: SINI
 Installed-Size: 356
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.zoomanimation_0.0.1-3_iphoneos-arm64e.deb
-Size: 19688
-MD5sum: 1ee2bb0030764608c6ad054a872e617f
-SHA1: 55cda0eaf45c88a6da4fb74a0c8bced8005d0179
-SHA256: 054e7ec48781f7bb550f294d245afec018f5fd8882fd2dddf750d4af3a56a367
+Filename: roothide/com.sini921.zoomanimation_0.0.1-4_iphoneos-arm64e.deb
+Size: 19778
+MD5sum: 0a929aaf223e1ed87d2b38cb1b0b6dda
+SHA1: 8a62fffb360dd67b00f731f59cd661e34e498577
+SHA256: 1eeea6babc0709385fbaa8226494a1bdf7cf4d02b86a3c6dd9f20f44098b7c5a
 Section: 越狱插件
 Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。注意！roothide请使用roothide专用包，通过转换rootless包可能无法使用。
 Author: SINI
