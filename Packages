@@ -3516,17 +3516,17 @@ Name: 主题盒子【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/themebox/js.json
 
 Package: com.sini.themepro
-Version: 3.8.8
+Version: 3.8.9
 Architecture: iphoneos-arm64
 Maintainer: MustangYM <MustangYM@yeah.net>
 Depends: mobilesubstrate
 Conflicts: ThemePro
 Replaces: ThemePro
-Filename: rootless/com.sini.themepro_3.8.8_iphoneos-arm64.deb
-Size: 5810216
-MD5sum: da5f58c433fdd06657730d22afe879c0
-SHA1: f1dbc7545e2d796d5fa792e1ae17b0807632fd05
-SHA256: c5be21ac59f44ce79422203e84c5fae143f2cb517cd7b96bc9e6914caaa6bf7b
+Filename: rootless/com.sini.themepro_3.8.9_iphoneos-arm64.deb
+Size: 5792592
+MD5sum: 4c01b0796fe23bd8e94a1077de156540
+SHA1: f1c2c3b21dc76d7a41029cc069bba610e7c0492f
+SHA256: 4e6ee055deadeb24e92e492e76c435697f80218db03e9ecd0113c6849e224daf
 Section: 微信插件
 Description: 微信主题美化，主题需付费
 Author: MustangYM <mm13299079785@gmail.com>
