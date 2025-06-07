@@ -1438,19 +1438,19 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dynamic.png
 Name: DynamicStage 简体中文包【rootless】
 
 Package: com.sini.dyyypro
-Version: 2.2-7-1749268615
+Version: 2.2-7-1749317002
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 2304
+Installed-Size: 2324
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.dyyypro_2.2-7-1749268615_iphoneos-arm64.deb
-Size: 449608
-MD5sum: 1b96d04bdad5c1d8b784658e42b8461d
-SHA1: 26d6d9c2e99b2fbb8cee115d3f3a0a53a37168e0
-SHA256: 6e3d8e443cc2475461ad90aa7f418d7ee31585d46f1833962be045b14b01703f
+Filename: rootless/com.sini.dyyypro_2.2-7-1749317002_iphoneos-arm64.deb
+Size: 449044
+MD5sum: 5dfd3b0f8ac913eecfa1ca5a493ed0c7
+SHA1: 5ca4e1eae96583b7174abaa8d35bf3a82155433b
+SHA256: b2f648abdf9920a1b97bfd8f222773e6c01620cdfe29347361d2a4e8caa5888e
 Section: 应用破解
 Priority: optional
-Description: 维她入我心版
+Description: 维他入我心版
 Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
 Name: DYYY【rootless】
@@ -4995,19 +4995,19 @@ Name: uncar【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/uncar/js.json
 
 Package: com.sini.dyyypro
-Version: 2.2-7-1749268615
+Version: 2.2-7-1749317002
 Architecture: iphoneos-arm64e
 Maintainer: huami
-Installed-Size: 2304
+Installed-Size: 2324
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini.dyyypro_2.2-7-1749268615_iphoneos-arm64e.deb
-Size: 449648
-MD5sum: 98b660fd4f65cfedaa8181fa73a4f77e
-SHA1: 280b7e192786a5b653ea3cf7cffb74eb8ff0894a
-SHA256: 111ed54eb8514916f13eb28e52cd468a1945ff579a7e3473552d3b20b313dbab
+Filename: roothide/com.sini.dyyypro_2.2-7-1749317002_iphoneos-arm64e.deb
+Size: 449028
+MD5sum: 0a6d049862cb28907a8899645116ca9d
+SHA1: e95be25642646dc273c32fb768ac1298706524b4
+SHA256: b3b02886d8ee5cff63940066c32532a5d8ed722f5b461cf52d52da89c2d10090
 Section: 应用破解
 Priority: optional
-Description: 维她入我心版
+Description: 维他入我心版
 Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
 Name: DYYY【roothide】
