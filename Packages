@@ -51,6 +51,25 @@ Sileodepiction: https://sini921.github.io/repo/sileodepiction/misaki/js.json
 Icon: https://sini921.github.io/repo/sileodepiction/icon/misaki.png
 Name: Misaki【rootless】
 
+Package: com.huami.dyyypro
+Version: 2.2-7-1749268615
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2304
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.huami.dyyypro_2.2-7-1749268615_iphoneos-arm64.deb
+Size: 450208
+MD5sum: a6628b503aee106b2d324564161eb13e
+SHA1: 3a06bcf70a8e3c12c33892c305fff89701816b53
+SHA256: 2ed851a608e39b1466beca29e9658184750a3e3c059f1dd09b34cac372b6f311
+Section: 应用破解
+Priority: optional
+Description: 维她入我心版
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
+Name: DYYY【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyypro/js.json
+
 Package: com.lclrc.hammerit
 Version: 1.7.1
 Architecture: iphoneos-arm64
@@ -1436,25 +1455,6 @@ Description: DynamicStage 简体中文包。
 Author: 妖刀
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dynamic.png
 Name: DynamicStage 简体中文包【rootless】
-
-Package: com.sini.dyyypro
-Version: 2.2-7-1748991890
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 2288
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.dyyypro_2.2-7-1748991890_iphoneos-arm64.deb
-Size: 448152
-MD5sum: c33724dc12e71cf793304366910fb4ac
-SHA1: db2189768af9a27fde4230dea984ccf87d92193a
-SHA256: 93c04cc5923c4eb5e6192b79f5a913529d7f387f9e933dfb7e52261abbf06066
-Section: 应用破解
-Priority: optional
-Description: 维他入我心版
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
-Name: DYYY【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyypro/js.json
 
 Package: com.sini.easynotifications
 Version: 3.0
@@ -3516,93 +3516,17 @@ Name: 主题盒子【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/themebox/js.json
 
 Package: com.sini.themepro
-Version: 3.7.1
+Version: 3.8.8
 Architecture: iphoneos-arm64
 Maintainer: MustangYM <MustangYM@yeah.net>
 Depends: mobilesubstrate
 Conflicts: ThemePro
 Replaces: ThemePro
-Filename: rootless/com.sini.themepro_3.7.1_iphoneos-arm64.deb
-Size: 5762496
-MD5sum: 043c636486d0e68ebad8640a2f5b077a
-SHA1: db3682051cc10741a8e67947aea429fcd29802f7
-SHA256: a753c78e74a113efe8f375d5ed1dd29c84feb404ec5250110f09fb19dfc3bf20
-Section: 微信插件
-Description: 微信主题美化，插件免费，主题需付费
-Author: MustangYM <mm13299079785@gmail.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/themepro.png
-Name: ThemePro【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/themepro/js.json
-
-Package: com.sini.themepro
-Version: 3.7.2
-Architecture: iphoneos-arm64
-Maintainer: MustangYM <MustangYM@yeah.net>
-Depends: mobilesubstrate
-Conflicts: ThemePro
-Replaces: ThemePro
-Filename: rootless/com.sini.themepro_3.7.2_iphoneos-arm64.deb
-Size: 5709916
-MD5sum: ae97049f66a3b2ca5934121be67d4fa5
-SHA1: 9b05c2eb71908350d6784cae8a5a3468c1f87cd3
-SHA256: 8ee3cc8370d61ba6647f5121e3144b38c7576c5ccd12392e2e6d8b9e8067d63f
-Section: 微信插件
-Description: 微信主题美化，主题需付费
-Author: MustangYM <mm13299079785@gmail.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/themepro.png
-Name: ThemePro【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/themepro/js.json
-
-Package: com.sini.themepro
-Version: 3.7.3
-Architecture: iphoneos-arm64
-Maintainer: MustangYM <MustangYM@yeah.net>
-Depends: mobilesubstrate
-Conflicts: ThemePro
-Replaces: ThemePro
-Filename: rootless/com.sini.themepro_3.7.3_iphoneos-arm64.deb
-Size: 5744416
-MD5sum: 433bc30aff911f28de8c354cda94b759
-SHA1: 0963d2a099481826afd8c797679f0aa39354fcfa
-SHA256: 51a5c2cb9d62f313eb60380da06db196832b9ad63870316ce8148600375936c9
-Section: 微信插件
-Description: 微信主题美化，主题需付费
-Author: MustangYM <mm13299079785@gmail.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/themepro.png
-Name: ThemePro【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/themepro/js.json
-
-Package: com.sini.themepro
-Version: 3.8.3
-Architecture: iphoneos-arm64
-Maintainer: MustangYM <MustangYM@yeah.net>
-Depends: mobilesubstrate
-Conflicts: ThemePro
-Replaces: ThemePro
-Filename: rootless/com.sini.themepro_3.8.3_iphoneos-arm64.deb
-Size: 5757204
-MD5sum: ab696f3b0d3aca2f09816febc611e98f
-SHA1: a7943238ff71e21f693ecdb37e811f6977a46e8e
-SHA256: 70be0bcd0e71131712d315fd017dbab9e744dad0f1a3c9de6d669d0feb482bae
-Section: 微信插件
-Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
-Author: MustangYM <mm13299079785@gmail.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/themepro.png
-Name: ThemePro【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/themepro/js.json
-
-Package: com.sini.themepro
-Version: 3.8.7
-Architecture: iphoneos-arm64
-Maintainer: MustangYM <MustangYM@yeah.net>
-Depends: mobilesubstrate
-Conflicts: ThemePro
-Replaces: ThemePro
-Filename: rootless/com.sini.themepro_3.8.7_iphoneos-arm64.deb
-Size: 5827712
-MD5sum: f0905711fb81db58ae27f3027e3f0987
-SHA1: 3eb19e9c2f52963b9e9e0f9533cef1a5d98e5fe5
-SHA256: ebb786e4ce8f915a631310d91cc94b80d2b150816e1f089e1e27a39528493fcd
+Filename: rootless/com.sini.themepro_3.8.8_iphoneos-arm64.deb
+Size: 5810216
+MD5sum: da5f58c433fdd06657730d22afe879c0
+SHA1: f1dbc7545e2d796d5fa792e1ae17b0807632fd05
+SHA256: c5be21ac59f44ce79422203e84c5fae143f2cb517cd7b96bc9e6914caaa6bf7b
 Section: 微信插件
 Description: 微信主题美化，主题需付费
 Author: MustangYM <mm13299079785@gmail.com>
@@ -4706,10 +4630,10 @@ Maintainer: SINI
 Installed-Size: 388
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini921.zoomanimation_0.0.1-4_iphoneos-arm64.deb
-Size: 21544
-MD5sum: e8044273a3d8fbd43a426216371570a6
-SHA1: 698066fcc71c9a997c8f42b452df20a9a325fc83
-SHA256: 1fbffa30daa05d2b9d3ef24157926eb77088bfbe4dcc97eef88b506a4fab4188
+Size: 22072
+MD5sum: a35df781df9c816d089700e90f906a18
+SHA1: 3081098539d15a1a34960479f086a16b04089d93
+SHA256: b4583372d0d88d03e0c6e85ae19b4e6d16c2bdb60337764672ac7b7af1a6a542
 Section: 越狱插件
 Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。注意！roothide请使用roothide专用包，通过转换rootless包可能无法使用。
 Author: SINI
@@ -5070,20 +4994,20 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Name: uncar【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/uncar/js.json
 
-Package: com.sini.dyyypro
-Version: 2.2-7-1748991890
+Package: com.huami.dyyypro
+Version: 2.2-7-1749268615
 Architecture: iphoneos-arm64e
 Maintainer: huami
-Installed-Size: 2288
+Installed-Size: 2304
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini.dyyypro_2.2-7-1748991890_iphoneos-arm64e.deb
-Size: 449368
-MD5sum: 95a04fecc1b3d2df04fddb540609bd24
-SHA1: 6ffa7a7ad9339f97e665e623817f1e2d69ab4dfc
-SHA256: af7d095c76d8b08a3d89380f68265143f71767b31dd652261b0029dc12613d46
+Filename: roothide/com.huami.dyyypro_2.2-7-1749268615_iphoneos-arm64e.deb
+Size: 449860
+MD5sum: 553e1e6ed3ee7399860600ebdbe5b9c4
+SHA1: aec5423c45cb4f006aeb7053f7d8f642efd0b2d8
+SHA256: a4d9af2912285a42420587b97bd45fb08b69945fe3ecbe3bb23ced3549c8e63f
 Section: 应用破解
 Priority: optional
-Description: 维他入我心版
+Description: 维她入我心版
 Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
 Name: DYYY【roothide】
@@ -5215,13 +5139,13 @@ Package: com.sini921.zoomanimation
 Version: 0.0.1-4
 Architecture: iphoneos-arm64e
 Maintainer: SINI
-Installed-Size: 356
+Installed-Size: 388
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/com.sini921.zoomanimation_0.0.1-4_iphoneos-arm64e.deb
-Size: 19778
-MD5sum: 0a929aaf223e1ed87d2b38cb1b0b6dda
-SHA1: 8a62fffb360dd67b00f731f59cd661e34e498577
-SHA256: 1eeea6babc0709385fbaa8226494a1bdf7cf4d02b86a3c6dd9f20f44098b7c5a
+Size: 20402
+MD5sum: 07d59a0acc6e2c775f06501ab8a1b376
+SHA1: 13637db0c6349524c80559ee349576944fe5a692
+SHA256: fe4b2cccb420159d8011acc09a75b80a899f7b88f5851b2bff38bfb00c33984f
 Section: 越狱插件
 Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。注意！roothide请使用roothide专用包，通过转换rootless包可能无法使用。
 Author: SINI

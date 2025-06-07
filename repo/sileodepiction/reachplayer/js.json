@@ -77,12 +77,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.23-3",
+                    "text": "2.23-5",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年06月06日",
+                    "text": "2025年06月07日",
                     "title": "更新日期"
                 },
                 {
@@ -101,6 +101,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.23-5\n- 新增一个刷新配置按钮，替换配置文件或者删除配置文件以后，点击则立即刷新实际效果，不用在反复注销",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
