@@ -4994,6 +4994,27 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Name: uncar【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/uncar/js.json
 
+Package: com.mrgcgamer.libgcuniversal
+Version: 1.7.0
+Architecture: iphoneos-arm64e
+Maintainer: MrGcGamer
+Installed-Size: 380
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Filename: roothide/com.mrgcgamer.libgcuniversal_1.7.0_iphoneos-arm64e.deb
+Size: 55836
+MD5sum: 731ab23d89986c7b3a70d41050e0f456
+SHA1: b902edcde29e8c64623f31715937feafb5119707
+SHA256: 9ef6dfcc033bf0523f3e615c8bb0238db681d739e1f0d50124cf5c21d3623c87
+Section: Development
+Description: 有些插件需要这个依赖（通过RootHide Patcher转换）
+Tag: role::developer
+Author: MrGcGamer
+Icon: https://sini921.github.io/repo/sileodepiction/icon/libgcuniversal.png
+Name: LibGcUniversal【roothide】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/libgcuniversal/js.json
+
 Package: com.sini.dyyypro
 Version: 2.2-7-1749317002
 Architecture: iphoneos-arm64e
