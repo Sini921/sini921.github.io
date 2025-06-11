@@ -94,7 +94,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 3.8-5\n- 修复8.0.59热更新后群聊信息页面查看更多群成员闪退问题",
+                    "markdown": "#### 版本: 3.8-5\n- 主要修复信版本客户端热更新后对一些功能的影响，如群助手、服务号助手，防撤回。其它大部分已失效内容未修复。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
