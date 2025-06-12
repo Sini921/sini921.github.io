@@ -124,15 +124,15 @@ Name: 3DNetworkFixer【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/3dnetworkfixer/js.json
 
 Package: com.sini.77theme
-Version: 1.0.7
+Version: 1.0.8
 Architecture: iphoneos-arm64
 Maintainer: 77Theme
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.77theme_1.0.7_iphoneos-arm64.deb
-Size: 5083976
-MD5sum: 6a0ee09a98d0b32f3367104c095ab588
-SHA1: 28c410127434f27c6b0f75f47cf4cf09bfaedc76
-SHA256: a664aa4d1c3ca922a4e97222590a6cf0a374d3754e248d5282ed776cca4cbf42
+Filename: rootless/com.sini.77theme_1.0.8_iphoneos-arm64.deb
+Size: 5099216
+MD5sum: 28f84d805f690b76953a2fe931de3bed
+SHA1: 3fcb3a24c75508c526fab887a3741bb97f6e168d
+SHA256: 80e8f7e0340188ef8a06e56f4abe48a154003d892890598c93329c6ae54d3815
 Section: 微信插件
 Priority: optional
 Description: 微信主题美化，主题需付费
