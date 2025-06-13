@@ -158,15 +158,15 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/appindex.png
 Name: AppIndex【rootless】
 
 Package: com.sini.HBWechatHelper
-Version: 1.8.7
+Version: 1.8.8
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: rootless/com.sini.HBWechatHelper_1.8.7_iphoneos-arm64.deb
-Size: 11363808
-MD5sum: 3fda167c40360d5c7ac91774b92a904c
-SHA1: 134efd681d7334c15809f93a58e9d349f044496d
-SHA256: cc905b84ac6b1c4625c841299974c396fe3f592ddf580af9c7d10e80fa6caff2
+Filename: rootless/com.sini.HBWechatHelper_1.8.8_iphoneos-arm64.deb
+Size: 11589704
+MD5sum: 0e41551deab0d1503532b22cb4383b49
+SHA1: 564f1e6f494fb39ebe3692135e26a2362f0336ba
+SHA256: 04e1040a10b8bacf2f985a8e6c2036d6d1fcee6c5d1054f003da37ee7716a917
 Section: 微信插件
 Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
 Author: HuangBai <QQ:1343309363@qq.com>
