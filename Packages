@@ -1438,19 +1438,19 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dynamic.png
 Name: DynamicStage 简体中文包【rootless】
 
 Package: com.sini.dyyypro
-Version: 2.2-8-1749604893
+Version: 2.2-8-1749785237
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 2324
+Installed-Size: 2340
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.dyyypro_2.2-8-1749604893_iphoneos-arm64.deb
-Size: 451756
-MD5sum: b65b3aefa7337b25484da05145d0a668
-SHA1: 8206da3967e4df898319c947decdd30d720de9b8
-SHA256: 8da9c0e4a31d1068b04e69da75f091afafe17c88661e1174088797b1fbe1953e
+Filename: rootless/com.sini.dyyypro_2.2-8-1749785237_iphoneos-arm64.deb
+Size: 458440
+MD5sum: d091da9512a94e406916c53bfa2fe584
+SHA1: ad8fe5d0be18fe394b7471a2f3faa936d6edc232
+SHA256: 5ddee07d2ef82e2460f2e77f860ebb8b7bf63e429c47ecbf6e65d81035466286
 Section: 应用破解
 Priority: optional
-Description: 维她入我心版
+Description: 维他入我心版
 Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
 Name: DYYY【rootless】
@@ -5016,19 +5016,19 @@ Name: LibGcUniversal【roothide】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/libgcuniversal/js.json
 
 Package: com.sini.dyyypro
-Version: 2.2-8-1749604893
+Version: 2.2-8-1749785237
 Architecture: iphoneos-arm64e
 Maintainer: huami
-Installed-Size: 2324
+Installed-Size: 2340
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini.dyyypro_2.2-8-1749604893_iphoneos-arm64e.deb
-Size: 451040
-MD5sum: a7927f8cbde4b84dde82c863ec32f5cd
-SHA1: b8faf36d2d432a4c5374679260d4f166a02bb024
-SHA256: 9d80242237c1ebc0337c8122094d2ebfb2579bb2866ad2bc8ff3011f1a824de0
+Filename: roothide/com.sini.dyyypro_2.2-8-1749785237_iphoneos-arm64e.deb
+Size: 459320
+MD5sum: 21be88aa201f0485c438ed20d42a726c
+SHA1: 057d1f6460d46f2c85657e615f0a7d96ee8b3800
+SHA256: f4ec0228f1d40c1698b3d849dcbd56ea1cce35eee6863e5225ca4aa68406d201
 Section: 应用破解
 Priority: optional
-Description: 维她入我心版
+Description: 维他入我心版
 Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
 Name: DYYY【roothide】
