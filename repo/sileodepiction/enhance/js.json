@@ -61,12 +61,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.4-5",
+                    "text": "1.4-7",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年06月10日",
+                    "text": "2025年06月16日",
                     "title": "更新日期"
                 },
                 {
@@ -85,6 +85,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.4-7\n- 头像圆角添加边框\n- 朋友圈圆角添加边框\n- 相册选择圆角添加边框\n- 主页面会话添加左滑菜单圆角/边框设置\n- 表情包圆角添加边框\n- 快速回复通知添加圆角/边框/背景模糊设置\n- 聊天页底部输入整体区域添加圆角/边框设置\n- 修复iPad台前调度模式下点击头像显示模式闪退问题\n- 聊天顶栏头像添加水平位置偏移调\n- 聊天附件布局-支持行数调整",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
