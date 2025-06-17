@@ -1438,19 +1438,19 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dynamic.png
 Name: DynamicStage 简体中文包【rootless】
 
 Package: com.sini.dyyypro
-Version: 2.2-8-1750041496
+Version: 2.2-8-1750126941
 Architecture: iphoneos-arm64
 Maintainer: huami
 Installed-Size: 2356
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.dyyypro_2.2-8-1750041496_iphoneos-arm64.deb
-Size: 464056
-MD5sum: 85206040fde5456293c7e52ac0c7ce19
-SHA1: eb8e9a7796d77e1f5bf60f25884a48bef7ab2e3e
-SHA256: 96b092c7846eaf3e2a0aca3a2cf813877f075a940095352377462f93e44d8df4
+Filename: rootless/com.sini.dyyypro_2.2-8-1750126941_iphoneos-arm64.deb
+Size: 464048
+MD5sum: 3719f0893f38760d5b889661a5a7f107
+SHA1: b64b5a084bac1e8f025d07c8eba03b4495e40632
+SHA256: 4290a214d9635e025e91042ccebb81da60a691b8ff0a8fc218898aa0dda11eaf
 Section: 应用破解
 Priority: optional
-Description: 唯她入我心版
+Description: 维她入我心版
 Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
 Name: DYYY【rootless】
@@ -2205,6 +2205,24 @@ Author: Misaka
 Icon: https://sini921.github.io/repo/sileodepiction/icon/misakahelper.png
 Name: MisakaHelper【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/misakahelper/js.json
+
+Package: com.sini.miyou
+Version: 3.8-4
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: rootless/com.sini.miyou_3.8-4_iphoneos-arm64.deb
+Size: 9296808
+MD5sum: a0c235f0769cf60845393206ab55a780
+SHA1: 51bd1466c63aa3a102dc2c9ecdb516ce9a1c05ac
+SHA256: e21a518752c2921d526a4052572d2bcf6e41883d2843882f2e555cf07ddbf962
+Section: 微信插件
+Priority: optional
+Description: 微信助手
+Author: Mao
+Icon: https://sini921.github.io/repo/sileodepiction/icon/miyou.png
+Name: 微信助手【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/miyou/js.json
 
 Package: com.sini.miyou
 Version: 3.8-5
@@ -5016,19 +5034,19 @@ Name: LibGcUniversal【roothide】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/libgcuniversal/js.json
 
 Package: com.sini.dyyypro
-Version: 2.2-8-1750041496
+Version: 2.2-8-1750126941
 Architecture: iphoneos-arm64e
 Maintainer: huami
 Installed-Size: 2356
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini.dyyypro_2.2-8-1750041496_iphoneos-arm64e.deb
-Size: 463172
-MD5sum: dff421cf760456bf112c696ad9fe2c62
-SHA1: 633a4c0ef2abd2dbf5c2087cf42b09461a6e9613
-SHA256: 06bb876f3596410dc254b904cc169db1c6e610c2a637cad360e82cedc1589bb1
+Filename: roothide/com.sini.dyyypro_2.2-8-1750126941_iphoneos-arm64e.deb
+Size: 465012
+MD5sum: fb881f34509574a5dc8c57944d135bf6
+SHA1: b44816da1c053740958b9beeff91228fe2ca50df
+SHA256: 24078f97cb1bd9210b781897d5200c6f278181ea211a0da376f4df2e1b2b0d88
 Section: 应用破解
 Priority: optional
-Description: 唯她入我心版
+Description: 维她入我心版
 Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
 Name: DYYY【roothide】
