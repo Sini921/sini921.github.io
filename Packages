@@ -1758,6 +1758,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: HideScreenshotPreview【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/hidescreenshotpreview/js.json
 
+Package: com.sini.horizontalsliders
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: rootless/com.sini.horizontalsliders_0.0.1_iphoneos-arm64.deb
+Size: 10640
+MD5sum: d0db9d2c1b64bcd0a82db420b023d2ae
+SHA1: c7f3d1c1eca9b6acd5d71e21f9fa4c21ce5a54e4
+SHA256: f6abcfcd5a3713ee3533f73c239149d3a9ce49bf938b543598b9119a87e52c15
+Section: 越狱插件
+Description: 将控制中心的亮度和音量滑块横过来。
+Author: Nightwind
+Icon: https://sini921.github.io/repo/sileodepiction/icon/horizontalsliders.png
+Name: HorizontalSliders【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/horizontalsliders/js.json
+
 Package: com.sini.iapstore
 Version: 0.0.2
 Architecture: iphoneos-arm64
