@@ -1796,16 +1796,16 @@ Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Filename: rootless/com.sini.iconfetch_0.0.1_iphoneos-arm64.deb
-Size: 8724
-MD5sum: 1f3630f3d72dc4beb4ba52fb5ac1ffe4
-SHA1: 031245fadff2d0fc6b723beab1b4f3b62288db08
-SHA256: 2227dc45edb419e164f373987df2cd467766112c97f0f61f6e2b2191de7201fb
+Size: 8708
+MD5sum: e51f4c187a2d9bbb07a09d7e83f658de
+SHA1: 30221244190044be86773ae5465274d2ba9cbc2d
+SHA256: e427f6f2d3a14eb2b9e7cea8ab43b51d794a712c97c4b24a5c931f06ac891399
 Section: 插件依赖
 Description: CLI 工具，用于读取剪贴板上的捆绑包 ID 并下载匹配的应用程序图标。
 Author: Korboy <korboybeats@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Name: iconfetch【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/gonggao/js.json
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/iconfetch/js.json
 
 Package: com.sini.iconorder
 Version: 1.0.3
