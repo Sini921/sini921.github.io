@@ -3927,34 +3927,16 @@ Name: WCTimeLineMessageTail【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wctimelinemessagetail/js.json
 
 Package: com.sini.wechat-pop-vc
-Version: 0.0.1
+Version: 0.0.4
 Architecture: iphoneos-arm64
 Maintainer: be-huge
 Installed-Size: 232
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: rootless/com.sini.wechat-pop-vc_0.0.1_iphoneos-arm64.deb
-Size: 20612
-MD5sum: 1c40671e713cc1f6dc592e86ae496f89
-SHA1: 922dbe1822e0c908d7fa6178b50d857334d7c757
-SHA256: f2bb6679bc2e0d6c84a6a742c35ff83b5bbf3b66b770b23967a6167a48a39f14
-Section: 微信插件
-Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
-Author: be-huge
-Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat-pop-vc.png
-Name: WeChatPopVC【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/wechat-pop-vc/js.json
-
-Package: com.sini.wechat-pop-vc
-Version: 0.0.3
-Architecture: iphoneos-arm64
-Maintainer: be-huge
-Installed-Size: 232
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: rootless/com.sini.wechat-pop-vc_0.0.3_iphoneos-arm64.deb
-Size: 21676
-MD5sum: 70ee9baaef015802cc8d1313aa5e1f69
-SHA1: f241c6854a2f038b8ce5f1d0beaf43076bdc00e6
-SHA256: cfd1ee64462b5abbcc0889b8294d113c427533f6be9d703894f8119cb039b726
+Filename: rootless/com.sini.wechat-pop-vc_0.0.4_iphoneos-arm64.deb
+Size: 22016
+MD5sum: ff0d150bf8e782b2470355f1c57f4af0
+SHA1: ba2c9855037e0bb8b4c53fb35436d8ace37a2305
+SHA256: bc8927041439c9ea71ff7e09376c9cea6e05612377b4769c030ce6b61ce0c480
 Section: 微信插件
 Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
 Author: be-huge
