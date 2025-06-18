@@ -1244,16 +1244,16 @@ Name: CustomizeCC【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/customizecc/js.json
 
 Package: com.sini.daynightswitch
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: Finn Gaida
 Installed-Size: 584
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: rootless/com.sini.daynightswitch_1.1_iphoneos-arm64.deb
-Size: 68516
-MD5sum: f12d6e85989bce4eca4beb8a4bc5b54b
-SHA1: 405fb228038eeb845b7650872a6519ebbbf579ec
-SHA256: 967c5df8840ca8cce712f3d29dce8f647e345b1aa5f0a9331e593e5e8ad095b6
+Filename: rootless/com.sini.daynightswitch_1.2_iphoneos-arm64.deb
+Size: 69212
+MD5sum: 59189c54635277a24c0364d8d147ce16
+SHA1: 2a445129c642c104682bb790cfbcd4f67424ec5e
+SHA256: 1c07af85c67de6c6608c448e779745eaabcd322e305a9427243f0d97b19ea882
 Section: 越狱插件
 Description: 为您的开关添加一些风格
 Author: Finn Gaida
