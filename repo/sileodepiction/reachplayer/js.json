@@ -77,12 +77,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.24-2",
+                    "text": "2.25-1",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年06月08日",
+                    "text": "2025年06月19日",
                     "title": "更新日期"
                 },
                 {
@@ -101,6 +101,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.25-1\n- 原生的下滑打开与上滑关闭现在分开控制，自行行选择使用或禁用哪个手势。\n- 新增仅允许自定手势，启用后除了本插件中的自定义手势与原生手势，任何方法都无法启用便捷访问，旨在彻底干掉误触。注意：缺点是启用此开关后乌贼手势也无法打开便捷访问，使用乌贼手势调用便捷访问的不要开启这个。\n- 滑块再次优化，优化滑块单元格布局，加减按钮新增长按持续加/减数值。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"

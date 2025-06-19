@@ -61,12 +61,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1-7",
+                    "text": "1.1-8",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年05月15日",
+                    "text": "2025年06月19日",
                     "title": "更新日期"
                 },
                 {
@@ -85,6 +85,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1-8\n- 新增朋友圈提示修改，长按修改朋友圈收到点赞/评论的提示\n- 新增应用信息水印，自行选择水印样式，轴位置调整，文本自定义，颜色调整\n- 优化伪装版本，移除部分版本的支持，新增最新版本伪装选项\n- 优化信息引用回复处理逻辑\n- 修复部分用户艾特闪退\n- 新增了蛮多小细节彩蛋，可以自行探索",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"

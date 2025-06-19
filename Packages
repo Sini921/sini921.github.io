@@ -266,19 +266,19 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/tg.png
 Name: Telegrammask【rootless】
 
 Package: com.sini.WCEhance
-Version: 1.1-7
+Version: 1.1-8
 Architecture: iphoneos-arm64
 Maintainer: Lxcloud
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.WCEhance_1.1-7_iphoneos-arm64.deb
-Size: 1217964
-MD5sum: e3270090c4793e1ee44e543e0ce120e0
-SHA1: 1bfa57686bae5bc86694276486da6b3c48d97508
-SHA256: b9ae075507cd08fbd033f0ce9a3851dc2064444ced7697d71cd05e51b9c64e9a
-Section: 越狱插件
+Filename: rootless/com.sini.WCEhance_1.1-8_iphoneos-arm64.deb
+Size: 1448924
+MD5sum: 5813c9df1b05367846c42a7691710b8f
+SHA1: f24b4e1e70b773cb601e5517e99cd415a0dabfb9
+SHA256: c4a30dd06d001281e1b091baf693e3b48725e72dcafada3ac5372ff54e0942c4
+Section: 微信插件
 Priority: optional
 Description: 微信增强,用于优化一些反人类设计和增强功能。
-Author: huami & Lxcloud
+Author: huami&Lxcloud
 Icon: https://sini921.github.io/repo/sileodepiction/icon/WCEhance.png
 Name: 微信增强【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
