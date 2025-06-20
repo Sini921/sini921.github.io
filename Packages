@@ -1438,23 +1438,23 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dynamic.png
 Name: DynamicStage 简体中文包【rootless】
 
 Package: com.sini.dyyypro
-Version: 2.2-8-1750126941
+Version: 2.2-8-1750434135
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 2356
+Installed-Size: 2372
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.dyyypro_2.2-8-1750126941_iphoneos-arm64.deb
-Size: 464048
-MD5sum: 3719f0893f38760d5b889661a5a7f107
-SHA1: b64b5a084bac1e8f025d07c8eba03b4495e40632
-SHA256: 4290a214d9635e025e91042ccebb81da60a691b8ff0a8fc218898aa0dda11eaf
+Filename: rootless/com.sini.dyyypro_2.2-8-1750434135_iphoneos-arm64.deb
+Size: 469160
+MD5sum: 42a0aad7f5fccf2dee725395328b388a
+SHA1: 45785bad4bdaf611d4b9c8184e447012dbfddced
+SHA256: 060517bd7b76be685a04fa8cce5c5e3d700bdd93932562fe467c89d75380338b
 Section: 应用破解
 Priority: optional
 Description: 维她入我心版
 Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: DYYY【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyypro/js.json
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/gonggao/js.json
 
 Package: com.sini.easynotifications
 Version: 3.0
@@ -5068,23 +5068,23 @@ Name: LibGcUniversal【roothide】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/libgcuniversal/js.json
 
 Package: com.sini.dyyypro
-Version: 2.2-8-1750126941
+Version: 2.2-8-1750434135
 Architecture: iphoneos-arm64e
 Maintainer: huami
-Installed-Size: 2356
+Installed-Size: 2372
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini.dyyypro_2.2-8-1750126941_iphoneos-arm64e.deb
-Size: 465012
-MD5sum: fb881f34509574a5dc8c57944d135bf6
-SHA1: b44816da1c053740958b9beeff91228fe2ca50df
-SHA256: 24078f97cb1bd9210b781897d5200c6f278181ea211a0da376f4df2e1b2b0d88
+Filename: roothide/com.sini.dyyypro_2.2-8-1750434135_iphoneos-arm64e.deb
+Size: 470140
+MD5sum: 2a6e0f85b3bbdd207bf3921ecfd13e58
+SHA1: e1b163a452c4d9016b16680a15e8dba4188cee03
+SHA256: 621f37ab79f62d3d8ef20312086afdcace755cb4a3a96160acd3b4d7c0984808
 Section: 应用破解
 Priority: optional
 Description: 维她入我心版
 Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: DYYY【roothide】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyypro/js.json
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/gonggao/js.json
 
 Package: com.sini.kayoko
 Version: 2.9
