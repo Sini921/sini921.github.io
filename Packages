@@ -1444,17 +1444,17 @@ Maintainer: huami
 Installed-Size: 2372
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: rootless/com.sini.dyyypro_2.2-8-1750434135_iphoneos-arm64.deb
-Size: 469160
-MD5sum: 42a0aad7f5fccf2dee725395328b388a
-SHA1: 45785bad4bdaf611d4b9c8184e447012dbfddced
-SHA256: 060517bd7b76be685a04fa8cce5c5e3d700bdd93932562fe467c89d75380338b
+Size: 468992
+MD5sum: 896837936b2113e5d4be958a39cdeae5
+SHA1: 8c6ba3fd90b6645ded4f0ed2c35d289cb2404ff8
+SHA256: cb28d333d51ce3508c56508579f3a6eb1dbd539fe3ffbddcb14b180c9386c9f7
 Section: 应用破解
 Priority: optional
 Description: 维她入我心版
 Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
 Name: DYYY【rootless】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/gonggao/js.json
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyypro/js.json
 
 Package: com.sini.easynotifications
 Version: 3.0
@@ -4549,6 +4549,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/qq.png
 Name: QQAvatarRotation【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/qqavatarrotation/js.json
 
+Package: com.sini921.quickactions
+Version: 1.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: Cameron Katri & SINI
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: rootless/com.sini921.quickactions_1.0.1-1_iphoneos-arm64.deb
+Size: 46520
+MD5sum: 2f1ea4e1defeaf9866e152e1843531d0
+SHA1: 3b36ef2b6c06c9d62caef3d8aae267c75ee99b30
+SHA256: 0a7bc240213a422904099ddf5dae408bc68b58d74b5b54f9dfad9042886a03af
+Section: 越狱插件
+Description: 锁屏界面的相机与手电筒按钮自定义，基于开源修改编译，添加一些电源操作。
+Author: Cameron Katri & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/quickactions.png
+Name: QuickActions【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickactions/js.json
+
 Package: com.sini921.showmytouches
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -5074,17 +5092,17 @@ Maintainer: huami
 Installed-Size: 2372
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: roothide/com.sini.dyyypro_2.2-8-1750434135_iphoneos-arm64e.deb
-Size: 470140
-MD5sum: 2a6e0f85b3bbdd207bf3921ecfd13e58
-SHA1: e1b163a452c4d9016b16680a15e8dba4188cee03
-SHA256: 621f37ab79f62d3d8ef20312086afdcace755cb4a3a96160acd3b4d7c0984808
+Size: 469136
+MD5sum: 3f5540333148bf4c3d232284e42966f3
+SHA1: f96e3efba1b0c75f99a105509aff906dd4d070b8
+SHA256: 6f45f5f799c32f682107524e970d17458ae172987fea173a40509db49133d4e5
 Section: 应用破解
 Priority: optional
 Description: 维她入我心版
 Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
 Name: DYYY【roothide】
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/gonggao/js.json
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyypro/js.json
 
 Package: com.sini.kayoko
 Version: 2.9
@@ -5225,6 +5243,24 @@ Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/qq.png
 Name: QQAvatarRotation【roothide】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/qqavatarrotation/js.json
+
+Package: com.sini921.quickactions
+Version: 1.0.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Cameron Katri & SINI
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: roothide/com.sini921.quickactions_1.0.1-1_iphoneos-arm64e.deb
+Size: 45102
+MD5sum: c42611c7176d69e7c69475744846a5bf
+SHA1: 41a9693abaedcab92f9e6092bc7ba5f42c00b283
+SHA256: b29ab21f0d85acb6c837bdc4b100842ac43c1959fce9a46bb324959504bc9d8a
+Section: 越狱插件
+Description: 锁屏界面的相机与手电筒按钮自定义，基于开源修改编译，添加一些电源操作。
+Author: Cameron Katri & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/quickactions.png
+Name: QuickActions【roothide】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickactions/js.json
 
 Package: com.sini921.zoomanimation
 Version: 0.0.1-4
