@@ -4567,6 +4567,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/quickactions.png
 Name: QuickActions【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickactions/js.json
 
+Package: com.sini921.quickactions
+Version: 1.0.1-3
+Architecture: iphoneos-arm64
+Maintainer: Cameron Katri & SINI
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: rootless/com.sini921.quickactions_1.0.1-3_iphoneos-arm64.deb
+Size: 46626
+MD5sum: ab5bfa3f7b04017b4b764ff928485652
+SHA1: 2a6016ce32b5cf8d0340c602f7df66fe3d17a04a
+SHA256: 91212b5a40fef7cd9fa1a6e946e8335b6a097656d55f4bb73e6659666cad28c3
+Section: 越狱插件
+Description: 锁屏界面的相机与手电筒按钮自定义，基于开源修改编译，添加一些电源操作。
+Author: Cameron Katri & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/quickactions.png
+Name: QuickActions【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickactions/js.json
+
 Package: com.sini921.showmytouches
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -5255,6 +5273,24 @@ Size: 45102
 MD5sum: c42611c7176d69e7c69475744846a5bf
 SHA1: 41a9693abaedcab92f9e6092bc7ba5f42c00b283
 SHA256: b29ab21f0d85acb6c837bdc4b100842ac43c1959fce9a46bb324959504bc9d8a
+Section: 越狱插件
+Description: 锁屏界面的相机与手电筒按钮自定义，基于开源修改编译，添加一些电源操作。
+Author: Cameron Katri & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/quickactions.png
+Name: QuickActions【roothide】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickactions/js.json
+
+Package: com.sini921.quickactions
+Version: 1.0.1-3
+Architecture: iphoneos-arm64e
+Maintainer: Cameron Katri & SINI
+Installed-Size: 468
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: roothide/com.sini921.quickactions_1.0.1-3_iphoneos-arm64e.deb
+Size: 45222
+MD5sum: c530acb8050623b22b136f8cbfb2ada4
+SHA1: fb98d33419a6ba24988f1eaf3cbf22e84ae9537f
+SHA256: d324d6db92364a2fd8989ba16ebb38bdbdc9555192186eda0e6af2ef5f12154c
 Section: 越狱插件
 Description: 锁屏界面的相机与手电筒按钮自定义，基于开源修改编译，添加一些电源操作。
 Author: Cameron Katri & SINI
