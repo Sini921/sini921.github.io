@@ -4574,10 +4574,10 @@ Maintainer: Cameron Katri & SINI
 Installed-Size: 468
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: rootless/com.sini921.quickactions_1.0.1-3_iphoneos-arm64.deb
-Size: 46626
-MD5sum: ab5bfa3f7b04017b4b764ff928485652
-SHA1: 2a6016ce32b5cf8d0340c602f7df66fe3d17a04a
-SHA256: 91212b5a40fef7cd9fa1a6e946e8335b6a097656d55f4bb73e6659666cad28c3
+Size: 48326
+MD5sum: dca0f8f1c430c08d6972ebec5c440199
+SHA1: 4d72d0145571bf1a52150d87fa8a6693240688ee
+SHA256: 407a0ac24209923aba0f7865a26aec9deca7ef3e1919fa5589ec233ffcc87e80
 Section: 越狱插件
 Description: 锁屏界面的相机与手电筒按钮自定义，基于开源修改编译，添加一些电源操作。
 Author: Cameron Katri & SINI
@@ -5287,10 +5287,10 @@ Maintainer: Cameron Katri & SINI
 Installed-Size: 468
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: roothide/com.sini921.quickactions_1.0.1-3_iphoneos-arm64e.deb
-Size: 45222
-MD5sum: c530acb8050623b22b136f8cbfb2ada4
-SHA1: fb98d33419a6ba24988f1eaf3cbf22e84ae9537f
-SHA256: d324d6db92364a2fd8989ba16ebb38bdbdc9555192186eda0e6af2ef5f12154c
+Size: 46904
+MD5sum: c0d5a9267b2e2b8a1728fddb9bfce5e6
+SHA1: d7e9f047b5753f7d23d723955bd6b6805f1f2c72
+SHA256: fdc2d82edf89419a0e93260a89f48f32e541b95cba0858c14bab51fd7a98848f
 Section: 越狱插件
 Description: 锁屏界面的相机与手电筒按钮自定义，基于开源修改编译，添加一些电源操作。
 Author: Cameron Katri & SINI
