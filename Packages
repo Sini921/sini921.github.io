@@ -49,7 +49,7 @@ Description: 大杂烩
 Author: Hitori <mikasa-san@outlook.jp>
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/misaki/js.json
 Icon: https://sini921.github.io/repo/sileodepiction/icon/misaki.png
-Name: Misaki【rootless】
+Name: Misaki(rootless)
 
 Package: com.lclrc.hammerit
 Version: 1.7.1
@@ -67,7 +67,7 @@ Description: 分词、翻译
 Author: lclrc(SquidForce)
 Icon: https://sini921.github.io/repo/sileodepiction/icon/hammerit.png
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/hammerit/js.json
-Name: Hammer It【rootless】
+Name: Hammer It(rootless)
 
 Package: com.miro.libmiroshared
 Version: 1.0.2
@@ -469,11 +469,11 @@ Version: 1.0.0
 Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: mobilesubstrate
-Filename: rootless/com.sini.autoscroll15_1.0.0_iphoneos-arm64.deb
+Filename: rootless/com.sini.autoscroll15_1.0.0_iphoneos-arm64.deb
 Size: 5368
-MD5sum: 7604253185ab01036b3c9b0bed5bf056
-SHA1: e661e2df573cd1f7acf38af3c1eeeffd71d4d189
-SHA256: e2169bd17a2a96008ff73193e0e7b2245597fb86d5987b2468b0bafb9cc621a6
+MD5sum: 6f4d823e3b45209130427a99b52fd1f5
+SHA1: f64611030f9ee406469687480c50ed228a04230f
+SHA256: 3db6d16ba1f4d9538c679ba33f00d20a37d563240e7e1cdecdaecb66c96c0b8e
 Section: 越狱插件
 Description: 只需滑一下即可不停的一直滑，手终于可以闲下来去打了
 Author: pxcex
@@ -4449,7 +4449,7 @@ Section: 越狱插件
 Description: 键盘底部增加快捷按钮
 Author: udevs
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dockx.png
-Name: DockX【rootless】
+Name: DockX(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dockx/js.json
 
 Package: libskittycolor
