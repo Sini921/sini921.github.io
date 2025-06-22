@@ -1543,6 +1543,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/gonggao.png
 Name: - 季伯之家源公告
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/gonggao/js.json
 
+Package: com.sini.gridswitcher
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.gridswitcher_1.0.3_iphoneos-arm64.deb
+Size: 3180
+MD5sum: 50e990904702e32db4147f444d33ac09
+SHA1: cc64357a4b88ca3d679e2f89b06fb859e4044dc7
+SHA256: 96a3497289785d13053ace553b55b4baa4dd675936841a24bfa92cdf38060d35
+Section: 越狱插件
+Description: 在iPhone上启用iPad切换器！
+Author: Nathan Senter
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: gridswitcher【rootless】
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/gridswitcher/js.json
+
 Package: com.sini.hidescreenshotpreview
 Version: 1.2-1
 Architecture: iphoneos-arm64
@@ -2340,14 +2358,14 @@ Maintainer: Nightwind& 刀刀
 Installed-Size: 264
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
 Filename: rootless/com.sini.powersettings_0.0.1_iphoneos-arm64.deb
-Size: 31892
-MD5sum: 86c445bfd9cd356ca689709b526bb07c
-SHA1: a94d0cda1ddc6df930cd8f999ab74ae7c9c49979
-SHA256: 585e472135bee8df48f3e752707ced3ef218def4118b8847e59ea30168ea57cf
+Size: 31868
+MD5sum: ad1d8990f41526187d4cbc063a22cf48
+SHA1: c6c9be11101606c4fc755be615d73030c17f26d8
+SHA256: c1b55c4921292eefd32f05634742403df4da9850327f5b3b564f20576540cd95
 Section: 越狱插件
 Description: 将电源菜单(注销、重启等)添加到“设置”右上角！
 Author: Nightwind
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/powersettings.png
 Name: PowerSettings【rootless】
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/powersettings/js.json
 
