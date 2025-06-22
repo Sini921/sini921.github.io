@@ -2288,11 +2288,11 @@ Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: Sini921
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: rootless/com.sini.plampycc_1.0.2_iphoneos-arm64.deb
-Size: 1577768
-MD5sum: 20dbdd45c5a4a8d114077870c6e9520e
-SHA1: e06250e723cb6a085248271a79f68f4424c75895
-SHA256: 6c59e8e2cec146a26f9ed3dce6ebdfebb494f592ed286c6c399a66bd6027a4ed
+Filename: rootless/com.sini.plampycc_1.0.2_iphoneos-arm64.deb
+Size: 1577628
+MD5sum: 067457b2935effb1b5551fd4986892ee
+SHA1: fb659ee449fcbf9c75126d9d8b5b36eaf9fb221e
+SHA256: 6c2780d2148673b8fed291eab8237fc5db762430063346cbf7fa31e1105b52e9
 Section: 越狱插件
 Description: 控制中心UI美化，自定义背景图
 Author: sugiuta
@@ -2818,11 +2818,11 @@ Architecture: iphoneos-arm64
 Maintainer: CyPwn
 Depends: mobilesubstrate, firmware(>=15.0), preferenceloader
 Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33, xyz.cypwn.snapper3
-Filename: rootless/com.sini.snapper3_1.0.2_iphoneos-arm64.deb
-Size: 910936
-MD5sum: c49a25172717e6c9a87654f577f0617b
-SHA1: 5e47cde4df93a92fbcdab2907a66a497d04196ad
-SHA256: edc492678d4fe08afc13cc8a48fb088bd4e055d0f01e542295364e099d44cfc5
+Filename: rootless/com.sini.snapper3_1.0.2_iphoneos-arm64.deb
+Size: 912204
+MD5sum: 56559e8730fce3f683dd43d2b4032a56
+SHA1: e64138130f44262a01625f280a8a3eec897003c6
+SHA256: 64e5dae7193deec655696522050b00a4db18a1b45ebb0760a6ef639264cabf76
 Section: 越狱插件
 Description: snapper3破解版
 Author: Jonathan Winger-lang
