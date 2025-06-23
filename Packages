@@ -2044,24 +2044,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/miyou.png
 Name: 微信助手(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/miyou/js.json
 
-Package: com.sini.morecomplications
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Skitty
-Installed-Size: 416
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), preferenceloader
-Filename: rootless/com.sini.morecomplications_1.0_iphoneos-arm64.deb
-Size: 39032
-MD5sum: 17bf57971078a4c564adf66f9312a04d
-SHA1: e643708c8e7f877a1058c4bd3662b0471f368083
-SHA256: 6cbbbcbaf5517fce4f2c4af04567eaa49a6e9cd8b0378aa90a9b7abc3f934785
-Section: 越狱插件
-Description: 为锁屏添加更多小组件
-Author: Skitty
-Icon: https://sini921.github.io/repo/sileodepiction/icon/morecomplications.png
-Name: MoreComplications(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/morecomplications/js.json
-
 Package: com.sini.msgfilt.rootless
 Version: 1.0-5.1
 Architecture: iphoneos-arm64
@@ -3931,6 +3913,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/griddy.png
 Name: Griddy(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/griddy/js.json
 
+Package: com.sini921.morecomplications
+Version: 1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Skitty & SINI
+Installed-Size: 360
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), preferenceloader
+Filename: rootless/com.sini921.morecomplications_1.0-1_iphoneos-arm64.deb
+Size: 18658
+MD5sum: 390a60352e5a983ff93c2924afd3fb99
+SHA1: 3258b4ba49bc8cec25faa4406ca69a7726f054b3
+SHA256: 63eccd603f1d8fc166961ab7c34745bd5253639914c5eed90d9b29394083bdc0
+Section: 越狱插件
+Description: 添加更多的锁屏小组件，基于开源重新编译，直接适配roothide。
+Author: Skitty & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/morecomplications.png
+Name: MoreComplications(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/morecomplications/js.json
+
 Package: com.sini921.notificationsgroupcount
 Version: 1.0.6
 Architecture: iphoneos-arm64
@@ -4644,6 +4644,24 @@ Author: Soh Satoh & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
 Name: FreePIP(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
+
+Package: com.sini921.morecomplications
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Skitty & SINI
+Installed-Size: 360
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0), preferenceloader
+Filename: roothide/com.sini921.morecomplications_1.0-1_iphoneos-arm64e.deb
+Size: 16968
+MD5sum: d4d8c5c1c18b49525458bba3351686ae
+SHA1: ede12ba718a75aa5e4df13e584bd6737a38735e0
+SHA256: da69533b7cefc7ed96371be1148ea322d88e8b7b702d8c02adedfef402ddc227
+Section: 越狱插件
+Description: 添加更多的锁屏小组件，基于开源重新编译，直接适配roothide。
+Author: Skitty & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/morecomplications.png
+Name: MoreComplications(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/morecomplications/js.json
 
 Package: com.sini921.qqavatarrotation
 Version: 1.1.0-1
