@@ -75,7 +75,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS15.0-iOS16.6.1",
+                    "text": "iOS16.0-iOS16.5",
                     "title": "支持的系统"
                 }
             ]
