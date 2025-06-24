@@ -16,6 +16,12 @@
             "hideShadow": true
         },
         {
+            "url": "http://sini921.github.io/repo/images/batterybuddy.png",
+            "title": "BatteryBuddy",
+            "package":"com.sini921.batterybuddy",
+            "hideShadow": true
+        },
+        {
             "url": "http://sini921.github.io/repo/images/fakesignalbar.png",
             "title": "FakeSignalBar",
             "package":"com.sini921.fakesignalbar",
