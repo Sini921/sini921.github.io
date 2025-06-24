@@ -3751,6 +3751,25 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
 Name: AppStoreTroller(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
 
+Package: com.sini921.batterybuddy
+Version: 1.3.5-1
+Architecture: iphoneos-arm64
+Maintainer: Traurige & neilsardesai & SINI
+Installed-Size: 652
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.batterybuddy
+Filename: rootless/com.sini921.batterybuddy_1.3.5-1_iphoneos-arm64.deb
+Size: 238734
+MD5sum: d7f6eda4f747600116ae9117de280cb0
+SHA1: ed25ec46597b8307ce1304056f5381028bf9d2b0
+SHA256: 897ffe6c22298e79d1651a2ef8e7a86b5e92445487e67595f218e7f0a4676b67
+Section: 越狱插件
+Description: 一个可爱的电池，基于开源修改编译。新增自定义颜色。
+Author: Traurige & neilsardesai & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/batterybuddy.png
+Name: BatteryBuddy(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/batterybuddy/js.json
+
 Package: com.sini921.callmemaybe
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -4626,6 +4645,25 @@ Description: 中文输入法语音转文字免跳转插件。无设置选项，�
 Author: Lessica
 Icon: https://sini921.github.io/repo/sileodepiction/icon/yuyin.png
 Name: 语音转文字免跳转(roothide)
+
+Package: com.sini921.batterybuddy
+Version: 1.3.5-1
+Architecture: iphoneos-arm64e
+Maintainer: Traurige & neilsardesai & SINI
+Installed-Size: 652
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.batterybuddy
+Filename: roothide/com.sini921.batterybuddy_1.3.5-1_iphoneos-arm64e.deb
+Size: 236792
+MD5sum: fa91e31d43d8ebe967ba5e614f856caf
+SHA1: 4f71c3d0252fc30f68cb532b440cbf465a83ef95
+SHA256: 5a4047245bce45552c03080dde3720ce19aa069fa45665972a21bfa254bed48a
+Section: 越狱插件
+Description: 一个可爱的电池，基于开源修改编译。新增自定义颜色。
+Author: Traurige & neilsardesai & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/batterybuddy.png
+Name: BatteryBuddy(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/batterybuddy/js.json
 
 Package: com.sini921.freepip
 Version: 0.0.6
