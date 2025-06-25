@@ -1277,16 +1277,16 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dynamic.png
 Name: DynamicStage 简体中文包(rootless)
 
 Package: com.sini.dyyypro
-Version: 2.2-8-1750773526
+Version: 2.2-8-1750848075
 Architecture: iphoneos-arm64
 Maintainer: huami
 Installed-Size: 2388
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.dyyypro_2.2-8-1750773526_iphoneos-arm64.deb
-Size: 468940
-MD5sum: 568994b762e88ff19226745746a022b5
-SHA1: 033b0b8d33f10bda36be0313279fecc4b92c1989
-SHA256: f136287232c7ec1155c9716ef12bbde3aabdf60ffdc3de7f9275e1638a36439c
+Filename: rootless/com.sini.dyyypro_2.2-8-1750848075_iphoneos-arm64.deb
+Size: 473084
+MD5sum: 21d69261baf11fd3a1d50466388b0a22
+SHA1: 614e7c4731325be805c7cfc62f66a296893091a0
+SHA256: d262157ea69ea18600537a9bfb3b5921a215837c0f01b214212beab9c7e6bd3c
 Section: 应用破解
 Priority: optional
 Description: 维她入我心版
@@ -4173,10 +4173,10 @@ Maintainer: SINI
 Installed-Size: 388
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini921.zoomanimation_0.0.1-4_iphoneos-arm64.deb
-Size: 22160
-MD5sum: 30637bcd63c243aff53626d61c139002
-SHA1: c38fccc715e8adaf5b9ebd656346fe6829fa7392
-SHA256: ad5d5f4dd02982a592cfc95ae79ac141e6ce4cabbfcf64a9a064a8b49ea0854d
+Size: 22742
+MD5sum: bf956c5773184eb80280da7f9c9564ef
+SHA1: 926c59c253df52ea9d522153beb33bbe9a6da3bb
+SHA256: 2a64197eb44c61269c689098c9af6ab78660f815ffc903926d79fc168e4029a9
 Section: 越狱插件
 Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。注意！roothide请使用roothide专用包，通过转换rootless包可能无法使用。
 Author: SINI
@@ -4559,16 +4559,16 @@ Name: LibGcUniversal(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/libgcuniversal/js.json
 
 Package: com.sini.dyyypro
-Version: 2.2-8-1750773526
+Version: 2.2-8-1750848075
 Architecture: iphoneos-arm64e
 Maintainer: huami
 Installed-Size: 2388
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini.dyyypro_2.2-8-1750773526_iphoneos-arm64e.deb
-Size: 468544
-MD5sum: 2d34469e5db5e078a92f3096dfbe2518
-SHA1: 63ef60520958b8b7ff271e760bf39fceaac8cf26
-SHA256: f980313c5e71b6dec66c5ded4286308be1565462e71ce2668446dcd2bdf748c5
+Filename: roothide/com.sini.dyyypro_2.2-8-1750848075_iphoneos-arm64e.deb
+Size: 473508
+MD5sum: bc420bfee1247f7fa0ab03ef74e12a8a
+SHA1: dc31716cd7f697b7d3a7bbbffa68bc017699ce52
+SHA256: ca589bdc9ea1394bc811cdc5c2ff2acbf46939ed41ea2c7c04ba50a4b4d26277
 Section: 应用破解
 Priority: optional
 Description: 维她入我心版
@@ -4762,10 +4762,10 @@ Maintainer: SINI
 Installed-Size: 388
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/com.sini921.zoomanimation_0.0.1-4_iphoneos-arm64e.deb
-Size: 20436
-MD5sum: e986a4e3e3ebdbcaf722f29851e497ba
-SHA1: eb6f068657be9a8fbfb058899bad809030ef0712
-SHA256: 78b0dd1de60daa3abbc48fd85982a13a8a363a680d3557396a48a1fbf908de37
+Size: 20870
+MD5sum: 9d0962a99dbe7cd897502dfae34f6719
+SHA1: 7d57e79124ac138ad024fcb7c2f6ad5a35e1eda5
+SHA256: b2e1c82fbe61f307b89023cb349d07552cc825df8abe3ac9024a17a76a79e22b
 Section: 越狱插件
 Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。注意！roothide请使用roothide专用包，通过转换rootless包可能无法使用。
 Author: SINI
