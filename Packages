@@ -1918,23 +1918,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: LockTouchX(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/locktouchx/js.json
 
-Package: com.sini.lstimeseconds16
-Version: 0.3
-Architecture: iphoneos-arm64
-Maintainer: b4db1r3
-Installed-Size: 432
-Filename: rootless/com.sini.lstimeseconds16_0.3_iphoneos-arm64.deb
-Size: 38116
-MD5sum: fe9ea9534c645e713bde08e4262e4cda
-SHA1: 45562b63ddd691c7353a9e9276c3fd3fbaf16920
-SHA256: 1bf5866b0423a45e82c94864d10c3186551d7d9a52bf7cff964206c94ff8b215
-Section: 越狱插件
-Description: 为锁屏时间增加秒数。
-Author: b4db1r3
-Icon: https://sini921.github.io/repo/sileodepiction/icon/lstime.png
-Name: LSTimeSeconds(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/lstimeseconds16/js.json
-
 Package: com.sini.lynxtwo
 Version: 2.5.4
 Architecture: iphoneos-arm64
@@ -3932,6 +3915,23 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/griddy.png
 Name: Griddy(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/griddy/js.json
 
+Package: com.sini921.lstimeseconds
+Version: 0.0.5-1
+Architecture: iphoneos-arm64
+Maintainer: b4db1r3 & SINI
+Installed-Size: 388
+Filename: rootless/com.sini921.lstimeseconds_0.0.5-1_iphoneos-arm64.deb
+Size: 35024
+MD5sum: dd46c4476a783b82d177a91fe255e66f
+SHA1: 85606ebcbe524240304382c6a92dc950cfa21df5
+SHA256: 4242327572b6edc28449e7d235560d8e47a8710c696924ce4430ce810175fc03
+Section: 越狱插件
+Description: 为锁屏时间增加秒数。基于开源编译适配roothide。
+Author: b4db1r3 & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lstimeseconds.png
+Name: LSTimeSeconds(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/lstimeseconds/js.json
+
 Package: com.sini921.morecomplications
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -4682,6 +4682,23 @@ Author: Soh Satoh & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
 Name: FreePIP(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
+
+Package: com.sini921.lstimeseconds
+Version: 0.0.5-1
+Architecture: iphoneos-arm64e
+Maintainer: b4db1r3 & SINI
+Installed-Size: 388
+Filename: roothide/com.sini921.lstimeseconds_0.0.5-1_iphoneos-arm64e.deb
+Size: 33912
+MD5sum: 4e217c1cb2ba726cd6271d87687b387b
+SHA1: 496f8bd710f92d3234b9eb02a0c024146d1ac984
+SHA256: 909157a7997b98e7979e667fcc5fff354c77e3330422db3a7879561c97e6270f
+Section: 越狱插件
+Description: 为锁屏时间增加秒数。基于开源编译适配roothide。
+Author: b4db1r3 & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lstimeseconds.png
+Name: LSTimeSeconds(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/lstimeseconds/js.json
 
 Package: com.sini921.morecomplications
 Version: 1.0-1

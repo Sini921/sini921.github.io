@@ -17,7 +17,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 锁屏界面的时间添加秒数",
+                    "markdown": "## 描述\n- 锁屏界面的时间添加秒数\n- 基于开源重新编译，直接适配roothide。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -60,17 +60,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "b4db1r3",
+                    "text": "b4db1r3 & SINI",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.3",
+                    "text": "0.0.5-1",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024年6月23日",
+                    "text": "2025年6月26日",
                     "title": "更新日期"
                 },
                 {
@@ -94,7 +94,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 0.3\n- 这个源主很懒\n- 懒得写更新日志",
+                    "markdown": "#### 版本: 0.0.5-1\n- 基于开源重新编译，直接适配roothide。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }
