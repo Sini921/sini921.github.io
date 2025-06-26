@@ -1277,16 +1277,16 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dynamic.png
 Name: DynamicStage 简体中文包(rootless)
 
 Package: com.sini.dyyypro
-Version: 2.2-8-1750848075
+Version: 2.2-8-1750918784
 Architecture: iphoneos-arm64
 Maintainer: huami
 Installed-Size: 2388
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.dyyypro_2.2-8-1750848075_iphoneos-arm64.deb
-Size: 473084
-MD5sum: 21d69261baf11fd3a1d50466388b0a22
-SHA1: 614e7c4731325be805c7cfc62f66a296893091a0
-SHA256: d262157ea69ea18600537a9bfb3b5921a215837c0f01b214212beab9c7e6bd3c
+Filename: rootless/com.sini.dyyypro_2.2-8-1750918784_iphoneos-arm64.deb
+Size: 473792
+MD5sum: 197899b4e2ac3430e1b61909f5890fed
+SHA1: 3459ce37ba9cd55502ece20818626853e5d54f2b
+SHA256: e23e98b03231cf92da2c84af86789693f651d247293d73c7f1371d6992ce621d
 Section: 应用破解
 Priority: optional
 Description: 维她入我心版
@@ -4559,16 +4559,16 @@ Name: LibGcUniversal(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/libgcuniversal/js.json
 
 Package: com.sini.dyyypro
-Version: 2.2-8-1750848075
+Version: 2.2-8-1750918784
 Architecture: iphoneos-arm64e
 Maintainer: huami
 Installed-Size: 2388
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini.dyyypro_2.2-8-1750848075_iphoneos-arm64e.deb
-Size: 473508
-MD5sum: bc420bfee1247f7fa0ab03ef74e12a8a
-SHA1: dc31716cd7f697b7d3a7bbbffa68bc017699ce52
-SHA256: ca589bdc9ea1394bc811cdc5c2ff2acbf46939ed41ea2c7c04ba50a4b4d26277
+Filename: roothide/com.sini.dyyypro_2.2-8-1750918784_iphoneos-arm64e.deb
+Size: 474708
+MD5sum: 3c9aa2777607d84cbb991de38fab8772
+SHA1: 808804dfb5389cdcaecfa5f94218092f4f425045
+SHA256: c738d1ed95055e2f9169ecfe62b8baf86be089a84dc696856e4742d9287ccad4
 Section: 应用破解
 Priority: optional
 Description: 维她入我心版
