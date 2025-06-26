@@ -3008,18 +3008,18 @@ Name: Surge Pro(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/surgepro/js.json
 
 Package: com.sini.sutuplus
-Version: 5.9.8-1-1
+Version: 5.9.8-2-1
 Architecture: iphoneos-arm64
 Maintainer: Carby <super.cat.sutuplus@gmail.com>
 Installed-Size: 1780
 Depends: mobilesubstrate
-Filename: rootless/com.sini.sutuplus_5.9.8-1-1_iphoneos-arm64.deb
-Size: 509196
-MD5sum: 368adeb41b07f5f0efba5f578f36d214
-SHA1: b51fea0ce126d5750fc7a924414144c9d873304e
-SHA256: 2d7caeb6cfac4d413ab6188c1049e93b80aa1d22b5a12d38ef4da794b534d508
+Filename: rootless/com.sini.sutuplus_5.9.8-2-1_iphoneos-arm64.deb
+Size: 509836
+MD5sum: 27c169b5a1bd3c1342a64f3b888413dd
+SHA1: 3157fb8c9e07570a7097873d582093bd95b2a54a
+SHA256: 3fcd7978670a8104ff5fadb15feda9ad4636d2f77119cd717a55f05514a60e61
 Section: 微信插件
-Description: 主题需付费
+Description: 微信主题美化，主题需付费
 Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/sutuplus.png
 Name: 酸果(rootless)
