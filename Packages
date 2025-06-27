@@ -3742,10 +3742,10 @@ Installed-Size: 652
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: love.litten.batterybuddy
 Filename: rootless/com.sini921.batterybuddy_1.3.5-1_iphoneos-arm64.deb
-Size: 238734
-MD5sum: d7f6eda4f747600116ae9117de280cb0
-SHA1: ed25ec46597b8307ce1304056f5381028bf9d2b0
-SHA256: 897ffe6c22298e79d1651a2ef8e7a86b5e92445487e67595f218e7f0a4676b67
+Size: 239684
+MD5sum: 32e2c2de62545d09ae269635070c248c
+SHA1: 90ea927d49b6345abe97a77a0b516790f3fae9da
+SHA256: 2462aea74de7a95d8a989052d3a18a948c03f0124ce7fe46a9c57cdf48c0d48e
 Section: 越狱插件
 Description: 一个可爱的电池，基于开源修改编译。新增自定义颜色。
 Author: Traurige & neilsardesai & SINI
@@ -3883,13 +3883,13 @@ Package: com.sini921.freepip
 Version: 0.0.6
 Architecture: iphoneos-arm64
 Maintainer: Soh Satoh & SINI
-Installed-Size: 424
+Installed-Size: 440
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini921.freepip_0.0.6_iphoneos-arm64.deb
-Size: 41204
-MD5sum: 3858fc198835eb8efae2425082f14f23
-SHA1: 7a1e56cc87510d1944aa69cf198a075706162882
-SHA256: f7413293f4059673d2d274631a4b611bf0c81118c64e11a40e216965f9c2008f
+Size: 41978
+MD5sum: c9b062bd44770e68de954433026d59fb
+SHA1: f9329896e02587d488315e30da3e4daba7db7984
+SHA256: cea150cc909bd6c318c1041f0c973ad3aea60c467402bf0b94a9b272e09a95b0
 Section: 越狱插件
 Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，基于开源重新编译，优化了一些代码，改进了一些细节。
 Author: Soh Satoh & SINI
@@ -4654,10 +4654,10 @@ Installed-Size: 652
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: love.litten.batterybuddy
 Filename: roothide/com.sini921.batterybuddy_1.3.5-1_iphoneos-arm64e.deb
-Size: 236792
-MD5sum: fa91e31d43d8ebe967ba5e614f856caf
-SHA1: 4f71c3d0252fc30f68cb532b440cbf465a83ef95
-SHA256: 5a4047245bce45552c03080dde3720ce19aa069fa45665972a21bfa254bed48a
+Size: 237656
+MD5sum: eef7e6ac8a042c199b577b9d2fbf5ffe
+SHA1: c8b427f5beb5020199dad50021bdccc58aeddc1c
+SHA256: 4f06146031cb41af080da65372f1a00f5682ee4fbf602160c28433ab0ef26e8f
 Section: 越狱插件
 Description: 一个可爱的电池，基于开源修改编译。新增自定义颜色。
 Author: Traurige & neilsardesai & SINI
@@ -4669,13 +4669,13 @@ Package: com.sini921.freepip
 Version: 0.0.6
 Architecture: iphoneos-arm64e
 Maintainer: Soh Satoh & SINI
-Installed-Size: 404
+Installed-Size: 424
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/com.sini921.freepip_0.0.6_iphoneos-arm64e.deb
-Size: 39204
-MD5sum: 984d490c85fc0f02dc1ea4f2f5a51b9c
-SHA1: 36c0fc441ebfbdbff628f93d5f9708406ffcb2bd
-SHA256: aa7ab86ab723e0e0795b87a87e9a7882ec32f9e4316d5ecc84533325355ebb04
+Size: 40478
+MD5sum: 9e7aa9b25ae526c210dac6da260ca58e
+SHA1: 34b98cd6b882ed59ff98f6ea53071b7b42994f06
+SHA256: e745c0536b1f65f562a9002d99ccfd2bcfb7a26ce3b6a46fa22a0b898e9f1124
 Section: 越狱插件
 Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，基于开源重新编译，优化了一些代码，改进了一些细节。
 Author: Soh Satoh & SINI
