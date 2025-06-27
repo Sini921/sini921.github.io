@@ -1276,25 +1276,6 @@ Author: 妖刀
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dynamic.png
 Name: DynamicStage 简体中文包(rootless)
 
-Package: com.sini.dyyypro
-Version: 2.2-8-1750918784
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 2388
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.dyyypro_2.2-8-1750918784_iphoneos-arm64.deb
-Size: 473792
-MD5sum: 197899b4e2ac3430e1b61909f5890fed
-SHA1: 3459ce37ba9cd55502ece20818626853e5d54f2b
-SHA256: e23e98b03231cf92da2c84af86789693f651d247293d73c7f1371d6992ce621d
-Section: 应用破解
-Priority: optional
-Description: 维她入我心版
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
-Name: DYYY(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyypro/js.json
-
 Package: com.sini.easynotifications
 Version: 3.0
 Architecture: iphoneos-arm64
@@ -3825,6 +3806,25 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/classicfolders3.png
 Name: ClassicFolders 3(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/classicfolders3/js.json
 
+Package: com.sini921.dyyylite
+Version: 2.2-8-1751017147
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2556
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini921.dyyylite_2.2-8-1751017147_iphoneos-arm64.deb
+Size: 548782
+MD5sum: 5438ad57e600c0407484bc0f5ee096a5
+SHA1: 86c444c263e8853d7f828d4bb12fd333c1e3f233
+SHA256: 0ae48c8dc62abbce63293f91f98459675d86b7fccaef113660b67e22768b2d30
+Section: 应用破解
+Priority: optional
+Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
+Name: DYYY Lite(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
+
 Package: com.sini921.fakesignalbar
 Version: 0.1
 Architecture: iphoneos-arm64
@@ -4558,25 +4558,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/libgcuniversal.png
 Name: LibGcUniversal(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/libgcuniversal/js.json
 
-Package: com.sini.dyyypro
-Version: 2.2-8-1750918784
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 2388
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini.dyyypro_2.2-8-1750918784_iphoneos-arm64e.deb
-Size: 474708
-MD5sum: 3c9aa2777607d84cbb991de38fab8772
-SHA1: 808804dfb5389cdcaecfa5f94218092f4f425045
-SHA256: c738d1ed95055e2f9169ecfe62b8baf86be089a84dc696856e4742d9287ccad4
-Section: 应用破解
-Priority: optional
-Description: 维她入我心版
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyypro.png
-Name: DYYY(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyypro/js.json
-
 Package: com.sini.kayoko
 Version: 2.9
 Architecture: iphoneos-arm64e
@@ -4664,6 +4645,25 @@ Author: Traurige & neilsardesai & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/batterybuddy.png
 Name: BatteryBuddy(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/batterybuddy/js.json
+
+Package: com.sini921.dyyylite
+Version: 2.2-8-1751017147
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 2556
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: roothide/com.sini921.dyyylite_2.2-8-1751017147_iphoneos-arm64e.deb
+Size: 545282
+MD5sum: 7c95beba936dce8c7aed2d8ccc7602fc
+SHA1: 3735a0cf09d074bf6775b39a58828919125295d4
+SHA256: 2f30ff94a12f95bf900c52d6a7e4bf38056c0bb9d4ea831afe5a3ecb3c935b90
+Section: 应用破解
+Priority: optional
+Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
+Name: DYYY Lite(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
 
 Package: com.sini921.freepip
 Version: 0.0.6
