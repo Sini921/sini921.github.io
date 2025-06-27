@@ -1,16 +1,16 @@
 Package: com.0xkuj.safarix
-Version: 1.9.8
+Version: 1.9.9
 Architecture: iphoneos-arm64
 Maintainer: 0xkuj
-Installed-Size: 892
+Installed-Size: 928
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: rootless/com.0xkuj.safarix_1.9.8_iphoneos-arm64.deb
-Size: 302960
-MD5sum: dd18fd9d46b055f40e591890bd600187
-SHA1: 18fda2a1be8c0bcf39374ee4d6c95f7a7b5ecbb8
-SHA256: 3c9a26330b8d4dd3251feecc88ab98e8754cb690003fcd87e46fa2aab3fae66a
+Filename: rootless/com.0xkuj.safarix_1.9.9_iphoneos-arm64.deb
+Size: 322472
+MD5sum: 5f1c535db582c0a31f75a7dae2a04e0c
+SHA1: c4884e3f95a6c9c69d1ab93f85f66fa29972d52a
+SHA256: f6f086e372844c3c0031e65852f7ec8b1120b33188114ea2407f385a9d9dd9e3
 Section: 越狱插件
-Description: Safari浏览器增强，加入刀刀源汉化
+Description: Safari浏览器增强，加入刀刀源汉化。
 Author: 0xkuj
 Icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
 Name: SafariX(rootless)
