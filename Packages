@@ -230,22 +230,39 @@ Name: 微信增强(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
 
 Package: com.sini.WCPulse
-Version: 1.0-9
+Version: 1.1-0
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 388
+Installed-Size: 404
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.WCPulse_1.0-9_iphoneos-arm64.deb
-Size: 70524
-MD5sum: a0fd9be334c50dc22fba85b182523d23
-SHA1: 042021590e290234abe4f42a82d555465772612e
-SHA256: b42b9436fd86000493d4472f38e2d0c0c4803798653226df11f4e0157248ddaf
+Filename: rootless/com.sini.WCPulse_1.1-0_iphoneos-arm64.deb
+Size: 68260
+MD5sum: d3f30aa03f7e6a8cc4258b41bea01150
+SHA1: ead1c09a4189449592f3ca555ec877ec850e0159
+SHA256: e5d5ac34d36ed0cce3dcaa1f067613d591e90a515cf898ae0dda261f30207dd9
 Section: 微信插件
 Description: WCPulse
 Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPulse.png
 Name: WCPulse(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPulse/js.json
+
+Package: com.sini.WCThemes
+Version: 1.0-0
+Architecture: iphoneos-arm64
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini.WCThemes_1.0-0_iphoneos-arm64.deb
+Size: 92612
+MD5sum: be08234de4da0e53afb46ec4be9fb910
+SHA1: 92c255ab0f6d5c3977e5c51a2cdbcf123e93be86
+SHA256: c132c486e5cccee4aafe07e89addbebf6b5893f0bec8e7b8ebf080c6f45be50a
+Section: 微信插件
+Priority: optional
+Description: 微信主题助手，快捷兑换，主题推荐,纯享版。
+Author: 热心网友
+Icon: https://sini921.github.io/repo/sileodepiction/icon/WCThemes.png
+Name: WCThemes(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCThemes/js.json
 
 Package: com.sini.WCToolGesture
 Version: 1.0
