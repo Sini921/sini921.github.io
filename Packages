@@ -1991,15 +1991,15 @@ Name: 微信助手(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/miyou/js.json
 
 Package: com.sini.miyou
-Version: 3.8-5
+Version: 3.8-6
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: rootless/com.sini.miyou_3.8-5_iphoneos-arm64.deb
-Size: 8991048
-MD5sum: 1e159fede7cc5f7bdc88764fdf6dfb5a
-SHA1: 3b586f09c782d5279c1105f752c951e4dbd5391b
-SHA256: 2aff13365f9eedfac5c40e2b66d216e0cd3b100be103cef9dd17e32141123a04
+Filename: rootless/com.sini.miyou_3.8-6_iphoneos-arm64.deb
+Size: 9084260
+MD5sum: eccdf81455ba0b85a726ff56b9a2b313
+SHA1: 0d24cac8583d3e431f9ea79fcac8f94185d54f06
+SHA256: 4af11f6fc74cb034d4de79601af1ecd8fd12a1542df21d606242c47af977f2cf
 Section: 微信插件
 Priority: optional
 Description: 微信助手-Rootless版
