@@ -850,6 +850,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/cameramodes.png
 Name: CameraModes(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cameramodes/js.json
 
+Package: com.sini.cc26
+Version: 0.3.8b
+Architecture: iphoneos-arm64
+Maintainer: therealhoodboy
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), firmware (< 18.0)
+Filename: rootless/com.sini.cc26_0.3.8b_iphoneos-arm64.deb
+Size: 10840
+MD5sum: 670578472f259fa3ece94ffabd670b06
+SHA1: da828105148dc889a1b2e3d7ee7688f4aa1cfbbe
+SHA256: ee14225254018b1ddd48d5a4fd0e4bc4fd71ab7d5a622c2879047abaa5d5c797
+Section: 越狱插件
+Description: iOS26样式的控制中心
+Author: therealhoodboy
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cc26.png
+Name: CC26(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cc26/js.json
+
 Package: com.sini.ccautobrightness
 Version: 1.0.0-1
 Architecture: iphoneos-arm64
