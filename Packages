@@ -3862,42 +3862,6 @@ Name: DYYY Lite(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
 
 Package: com.sini921.fakesignalbar
-Version: 0.1
-Architecture: iphoneos-arm64
-Maintainer: alias20
-Installed-Size: 388
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: rootless/com.sini921.fakesignalbar_0.1_iphoneos-arm64.deb
-Size: 34888
-MD5sum: 1309a9c23a43327d697ae29076b6d41b
-SHA1: e1e761fe27645b5b764272b6f47c3b18539ae0ee
-SHA256: d67dfb82a465a90dad07a88644f7fdd9512f00624c5d28fd335b8575ec0206ab
-Section: 越狱插件
-Description: 自定义运营商名称、信号强度、蜂窝连接等等！基于开源汉化编译。
-Author: alias20 & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/fakesignalbar.png
-Name: FakeSignalBar(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakesignalbar/js.json
-
-Package: com.sini921.fakesignalbar
-Version: 0.1-1
-Architecture: iphoneos-arm64
-Maintainer: alias20
-Installed-Size: 364
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: rootless/com.sini921.fakesignalbar_0.1-1_iphoneos-arm64.deb
-Size: 20148
-MD5sum: ea6d668ddb24aff3b5157065fca4eb07
-SHA1: 381e1253f627d42b8ea64ead02d174a0d99f458b
-SHA256: 20a44ecb3f9c213152c3921a0ed04f6960849a390da9589804927b8404941057
-Section: 越狱插件
-Description: 自定义运营商名称、信号强度、蜂窝连接等等！基于开源汉化编译。
-Author: alias20 & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/fakesignalbar.png
-Name: FakeSignalBar(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakesignalbar/js.json
-
-Package: com.sini921.fakesignalbar
 Version: 0.1-2
 Architecture: iphoneos-arm64
 Maintainer: alias20
@@ -4736,24 +4700,6 @@ Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
 Name: DYYY Lite(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
-
-Package: com.sini921.fakesignalbar
-Version: 0.1-1
-Architecture: iphoneos-arm64e
-Maintainer: alias20
-Installed-Size: 364
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: roothide/com.sini921.fakesignalbar_0.1-1_iphoneos-arm64e.deb
-Size: 18368
-MD5sum: d3e84b4cb4904218d24e9fb5678f8b63
-SHA1: 3a6a4d813de666da72893a8f6df7d8e9ff513e3f
-SHA256: be2c50a8d82335afd104db63bf7b547ba0e008650c7713ed80edc267aa9bc19d
-Section: 越狱插件
-Description: 自定义运营商名称、信号强度、蜂窝连接等等！基于开源汉化编译。
-Author: alias20 & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/fakesignalbar.png
-Name: FakeSignalBar(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakesignalbar/js.json
 
 Package: com.sini921.fakesignalbar
 Version: 0.1-2
