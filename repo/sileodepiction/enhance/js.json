@@ -61,12 +61,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.4-8",
+                    "text": "1.4-9",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年06月20日",
+                    "text": "2025年06月30日",
                     "title": "更新日期"
                 },
                 {
@@ -85,6 +85,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.4-9\n- 顶栏添加网名水平偏移调整\n- 圆角设置添加Cell列表圆角设置\n- 聊天页顶部导航栏添加圆角边框\n- 修复顶栏修改网名偏移后切换至其他应用再返回时,名字位置会下沉的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
