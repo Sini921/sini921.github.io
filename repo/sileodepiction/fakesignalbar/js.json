@@ -65,7 +65,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.1-1",
+                    "text": "0.1-2",
                     "title": "版本"
                 },
                 {
@@ -90,6 +90,14 @@
                     "openExternal": 1,
                     "class": "DepictionButtonView"
                 },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.1-2\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
                 {
                     "class": "DepictionSeparatorView"
                 },
