@@ -3843,16 +3843,16 @@ Name: ClassicFolders 3(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/classicfolders3/js.json
 
 Package: com.sini921.dyyylite
-Version: 2.2-8-1751043869
+Version: 2.2-8-1751260929
 Architecture: iphoneos-arm64
 Maintainer: huami
 Installed-Size: 2556
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini921.dyyylite_2.2-8-1751043869_iphoneos-arm64.deb
-Size: 547412
-MD5sum: 11b72b58fc6a3f610437cc83c56ae91a
-SHA1: 9556f3c45a0f22dbba593afe60ae2751122e8b01
-SHA256: a99549f75ad1445355e8f9c1ba0f7b8cf0662974d5c6a4452039dc99acc006fc
+Filename: rootless/com.sini921.dyyylite_2.2-8-1751260929_iphoneos-arm64.deb
+Size: 551450
+MD5sum: 3884fca069e190330544b32115df68e7
+SHA1: 60e24313aecb0a4f76a10d03d6995ce30050f1bd
+SHA256: dd6a6ccbfa4e0aab3b74944734bbaa20b4f4b4acb56e29b84ca550d6a10b68d8
 Section: 应用破解
 Priority: optional
 Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
@@ -3872,6 +3872,24 @@ Size: 34888
 MD5sum: 1309a9c23a43327d697ae29076b6d41b
 SHA1: e1e761fe27645b5b764272b6f47c3b18539ae0ee
 SHA256: d67dfb82a465a90dad07a88644f7fdd9512f00624c5d28fd335b8575ec0206ab
+Section: 越狱插件
+Description: 自定义运营商名称、信号强度、蜂窝连接等等！基于开源汉化编译。
+Author: alias20 & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/fakesignalbar.png
+Name: FakeSignalBar(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakesignalbar/js.json
+
+Package: com.sini921.fakesignalbar
+Version: 0.1-1
+Architecture: iphoneos-arm64
+Maintainer: alias20
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: rootless/com.sini921.fakesignalbar_0.1-1_iphoneos-arm64.deb
+Size: 20148
+MD5sum: ea6d668ddb24aff3b5157065fca4eb07
+SHA1: 381e1253f627d42b8ea64ead02d174a0d99f458b
+SHA256: 20a44ecb3f9c213152c3921a0ed04f6960849a390da9589804927b8404941057
 Section: 越狱插件
 Description: 自定义运营商名称、信号强度、蜂窝连接等等！基于开源汉化编译。
 Author: alias20 & SINI
@@ -4683,16 +4701,16 @@ Name: BatteryBuddy(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/batterybuddy/js.json
 
 Package: com.sini921.dyyylite
-Version: 2.2-8-1751043869
+Version: 2.2-8-1751260929
 Architecture: iphoneos-arm64e
 Maintainer: huami
 Installed-Size: 2556
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini921.dyyylite_2.2-8-1751043869_iphoneos-arm64e.deb
-Size: 546148
-MD5sum: 3182276a96d318bedcaa6aea5927dd3a
-SHA1: 8b72e3799876608157bf5f6532b8d3079b676355
-SHA256: 3a127915b22bb6c6516a0741ec63ea34b036d41a148c8ae613b58099d6209666
+Filename: roothide/com.sini921.dyyylite_2.2-8-1751260929_iphoneos-arm64e.deb
+Size: 550746
+MD5sum: ee5fd8399f9ea93f4019d9efe475c620
+SHA1: c89ffd1021b5169fbdca9cbe44592374cf40a845
+SHA256: 17dece289120be2f223d588ac96cb7ab1020315ef8e5a3eb9070868f8a285469
 Section: 应用破解
 Priority: optional
 Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
@@ -4700,6 +4718,24 @@ Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
 Name: DYYY Lite(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
+
+Package: com.sini921.fakesignalbar
+Version: 0.1-1
+Architecture: iphoneos-arm64e
+Maintainer: alias20
+Installed-Size: 364
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: roothide/com.sini921.fakesignalbar_0.1-1_iphoneos-arm64e.deb
+Size: 18368
+MD5sum: d3e84b4cb4904218d24e9fb5678f8b63
+SHA1: 3a6a4d813de666da72893a8f6df7d8e9ff513e3f
+SHA256: be2c50a8d82335afd104db63bf7b547ba0e008650c7713ed80edc267aa9bc19d
+Section: 越狱插件
+Description: 自定义运营商名称、信号强度、蜂窝连接等等！基于开源汉化编译。
+Author: alias20 & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/fakesignalbar.png
+Name: FakeSignalBar(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakesignalbar/js.json
 
 Package: com.sini921.freepip
 Version: 0.0.6
