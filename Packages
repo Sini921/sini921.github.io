@@ -1355,10 +1355,10 @@ Maintainer: 愫 茶
 Installed-Size: 2344
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini.enhance_1.4-9_iphoneos-arm64.deb
-Size: 499364
-MD5sum: 462cc5d683091963d721c4c6b624bbfb
-SHA1: 13873069709663969a3f6f8e9bb61ecc9ced4eb4
-SHA256: 678c1fa12c14b5b1f65ab02cc775c06d6dd37455252eb8006642315fcc5d61f6
+Size: 498904
+MD5sum: 7b2dfe04a0042c7be435cf19564474a1
+SHA1: 20a9a038507a27c4418588f5cb2872342b8ec355
+SHA256: ae6be4255df24c985d20ff8ad372615166f62b69dd020a2cd6dfbf3c7d87a16e
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶
