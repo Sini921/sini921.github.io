@@ -3844,16 +3844,16 @@ Name: ClassicFolders 3(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/classicfolders3/js.json
 
 Package: com.sini921.dyyylite
-Version: 2.2-8-1751361651
+Version: 2.2-8-1751544150
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 2560
+Installed-Size: 2576
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini921.dyyylite_2.2-8-1751361651_iphoneos-arm64.deb
-Size: 550704
-MD5sum: 8855fc123fc42af6a1d6bfc947557fbf
-SHA1: fce319b81bf4881ff6e7ce403b2ad13df405ee15
-SHA256: 5a7595039d85083933674fc6ccc9b62d6047fcde3052c70f22801b1837695d7d
+Filename: rootless/com.sini921.dyyylite_2.2-8-1751544150_iphoneos-arm64.deb
+Size: 556682
+MD5sum: 99cef90cc39ae416e242766e140ec25a
+SHA1: df2cd4f58e85c74e796b9ac69022fbd209da42fd
+SHA256: caf9a5cbebecee871223af4cd8399df5c1b371055e67edf7d4734abcbd03fb41
 Section: 应用破解
 Priority: optional
 Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
@@ -4684,16 +4684,16 @@ Name: BatteryBuddy(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/batterybuddy/js.json
 
 Package: com.sini921.dyyylite
-Version: 2.2-8-1751361651
+Version: 2.2-8-1751544150
 Architecture: iphoneos-arm64e
 Maintainer: huami
-Installed-Size: 2560
+Installed-Size: 2576
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini921.dyyylite_2.2-8-1751361651_iphoneos-arm64e.deb
-Size: 550488
-MD5sum: 7a3f6278ca51bbcc858088462f9c15c1
-SHA1: 913e1e57312d7f58f9eba2b7eb92a6ad6c09f18b
-SHA256: 96810baad2f978c25b475e5ba09958604b6124653f4c8e68beffcc50daf7f9f4
+Filename: roothide/com.sini921.dyyylite_2.2-8-1751544150_iphoneos-arm64e.deb
+Size: 556466
+MD5sum: 39fc1a55beea0cc639d98686642ed238
+SHA1: fa632f13fdd758464014563650a973b911d0f563
+SHA256: 11cce9f5d558d912a8a84f314e35c7cc36d9e105bce836b78e32afb32fee1b25
 Section: 应用破解
 Priority: optional
 Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
