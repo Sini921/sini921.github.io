@@ -996,16 +996,16 @@ Name: CCVPN(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccvpn/js.json
 
 Package: com.sini.choicy
-Version: 1.5.2-2
+Version: 1.5.3
 Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 1122
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
-Filename: rootless/com.sini.choicy_1.5.2-2_iphoneos-arm64.deb
-Size: 160200
-MD5sum: 4a0b92c7257a97bffeca870885d320fc
-SHA1: 0f30f84e921312d757004ec5ac0cc87d079b449b
-SHA256: cbe75e6ce9d6710f2dd0066cb5c75f467d9082e24e20546a9cea5aa8d69318e1
+Maintainer: opa334 <opa334@protonmail.com>
+Installed-Size: 1136
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: rootless/com.sini.choicy_1.5.3_iphoneos-arm64.deb
+Size: 161500
+MD5sum: 73bab5426353023a89a2b30432bf4f02
+SHA1: 90cb364dcf3edb8575e9847b458b79b9ad967f3b
+SHA256: 1f245d2b98fb86d2d4e84e6f90230f111273c4cfe0ffe161079d3d6f8ac1bd2d
 Section: 越狱插件
 Description: 自定义插件注入
 Author: opa334 <opa334@protonmail.com>
@@ -4042,24 +4042,6 @@ Name: QQAvatarRotation(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/qqavatarrotation/js.json
 
 Package: com.sini921.quickactions
-Version: 1.0.1-1
-Architecture: iphoneos-arm64
-Maintainer: Cameron Katri & SINI
-Installed-Size: 468
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: rootless/com.sini921.quickactions_1.0.1-1_iphoneos-arm64.deb
-Size: 46500
-MD5sum: 37d14562fbfae0781d2df5553b822f30
-SHA1: eb362e7411627be350285a714e22fb6a08d7a570
-SHA256: fc11df974e8942a8f98c03ff1422a04197712cf5edbdcaebb5c14ed81296d87e
-Section: 越狱插件
-Description: 锁屏界面的相机与手电筒按钮自定义，基于开源修改编译，添加一些电源操作。
-Author: Cameron Katri & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/quickactions.png
-Name: QuickActions(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickactions/js.json
-
-Package: com.sini921.quickactions
 Version: 1.0.1-3
 Architecture: iphoneos-arm64
 Maintainer: Cameron Katri & SINI
@@ -4790,24 +4772,6 @@ Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/qq.png
 Name: QQAvatarRotation(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/qqavatarrotation/js.json
-
-Package: com.sini921.quickactions
-Version: 1.0.1-1
-Architecture: iphoneos-arm64e
-Maintainer: Cameron Katri & SINI
-Installed-Size: 468
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: roothide/com.sini921.quickactions_1.0.1-1_iphoneos-arm64e.deb
-Size: 45084
-MD5sum: 52c32226c8a7050ac619b429a225c99b
-SHA1: 9f93b803e862690ac51ddfe621ab3670f577deb9
-SHA256: 2a021c6bb58ea9f45e323a3d39606e97f1020929b4b2b587d70daddf52086eef
-Section: 越狱插件
-Description: 锁屏界面的相机与手电筒按钮自定义，基于开源修改编译，添加一些电源操作。
-Author: Cameron Katri & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/quickactions.png
-Name: QuickActions(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickactions/js.json
 
 Package: com.sini921.quickactions
 Version: 1.0.1-3
