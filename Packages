@@ -887,6 +887,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/cc26.png
 Name: CC26(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cc26/js.json
 
+Package: com.sini.cc26
+Version: 0.4.9.3b
+Architecture: iphoneos-arm64
+Maintainer: therealhoodboy
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: rootless/com.sini.cc26_0.4.9.3b_iphoneos-arm64.deb
+Size: 18124
+MD5sum: 5c4043f361319ab1ef387eac52443876
+SHA1: f67f591c6e56667314fc15993f1dfd5b0ed9efa7
+SHA256: f74a41d047822d61323ad47adbda7cba37288b3659f5f6b49564a0c7bf20899a
+Section: 越狱插件
+Description: iOS26样式的控制中心
+Author: therealhoodboy
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cc26.png
+Name: CC26(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cc26/js.json
+
 Package: com.sini.ccautobrightness
 Version: 1.0.0-1
 Architecture: iphoneos-arm64
