@@ -1942,14 +1942,14 @@ Maintainer: Nightwind
 Installed-Size: 216
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.4)
 Filename: rootless/com.sini.lockbuttonx_0.0.1_iphoneos-arm64.deb
-Size: 22876
-MD5sum: ccd37c7bc55b154af8bfd12d8030f0d9
-SHA1: 3b845fec55ff59f28b42768f63193bf91d06b3ce
-SHA256: 9a138263a6af87a81da73948646b655313fcde92c016a8d623b3df9dd13c7686
+Size: 22880
+MD5sum: b1b4d2d558f5dc9bc797612d715f899a
+SHA1: 4c6c9bdd2b1e10c4bfee96c6881170df9ffc119a
+SHA256: 1eba1b667d734c9e3b858da927d8b7dad32e53264d714e025f7eb95e6460381f
 Section: 越狱插件
 Description: 将刘海/灵动岛设备的长按电源键呼出Siri改回电源菜单，无设置，安装生效。
 Author: Nightwind
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lockbuttonx.png
 Name: LockButtonX(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/lockbuttonx/js.json
 
