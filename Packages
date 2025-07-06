@@ -212,34 +212,34 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/tg.png
 Name: Telegrammask(rootless)
 
 Package: com.sini.WCEhance
-Version: 1.1-8
+Version: 1.1-9
 Architecture: iphoneos-arm64
 Maintainer: Lxcloud
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.WCEhance_1.1-8_iphoneos-arm64.deb
-Size: 1446968
-MD5sum: c92342acdeb6e766bf94d0f67372f71c
-SHA1: 661a5da5b63d7931f710764f19ab9e72ef9f5f54
-SHA256: dba31ba72bd6fcda66e9bcb9fa30aa4dd1f1c86d86e0397ba9e920621c6062ff
+Filename: rootless/com.sini.WCEhance_1.1-9_iphoneos-arm64.deb
+Size: 1465684
+MD5sum: 793c8cb7e795a7fa3a5a3f7a60e50429
+SHA1: 5ac6c48110fc7270a7c5cef61faa0028b51a4d9f
+SHA256: 009c5a90ccaa2a13bd1183dc6adcc63a071cf0b44377d2c0c87bf525497cefaf
 Section: 微信插件
 Priority: optional
 Description: 微信增强,用于优化一些反人类设计和增强功能。
-Author: huami&Lxcloud
+Author: huami & Lxcloud
 Icon: https://sini921.github.io/repo/sileodepiction/icon/WCEhance.png
 Name: 微信增强(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
 
 Package: com.sini.WCPulse
-Version: 1.1-0
+Version: 1.1-1
 Architecture: iphoneos-arm64
 Maintainer: huami
 Installed-Size: 404
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.WCPulse_1.1-0_iphoneos-arm64.deb
-Size: 68260
-MD5sum: d3f30aa03f7e6a8cc4258b41bea01150
-SHA1: ead1c09a4189449592f3ca555ec877ec850e0159
-SHA256: e5d5ac34d36ed0cce3dcaa1f067613d591e90a515cf898ae0dda261f30207dd9
+Filename: rootless/com.sini.WCPulse_1.1-1_iphoneos-arm64.deb
+Size: 69268
+MD5sum: 55bac009036b7edd372a5c0a96a13303
+SHA1: 6a37ee1a809c498de846d64b0193dee82b7e08ae
+SHA256: ba217a2ce8c52ebe5897919bcc72f4ecd519def1516ad842ac3d14a5d8eec643
 Section: 微信插件
 Description: WCPulse
 Author: huami
