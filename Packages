@@ -2063,17 +2063,16 @@ Name: 微信助手(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/miyou/js.json
 
 Package: com.sini.miyou
-Version: 3.8-6
+Version: 3.8-7
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: rootless/com.sini.miyou_3.8-6_iphoneos-arm64.deb
-Size: 9084260
-MD5sum: eccdf81455ba0b85a726ff56b9a2b313
-SHA1: 0d24cac8583d3e431f9ea79fcac8f94185d54f06
-SHA256: 4af11f6fc74cb034d4de79601af1ecd8fd12a1542df21d606242c47af977f2cf
+Filename: rootless/com.sini.miyou_3.8-7_iphoneos-arm64.deb
+Size: 6234172
+MD5sum: 839345aa18112cba2fe9d1883f84e391
+SHA1: c7d77386dd048fa38dd5335486a1935a382cea83
+SHA256: 33a30c13ca7726bcd4e42568cc5444fa2623190afb7de49ce18fa4f247b1a3ad
 Section: 微信插件
-Priority: optional
 Description: 微信助手-Rootless版
 Author: Mao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/miyou.png
@@ -3916,42 +3915,6 @@ Name: FakeSignalBar(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakesignalbar/js.json
 
 Package: com.sini921.freepip
-Version: 0.0.4
-Architecture: iphoneos-arm64
-Maintainer: Soh Satoh & SINI
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.freepip_0.0.4_iphoneos-arm64.deb
-Size: 5048
-MD5sum: 0569ed3c9ae266967796de7b440c0170
-SHA1: 615e71ce4822ae7f9edc88b99519e09c830013cd
-SHA256: 3fc677b174793386a16e22485e56e26de8af0eb20838808ff7ae32cfddc597dc
-Section: 越狱插件
-Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，优化了一些代码，改进了一些细节
-Author: Soh Satoh & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
-Name: FreePIP(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
-
-Package: com.sini921.freepip
-Version: 0.0.5
-Architecture: iphoneos-arm64
-Maintainer: Soh Satoh & SINI
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.freepip_0.0.5_iphoneos-arm64.deb
-Size: 5048
-MD5sum: a5bb8e2b67e2a6c728818ed6ef33864d
-SHA1: 2dfce41ded7c176cc201be7f086dfd70b1ec0f87
-SHA256: b9e044eb0da6cbe518435599d6c0a56d2fd5e90e4b533da732c1ece10e65925b
-Section: 越狱插件
-Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，优化了一些代码，改进了一些细节
-Author: Soh Satoh & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
-Name: FreePIP(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
-
-Package: com.sini921.freepip
 Version: 0.0.6
 Architecture: iphoneos-arm64
 Maintainer: Soh Satoh & SINI
@@ -4093,24 +4056,6 @@ Author: Cameron Katri & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/quickactions.png
 Name: QuickActions(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickactions/js.json
-
-Package: com.sini921.showmytouches
-Version: 1.2.0
-Architecture: iphoneos-arm64
-Maintainer: dvntm & SINI
-Installed-Size: 484
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.showmytouches_1.2.0_iphoneos-arm64.deb
-Size: 75816
-MD5sum: e3bef6cf580e56946330022df3a7950f
-SHA1: dbb198b63815a8b2c16142d9f8952f2dd758a405
-SHA256: d688e6f3f624ab29bc1a1ce607e53a598562e41224abe95af9d1ce3aa41b2b84
-Section: 越狱插件
-Description: 触摸轨迹，基于开源代码的基础上，增加滑动轨迹效果
-Author: dvntm & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/showmytouches.png
-Name: ShowMyTouches(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/showmytouches/js.json
 
 Package: com.sini921.showmytouches
 Version: 1.2.1
