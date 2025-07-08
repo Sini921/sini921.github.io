@@ -40,6 +40,12 @@
             "hideShadow": true
         },
         {
+            "url": "http://sini921.github.io/repo/images/appstoretroller.png",
+            "title": "AppStoreTroller",
+            "package":"com.sini921.appstoretroller",
+            "hideShadow": true
+        },
+        {
             "url": "http://sini921.github.io/repo/images/callmemaybe.png",
             "title": "CallMeMaybe",
             "package":"com.sini921.callmemaybe",

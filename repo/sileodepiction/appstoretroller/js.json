@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://sini921.github.io/repo/images/dingtu.png",
+    "headerImage": "https://sini921.github.io/repo/images/appstoretroller.png",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -60,17 +60,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "Nathan & SINI",
+                    "text": "Mineek & Nathan & SINI",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.1.1",
+                    "text": "0.1.1-1",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年04月17日",
+                    "text": "2025年07月09日",
                     "title": "更新日期"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.1.1-1\n- 编译适配roothide",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
