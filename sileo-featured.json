@@ -4,15 +4,21 @@
     "itemCornerRadius":10,
     "banners": [
         {
-            "url": "http://sini921.github.io/repo/images/quickactions.png",
-            "title": "QuickActions",
-            "package":"com.sini921.quickactions",
-            "hideShadow": true
-        },
-        {
             "url": "http://sini921.github.io/repo/images/zoomanimation.png",
             "title": "ZoomAnimation",
             "package":"com.sini921.zoomanimation",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/ccborder.png",
+            "title": "CCBorder",
+            "package":"com.sini921.ccborder",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/quickactions.png",
+            "title": "QuickActions",
+            "package":"com.sini921.quickactions",
             "hideShadow": true
         },
         {
