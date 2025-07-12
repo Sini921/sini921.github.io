@@ -1032,16 +1032,16 @@ Name: CCVPN(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccvpn/js.json
 
 Package: com.sini.choicy
-Version: 1.5.3
+Version: 1.5.3-2
 Architecture: iphoneos-arm64
 Maintainer: opa334 <opa334@protonmail.com>
 Installed-Size: 1136
 Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
-Filename: rootless/com.sini.choicy_1.5.3_iphoneos-arm64.deb
-Size: 161500
-MD5sum: 73bab5426353023a89a2b30432bf4f02
-SHA1: 90cb364dcf3edb8575e9847b458b79b9ad967f3b
-SHA256: 1f245d2b98fb86d2d4e84e6f90230f111273c4cfe0ffe161079d3d6f8ac1bd2d
+Filename: rootless/com.sini.choicy_1.5.3-2_iphoneos-arm64.deb
+Size: 161440
+MD5sum: 1e8b03efb68a6d1d893fc6aa105c61c0
+SHA1: 16020fa6cbd1ac5793af07ac2c18f8e7ccc70939
+SHA256: 80695da2616ac76243f9b46bcb54085ab55699e96d073259430b56a83bcc35af
 Section: 越狱插件
 Description: 自定义插件注入
 Author: opa334 <opa334@protonmail.com>
