@@ -3758,10 +3758,10 @@ Maintainer: fiore & p2kdev & SINI
 Installed-Size: 456
 Depends: mobilesubstrate, firmware (>= 16.0)
 Filename: rootless/com.sini921.ccborder_1.1.2-1_iphoneos-arm64.deb
-Size: 42904
-MD5sum: 7d497a81117be039740d86e0b5ae0cc7
-SHA1: 6de6c370a60e20e78a699c05287f80e4e89c3c0f
-SHA256: f6332f54dcdc81976d3441a4eef1fd65523ac84377a4d77fecdfa304c9d5b644
+Size: 42842
+MD5sum: f83c23202a02e1912f561fee022943df
+SHA1: 712e341968f07c3b6b27d21e0b73b6b05094c9b2
+SHA256: 5fba9be558a2bd8b5dea0541ea78eea9749b5105519f0af30d128c3920d06406
 Section: 越狱插件
 Description: 控制中心调整，基于开源修改编译，去掉了Alderis Color Picker依赖
 Author: fiore & p2kdev & SINI
@@ -3867,10 +3867,10 @@ Maintainer: Soh Satoh & SINI
 Installed-Size: 440
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini921.freepip_0.0.6_iphoneos-arm64.deb
-Size: 41978
-MD5sum: c9b062bd44770e68de954433026d59fb
-SHA1: f9329896e02587d488315e30da3e4daba7db7984
-SHA256: cea150cc909bd6c318c1041f0c973ad3aea60c467402bf0b94a9b272e09a95b0
+Size: 42114
+MD5sum: 36aaa7fcabe298e4c9bf4271bf791075
+SHA1: b3e272b55198f4334c87c530cbd22fcb9bedec61
+SHA256: e5c0e861926cfc706644aaa7892d76fb37efc9a28c579a67331900266e220252
 Section: 越狱插件
 Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，基于开源重新编译，优化了一些代码，改进了一些细节。
 Author: Soh Satoh & SINI
@@ -3992,10 +3992,10 @@ Maintainer: Cameron Katri & SINI
 Installed-Size: 468
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: rootless/com.sini921.quickactions_1.0.1-3_iphoneos-arm64.deb
-Size: 48236
-MD5sum: c181d3e5e812caad92a297a680dbb744
-SHA1: 3140281883473bbaffd8abb0383fff8a1613196d
-SHA256: a4e6999494066f17e15059166d72afd1f1f45cbc8cba4a2013fb88a0dc6b31dd
+Size: 48270
+MD5sum: 476858cbdc57483d39b4452dd020d0cf
+SHA1: 241f04af3c2921ca13c359d5ae62a6cc3d28890d
+SHA256: c28dd315f2bed3ba9cc9709813e3e161123f1034565dc1822b87f65ab7cae38a
 Section: 越狱插件
 Description: 锁屏界面的相机与手电筒按钮自定义，基于开源修改编译，添加一些电源操作。
 Author: Cameron Katri & SINI
@@ -4118,10 +4118,10 @@ Maintainer: SINI
 Installed-Size: 388
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini921.zoomanimation_0.0.1-4_iphoneos-arm64.deb
-Size: 22742
-MD5sum: bf956c5773184eb80280da7f9c9564ef
-SHA1: 926c59c253df52ea9d522153beb33bbe9a6da3bb
-SHA256: 2a64197eb44c61269c689098c9af6ab78660f815ffc903926d79fc168e4029a9
+Size: 22770
+MD5sum: 797a9c46f3dcb80a939a415a1bfd114b
+SHA1: e51119bc2f5d79a2d3497a99b15bd5e18827c881
+SHA256: da9f1365cc5ec54b6b4344a660cd2027f87d1958ce0d30a385bb881b4bd4d327
 Section: 越狱插件
 Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。注意！roothide请使用roothide专用包，通过转换rootless包可能无法使用。
 Author: SINI
@@ -4616,10 +4616,10 @@ Maintainer: fiore & p2kdev & SINI
 Installed-Size: 440
 Depends: mobilesubstrate, firmware (>= 16.0)
 Filename: roothide/com.sini921.ccborder_1.1.2-1_iphoneos-arm64e.deb
-Size: 40688
-MD5sum: 766e6dc594c0720fbd05ce19049c70bd
-SHA1: ef47b9d2597d94b033a7f19ffc4b2f54d9a173b4
-SHA256: 09f2ef79d387bddd476540bb7d87d84fb4bca81358ab5e383d800ebb853c9ef7
+Size: 40766
+MD5sum: c261f8ee57c029ee470ab29721986bfa
+SHA1: 53d1da04c5ee1719bdd0d00d1ead1021e43409c4
+SHA256: cdfddf36ce6d0a15f81b6efa33c143712f392281ba26a4c7f541d5d9dcbace76
 Section: 越狱插件
 Description: 控制中心调整，基于开源修改编译，去掉了Alderis Color Picker依赖
 Author: fiore & p2kdev & SINI
@@ -4671,10 +4671,10 @@ Maintainer: Soh Satoh & SINI
 Installed-Size: 424
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/com.sini921.freepip_0.0.6_iphoneos-arm64e.deb
-Size: 40478
-MD5sum: 9e7aa9b25ae526c210dac6da260ca58e
-SHA1: 34b98cd6b882ed59ff98f6ea53071b7b42994f06
-SHA256: e745c0536b1f65f562a9002d99ccfd2bcfb7a26ce3b6a46fa22a0b898e9f1124
+Size: 40476
+MD5sum: ee42abd55c87b4a2fe1a68ca6df76517
+SHA1: d0bd4d954fdb99c202f958675d72d57255ba3390
+SHA256: 0853a99736e77c46e0e3f55987375c8564df3a9ef48f38f72f6dcd26b9e91734
 Section: 越狱插件
 Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，基于开源重新编译，优化了一些代码，改进了一些细节。
 Author: Soh Satoh & SINI
@@ -4743,9 +4743,9 @@ Installed-Size: 468
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: roothide/com.sini921.quickactions_1.0.1-3_iphoneos-arm64e.deb
 Size: 46896
-MD5sum: 43725d22adf25655ae172f637ac9b003
-SHA1: 8a33dd18c327fdc21f00afa658a3de88dd32e11c
-SHA256: bb611d3f7e887deb7f0c262b91ade2a4d49ee8235e62d46f39af05ed7f477426
+MD5sum: 0cb45dda9d5ae47a8696eba565e404c2
+SHA1: 6469f0377ea0d0b20de476f6f65a15a85eb96b94
+SHA256: 4cc768c62dc891797dc023342340a3de344a4683f2b84a462c1ec801e0886981
 Section: 越狱插件
 Description: 锁屏界面的相机与手电筒按钮自定义，基于开源修改编译，添加一些电源操作。
 Author: Cameron Katri & SINI
@@ -4760,10 +4760,10 @@ Maintainer: SINI
 Installed-Size: 388
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/com.sini921.zoomanimation_0.0.1-4_iphoneos-arm64e.deb
-Size: 20870
-MD5sum: 9d0962a99dbe7cd897502dfae34f6719
-SHA1: 7d57e79124ac138ad024fcb7c2f6ad5a35e1eda5
-SHA256: b2e1c82fbe61f307b89023cb349d07552cc825df8abe3ac9024a17a76a79e22b
+Size: 20916
+MD5sum: bde9aca5472aaac0b693630f51d8502e
+SHA1: a0742dd4e235468a9faeac86f6badf3a5da7af3b
+SHA256: afbc194b48ddf69ecce27ac2ecbed968c9aa343eb95c99a548a3435ccb81d332
 Section: 越狱插件
 Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。注意！roothide请使用roothide专用包，通过转换rootless包可能无法使用。
 Author: SINI
