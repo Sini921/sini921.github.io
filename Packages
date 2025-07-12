@@ -3722,10 +3722,10 @@ Installed-Size: 652
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: love.litten.batterybuddy
 Filename: rootless/com.sini921.batterybuddy_1.3.5-1_iphoneos-arm64.deb
-Size: 239684
-MD5sum: 32e2c2de62545d09ae269635070c248c
-SHA1: 90ea927d49b6345abe97a77a0b516790f3fae9da
-SHA256: 2462aea74de7a95d8a989052d3a18a948c03f0124ce7fe46a9c57cdf48c0d48e
+Size: 239620
+MD5sum: b9ce0b7ecc0297c082d5a884d4a2aac0
+SHA1: e7b4ae62204ed7ebb2318b99074677d147b08df8
+SHA256: dd624b068b439ef7e36f858e0bd6d17dfde2283081aa8a1e3a924e7d21a3bc76
 Section: 越狱插件
 Description: 一个可爱的电池，基于开源修改编译。新增自定义颜色。
 Author: Traurige & neilsardesai & SINI
@@ -3758,10 +3758,10 @@ Maintainer: fiore & p2kdev & SINI
 Installed-Size: 456
 Depends: mobilesubstrate, firmware (>= 16.0)
 Filename: rootless/com.sini921.ccborder_1.1.2-1_iphoneos-arm64.deb
-Size: 42936
-MD5sum: 55533398d19ee4a123a2c65601a8b498
-SHA1: 439261acb2a22391d426934398955389eaa2d96c
-SHA256: 80e4434736de5f34b33faffcd427b3098914991f827c07f3dd1295b2fbf2b819
+Size: 42904
+MD5sum: 7d497a81117be039740d86e0b5ae0cc7
+SHA1: 6de6c370a60e20e78a699c05287f80e4e89c3c0f
+SHA256: f6332f54dcdc81976d3441a4eef1fd65523ac84377a4d77fecdfa304c9d5b644
 Section: 越狱插件
 Description: 控制中心调整，基于开源修改编译，去掉了Alderis Color Picker依赖
 Author: fiore & p2kdev & SINI
@@ -4598,10 +4598,10 @@ Installed-Size: 652
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: love.litten.batterybuddy
 Filename: roothide/com.sini921.batterybuddy_1.3.5-1_iphoneos-arm64e.deb
-Size: 237656
-MD5sum: eef7e6ac8a042c199b577b9d2fbf5ffe
-SHA1: c8b427f5beb5020199dad50021bdccc58aeddc1c
-SHA256: 4f06146031cb41af080da65372f1a00f5682ee4fbf602160c28433ab0ef26e8f
+Size: 237682
+MD5sum: 6acdbc2cae0da5e030b7ac8f4e1570fd
+SHA1: 24f45ffd41142cd43e98f2b21f00134a352828c7
+SHA256: fddbcea77e4b27e4e320e16592a551cc7daa9c31309282e205b19cb978c33801
 Section: 越狱插件
 Description: 一个可爱的电池，基于开源修改编译。新增自定义颜色。
 Author: Traurige & neilsardesai & SINI
@@ -4616,10 +4616,10 @@ Maintainer: fiore & p2kdev & SINI
 Installed-Size: 440
 Depends: mobilesubstrate, firmware (>= 16.0)
 Filename: roothide/com.sini921.ccborder_1.1.2-1_iphoneos-arm64e.deb
-Size: 40746
-MD5sum: 52c98fb4b8414fdbc0b5dd55691efb52
-SHA1: b6634f9d6bc1d7a2d62cae7dd2a11c482dedd78d
-SHA256: fc404b0c734e6d94c003e42bb4681405ae109f986e6c17491afca8e785caaabe
+Size: 40688
+MD5sum: 766e6dc594c0720fbd05ce19049c70bd
+SHA1: ef47b9d2597d94b033a7f19ffc4b2f54d9a173b4
+SHA256: 09f2ef79d387bddd476540bb7d87d84fb4bca81358ab5e383d800ebb853c9ef7
 Section: 越狱插件
 Description: 控制中心调整，基于开源修改编译，去掉了Alderis Color Picker依赖
 Author: fiore & p2kdev & SINI
