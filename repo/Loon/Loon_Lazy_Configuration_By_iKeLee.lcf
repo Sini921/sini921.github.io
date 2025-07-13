@@ -55,7 +55,7 @@ https://rule.kelee.one/Loon/Telegram.lsr, policy = 全球手动策略, tag = Tel
 https://kelee.one/Tool/Loon/Lsr/TikTok.lsr, policy = 全球手动策略, tag = TikTok, enabled = true
 https://kelee.one/Tool/Loon/Lsr/AI.lsr, policy = 全球手动策略, tag = AI, enabled = true
 https://kelee.one/Tool/Loon/Lsr/AppleAccount.lsr, policy = DIRECT, tag = Apple Account, enabled = true
-https://kelee.one/Tool/Loon/Lsr/AppStore.lsr, policy = DIRECT, tag = App Store, enabled = ture
+https://kelee.one/Tool/Loon/Lsr/AppStore.lsr, policy = DIRECT, tag = App Store, enabled = true
 https://rule.kelee.one/Loon/GitHub.lsr, policy = 全球手动策略, tag = GitHub, enabled = true
 https://rule.kelee.one/Loon/Netflix.lsr, policy = 全球手动策略, tag = Netflix, enabled = true
 https://rule.kelee.one/Loon/YouTube.lsr, policy = 全球手动策略, tag = Youtube, enabled = true
