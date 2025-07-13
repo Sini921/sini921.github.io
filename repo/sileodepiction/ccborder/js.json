@@ -97,7 +97,7 @@
                     "markdown": "#### 版本: 1.1.2-2\n- 去掉%符号",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
-                }
+                },
                 {
                     "class": "DepictionSeparatorView"
                 },
