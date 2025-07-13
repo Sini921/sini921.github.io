@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.2-1",
+                    "text": "1.1.2-2",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年07月12日",
+                    "text": "2025年07月13日",
                     "title": "更新日期"
                 },
                 {
@@ -90,6 +90,14 @@
                     "openExternal": 1,
                     "class": "DepictionButtonView"
                 },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.2-2\n- 去掉%符号",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
                 {
                     "class": "DepictionSeparatorView"
                 },
