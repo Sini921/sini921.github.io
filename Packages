@@ -3752,34 +3752,16 @@ Name: CallMeMaybe(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/callmemaybe/js.json
 
 Package: com.sini921.ccborder
-Version: 1.1.2-1
+Version: 1.1.2-3
 Architecture: iphoneos-arm64
 Maintainer: fiore & p2kdev & SINI
 Installed-Size: 456
 Depends: mobilesubstrate, firmware (>= 16.0)
-Filename: rootless/com.sini921.ccborder_1.1.2-1_iphoneos-arm64.deb
-Size: 42842
-MD5sum: f83c23202a02e1912f561fee022943df
-SHA1: 712e341968f07c3b6b27d21e0b73b6b05094c9b2
-SHA256: 5fba9be558a2bd8b5dea0541ea78eea9749b5105519f0af30d128c3920d06406
-Section: 越狱插件
-Description: 控制中心调整，基于开源修改编译，去掉了Alderis Color Picker依赖
-Author: fiore & p2kdev & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
-Name: CCBorder(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
-
-Package: com.sini921.ccborder
-Version: 1.1.2-2
-Architecture: iphoneos-arm64
-Maintainer: fiore & p2kdev & SINI
-Installed-Size: 456
-Depends: mobilesubstrate, firmware (>= 16.0)
-Filename: rootless/com.sini921.ccborder_1.1.2-2_iphoneos-arm64.deb
-Size: 42932
-MD5sum: f09d442257a32d6d15ba62af80be0ba4
-SHA1: 84b2ea471784966656c64d8573c235555eb23497
-SHA256: 2e669aaa83d4f279a2e518d5d3838f9b083060590698afa9a50ad61cdd2afe9e
+Filename: rootless/com.sini921.ccborder_1.1.2-3_iphoneos-arm64.deb
+Size: 43996
+MD5sum: 7a2e31f8c3d54cceb7aeb94f953eb74d
+SHA1: 874553f3b3a814a490cd82afcc0eaac830686452
+SHA256: e0782194e5f3b7888e27a04bff981370025a62dfb4084451ce6d6b24210e4dc0
 Section: 越狱插件
 Description: 控制中心调整，基于开源修改编译，去掉了Alderis Color Picker依赖
 Author: fiore & p2kdev & SINI
@@ -4666,34 +4648,16 @@ Name: BatteryBuddy(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/batterybuddy/js.json
 
 Package: com.sini921.ccborder
-Version: 1.1.2-1
+Version: 1.1.2-3
 Architecture: iphoneos-arm64e
 Maintainer: fiore & p2kdev & SINI
 Installed-Size: 440
 Depends: mobilesubstrate, firmware (>= 16.0)
-Filename: roothide/com.sini921.ccborder_1.1.2-1_iphoneos-arm64e.deb
-Size: 40766
-MD5sum: c261f8ee57c029ee470ab29721986bfa
-SHA1: 53d1da04c5ee1719bdd0d00d1ead1021e43409c4
-SHA256: cdfddf36ce6d0a15f81b6efa33c143712f392281ba26a4c7f541d5d9dcbace76
-Section: 越狱插件
-Description: 控制中心调整，基于开源修改编译，去掉了Alderis Color Picker依赖
-Author: fiore & p2kdev & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
-Name: CCBorder(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
-
-Package: com.sini921.ccborder
-Version: 1.1.2-2
-Architecture: iphoneos-arm64e
-Maintainer: fiore & p2kdev & SINI
-Installed-Size: 440
-Depends: mobilesubstrate, firmware (>= 16.0)
-Filename: roothide/com.sini921.ccborder_1.1.2-2_iphoneos-arm64e.deb
-Size: 40642
-MD5sum: 2787f8e2294c2d636c2ff82584fa40a0
-SHA1: 86000362295c51ffceff94d3dba1a4f000986861
-SHA256: bc4cbfb5c170066b528323b3b515c0c48953f4617deac5ab2f3fc6dc254b79b7
+Filename: roothide/com.sini921.ccborder_1.1.2-3_iphoneos-arm64e.deb
+Size: 41870
+MD5sum: 4507b07aaa36cc641b9e97d5ed963821
+SHA1: 91987ac99767bef1d2b80365d30d2cbd168e08bd
+SHA256: d763b77918b90688ead92b8d241de6cdd33c4d473c3ac3969085d3abd184bde1
 Section: 越狱插件
 Description: 控制中心调整，基于开源修改编译，去掉了Alderis Color Picker依赖
 Author: fiore & p2kdev & SINI
