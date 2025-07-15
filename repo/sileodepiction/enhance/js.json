@@ -61,12 +61,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.5-0",
+                    "text": "1.5-1",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年07月02日",
+                    "text": "2025年07月16日",
                     "title": "更新日期"
                 },
                 {
@@ -85,6 +85,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.5-1\n- 界面净化：添加禁用输入框听写\n- 信息卡片背景：添加容器高度调整，添加背景图填充方式，添加隐藏原生信息卡片，添加背景图Y轴偏移，添加背景图对齐方式，添加背景图显示层级，添加背景图设置\n- Cell列表圆角：添加Cell左右边距，添加置顶会话距顶部间距，添加普通会话距置顶会话间距，添加隐藏我的页面右侧二维码，添加对首页/发现页顶部搜索框圆角的支持，修复收藏置顶到微信首页后背景为透明的问题\n- 聊天顶栏：分隔符添加GIF动图\n- 消息复读：按钮颜色/文本内容/文本颜色，区分发送者/接收者\n- 信息居中：重写信息居中,兼容Cell圆角，添加状态/微信号/网名/头像，的X/Y坐标设置，居中后头像显示不全,前往信息卡片背景修改信息卡片高度即可",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
