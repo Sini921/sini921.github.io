@@ -1384,23 +1384,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/enhance.png
 Name: WeChatEnhance(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/enhance/js.json
 
-Package: com.sini.ersatz
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: Skitty
-Depends: mobilesubstrate, preferenceloader
-Filename: rootless/com.sini.ersatz_1.0.1_iphoneos-arm64.deb
-Size: 49100
-MD5sum: be34f1dbe9824e39b22910af494b4daa
-SHA1: 9c88b321924e80aebd00d2c726673e1ff4409e33
-SHA256: 3b2baf2f547105abdd9dabf91cb5c94acdba6ac51efe2e8cfb011373fce2e033
-Section: 越狱插件
-Description: 替换系统范围内的任何文本！季伯奥迪哥备份
-Author: Skitty
-Icon: https://sini921.github.io/repo/sileodepiction/icon/ersatz.png
-Name: Ersatz(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/ersatz/js.json
-
 Package: com.sini.fakedualsim
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -3897,6 +3880,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
 Name: DYYY Lite(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
 
+Package: com.sini921.ersatz
+Version: 1.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: Skitty & SINI
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader
+Filename: rootless/com.sini921.ersatz_1.0.1-1_iphoneos-arm64.deb
+Size: 33302
+MD5sum: 29e8713362f4ddb36edb7a1d57dd0141
+SHA1: aa2000e2951719606a77a63425e729528eac45c2
+SHA256: 7c82285baba8e9991ad50ee611d3c462ee06213b0c4dcd24fd8b94c53876a28e
+Section: 越狱插件
+Description: 替换系统范围内的任何文本！基于开源直接编译适配roothide。
+Author: Skitty & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ersatz.png
+Name: Ersatz(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ersatz/js.json
+
 Package: com.sini921.fakesignalbar
 Version: 0.1-2
 Architecture: iphoneos-arm64
@@ -4756,6 +4757,24 @@ Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
 Name: DYYY Lite(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
+
+Package: com.sini921.ersatz
+Version: 1.0.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Skitty & SINI
+Installed-Size: 388
+Depends: mobilesubstrate, preferenceloader
+Filename: roothide/com.sini921.ersatz_1.0.1-1_iphoneos-arm64e.deb
+Size: 31284
+MD5sum: 893c90dc9289375a3f0456d5322b4151
+SHA1: 2e97aeeda04f2982c5dfa85dc58678bc9e4adf41
+SHA256: 9724b5c318a00c47a72428f8754ed506d22ec0e62a3c624796bae46b8beb091b
+Section: 越狱插件
+Description: 替换系统范围内的任何文本！基于开源直接编译适配roothide。
+Author: Skitty & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ersatz.png
+Name: Ersatz(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ersatz/js.json
 
 Package: com.sini921.fakesignalbar
 Version: 0.1-2
