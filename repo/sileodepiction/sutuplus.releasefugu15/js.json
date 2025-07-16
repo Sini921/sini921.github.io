@@ -37,11 +37,11 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://sini921.github.io/repo/sileodepiction/sutuplus/Screenshot_01.png"
+                            "url": "https://sini921.github.io/repo/sileodepiction/sutuplus.releasefugu15/Screenshot_01.png"
                         },
                         {
                             "accessibilityText": "Screenshot",
-                            "url": "https://sini921.github.io/repo/sileodepiction/sutuplus/Screenshot_02.png" 
+                            "url": "https://sini921.github.io/repo/sileodepiction/sutuplus.releasefugu15/Screenshot_02.png" 
                         }
                     ]
                 },
@@ -65,7 +65,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "5.9.8-2-1",
+                    "text": "5.9.8-3-1",
                     "title": "版本"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 5.9.8-3-1\n- 这个源主很懒\n- 懒得写更新了什么",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
