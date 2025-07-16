@@ -61,7 +61,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.5-1",
+                    "text": "1.5-3",
                     "title": "版本"
                 },
                 {
@@ -85,6 +85,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.5-3\n- 优化一下置顶折叠按钮的圆角逻辑\n- 添加置顶折叠按钮的圆角的支持\n- 修复1.5-1出现的置顶折叠按钮消失的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
