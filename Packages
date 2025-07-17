@@ -3412,18 +3412,18 @@ Name: VolumeManager(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/volumemanager/js.json
 
 Package: com.sini.wcdisablehotupdates
-Version: 1.1-1
+Version: 1.1-2
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 72
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: rootless/com.sini.wcdisablehotupdates_1.1-1_iphoneos-arm64.deb
-Size: 2320
-MD5sum: de0a5ad8ab88edc049d2eea503f3e9d3
-SHA1: dfc873a14ec89d41e0d746396abe4918ef29eb74
-SHA256: ba1fbb7317ecc51eba7a8a5cbca5acd8e1f8aa60d4678c0b8febfe23e71fd41f
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: rootless/com.sini.wcdisablehotupdates_1.1-2_iphoneos-arm64.deb
+Size: 2364
+MD5sum: 78e1c65fc57c1e7a7ee799d1b494e626
+SHA1: 605f42e3fc5776329f41e5bc8064b32051a446e8
+SHA256: d7e111730da0f7b2dd0aec66967f35fbb0e00bad2017e24477c142efd64a5289
 Section: 微信插件
-Description: 不给我更新CallKit就算了，还把工具栏给我更新没了，那我就禁止热更新
+Description: 微信禁用热更新
 Author: Netskao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/wcdisablehotupdates.png
 Name: WCDisableHotUpdates(rootless)
