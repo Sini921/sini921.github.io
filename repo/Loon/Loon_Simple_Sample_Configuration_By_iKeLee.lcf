@@ -107,6 +107,8 @@ https://kelee.one/Tool/Loon/Lpx/BlockAdvertisers.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Remove_ads_by_keli.lpx, enabled=true
 https://github.com/fmz200/wool_scripts/raw/main/Loon/plugin/blockAds.plugin, enabled=true
 https://raw.githubusercontent.com/chxm1023/Advertising/Loon/AppAD.plugin, enabled=true
+https://raw.githubusercontent.com/deezertidal/private/master/plugallery/AdBlock.plugin, enabled=true
+https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/Loon/Plugin/DaysMatter.plugin, enabled=true
 https://raw.githubusercontent.com/chxm1023/Script_X/main/Collections.plugin, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Weixin_external_links_unlock.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/QQ_Redirect.lpx, enabled=true
@@ -129,12 +131,12 @@ https://kelee.one/Tool/Loon/Lpx/NeteaseCloudMusic_remove_ads.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Bilibili_remove_ads.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Weibo_remove_ads.lpx, enabled=true
 https://kelee.one/Tool/Loon/Lpx/Tieba_remove_ads.lpx, enabled=true
-https://kelee.one/Tool/Loon/Lpx/LoonGallery.lpx, policy = 兜底后备策略, enabled = true
-https://kelee.one/Tool/Loon/Lpx/Prevent_DNS_Leaks.lpx, policy = 兜底后备策略, enabled = true
-https://kelee.one/Tool/Loon/Lpx/Node_detection_tool.lpx, enabled = true
-https://kelee.one/Tool/Loon/Lpx/BoxJs.lpx, policy = 兜底后备策略, enabled = true
-https://kelee.one/Tool/Loon/Lpx/Sub-Store.lpx, policy = 兜底后备策略, enabled = true
-https://kelee.one/Tool/Loon/Lpx/Script-Hub.lpx, policy = 兜底后备策略, enabled = true
+https://kelee.one/Tool/Loon/Lpx/LoonGallery.lpx, policy=全球手动策略, enabled=true
+https://kelee.one/Tool/Loon/Lpx/Prevent_DNS_Leaks.lpx, policy=全球手动策略, enabled=true
+https://kelee.one/Tool/Loon/Lpx/Node_detection_tool.lpx, enabled=true
+https://kelee.one/Tool/Loon/Lpx/BoxJs.lpx, policy=全球手动策略, enabled=true
+https://kelee.one/Tool/Loon/Lpx/Sub-Store.lpx, policy=全球手动策略, enabled=true
+https://kelee.one/Tool/Loon/Lpx/Script-Hub.lpx, policy=全球手动策略, enabled=true
 
 [Mitm]
 hostname = 
