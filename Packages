@@ -1443,15 +1443,15 @@ Architecture: iphoneos-arm64
 Maintainer: Korboy <korboybeats@gmail.com>
 Depends: mobilesubstrate
 Filename: rootless/com.sini.filzaswipeselect_1.0_iphoneos-arm64.deb
-Size: 15576
-MD5sum: ec7666e84d83cd4597cc10203a4b3e47
-SHA1: 2ae39959de292982e7d24bf222ce855a35da1846
-SHA256: 56541e7ba8256b1eab0ca35e30227ded4f5e0c8469a69c00cf8658b34b8472df
+Size: 15608
+MD5sum: ab9efd8e52b705ab55ebe57082f08660
+SHA1: bd3a7a7884b4c38f5486b9375e445e4bfa573394
+SHA256: 9fe43bb98db84f0507ae98bad0f97d94994a832f7eb3804e5893480bcdd58d13
 Section: 越狱插件
 Description: Filza的滑动多选功能。不再单独点击每个文件进行选择。
 Author: Korboy <korboybeats@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/filzaswipeselect.png
-Name: FilzaSwipeSelect
+Name: FilzaSwipeSelect(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/filzaswipeselect/js.json
 
 Package: com.sini.flexlist
