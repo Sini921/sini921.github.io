@@ -1438,20 +1438,20 @@ Name: Filza Crack(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/filzacrack/js.json
 
 Package: com.sini.filzaswipeselect
-Version: 0.0.1~beta1
+Version: 1.0
 Architecture: iphoneos-arm64
 Maintainer: Korboy <korboybeats@gmail.com>
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.filzaswipeselect_0.0.1~beta1_iphoneos-arm64.deb
-Size: 8852
-MD5sum: 6f4fa337d85110dbdd1c9776f84a1f92
-SHA1: c68d73dee0c6abce053f1e09008db8d65859c958
-SHA256: c6a892f75f72cc29edc302137fbdd5751c7c0fbad5d3d0ed73b3619b772c6280
+Depends: mobilesubstrate
+Filename: rootless/com.sini.filzaswipeselect_1.0_iphoneos-arm64.deb
+Size: 15576
+MD5sum: ec7666e84d83cd4597cc10203a4b3e47
+SHA1: 2ae39959de292982e7d24bf222ce855a35da1846
+SHA256: 56541e7ba8256b1eab0ca35e30227ded4f5e0c8469a69c00cf8658b34b8472df
 Section: 越狱插件
-Description: 为 Filza 提供滑动多选功能。无需再单独点击每个文件进行选择。
+Description: Filza的滑动多选功能。不再单独点击每个文件进行选择。
 Author: Korboy <korboybeats@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/filzaswipeselect.png
-Name: FilzaSwipeSelect(rootless)
+Name: FilzaSwipeSelect
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/filzaswipeselect/js.json
 
 Package: com.sini.flexlist
