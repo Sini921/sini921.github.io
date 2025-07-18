@@ -277,24 +277,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/WCThemes.png
 Name: WCThemes(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCThemes/js.json
 
-Package: com.sini.WCToolGesture
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: wc
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.WCToolGesture_1.0_iphoneos-arm64.deb
-Size: 8288
-MD5sum: c119fe261cecb80f70b573e68ffceb53
-SHA1: b0047847f51c1f859dfe8e520574145859ef7ce4
-SHA256: 350d1a75306d1cf6ab6eee629c75c66d969aaf591ede78167f2afcc1178db97e
-Section: 微信插件
-Description: 微信输入框内嵌按键，右边朋友圈命名: clock_regular，左边视频通话命名: icons_filled_large_image
-Author: wc
-Icon: https://sini921.github.io/repo/sileodepiction/icon/WCToolGesture.png
-Name: WCToolGesture(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCToolGesture/js.json
-
 Package: com.sini.actionbarreborn
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -3655,35 +3637,16 @@ Name: 亚瑟浏览器Pro(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ysbrowserhook/js.json
 
 Package: com.sini.yuki
-Version: 0.0-6
+Version: 0.0-8
 Architecture: iphoneos-arm64
 Maintainer: vita
-Installed-Size: 272
+Installed-Size: 336
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.yuki_0.0-6_iphoneos-arm64.deb
-Size: 39248
-MD5sum: 93d2d7666ad9aa759b8caf21d80faeba
-SHA1: 6403841982a6120b34df2422a733e4703f8977cc
-SHA256: ddc382016d3f39d6800473950a25a741aa31f98524cc05e35d0dc7c920d370b9
-Section: 应用破解
-Priority: optional
-Description: 免费插件，随缘更新。
-Author: vita
-Icon: https://sini921.github.io/repo/sileodepiction/icon/yuki.png
-Name: Yuki(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/yuki/js.json
-
-Package: com.sini.yuki
-Version: 0.0-7
-Architecture: iphoneos-arm64
-Maintainer: vita
-Installed-Size: 320
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.yuki_0.0-7_iphoneos-arm64.deb
-Size: 50216
-MD5sum: b4e4d02d32a603d1d58bce913d45af2e
-SHA1: 7bce74dc0b6cc412b781a73d6814de55b02ce837
-SHA256: 33dbe7a4e4cf498ab8c7bc3f110e2251c0b25053e73d894172f510a90212fe7e
+Filename: rootless/com.sini.yuki_0.0-8_iphoneos-arm64.deb
+Size: 54024
+MD5sum: 7a3700679fb63b84ace4e2aea18e1dd8
+SHA1: 9ba22bcda5f4e80a53b197227d4d3e4c7db0a67d
+SHA256: 7e36c0fefa3ba9f82e04eeb65063c1e9adaf3bd4bd0cb9f389f955a2a60f0a3d
 Section: 应用破解
 Priority: optional
 Description: 免费插件，随缘更新。
@@ -4638,6 +4601,25 @@ Description: 中文输入法语音转文字免跳转插件。无设置选项，�
 Author: Lessica
 Icon: https://sini921.github.io/repo/sileodepiction/icon/yuyin.png
 Name: 语音转文字免跳转(roothide)
+
+Package: com.sini.yuki
+Version: 0.0-8
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 336
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: roothide/com.sini.yuki_0.0-8_iphoneos-arm64e.deb
+Size: 54092
+MD5sum: 8fbf4776f60fa2460c8f44873ac426c9
+SHA1: f6ff03137f2fe12b934759e1adf0b83b0317453c
+SHA256: b47e4aed2684735d6d77a73d0a05825ab4273943fecc97f10ee641135c266c96
+Section: 应用破解
+Priority: optional
+Description: 免费插件，随缘更新。
+Author: vita
+Icon: https://sini921.github.io/repo/sileodepiction/icon/yuki.png
+Name: Yuki(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/yuki/js.json
 
 Package: com.sini921.appstoretroller
 Version: 0.1.1-1
