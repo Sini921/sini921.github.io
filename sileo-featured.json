@@ -52,23 +52,10 @@
             "hideShadow": true
         },
         {
-            "url": "http://sini921.github.io/repo/images/callmemaybe.png",
-            "title": "CallMeMaybe",
-            "package":"com.sini921.callmemaybe",
+            "url": "http://sini921.github.io/repo/images/cozybadges.png",
+            "title": "CozyBadges",
+            "package":"com.sini921.cozybadges",
             "hideShadow": true
         },
-        {
-            "url": "http://sini921.github.io/repo/images/showmytouches.png",
-            "title": "ShowMyTouches",
-            "package":"com.sini921.showmytouches",
-            "hideShadow": true
-        },
-        {
-            "url": "http://sini921.github.io/repo/images/classicfolders3.png",
-            "title": "ClassicFolders 3",
-            "package":"com.sini921.classicfolders3",
-            "hideShadow": true
-        },
-
     ]
 }

@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://sini921.github.io/repo/images/dingtu.png",
+    "headerImage": "https://sini921.github.io/repo/images/cozybadges.png",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -78,7 +78,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024年07月19日",
+                    "text": "2025年07月19日",
                     "title": "更新日期"
                 },
                 {
