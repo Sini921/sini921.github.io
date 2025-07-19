@@ -3781,16 +3781,16 @@ Name: ClassicFolders 3(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/classicfolders3/js.json
 
 Package: com.sini921.cozybadges
-Version: 2.2-1
+Version: 2.2-2
 Architecture: iphoneos-arm64
 Maintainer: NoisyFlake & SINI
-Installed-Size: 488
+Installed-Size: 496
 Depends: firmware (>= 13.0), mobilesubstrate
-Filename: rootless/com.sini921.cozybadges_2.2-1_iphoneos-arm64.deb
-Size: 49226
-MD5sum: 52539b349b1c013edf1067b7d02380c8
-SHA1: 5cb8c289c3947c9dc2c91f7761f75fbe641f91b9
-SHA256: 1e6d5c8348a0bc7ffedfff655fd4acd13bbf1f3fbb29a332e7680bdc93ba577c
+Filename: rootless/com.sini921.cozybadges_2.2-2_iphoneos-arm64.deb
+Size: 50768
+MD5sum: 3c6d3e0ab74de839c32d115ad4c3a389
+SHA1: 6425376b5d8b772062d55a97156e3fd80a4353b2
+SHA256: a549a4020ef1c30e3f83b4ba9fa6d5533ec54fb3eb0b6b1437caee825d0c5cb6
 Section: 越狱插件
 Description: App的名字变成通知数量，基于开源优化编译适配roothide。去掉了Alderis Color Picker依赖
 Author: NoisyFlake & SINI
@@ -4713,16 +4713,16 @@ Name: ChromaHomeBarX(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/chromahomebarx/js.json
 
 Package: com.sini921.cozybadges
-Version: 2.2-1
+Version: 2.2-2
 Architecture: iphoneos-arm64e
 Maintainer: NoisyFlake & SINI
-Installed-Size: 488
+Installed-Size: 496
 Depends: firmware (>= 13.0), mobilesubstrate
-Filename: roothide/com.sini921.cozybadges_2.2-1_iphoneos-arm64e.deb
-Size: 47464
-MD5sum: d80a725ce1df47c36b08a97ccb41996e
-SHA1: b5a379137517bc2bcb03bbe4b1cba6ddf1bb71f6
-SHA256: f468f73857a1c93531db35259f9425191fcd6802e208c9bb0ea8418e24421c7f
+Filename: roothide/com.sini921.cozybadges_2.2-2_iphoneos-arm64e.deb
+Size: 48948
+MD5sum: 28de14e478c2884e8547f8b66f1119d6
+SHA1: 232f19b839b510ceb09c4f476f2c2976f4fa4210
+SHA256: 9dec03299990f52ee0e849bf7ab9c61edc3409a09df9b98c3e9c83b435aaae69
 Section: 越狱插件
 Description: App的名字变成通知数量，基于开源优化编译适配roothide。去掉了Alderis Color Picker依赖
 Author: NoisyFlake & SINI
