@@ -17,7 +17,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 桌面通知美化\n- 将通知角标改为在应用图标的下方以文字形式显示\n- 彩色应用名字等",
+                    "markdown": "## 描述\n- App的名字变成通知数量\n- 基于开源优化编译适配roothide\n- 去掉了AlderisColorPicker依赖",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -68,17 +68,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "NoisyFlake&b4db1r3",
+                    "text": "NoisyFlake & SINI",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.1",
+                    "text": "2.2-1",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2024年5月13日",
+                    "text": "2024年07月19日",
                     "title": "更新日期"
                 },
                 {
@@ -102,7 +102,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 2.1\n- 这个源主很懒\n- 懒得写更新日志",
+                    "markdown": "#### 版本: 2.2-1\n- 这个源主很懒\n- 懒得写更新日志",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }
