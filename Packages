@@ -3764,18 +3764,18 @@ Name: ChatGPTHook(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/chatgpthook/js.json
 
 Package: com.sini921.chromahomebarx
-Version: 1.2-2
+Version: 1.2-3
 Architecture: iphoneos-arm64
 Maintainer: Afnan Ahmad & SINI
-Installed-Size: 484
+Installed-Size: 448
 Depends: mobilesubstrate, ws.hbang.alderis
-Filename: rootless/com.sini921.chromahomebarx_1.2-2_iphoneos-arm64.deb
-Size: 79652
-MD5sum: c3a213d81fa44dcda6ff8b5c26a6cb2c
-SHA1: 4c3fec187510debc6a0d5a29fe75ee2685d2e7bd
-SHA256: a609eb66e0a8b0d234c85aebd174e89709e3466c87e4e359dbad627ad3f6c8a9
+Filename: rootless/com.sini921.chromahomebarx_1.2-3_iphoneos-arm64.deb
+Size: 45590
+MD5sum: 08310ac0a5b069633ff88a27ea57c0b3
+SHA1: 0e729b0498d473c8b8dd7b6c9a20400195ab5d83
+SHA256: 2451be4a9377711b3057fce9b73aa9983bd9dfd99d450bdb4b710dd8b26560be
 Section: 越狱插件
-Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根越狱
+Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根/隐根越狱
 Author: Afnan Ahmad & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/chromahomebarx.png
 Name: ChromaHomeBarX(rootless)
@@ -4675,6 +4675,24 @@ Author: fiore & p2kdev & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
 Name: CCBorder(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
+
+Package: com.sini921.chromahomebarx
+Version: 1.2-3
+Architecture: iphoneos-arm64e
+Maintainer: Afnan Ahmad & SINI
+Installed-Size: 448
+Depends: mobilesubstrate, ws.hbang.alderis
+Filename: roothide/com.sini921.chromahomebarx_1.2-3_iphoneos-arm64e.deb
+Size: 44032
+MD5sum: 1bf99cce9d3ffd68d9b1665ef2b21285
+SHA1: f0a8e471267ea35f9ece980abd0143cc01b93330
+SHA256: 83b1929b8d25372c1f2dda3dc22e5876435e94368a19aefc5ba26cab94633619
+Section: 越狱插件
+Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根/隐根越狱
+Author: Afnan Ahmad & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/chromahomebarx.png
+Name: ChromaHomeBarX(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/chromahomebarx/js.json
 
 Package: com.sini921.dyyylite
 Version: 2.2-8-1752759617
