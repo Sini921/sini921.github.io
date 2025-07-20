@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.1.1-1",
+                    "text": "0.1.1-2",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年07月09日",
+                    "text": "2025年07月20日",
                     "title": "更新日期"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.1.1-2\n- 新增账号管理功能",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
