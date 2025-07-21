@@ -3172,16 +3172,15 @@ Name: TGExtra(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/tgextra/js.json
 
 Package: com.sini.themebox
-Version: 2.0.9-1
+Version: 2.1.0
 Architecture: iphoneos-arm64
 Maintainer: WeChat
-Installed-Size: 9516
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.themebox_2.0.9-1_iphoneos-arm64.deb
-Size: 4176248
-MD5sum: 045240a282d00ca8ddd6d2542f70f8a5
-SHA1: a6fde8bee1c34f194bddb8309d8c26889a01b6ac
-SHA256: d934ce18c06046c6ce7ec52f50d6df9142641dfbe7e39aaa2e33c9359699bb9b
+Filename: rootless/com.sini.themebox_2.1.0_iphoneos-arm64.deb
+Size: 4022364
+MD5sum: 62f74f79271d22e33f9ba427799259b3
+SHA1: 41a824351e4d8b68d914fee6f9f217078378ef5c
+SHA256: 9b3be4ef85586917cd85bc20eeeffffe3dc5102d903a00e43189a81f5ee589be
 Section: 微信插件
 Description: 微信主题盒子
 Author: WeChat
@@ -4521,11 +4520,11 @@ Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
 Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
 Filename: roothide/com.mrgcgamer.libgcuniversal_1.7.0_iphoneos-arm64e.deb
-Size: 55512
-MD5sum: 13875b3fc502c58261094adccb4cb028
-SHA1: 675eeae6606eaed856fac59e6aff2b5ad2d6aff4
-SHA256: 78460caa5763917c97531723794b2a2ce007330b836e2f40cff68fad343acd7c
-Section: Development
+Size: 55736
+MD5sum: 494dca0da51bb666666d03afac8b604f
+SHA1: 8b8ce7d84234ed94e7f4546f86cb18fcb6a82485
+SHA256: 01cf18b192979a005dd7df28f82cef39ff6068364cbaf0f816eaeb79c7732ddd
+Section: 插件依赖
 Description: 有些插件需要这个依赖（通过RootHide Patcher转换）
 Tag: role::developer
 Author: MrGcGamer
@@ -4576,10 +4575,11 @@ Maintainer: gblw
 Installed-Size: 123
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/com.sini.fixset_1.1_iphoneos-arm64e.deb
-Size: 36784
-MD5sum: 267a28004c8105ad2472744951492a61
-SHA1: 4356c858ce8a48262ba9cefe3fd63e56b7544ce1
-SHA256: 2f763b1c9fef11189e3f16f8244e4a8ceb978ae1cf1215ca0f2747aaef281885
+Size: 36816
+MD5sum: 707afa1456136bd88c0de2866bbdc55d
+SHA1: a0fd752aa895abbef9a760b6c6b4b3e8e7b0ca0a
+SHA256: f168153582e2bd5e15022b5b7920b0e1e5225b45a6fb9136a61b466ae3b9f431
+Section: 越狱插件
 Description: 修复部分插件转roothide配置不保存问题
 Author: @bswbw
 Icon: https://sini921.github.io/repo/sileodepiction/icon/fixset.png
