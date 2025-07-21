@@ -1342,16 +1342,16 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/eneko.png
 Name: Eneko(rootless)
 
 Package: com.sini.enhance
-Version: 1.5-3
+Version: 1.5-4
 Architecture: iphoneos-arm64
 Maintainer: 愫 茶
-Installed-Size: 2476
+Installed-Size: 2492
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.enhance_1.5-3_iphoneos-arm64.deb
-Size: 530664
-MD5sum: d01ea6d026deb8fe30ba29889872089c
-SHA1: 960c3d8699895a4028ac2120773ce73c51ff4803
-SHA256: 25117d8c19bf528bc44f19115e4242ecae0b79a2f1c359595151ee26df8381e2
+Filename: rootless/com.sini.enhance_1.5-4_iphoneos-arm64.deb
+Size: 537232
+MD5sum: d5bdf15955f6ad91ab5a0717514b6ca5
+SHA1: d1d25c5c31c08412712acad0de8051184f2eef46
+SHA256: dff868fb022514679f5c5241131fc5cb94a46075c1aed78555108fcceaee7322
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 愫 茶

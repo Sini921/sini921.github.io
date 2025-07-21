@@ -61,12 +61,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.5-3",
+                    "text": "1.5-4",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年07月16日",
+                    "text": "2025年07月21日",
                     "title": "更新日期"
                 },
                 {
@@ -85,6 +85,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.5-4\n- 顶部搜索框圆角支持单独设置\n- 修复禁用热更新在8.0.61失效的问题\n- 信息卡片高度修改范围扩展为144-500\n- 修复部分页面Cell调整边距后Cell位置不居中问题\n- 修复收藏置顶/折叠置顶,在圆角关闭时依然有底色的问题\n- 个人信息居中布局逻辑优化。添加右侧三角符号xy坐标设置\n- 背景填充模式添加拉伸填充,图片完全填充容器,不会被剪裁",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
