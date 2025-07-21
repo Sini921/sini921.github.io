@@ -4569,6 +4569,23 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPulse.png
 Name: WCPulse(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPulse/js.json
 
+Package: com.sini.fixset
+Version: 1.1
+Architecture: iphoneos-arm64e
+Maintainer: gblw
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/com.sini.fixset_1.1_iphoneos-arm64e.deb
+Size: 36784
+MD5sum: 267a28004c8105ad2472744951492a61
+SHA1: 4356c858ce8a48262ba9cefe3fd63e56b7544ce1
+SHA256: 2f763b1c9fef11189e3f16f8244e4a8ceb978ae1cf1215ca0f2747aaef281885
+Description: 修复部分插件转roothide配置不保存问题
+Author: @bswbw
+Icon: https://sini921.github.io/repo/sileodepiction/icon/fixset.png
+Name: FixSet(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/fixset/js.json
+
 Package: com.sini.kayoko
 Version: 2.9
 Architecture: iphoneos-arm64e
