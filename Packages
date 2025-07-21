@@ -739,6 +739,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: BetterUISwitch(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/betteruiswitch/js.json
 
+Package: com.sini.bhinsta
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili & daodao
+Installed-Size: 460
+Depends: mobilesubstrate, ws.hbang.common
+Filename: rootless/com.sini.bhinsta_1.2_iphoneos-arm64.deb
+Size: 69452
+MD5sum: a5eed6013b6b0ec3fac583763a609e1f
+SHA1: bf6101f74cce7bd6ba1482d4ef23799e39d1a513
+SHA256: 8ae2da050435e724a58bf4f4ef3568b97c56fc33d1c058489accf2f3cc63bee5
+Section: 应用破解
+Description: Instagram 的多功能插件，插件入口：长按左下角首页🏠按钮，或者个人页面—>右上角三横图标进入。根据开源代码直接编译的中文版。
+Author: Bandar Alruwaili
+Icon: https://sini921.github.io/repo/sileodepiction/icon/bhinsta.png
+Name: BHInsta(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/bhinsta/js.json
+
 Package: com.sini.bhtkplus
 Version: 1.9.3
 Architecture: iphoneos-arm64
@@ -755,23 +773,6 @@ Author: raul saeed
 Icon: https://sini921.github.io/repo/sileodepiction/icon/bhtkplus.png
 Name: BHTikTok++(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/bhtkplus/js.json
-
-Package: com.sini.bhtwitter
-Version: 4.4-1
-Architecture: iphoneos-arm64
-Maintainer: Bandar Alruwaili
-Depends: mobilesubstrate, ws.hbang.common
-Filename: rootless/com.sini.bhtwitter_4.4-1_iphoneos-arm64.deb
-Size: 7621500
-MD5sum: 451170ab04a560554d206c354d110022
-SHA1: f206cdd02fea9cfeeb0d83fc9918c6a214a029be
-SHA256: 0a3bdf76ddbed2d160dfc265b30bdeb5f70bd557a3e05205043e65c30115a5fd
-Section: 应用破解
-Description: BHTwitter中文修复优化版，推特的综合功能性插件，插件选项位于推特设置顶部。
-Author: Bandar Alruwaili
-Icon: https://sini921.github.io/repo/sileodepiction/icon/bhtwitter.png
-Name: BHTwitter(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/bhtwitter/js.json
 
 Package: com.sini.bigshot
 Version: 1.1
@@ -2072,6 +2073,23 @@ Author: lordscotland <admin@officialscheduler.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/mterminal.png
 Name: MTerminal(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/mterminal/js.json
+
+Package: com.sini.neofreebird.bht
+Version: 5.1-1
+Architecture: iphoneos-arm64
+Maintainer: actuallyaridan & 刀刀
+Depends: mobilesubstrate, ws.hbang.common
+Filename: rootless/com.sini.neofreebird.bht_5.1-1_iphoneos-arm64.deb
+Size: 7731056
+MD5sum: 9c41da1d55a533ba6a361143a337e60a
+SHA1: 353bb0c6cff1716ff32f61737abd42fe4bb56afc
+SHA256: eef662d1499788fa84b02b1945e17124bdc119398b62bebbedb5a61f11d46037
+Section: 应用破解
+Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
+Author: BandarHelal & actuallyaridan
+Icon: https://sini921.github.io/repo/sileodepiction/icon/neofreebird.bht.png
+Name: NeoFreeBird-BHT(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/neofreebird.bht/js.json
 
 Package: com.sini.noapplemobilerepair
 Version: 0.0.1-103
