@@ -1237,22 +1237,22 @@ Name: 斗图助手(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/doutu.rootless/js.json
 
 Package: com.sini.dumpapp.wechat-rootless
-Version: 2.0.6
+Version: 2.0.8
 Architecture: iphoneos-arm64
-Maintainer: DumpApp
-Installed-Size: 28608
+Maintainer: WeChat
+Installed-Size: 28576
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: rootless/com.sini.dumpapp.wechat-rootless_2.0.6_iphoneos-arm64.deb
-Size: 10517596
-MD5sum: bb8a0ff1cdeadb281c60d11fb6794919
-SHA1: ab1c540114c9447e2f6a032f4fffd606822e859e
-SHA256: 0d36963707f602e8238650926009cb8ace039b67104cbec570f57ec8636d0d57
+Filename: rootless/com.sini.dumpapp.wechat-rootless_2.0.8_iphoneos-arm64.deb
+Size: 10524684
+MD5sum: 603afc4282585579d2193692d241c84b
+SHA1: 6432874b0eac42641d048dda8da36f585a029e58
+SHA256: d19f1a9054d8a592f936dec4f38471a097d1a9d689b1a381fc407ddcf6203b1b
 Section: 微信插件
-Description: 微信插件
+Description: 锤子助手插件
 Author: DumpApp
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dumpapp.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dumpapp.wechat-rootless.png
 Name: 锤子助手(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dumpapp/js.json
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dumpapp.wechat-rootless/js.json
 
 Package: com.sini.dumpdecrypter
 Version: 1.5-1
@@ -3172,34 +3172,35 @@ Name: TGExtra(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/tgextra/js.json
 
 Package: com.sini.themebox
-Version: 2.1.0
+Version: 2.1.1
 Architecture: iphoneos-arm64
-Maintainer: WeChat
+Maintainer: admin@25mao.com
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.themebox_2.1.0_iphoneos-arm64.deb
-Size: 4022364
-MD5sum: 62f74f79271d22e33f9ba427799259b3
-SHA1: 41a824351e4d8b68d914fee6f9f217078378ef5c
-SHA256: 9b3be4ef85586917cd85bc20eeeffffe3dc5102d903a00e43189a81f5ee589be
+Filename: rootless/com.sini.themebox_2.1.1_iphoneos-arm64.deb
+Size: 3980776
+MD5sum: 1bbe7b62dfe8a22e898c74848a6dda0d
+SHA1: 8f59976232f67d7bd0502ed64e5b0a6f0edab9ae
+SHA256: 5916c1da50f70721976387dcf390d0402fce5e7db11d679cd72870b2dee08fc1
 Section: 微信插件
 Description: 微信主题盒子
-Author: WeChat
+Author: 懒猫
 Icon: https://sini921.github.io/repo/sileodepiction/icon/themebox.png
 Name: 主题盒子(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/themebox/js.json
+Sponsor: admin@25mao.com
 
 Package: com.sini.themepro
-Version: 3.9.1
+Version: 3.9.8
 Architecture: iphoneos-arm64
 Maintainer: MustangYM <MustangYM@yeah.net>
 Depends: mobilesubstrate
 Conflicts: ThemePro
 Replaces: ThemePro
-Filename: rootless/com.sini.themepro_3.9.1_iphoneos-arm64.deb
-Size: 5771396
-MD5sum: a6942464c7dd935bc142af753d02d969
-SHA1: 4e9914246e8bae99d25bba38b5806b911bc7e3df
-SHA256: 7e3fad442920e26ecb84cffee919af0b00dbc57adb02fdaebbf933c1f683be40
+Filename: rootless/com.sini.themepro_3.9.8_iphoneos-arm64.deb
+Size: 5789272
+MD5sum: 66557823529b0fea032b37cb77a594fb
+SHA1: cd000152d50eedfe03c84896a8c7ac3fbf4ae077
+SHA256: f844adeba195f3c5b4968fc8704bcdf55fde20c1a8aef58d37c17eb48aac32cc
 Section: 微信插件
 Description: 微信主题美化，主题需付费
 Author: MustangYM <mm13299079785@gmail.com>
