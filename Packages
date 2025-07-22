@@ -3817,16 +3817,16 @@ Name: CozyBadges(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cozybadges/js.json
 
 Package: com.sini921.cylinderreborn
-Version: 1.1.2-2
+Version: 1.1.2-3
 Architecture: iphoneos-arm64
 Maintainer: Ryan Nair & SINI
-Installed-Size: 1336
+Installed-Size: 1372
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
-Filename: rootless/com.sini921.cylinderreborn_1.1.2-2_iphoneos-arm64.deb
-Size: 214842
-MD5sum: f0fad8be312ff982a4216ec2906cd45f
-SHA1: eadb5d4def0e240e034ede7d9ffa2292205fcad8
-SHA256: d7f6dd07ab1a17b8c5e149ace458a7bc377ffc12825c09c56a3797cda35f8976
+Filename: rootless/com.sini921.cylinderreborn_1.1.2-3_iphoneos-arm64.deb
+Size: 245826
+MD5sum: 3e4b9c43574a3abb703d6fa763f6fea3
+SHA1: a2013f4349b074bbacdaadb1ded7c2c4fdf59ccd
+SHA256: d6f3c359db3d8d81930886b4f0539afe9ac742b4ad8e6ed81a9311d9fbb9cbea
 Section: 越狱插件
 Description: 有点意思的桌面图标动画，基于开源优化编译，修正汉化，适配支持roothide。
 Author: Ryan Nair & SINI
@@ -4804,16 +4804,16 @@ Name: CozyBadges(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cozybadges/js.json
 
 Package: com.sini921.cylinderreborn
-Version: 1.1.2-2
+Version: 1.1.2-3
 Architecture: iphoneos-arm64e
 Maintainer: Ryan Nair & SINI
-Installed-Size: 1336
+Installed-Size: 1372
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
-Filename: roothide/com.sini921.cylinderreborn_1.1.2-2_iphoneos-arm64e.deb
-Size: 213946
-MD5sum: 85fe45c2c97636518e99b6e5e561a5a0
-SHA1: b185d11728e88454e01e585f6883ddb6c8ea8dbf
-SHA256: 142d71501615374a41bd769a4877257adf0459c4e92d91cbece5988acbba07e4
+Filename: roothide/com.sini921.cylinderreborn_1.1.2-3_iphoneos-arm64e.deb
+Size: 245418
+MD5sum: d12d9089f8707323397ce395ebc85b99
+SHA1: 16c18b405b22c48c630bdd3522cd4bdf6685e8ed
+SHA256: b85f92e20c2c9f108bd33e87d943db51c4fc52e401af7a45b71c142610f619c8
 Section: 越狱插件
 Description: 有点意思的桌面图标动画，基于开源优化编译，修正汉化，适配支持roothide。
 Author: Ryan Nair & SINI
