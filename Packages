@@ -3816,6 +3816,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/cozybadges.png
 Name: CozyBadges(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cozybadges/js.json
 
+Package: com.sini921.cylinderreborn
+Version: 1.1.2-2
+Architecture: iphoneos-arm64
+Maintainer: Ryan Nair & SINI
+Installed-Size: 1336
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: rootless/com.sini921.cylinderreborn_1.1.2-2_iphoneos-arm64.deb
+Size: 214842
+MD5sum: f0fad8be312ff982a4216ec2906cd45f
+SHA1: eadb5d4def0e240e034ede7d9ffa2292205fcad8
+SHA256: d7f6dd07ab1a17b8c5e149ace458a7bc377ffc12825c09c56a3797cda35f8976
+Section: 越狱插件
+Description: 有点意思的桌面图标动画，基于开源优化编译，修正汉化，适配支持roothide。
+Author: Ryan Nair & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
+Name: CylinderReborn(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cylinderreborn/js.json
+
 Package: com.sini921.dyyylite
 Version: 2.2-8-1752759617
 Architecture: iphoneos-arm64
@@ -4765,6 +4783,24 @@ Author: NoisyFlake & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/cozybadges.png
 Name: CozyBadges(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cozybadges/js.json
+
+Package: com.sini921.cylinderreborn
+Version: 1.1.2-2
+Architecture: iphoneos-arm64e
+Maintainer: Ryan Nair & SINI
+Installed-Size: 1336
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: roothide/com.sini921.cylinderreborn_1.1.2-2_iphoneos-arm64e.deb
+Size: 213946
+MD5sum: 85fe45c2c97636518e99b6e5e561a5a0
+SHA1: b185d11728e88454e01e585f6883ddb6c8ea8dbf
+SHA256: 142d71501615374a41bd769a4877257adf0459c4e92d91cbece5988acbba07e4
+Section: 越狱插件
+Description: 有点意思的桌面图标动画，基于开源优化编译，修正汉化，适配支持roothide。
+Author: Ryan Nair & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
+Name: CylinderReborn(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cylinderreborn/js.json
 
 Package: com.sini921.dyyylite
 Version: 2.2-8-1752759617

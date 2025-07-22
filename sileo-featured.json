@@ -16,6 +16,12 @@
             "hideShadow": true
         },
         {
+            "url": "http://sini921.github.io/repo/images/cylinderreborn.png",
+            "title": "CylinderReborn",
+            "package":"com.sini921.cylinderreborn",
+            "hideShadow": true
+        },
+        {
             "url": "http://sini921.github.io/repo/images/quickactions.png",
             "title": "QuickActions",
             "package":"com.sini921.quickactions",
