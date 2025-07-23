@@ -17,7 +17,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 桌面布局调整\n- 自定义桌面图标大小\n- 自定义图标排列数量\n- 基于开源修改编译的中文版\n- 去掉了Alderis Color Picker依赖\n- 编译支持roothide。",
+                    "markdown": "## 描述\n- 桌面布局调整\n- 自定义桌面图标大小\n- 自定义图标排列数量\n- 基于开源修改编译的中文版\n- 去掉了Alderis Color Picker依赖\n- 编译支持roothide",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.4.1-1",
+                    "text": "1.4.1-2",
                     "title": "版本"
                 },
                 {
@@ -97,6 +97,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.4.1-2\n- 补全3D菜单汉化\n- 现在所见之处皆为中文",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
