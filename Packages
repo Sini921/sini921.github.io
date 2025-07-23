@@ -3777,16 +3777,16 @@ Name: ChatGPTHook(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/chatgpthook/js.json
 
 Package: com.sini921.chromahomebarx
-Version: 1.2-4
+Version: 1.2-5
 Architecture: iphoneos-arm64
 Maintainer: Afnan Ahmad & SINI
 Installed-Size: 480
 Depends: mobilesubstrate
-Filename: rootless/com.sini921.chromahomebarx_1.2-4_iphoneos-arm64.deb
-Size: 56860
-MD5sum: b47c977433a5a72152bf851f0bb60861
-SHA1: a8a4892deb832ba372b23d5a229874851d548a77
-SHA256: dfb59ee9884fdbf7528ef9bf6e1f95046f071b5b6d52ca008ce64be7556c456b
+Filename: rootless/com.sini921.chromahomebarx_1.2-5_iphoneos-arm64.deb
+Size: 56972
+MD5sum: 079ae0b49fdc36e2c6f6293ee0beba12
+SHA1: b1c2a9a3c318a0f4fcfb4f17da589055aaec4540
+SHA256: 96576ddef90dc5d9d02c5f011f8b16716a9a868c9ca8e266b51f4900e7d6fa93
 Section: 越狱插件
 Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根/隐根越狱，去掉了Alderis Color Picker依赖
 Author: Afnan Ahmad & SINI
@@ -4800,16 +4800,16 @@ Name: CCBorder(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
 
 Package: com.sini921.chromahomebarx
-Version: 1.2-4
+Version: 1.2-5
 Architecture: iphoneos-arm64e
 Maintainer: Afnan Ahmad & SINI
 Installed-Size: 480
 Depends: mobilesubstrate
-Filename: roothide/com.sini921.chromahomebarx_1.2-4_iphoneos-arm64e.deb
-Size: 55302
-MD5sum: 864bfb5b73364920efa9025510123d2a
-SHA1: 8e5dac05fc41c6f6283d6caaf616ea8a32d9c2f1
-SHA256: 76943ea04126593c78a5288a6b078bfd174e30637f478154bb02dc1c689d1906
+Filename: roothide/com.sini921.chromahomebarx_1.2-5_iphoneos-arm64e.deb
+Size: 55288
+MD5sum: 8104db96d3bf4ec02ef17fec52d71c94
+SHA1: bb3d3e0266f08e1753eb7778c922082acfd41fe4
+SHA256: 68f62dec029f85fd486ca5eeba000e9e49087aecf8cfd3cd0af6b767b54c0292
 Section: 越狱插件
 Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根/隐根越狱，去掉了Alderis Color Picker依赖
 Author: Afnan Ahmad & SINI
