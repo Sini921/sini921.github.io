@@ -17,7 +17,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 桌面布局美化\n- 自定义桌面图标大小\n- 自定义图标排列数量\n- 自定义小组件大小\n- 加入刀刀源汉化",
+                    "markdown": "## 描述\n- 桌面布局调整\n- 自定义桌面图标大小\n- 自定义图标排列数量\n- 基于开源修改编译的中文版\n- 去掉了Alderis Color Picker依赖\n- 编译支持roothide。",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -68,17 +68,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "ren7995",
+                    "text": "ren7995 & SINI",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.4.1",
+                    "text": "1.4.1-1",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2023年6月22日",
+                    "text": "2025年07月23日",
                     "title": "更新日期"
                 },
                 {
@@ -102,7 +102,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 1.4.1\n- 这个源主很懒\n- 懒得写更新日志",
+                    "markdown": "#### 版本: 1.4.1-1\n- 这个源主很懒\n- 懒得写更新日志",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }

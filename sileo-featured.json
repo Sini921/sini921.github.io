@@ -22,6 +22,12 @@
             "hideShadow": true
         },
         {
+            "url": "http://sini921.github.io/repo/images/atria.png",
+            "title": "Atria",
+            "package":"com.sini921.atria",
+            "hideShadow": true
+        },
+        {
             "url": "http://sini921.github.io/repo/images/quickactions.png",
             "title": "QuickActions",
             "package":"com.sini921.quickactions",
