@@ -1612,11 +1612,11 @@ Maintainer: Nightwind
 Installed-Size: 172
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
 Filename: rootless/com.sini.horizontalsliders_0.0.1_iphoneos-arm64.deb
-Size: 10628
-MD5sum: 8b16fdd34e29c1cc09dce5ef43ea8a49
-SHA1: a478cb60ec146f995a13cf1ff21dd9881cef661b
-SHA256: 8e42eed04f314fcf1a1f8d8f839f323cee6f39dc0ac5375e3d51a3ff60ac1a23
-Section: 越狱插件
+Size: 10612
+MD5sum: b32289e79ba9c47e93f8ea8447b506e3
+SHA1: d607240da64e141b8847e00f8b20a0bb39ed53bb
+SHA256: 9675ab09f10c1f41f0f588a2977466d45d55555d29cb5e3c5e8bd1626a608416
+Section: 控制中心
 Description: 将控制中心的亮度和音量滑块横过来。
 Author: Nightwind
 Icon: https://sini921.github.io/repo/sileodepiction/icon/horizontalsliders.png
@@ -1718,11 +1718,11 @@ Maintainer: Nightwind & thetimeloop
 Installed-Size: 1502
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
 Filename: rootless/com.sini.jade_1.0.5_iphoneos-arm64.deb
-Size: 307744
-MD5sum: f264d37d19e97413fdb50d005866d661
-SHA1: d192a3c0f268d2dfc7a67d6d03d1da59131e357d
-SHA256: 9044c32ca972a484ddd1e32a64c37d460b4997916070c99dea83e4aba7e70bac
-Section: 越狱插件
+Size: 308008
+MD5sum: a694267ab4f5fca9b82b6246a879ad46
+SHA1: 123055f04a475d8d3e8ebaa83b8a84cf8ee2c71e
+SHA256: 601598bb10e4156b603916aaac509ac6b5299d5647498bd3804bdb728a304b7e
+Section: 控制中心
 Description: 控制中心
 Author: Nightwind & thetimeloop
 Icon: https://sini921.github.io/repo/sileodepiction/icon/jade.png
