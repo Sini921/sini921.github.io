@@ -2295,14 +2295,14 @@ Architecture: iphoneos-arm64
 Maintainer: Sini921
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
 Filename: rootless/com.sini.plampycc_1.0.2_iphoneos-arm64.deb
-Size: 1577660
-MD5sum: 4ff75ce5c40333723a9923c98f732e5b
-SHA1: bbaf8639547c1462481724ac51600b3b09322a07
-SHA256: 2c2545b86b86b476aa7d5716f31068480e50e6d29d8c839ad49a296ed1ac3998
-Section: 越狱插件
+Size: 1577828
+MD5sum: 9554ffabf5efeaaa7f4b714fc9a6c119
+SHA1: 4a86b138ccc15e8312d78fb0c6ee498606a2582f
+SHA256: 592135b5b85b9ade4d4ec2fc64659f983e26666396387b4159757e40ac7abfef
+Section: 控制中心
 Description: 控制中心UI美化，自定义背景图
 Author: sugiuta
-Icon: https://sini921.github.io/repo/sileodepiction/icon/plam.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/plampycc.png
 Name: PlampyCC(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/plampycc/js.json
 
