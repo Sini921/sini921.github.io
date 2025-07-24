@@ -897,24 +897,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/ccautobrightness.png
 Name: CCAutoBrightness(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccautobrightness/js.json
 
-Package: com.sini.ccless
-Version: 2.0.6
-Architecture: iphoneos-arm64
-Maintainer: 妖刀
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport
-Conflicts: com.skypain.cclocation, com.skypain.ccsettrings, com.skypain.ccrespring, com.sop.cpumagicrootless, netskao.ccbadgeclear-rootless, com.mtac.uptime, netskao.alipayscan-rootless, netskao.wechatscan-rootless, com.skypain.ccvpn, netskao.ccswitchdata-rootless, netskao.ccsim-rootless, netskao.tinyccmodules-rootless, netskao.cccellularrate-rootless, netskao.quantumultxlauncher-rootless, com.p2kdev.snapper2cc, com.skypain.ccautobrightness, com.skypain.ccscreenshot, com.skypain.cclockscreen, xyz.cypwn.safeccmodules, com.zqbb.ccpay, com.zqbb.qszqb, com.netskao.ccbadgeclear, com.kingpuffdaddi.control-center.ccvpn, com.netskao.cclifttowake, com.kdt.caperfhudmodule, com.kingpuffdaddi.control-center.ccvibration
-Filename: rootless/com.sini.ccless_2.0.6_iphoneos-arm64.deb
-Size: 515000
-MD5sum: 9d486600da93c1cb9df46be2c810d7c0
-SHA1: 90f3484f14f54496ae1b03f363173158f81e233d
-SHA256: 7a5c443e4e5cf45ce641ff15387ebccd21a8a1de5f5b6d58c593dc2344e4aa0b
-Section: 越狱插件
-Description: 超级控制中心模块集合！
-Author: 妖刀
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: CCLess++(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccless/js.json
-
 Package: com.sini.cclocation
 Version: 1.1.0-1
 Architecture: iphoneos-arm64
@@ -2536,24 +2518,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: RecordPause(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/recordpause/js.json
 
-Package: com.sini.removewidgetbg
-Version: 1.7
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 384
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
-Filename: rootless/com.sini.removewidgetbg_1.7_iphoneos-arm64.deb
-Size: 29816
-MD5sum: 3f6db44f08ad59a86a692cc71c3d22bf
-SHA1: 7f6bbc57969765b43541a288916915b7729b159f
-SHA256: 3b5e06f8f223d5708904db4ee1d68762aab7cd6d5799d0f3aaa6ac475f6415f4
-Section: 越狱插件
-Description: 删除主屏幕上小部件的背景。
-Author: Lessica <82flex@gmail.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/remo.png
-Name: Remove Widget Background(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/removewidgetbg/js.json
-
 Package: com.sini.replaced
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -3686,16 +3650,16 @@ Name: AppStoreTroller(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
 
 Package: com.sini921.atria
-Version: 1.4.1-2
+Version: 1.4.1-3
 Architecture: iphoneos-arm64
 Maintainer: ren7995 & SINI
 Installed-Size: 976
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: rootless/com.sini921.atria_1.4.1-2_iphoneos-arm64.deb
-Size: 217980
-MD5sum: cd4fdd73f50660c6b72d935f95d96cc8
-SHA1: 66e34ed3cb54933e0fe85afc5fe58b9d1dd5351a
-SHA256: 1d359e0bfd1df5cec6664078aeaf214b7cc3ebc386fb6e8f4ce80da4b455420e
+Filename: rootless/com.sini921.atria_1.4.1-3_iphoneos-arm64.deb
+Size: 218010
+MD5sum: f6ffc760a3168bf56887d871839f5b06
+SHA1: 4240edad87a91a4924e33605f6db31f8138af1df
+SHA256: 01deadb9ade364f20f30e170b1fdfaf138be45e7c6e901b7cceacbe5dde8a9e7
 Section: 越狱插件
 Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothide。
 Author: ren7995 & SINI
@@ -4692,23 +4656,6 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/no.png
 Name: No Redirect(roothide)
 
-Package: com.sini.removewidgetbg
-Version: 1.7
-Architecture: iphoneos-arm64e
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 464
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.altlist
-Filename: roothide/com.sini.removewidgetbg_1.7_iphoneos-arm64e.deb
-Size: 35772
-MD5sum: 7ffd565380a03d142268f3b6c60100aa
-SHA1: ec1fe16ea9acce8a71841bbf97aec46921364bb9
-SHA256: 09b5c50532c4472250ea430c9001adb9368222c025f9bcac1df90aa3c2353a48
-Section: 越狱插件
-Description: 删除主屏幕上小部件的背景。
-Author: Lessica <82flex@gmail.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/remo.png
-Name: Remove Widget Background(roothide)
-
 Package: com.sini.wtvrbglauncher
 Version: 1.1
 Architecture: iphoneos-arm64e
@@ -4764,16 +4711,16 @@ Name: AppStoreTroller(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
 
 Package: com.sini921.atria
-Version: 1.4.1-2
+Version: 1.4.1-3
 Architecture: iphoneos-arm64e
 Maintainer: ren7995 & SINI
 Installed-Size: 976
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Filename: roothide/com.sini921.atria_1.4.1-2_iphoneos-arm64e.deb
-Size: 215734
-MD5sum: 8adcd9338ce44ffcdb292fdd872aa6c6
-SHA1: fd194e3f936336ebe624ad7fb3560609e4b0107e
-SHA256: dc0e824057392b68c2193e70abfcc28cba10cadc7ea614617505ed18e2b115ec
+Filename: roothide/com.sini921.atria_1.4.1-3_iphoneos-arm64e.deb
+Size: 215828
+MD5sum: 5bd4b7cb78ed84b91b7f238344c27c05
+SHA1: 1860eb6fa24a5b5ddc0e08bb0eda24c5bf0000bf
+SHA256: 9cc10b46c983fa6b4a493b58e7a4731bde4bd47255eca9a81c159e0da5decb91
 Section: 越狱插件
 Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothide。
 Author: ren7995 & SINI
