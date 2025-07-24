@@ -2116,16 +2116,15 @@ Version: 5.4.1.1
 Architecture: iphoneos-arm64
 Maintainer: b4db1r3 <nfive060@gmail.com>
 Depends: com.mrgcgamer.libgcuniversal, preferenceloader, ws.hbang.common, ws.hbang.alderis
-Conflicts: com.noisyflake.cozybadges, com.dao.ocd, com.yourepo.b4db1r3r3p0.ocd, com.b4db1r3.ocd, com.dao.ocd5lite
 Filename: rootless/com.sini.ocd5_5.4.1.1_iphoneos-arm64.deb
-Size: 329240
-MD5sum: 04f1211261b58b061c1e0ab41fdf3913
-SHA1: 0e5b81721b6b2e89d98bf987725667c57418de94
-SHA256: 80d313bb6cbaf143c2e2533069a5b8ad0e11cd3b5041832e727ed90ab720e1f8
+Size: 328788
+MD5sum: 9e0a33c5c79cc49b1abb7845c21bda2d
+SHA1: 80d5cc39d656ddded7f3e7109f14f7b4916ecad4
+SHA256: 08f23aed3443467c9cd79d25e35640090bd0f6e9a368aa199a8a5353dd1697e4
 Section: 越狱插件
 Description: OCD5中文版(简体中文来自刀刀源)
 Author: b4db1r3 <nfive060@gmail.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ocd5.png
 Name: OCD5(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ocd5/js.json
 
