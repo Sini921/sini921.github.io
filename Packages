@@ -688,11 +688,11 @@ Architecture: iphoneos-arm64
 Maintainer: Sini921
 Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
 Filename: rootless/com.sini.bettercc_0.0.6_iphoneos-arm64.deb
-Size: 48628
-MD5sum: 28ed0a4e96c82047651fd315647e4691
-SHA1: c00b8d913c7921a9868ea5df9577f9d5bb77fb66
-SHA256: 4f6b011015e4a623ac81d7b7e246e87472bf56c0094d807cbc6f4657e34230ec
-Section: 越狱插件
+Size: 48588
+MD5sum: 6d35727774edf670b19f28ebf8c2004e
+SHA1: b6be8e94c007be78246f778a6e608de3f1de32e1
+SHA256: 3e535c2c593495326ea7883f8af9583bb8aa610a25ebdf48260fe5c048c4ed80
+Section: 控制中心
 Description: 控制中心模块大小调整
 Author: Miguelaka95
 Icon: https://sini921.github.io/repo/sileodepiction/icon/bettercc.png
@@ -832,11 +832,11 @@ Maintainer: therealhoodboy
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
 Filename: rootless/com.sini.cc26_0.4.8b_iphoneos-arm64.deb
-Size: 15096
-MD5sum: 627e1550ab9493e9c1be06da03d3ad2b
-SHA1: f5ddc599a425f08018df777b273c953fb22f65d9
-SHA256: a741183871ae848ed50207468a4a93fb7a7d73b9d7661fae4fc96cb5e1c5bf0a
-Section: 越狱插件
+Size: 15052
+MD5sum: 7783570da2813daa3f43c8cf2ac01a40
+SHA1: cd1581147ba02b1875e4a532fcae51633f04779a
+SHA256: 3ad98da63c4444afb39707a52a52e0ba680d057a354454e9d0aea87a8cb4ab86
+Section: 控制中心
 Description: iOS26样式的控制中心，目前最新版需要系统大于等于16.0才可以使用。15系统要想用的话的去作者源装0.4.3b及以下版本吧。
 Author: therealhoodboy
 Icon: https://sini921.github.io/repo/sileodepiction/icon/cc26.png
@@ -850,11 +850,11 @@ Maintainer: therealhoodboy
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
 Filename: rootless/com.sini.cc26_0.4.9.1b_iphoneos-arm64.deb
-Size: 15520
-MD5sum: f0d7a13b9973d239de70cd9c374252f2
-SHA1: 6c68e212cf51ffd50d25128f5694043767f46dc5
-SHA256: 002f146d5a83edfa7cbc33b057728d846a715ea407fbfb7ad17583d1da67213b
-Section: 越狱插件
+Size: 15604
+MD5sum: 189772b0cb80f21195ab8de8087ae3f3
+SHA1: c5300b5581428a361e6aa65ada978fdca26b5b0b
+SHA256: 80f90da421c19a7a93f5c1fa379829657b0bc3d81253a3d4ad459c8c6d93d017
+Section: 控制中心
 Description: iOS26样式的控制中心，目前最新版需要系统大于等于16.0才可以使用。15系统要想用的话的去作者源装0.4.3b及以下版本吧。
 Author: therealhoodboy
 Icon: https://sini921.github.io/repo/sileodepiction/icon/cc26.png
@@ -868,11 +868,11 @@ Maintainer: therealhoodboy
 Installed-Size: 204
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
 Filename: rootless/com.sini.cc26_0.4.9.3b_iphoneos-arm64.deb
-Size: 18124
-MD5sum: 5c4043f361319ab1ef387eac52443876
-SHA1: f67f591c6e56667314fc15993f1dfd5b0ed9efa7
-SHA256: f74a41d047822d61323ad47adbda7cba37288b3659f5f6b49564a0c7bf20899a
-Section: 越狱插件
+Size: 18024
+MD5sum: 1fac3aab9da690a0b4b299d21d981cf9
+SHA1: 281dc27423d7efead481bf0cb29f6aedda59ccaa
+SHA256: 012550a4f057109c7a6d71216c0a1ec016b4a84385ecd27ac447d587809ba209
+Section: 控制中心
 Description: iOS26样式的控制中心
 Author: therealhoodboy
 Icon: https://sini921.github.io/repo/sileodepiction/icon/cc26.png
@@ -886,11 +886,11 @@ Maintainer: Mr.Zhang <mr_zhang_00@163.com>
 Installed-Size: 168
 Depends: com.opa334.ccsupport
 Filename: rootless/com.sini.ccautobrightness_1.0.0-1_iphoneos-arm64.deb
-Size: 18076
-MD5sum: b6833a89f86e1db4a59e593d06d736ca
-SHA1: 610d5be5cc2072e6522a1af31e54fc902ab86256
-SHA256: e38f3ab76b56cea03fc1f5566c0528c0f59d1f604e8204764fb479490c33754d
-Section: 越狱插件
+Size: 18056
+MD5sum: 8003db7feaaabfa97b6906eab316a035
+SHA1: 408e4905ab7c65e9e03c49f507061ae354dbe3f9
+SHA256: ddd9d1287eb386d1ab62c371ad0103ebf86fe86b3bce85706cef41f042f4f69a
+Section: 控制中心
 Description: 控制中心自动亮度模块
 Author: Mr.Zhang <mr_zhang_00@163.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccautobrightness.png
@@ -904,16 +904,34 @@ Maintainer: Mr.Zhang <mr_zhang_00@163.com>
 Installed-Size: 164
 Depends: com.opa334.ccsupport
 Filename: rootless/com.sini.cclocation_1.1.0-1_iphoneos-arm64.deb
-Size: 14260
-MD5sum: 7eccfef362eb1c79e619b6753969af96
-SHA1: 0d1c47e9aca62301ecb1dbc9884898754aa2ba78
-SHA256: 9377f00d36d7d1f011e101f84aac06ad3e9d413e2b3a34944f43c68b16c3ed54
-Section: 越狱插件
+Size: 14240
+MD5sum: a46720e00f7a5bafd49b5dcecef231c6
+SHA1: f273ec83a7e3dc1b06d14f06b656940d7ffff66e
+SHA256: b9d984f6a735cf173239f7f535d231ccfa9a76d20e1cf2d9b063a345c2999e09
+Section: 控制中心
 Description: 控制中心定位开关模块
 Author: Mr.Zhang <mr_zhang_00@163.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/cclocation.png
 Name: CCLocation(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cclocation/js.json
+
+Package: com.sini.cclockscreen
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 176
+Depends: com.opa334.ccsupport
+Filename: rootless/com.sini.cclockscreen_1.1.0-1_iphoneos-arm64.deb
+Size: 24896
+MD5sum: c64b0b6ecd758d4f140e6f46ea045a38
+SHA1: e30f51995ebe19ef9dd5344f15f07af0c679960d
+SHA256: 458918ba5aa8cb6a83d5b0429e57245f45581e0317302e7ad8604af9b2f51d84
+Section: 控制中心
+Description: 控制中心锁屏模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cclockscreen.png
+Name: CCLockScreen(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cclockscreen/js.json
 
 Package: com.sini.ccpower
 Version: 1.9-4
@@ -922,11 +940,11 @@ Maintainer: Nets
 Installed-Size: 2424
 Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.ccsupport (>= 1.3)
 Filename: rootless/com.sini.ccpower_1.9-4_iphoneos-arm64.deb
-Size: 957352
-MD5sum: b11f8262f54f1416244fc3d74d203137
-SHA1: 5b706eb41c1c3e9c7edcaae2fce29d18844d5304
-SHA256: 72c54fd2229126a8dffd39c370f293ec1a64859cdb104cd23b90dd868fbe399e
-Section: 越狱插件
+Size: 957448
+MD5sum: 4af5822005c77196cf64ab148d1dbcbd
+SHA1: 366b9363492b404d500e361dc6a73a9f343a4560
+SHA256: 43606b630c4eaa4438347367cd1e6bde62011925e79b18223729837420754c11
+Section: 控制中心
 Description: 控制中心添加一个便捷电源模块
 Author: Netskao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccpower.png
@@ -940,16 +958,52 @@ Maintainer: Mr.Zhang <mr_zhang_00@163.com>
 Installed-Size: 192
 Depends: com.opa334.ccsupport
 Filename: rootless/com.sini.ccrespring_2.0.0-1_iphoneos-arm64.deb
-Size: 20340
-MD5sum: 84cebdfc6074b962c1120edcc0b05501
-SHA1: 72ef612e356450c9bc24895c1052bffa25767501
-SHA256: 64bb68fb8be050373f2ec4b32d2529498d675c00cab144cd964d4abd01f365e8
-Section: 越狱插件
+Size: 20324
+MD5sum: 18d511d39c0d79f604fa9ebee3390e92
+SHA1: a7d0e4da8efbaa770fb0f108d1a149748422651d
+SHA256: b03664f87773ed64ab222691f355eabab5b91f93d9fccabbf37572b72248a4f2
+Section: 控制中心
 Description: 控制中心注销模块，点击注销，长按更多电源选项
 Author: Mr.Zhang <mr_zhang_00@163.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccrespring.png
 Name: CCRespring(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccrespring/js.json
+
+Package: com.sini.ccscreenshot
+Version: 1.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 164
+Depends: com.opa334.ccsupport
+Filename: rootless/com.sini.ccscreenshot_1.0.0-1_iphoneos-arm64.deb
+Size: 13368
+MD5sum: 240ebb6ec503fef5fe7331eeacfc9db7
+SHA1: 75e1934a36811a39a57f2feca432035e20987874
+SHA256: ad22d21010d6d9b0d6427a3d949c42c1594667b93afb6a67dbabfeab8986be29
+Section: 控制中心
+Description: 控制中心截图模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccscreenshot.png
+Name: CCScreenShot(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccscreenshot/js.json
+
+Package: com.sini.ccsettrings
+Version: 1.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 184
+Depends: com.opa334.ccsupport
+Filename: rootless/com.sini.ccsettrings_1.1.0-1_iphoneos-arm64.deb
+Size: 33208
+MD5sum: a74c5734b7bf3a35b6dad228725f127b
+SHA1: b84512bff02a58763eeff23e23aa22a31cd2c914
+SHA256: 0213196f1c85ce20c6efb1cfa09bbe183b156732d88a0d7306152266c955a301
+Section: 控制中心
+Description: 控制中心设置快捷入口模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccsettrings.png
+Name: CCSettrings(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccsettrings/js.json
 
 Package: com.sini.ccvpn
 Version: 1.0.6
@@ -958,11 +1012,11 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 187
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
 Filename: rootless/com.sini.ccvpn_1.0.6_iphoneos-arm64.deb
-Size: 23368
-MD5sum: e9f429bcce1382ac853295b6977cc4e7
-SHA1: c98ccd205471722cfe422ee886f97be7dd594727
-SHA256: 414cd0fc0a6a2008f1797357ff670c9a01481d65abe6067bd4899ea4270c47af
-Section: 越狱插件
+Size: 23360
+MD5sum: 3a73f7612d08692ca433f7b19991346a
+SHA1: df1f0fad77ccb123af263322061f5d805bbffc5a
+SHA256: 9b23f4a19ea8da5c864c8e5af954beee54619b27b6db897ffcc4cafe05b0cb96
+Section: 控制中心
 Description: 用于连接/断开VPN的控制中心模块
 Author: KingPuffdaddi <kingpuffdaddi@icloud.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccvpn.png
@@ -1071,24 +1125,6 @@ Description: 仅备份。请支持正版。
 Author: opa334
 Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
 Name: Crane(rootless)
-
-Package: com.sini.customizecc
-Version: 1.4.3
-Architecture: iphoneos-arm64
-Maintainer: Miguelaka95 <miguelaka95@gmail.com>
-Installed-Size: 880
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15)
-Filename: rootless/com.sini.customizecc_1.4.3_iphoneos-arm64.deb
-Size: 137208
-MD5sum: 1132bb9985ec7c4f55e1d0d2808dcaa7
-SHA1: 734b9e1befebc7dd732ce409fa64b3a902d7825e
-SHA256: 536cbdfd032dfc0c83ac1efe41c6be50fd56d20c1d3d69495b10597245a9ccb2
-Section: 越狱插件
-Description: 自定义控制中心
-Author: Miguelaka95 <miguelaka95@gmail.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: CustomizeCC(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/customizecc/js.json
 
 Package: com.sini.daynightswitch
 Version: 1.2
@@ -1860,11 +1896,11 @@ Installed-Size: 248
 Pre-Depends: firmware (>= 11.0)
 Depends: com.opa334.ccsupport (>= 1.2)
 Filename: rootless/com.sini.locationservicecc_0.1-7_iphoneos-arm64.deb
-Size: 34528
-MD5sum: e72a0763260a6fad94a0c83198891969
-SHA1: 2fd95cf0d8ef91decc02fdcb4534963cdefac12f
-SHA256: 00baa3226195a2f288b4cd15d2c6098038cfe3b9acc52221919c3e95c605ffa1
-Section: 越狱插件
+Size: 34524
+MD5sum: 2e1aeb93e7a3bdd55d34d60b261322f6
+SHA1: 9738ef13dd4bbbf4eb97082b9dbd7b51e27bc648
+SHA256: 81fbbc58b68785c9d8ddebde20a4177aa58db90805c3278557eda9579b233642
+Section: 控制中心
 Description: 从控制中心打开或关闭定位
 Author: ichitaso
 Dev: ichitaso
@@ -2258,11 +2294,11 @@ Version: 1.0.2
 Architecture: iphoneos-arm64
 Maintainer: Sini921
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common
-Filename: rootless/com.sini.plampycc_1.0.2_iphoneos-arm64.deb
-Size: 1577628
-MD5sum: 067457b2935effb1b5551fd4986892ee
-SHA1: fb659ee449fcbf9c75126d9d8b5b36eaf9fb221e
-SHA256: 6c2780d2148673b8fed291eab8237fc5db762430063346cbf7fa31e1105b52e9
+Filename: rootless/com.sini.plampycc_1.0.2_iphoneos-arm64.deb
+Size: 1577660
+MD5sum: 4ff75ce5c40333723a9923c98f732e5b
+SHA1: bbaf8639547c1462481724ac51600b3b09322a07
+SHA256: 2c2545b86b86b476aa7d5716f31068480e50e6d29d8c839ad49a296ed1ac3998
 Section: 越狱插件
 Description: 控制中心UI美化，自定义背景图
 Author: sugiuta
@@ -3710,11 +3746,11 @@ Maintainer: fiore & p2kdev & SINI
 Installed-Size: 612
 Depends: mobilesubstrate, firmware (>= 16.0)
 Filename: rootless/com.sini921.ccborder_1.1.2-5_iphoneos-arm64.deb
-Size: 80798
-MD5sum: 14a32616411c042d0d5f011c7177ccc1
-SHA1: afb2c2fc1308ad5a2fa113cd3a485541c4c55783
-SHA256: 9c2d8eedf890352b110560feeeffe5016d03316887fd3d5a699eae2ddd1857d5
-Section: 越狱插件
+Size: 80932
+MD5sum: a08e5b0e10e536b1c12261339a1165de
+SHA1: abf76281c714b1a2ec79d18c2e573beb6a10642f
+SHA256: 3e325e1dcbffd0ad895eee8f76c60afa081c734ef4bd7d3ca4313eab48102435
+Section: 控制中心
 Description: 控制中心调整，基于开源修改编译，去掉了Alderis Color Picker依赖
 Author: fiore & p2kdev & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
@@ -4772,11 +4808,11 @@ Maintainer: fiore & p2kdev & SINI
 Installed-Size: 580
 Depends: mobilesubstrate, firmware (>= 16.0)
 Filename: roothide/com.sini921.ccborder_1.1.2-5_iphoneos-arm64e.deb
-Size: 78378
-MD5sum: c0258a51efaff2b60946aec23f0c5821
-SHA1: f4b769ef508880f1bfc0f19b674752efb3795e88
-SHA256: f6d1e124c7867d8d69a2f7ea787860ca32f1201add8a1495086fc2b1bbaca14e
-Section: 越狱插件
+Size: 78432
+MD5sum: 719fdf9cbe3fd381c05b96e690d626d7
+SHA1: e7b5cc5d761750d73d6ec55ccf48df92eb276eb3
+SHA256: b155db2358da7be3a2d17229813590c0ed88ed0e24ebcd24a3abc4f35bc32679
+Section: 控制中心
 Description: 控制中心调整，基于开源修改编译，去掉了Alderis Color Picker依赖
 Author: fiore & p2kdev & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
