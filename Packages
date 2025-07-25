@@ -3794,21 +3794,21 @@ Name: ChromaHomeBarX(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/chromahomebarx/js.json
 
 Package: com.sini921.classicfolders3
-Version: 3.0.6
+Version: 3.0.6-1
 Architecture: iphoneos-arm64
 Maintainer: CoolStar & Lizynz & SINI
-Installed-Size: 4328
+Installed-Size: 4276
 Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
-Filename: rootless/com.sini921.classicfolders3_3.0.6_iphoneos-arm64.deb
-Size: 3274616
-MD5sum: 02c117e2f9adcf9ef07298799930792d
-SHA1: c6d76b02661c9bd74cb654c718a4c78c6451b506
-SHA256: 076814157360d09f37aa4ac9b27bc56e5f36c1301dbc46e397b4a758266f0b9f
+Filename: rootless/com.sini921.classicfolders3_3.0.6-1_iphoneos-arm64.deb
+Size: 3222956
+MD5sum: 04583f52ad5a146da7b52319fa17b3aa
+SHA1: 8339330336610c93cde5c7fb3f772732355309cc
+SHA256: 28970d32550791bde2eeece3784eaad0a827683e22fa74895ffb5c1a50c82d75
 Section: 越狱插件
-Description: 经典文件夹，基于开源代码修改了一些细节编译并汉化
+Description: 经典文件夹，基于开源代码优化编译。
 Author: CoolStar & Lizynz & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/classicfolders3.png
-Name: ClassicFolders 3(rootless)
+Name: ClassicFolders3(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/classicfolders3/js.json
 
 Package: com.sini921.cozybadges
@@ -4836,6 +4836,24 @@ Author: Afnan Ahmad & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/chromahomebarx.png
 Name: ChromaHomeBarX(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/chromahomebarx/js.json
+
+Package: com.sini921.classicfolders3
+Version: 3.0.6-1
+Architecture: iphoneos-arm64e
+Maintainer: CoolStar & Lizynz & SINI
+Installed-Size: 4260
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Filename: roothide/com.sini921.classicfolders3_3.0.6-1_iphoneos-arm64e.deb
+Size: 3221488
+MD5sum: e8b5669e8815aa28ac26b047661b23f2
+SHA1: dbf5f7a0af9731f334ae65471b3252e653cb5ac8
+SHA256: b8bd6616f885671ea51099fdfa2eae91e198060d8d1b81d533c6e8ff2a68487e
+Section: 越狱插件
+Description: 经典文件夹，基于开源代码优化编译。
+Author: CoolStar & Lizynz & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/classicfolders3.png
+Name: ClassicFolders3(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/classicfolders3/js.json
 
 Package: com.sini921.cozybadges
 Version: 2.2-3

@@ -64,17 +64,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "Lizynz & SINI",
+                    "text": "CoolStar & Lizynz & SINI",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.0.6",
+                    "text": "3.0.6-1",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年02月26日",
+                    "text": "2025年07月25日",
                     "title": "更新日期"
                 },
                 {
@@ -98,7 +98,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 3.0.6\n- 这个源主很懒\n- 懒得写更新日志",
+                    "markdown": "#### 版本: 3.0.6-1\n- 这个源主很懒\n- 懒得写更新日志",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }
