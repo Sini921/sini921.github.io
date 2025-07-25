@@ -4657,23 +4657,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPulse.png
 Name: WCPulse(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPulse/js.json
 
-Package: com.sini.chromatic.roothide
-Version: 3.0
-Architecture: iphoneos-arm64e
-Maintainer: Saily Team <support.0xa1@qaq.wiki>
-Pre-Depends: firmware (>= 13.0), dpkg, uikittools
-Filename: roothide/com.sini.chromatic.roothide_3.0_iphoneos-arm64e.deb
-Size: 3364780
-MD5sum: f259b4fc149ca0f16c297df8f27bc744
-SHA1: 98b0428a92d7468ea3a93e88f8368dfbb8448142
-SHA256: 756db67f0be2527e1b39435c4af756f976d3f9dc2f39ad123540358f02b67d75
-Section: 越狱应用
-Description: 越狱包管理器
-Author: Saily Team <support.0xa1@qaq.wiki>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/saily.png
-Name: Saily(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/saily/js.json
-
 Package: com.sini.fixset
 Version: 1.1
 Architecture: iphoneos-arm64e
