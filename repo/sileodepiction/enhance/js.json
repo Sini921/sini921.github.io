@@ -1,0 +1,432 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://sini921.github.io/repo/images/dingtu.png",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "插件介绍",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/jibozhijia",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 描述\n- 微信插件",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "截图",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/enhance/Screenshot_01.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "其他",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "愫茶",
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.5-5",
+                    "title": "版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2025年07月24日",
+                    "title": "更新日期"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS15.0-iOS16.6.1",
+                    "title": "支持的系统"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/jibozhijia",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.5-5\n- 添加拍一拍二次确认\n- 添加语音视频通话回拨二次确认\n- 去除设置页插件入口\n- 修复1.5-4出现的状态按钮被错误拉伸的问题\n- 聊天界面文本输入框圆角支持按住说话按钮",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.5-4\n- 顶部搜索框圆角支持单独设置\n- 修复禁用热更新在8.0.61失效的问题\n- 信息卡片高度修改范围扩展为144-500\n- 修复部分页面Cell调整边距后Cell位置不居中问题\n- 修复收藏置顶/折叠置顶,在圆角关闭时依然有底色的问题\n- 个人信息居中布局逻辑优化。添加右侧三角符号xy坐标设置\n- 背景填充模式添加拉伸填充,图片完全填充容器,不会被剪裁",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.5-3\n- 优化一下置顶折叠按钮的圆角逻辑\n- 添加置顶折叠按钮的圆角的支持\n- 修复1.5-1出现的置顶折叠按钮消失的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.5-1\n- 界面净化：添加禁用输入框听写\n- 信息卡片背景：添加容器高度调整，添加背景图填充方式，添加隐藏原生信息卡片，添加背景图Y轴偏移，添加背景图对齐方式，添加背景图显示层级，添加背景图设置\n- Cell列表圆角：添加Cell左右边距，添加置顶会话距顶部间距，添加普通会话距置顶会话间距，添加隐藏我的页面右侧二维码，添加对首页/发现页顶部搜索框圆角的支持，修复收藏置顶到微信首页后背景为透明的问题\n- 聊天顶栏：分隔符添加GIF动图\n- 消息复读：按钮颜色/文本内容/文本颜色，区分发送者/接收者\n- 信息居中：重写信息居中,兼容Cell圆角，添加状态/微信号/网名/头像，的X/Y坐标设置，居中后头像显示不全,前往信息卡片背景修改信息卡片高度即可",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.5-0\n- 修复1.4-9，点击首页聊天会话出现的闪退问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.4-9\n- 顶栏添加网名水平偏移调整\n- 圆角设置添加Cell列表圆角设置\n- 聊天页顶部导航栏添加圆角边框\n- 修复顶栏修改网名偏移后切换至其他应用再返回时,名字位置会下沉的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.4-8\n- 去除附件布局-隐藏按钮功能\n- 顶栏更换方案",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.4-7\n- 头像圆角添加边框\n- 朋友圈圆角添加边框\n- 相册选择圆角添加边框\n- 主页面会话添加左滑菜单圆角/边框设置\n- 表情包圆角添加边框\n- 快速回复通知添加圆角/边框/背景模糊设置\n- 聊天页底部输入整体区域添加圆角/边框设置\n- 修复iPad台前调度模式下点击头像显示模式闪退问题\n- 聊天顶栏头像添加水平位置偏移调\n- 聊天附件布局-支持行数调整",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.4-5\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.4-4\n- 优化一些已知道问题。\n- UI进行微调，开关位置有调整。\n- 优化字体替换处理,更加高效。\n- 插件设置添加关闭更新检测弹窗。\n- 添加删除首页好友会话保留聊天记录。\n- 添加进入聊天界面自动弹出键盘。\n- 顶栏信息优化。\n- 分隔符允许设置为空。\n- 网名位置支持设置在头像下方。\n- 添加黑名单管理(控制对方是否显示头像)。\n- 自动回复优化。\n- 添加关键词回复黑名单(私聊/群聊)。\n- 添加AI回复黑名单(私聊/群聊)。\n- 信息长按菜单。\n- 添加动画效果。\n- 添加文字着色。\n- 添加图标着色。\n- 首页长按好友信息进入预览。\n- 完全重写自动选择原图",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.4-3\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.4-2\n- 更换禁用热更新逻辑。\n- 修复点击.m4a音频文件会闪退的问题。\n- 修复点击服务号会闪退问题。\n- 初步优化自动回复功能。优化兼容性优化。\n- 修复新安装微信首次打开时，登录页不显示登录按钮等问题。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.4-1\n- 修复一些小问题。\n- 登录修正-->兼容性优化\n- 兼容未来可能出现的新的内测标识。\n- 解决双开人脸识别时会出现系统繁忙的问题。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.4-0\n- 优化防撤回，可自定义内容等。\n- 优化头像隐藏逻辑：仅在启用至少一个选项时执行相关逻辑。\n- 扩展功能添加绕过登录限制,默认开启(例子com.tencent.qy.xin）",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.3-9\n- 信息时间标签区分发送者和接收者。\n- 支持单独设置字体颜色和背景颜色。\n- 修复公众号顶栏，对方头像不显示的问题。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.3-8\n- 气泡支持自定义圆角。\n- 信息时间格式添加星期标签。\n- 信息时间格式添加12小时制显示标签。\n- 信息时间格式添加AM/PM/上午/下午标签。\n- 信息时间标签支持水平，竖直位置偏移调整。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.3-7\n- 新增气泡透明。\n- 优化自定义字体覆盖范围。\n- 添加气泡动画-樱花。\n- 文本颜色区分发送方和接收方单独设置。\n- 其他代码优化。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.3-6\n- 其他代细节方面的优化。\n- 所有颜色选择部分支持深色浅色单独设置(除触摸轨迹）",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.3-5\n- 继续修正可能的卡顿问题\n- 优化自定义字体覆盖范围",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.3-4\n- 优化隐藏分割线\n- 修正一下可能导致58版微信卡死问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.3-2\n- 临时屏蔽底栏透明度。\n- FaceID背景适配深色模式。\n- 新增:本地检测123网盘文件，实现更新检测与更新日志查看。\n- 手动触发更新检测方式为，点击版本信息\n- 修复:使用自定义图片作为触摸轨迹时，潜在的闪退问题，1.0.0版本就存在了🤡。\n- 开启透明度导致的卡死问题。遇到卡死时，等待自行闪退，多次闪退后会触发清理缓存，清理即可。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.3-1\n- 添加朋友圈界面名称颜色修改\n- 添加设置Tab底栏透明度\n- 触摸轨迹新增点击音效-可自定义\n- 修正可能无法触发FaceID的问题\n- 修正时间标签偶现状态显示不正确的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.3-0\n- 修复添加字体无反应的问题\n- 修复信息直达冲突\n- 时间自定义添加伪已读标签",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.2-9\n- 信息时间格式优化，顶栏头像优先显示黄白自定义头像",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.2-8\n- 添加虚拟定位",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.2-7\n- 自动回复列表-添加AI回复",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.2-6\n- 聊天文本颜色自定义(待实现-双方文本颜色自定义)\n- 关注公众号(dylib会传入123云盘)\n- 复读按钮自定义\n- 微信直达冲突未找到原因,暂未解决。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.2-5\n- 关键词回复内容支持回复图片\n- 添加是否回复自己的开关\n- 撤回通知添加时间过滤\n- 优化关键词时间过滤\n- 添加证书到期时间提醒\n- 信息弹窗支持显示群成员数量,管理人员数量\n- 添加好友检测\n- 修复证书权限列表长按无法触发复制的问题\n- 优化检测列表的头像加载方式\n- 优化顶栏信息头像加载方式\n- 优化检测通知头像加载方式\n- 信息弹窗UI微调整",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.2-4\n- 群聊群友名称颜色自定义\n- 信息时间样式可设置为单行,支持添加后缀\n- 修复入口设置设置为设置时,会强制打开,显示 在我的页面的问题\n- 信息直达(原因未知,我注入直达会闪退)",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.2-3\n- 关键词回复内容支持回复图片\n- 添加是否回复自己的开关\n- 撤回通知添加时间过滤\n- 优化关键词时间过滤\n- 添加证书到期时间提醒\n- 信息弹窗支持显示群成员数量,管理人员数量\n- 添加好友检测\n- 修复证书权限列表长按无法触发复制的问题\n- 优化检测列表的头像加载方式\n- 优化顶栏信息头像加载方式\n- 优化检测通知头像加载方式\n- 信息弹窗UI微调整",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.2-2\n- 添加信息快捷复读+1\n- 添加发送照片时自动勾选原图按钮\n- 重新添加修改气泡",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.2-1\n- 修复防撤回只对私聊生效对群聊无效的问题\n- 修复撤回自己的信息时，会构建一个提示文本问题\n- 添加撤回通知\n- 添加撤回内容文本可自定义\n- 添加关键词回复\n- 修复关键词只有自己能够触发，对方无法触发的问题\n- 修复关键词和回复内容一致时导致无限递归，导致无限发送信息的问题\n- 添加时间过滤功能，只处理3分钟历史信息避免冷启动触发过多历史关键词，导致一次性回复大量历史信息\n- 修复防撤回界面交互不正确的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.2-0\n- 添加信息防撤回\n- 添加后台运行状态通知\n- 添加修改字体\n- 添加我的页面头像信息居中\n- 添加隐藏我的页面状态标签\n- 添加伪装信息通知-信息炸弹\n- 添加可将插件入口改为为设置页的选项\n- 添加账号信息页信息长按可复制\n- 修复输入框圆角和文本占位会错误显示到语转文字页面\n- 信息时间显示固定为24小时格式，防止手机设置为12小时制导致显示错乱的问题\n- 删除首次进入插件后显示的弹窗声明\n- 删除版本控制中自定义版本选项\n- 修复附件布局所有按钮会堆叠到一起的罕见情况\n- 精简掉不需要的代码\n- 更换附件布局按钮隐藏逻辑\n- 证书列表添加证书权限检测",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.9\n- 新增屏蔽聊天界面撤回标签（可能会误判）\n- 新增屏蔽聊天界面拍一拍标签（可能会误判)\n- 添加一键重置所有插件配置（非本插件，所有！）\n- 再次尝试修复触摸轨迹自定义图丢失的问题（已经3天没有丢失了）\n- 新增屏蔽语音信息右侧小红点和转语音文字按钮\n- 修复通讯录自定义会失效的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.7\n- 新增输入框支持添加边框\n- 修复占位文本和输入框圆角会被错误应用到微信几乎所有输入框界面\n- 信息弹窗添加点击跳转个人信息入口(临时入口，后期再作修改)\n- 修复一些小的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.6\n- 添加更多的自定义文本\n- 添加占位符，输入框圆角",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.5\n- 新增隐藏聊天界面原生时间标签",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.4\n- 新增信息时间显示在头像下方位貴\n- 时间显示兼容隐藏头像\n- 添加更多可自定义项",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.3\n- 新增信息时间显示\n- 修复一些潜在的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.2\n- 2x5布局支持隐藏(锁死2x5不支持调整)\n- 按照你们的要求对隐藏头像进行了解耦",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "本源公告",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/jibozhijia",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 季伯之家源:\n- 本源仅为搬运一些自已常用的插件方便自用以及学习交流测试备份\n- 源内插件均来自互联网\n- 安装以后请于24小时内删除\n- 安装以后出现异常与本源无关\n- 如有冒犯，请联系我指定下架某个插件\n- 季伯奥迪哥",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        }
+    ],
+}
