@@ -3849,6 +3849,25 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
 Name: DYYY Lite(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
 
+Package: com.sini921.dyyylite
+Version: 2.2-8-1753855138
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2624
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini921.dyyylite_2.2-8-1753855138_iphoneos-arm64.deb
+Size: 570714
+MD5sum: 31583b5d5789ffdef13f20ddd9d98c96
+SHA1: d57d096148a2d3470a2e35d8c68518300785df04
+SHA256: c6ab006ad77f78797d2d118219167472fcf5804da5254ffb78f72800d6e4e8a4
+Section: 应用破解
+Priority: optional
+Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
+Name: DYYY Lite(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
+
 Package: com.sini921.ersatz
 Version: 1.0.1-1
 Architecture: iphoneos-arm64
@@ -4582,6 +4601,23 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPulse.png
 Name: WCPulse(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPulse/js.json
 
+Package: com.sini.chromatic
+Version: 3.0
+Architecture: iphoneos-arm64e
+Maintainer: Saily Team <support.0xa1@qaq.wiki>
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Filename: roothide/com.sini.chromatic_3.0_iphoneos-arm64e.deb
+Size: 3362356
+MD5sum: 3d00fa4b7f7077f43d008f24c8aa7098
+SHA1: dd449ad5d0b5e3e7c2fead2cb218c8f038d8eaed
+SHA256: cd89fc9aa032b62424df89a75956416b667cc87fe7419c873df948fb82daeada
+Section: 越狱应用
+Description: 越狱包管理器
+Author: Saily Team <support.0xa1@qaq.wiki>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/saily.png
+Name: Saily(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/saily/js.json
+
 Package: com.sini.daynightswitch
 Version: 1.2
 Architecture: iphoneos-arm64e
@@ -4617,6 +4653,24 @@ Author: @bswbw
 Icon: https://sini921.github.io/repo/sileodepiction/icon/fixset.png
 Name: FixSet(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/fixset/js.json
+
+Package: com.sini.gonggao
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 季伯腾
+Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
+Filename: roothide/com.sini.gonggao_1.0_iphoneos-arm64e.deb
+Size: 1052
+MD5sum: 5cad6ed811d0207b1574ba4d2aaac028
+SHA1: 40216ed6fa6e971265e669d26634ec3f7cf7c894
+SHA256: 2a4f87433af78cf57ad2f9c082d3fbcc7b59564c6e22d37ef2d137f48ba37d8c
+Section: 越狱插件
+Description: 本源仅为搬运一些自己常用的插件方便自己用以及学习交流测试备份！源内插件均来自互联网，安装以后请于24小时内删除！如果安装以后出现异常与本源无关！如有冒犯，请联系我指定下架某个插件！------------------------------------------------季伯奥迪哥
+Tag: cydia::commercial
+Author: 季伯腾
+Icon: https://sini921.github.io/repo/sileodepiction/icon/gonggao.png
+Name: - 季伯之家源公告
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/gonggao/js.json
 
 Package: com.sini.kayoko
 Version: 2.9
@@ -4864,6 +4918,25 @@ Size: 570290
 MD5sum: e6c16a7ae79ce4aa00d1b2fb82eedd25
 SHA1: 200577323e6c62501b5297bed5b3998706f8e0e5
 SHA256: 0f855d973d6bc356267bbc1fa271a34bbb8258b1623d0f2fafc4b7f402dec148
+Section: 应用破解
+Priority: optional
+Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
+Name: DYYY Lite(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
+
+Package: com.sini921.dyyylite
+Version: 2.2-8-1753855138
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 2624
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: roothide/com.sini921.dyyylite_2.2-8-1753855138_iphoneos-arm64e.deb
+Size: 571000
+MD5sum: c6f93f9c83e3bae7a9ac86a26f188ce9
+SHA1: 0d67ade55a15c2907400beaa9ec061e037178f3c
+SHA256: e8303c325f4d9da4ba36a9664273e9acf71f9150c9ef3b326e5488f9c3da7600
 Section: 应用破解
 Priority: optional
 Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
