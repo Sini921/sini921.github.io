@@ -1041,21 +1041,22 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/choicy.png
 Name: Choicy(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/choicy/js.json
 
-Package: com.sini.chromatic.rootless
+Package: com.sini.chromatic
 Version: 3.0
 Architecture: iphoneos-arm64
 Maintainer: Saily Team <support.0xa1@qaq.wiki>
 Pre-Depends: firmware (>= 13.0), dpkg, uikittools
-Filename: rootless/com.sini.chromatic.rootless_3.0_iphoneos-arm64.deb
-Size: 3413308
-MD5sum: a706d98cd6bbd35324c56f31d756b23f
-SHA1: c1dddf9ff2dc3abf503460185524afffd94476a5
-SHA256: e7b7a48f9cd8b553e8e39358abce4e955c302acd508fc50b12e7befa42836a0b
+Filename: rootless/com.sini.chromatic_3.0_iphoneos-arm64.deb
+Size: 3413540
+MD5sum: 2afcb2824cbee262ff52bd8e0919fa5d
+SHA1: bb422288bba52300203b5ff8a9f153cfb188b07a
+SHA256: ec27698a8025cde612f4dabd2da2d5745b9f82db6bbe76e3df73c99f3825e005
 Section: 越狱应用
 Description: 越狱包管理器
 Author: Saily Team <support.0xa1@qaq.wiki>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/saily.png
 Name: Saily(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/saily/js.json
 
 Package: com.sini.classickeyboardxs
 Version: 1.1-8
