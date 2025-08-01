@@ -3632,16 +3632,16 @@ Name: Zetsu(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zetsu/js.json
 
 Package: com.sini921.appstoretroller
-Version: 0.1.1-3
+Version: 0.1.1-4
 Architecture: iphoneos-arm64
 Maintainer: Mineek & Nathan & SINI
 Installed-Size: 568
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.appstoretroller_0.1.1-3_iphoneos-arm64.deb
-Size: 40736
-MD5sum: 95636d481c6e489c92cfb59c0c530d0c
-SHA1: 2d5dda065d268dc49a33438ab74a39e283143b79
-SHA256: cc4cd1ed054e5d1e9017df4663f8a97b83ab5cefc65b1e15c19c5e9a32ab71a7
+Filename: rootless/com.sini921.appstoretroller_0.1.1-4_iphoneos-arm64.deb
+Size: 42330
+MD5sum: 999ce572811a3ace4008b3526ef5740d
+SHA1: e95dadd61edd1b0ce01f269649d3de04f1f1ac5c
+SHA256: 883cb14632ac943d9bb0b2a1abe0c76375bb4224d6989014033e672cad9e7c15
 Section: 越狱插件
 Description: 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用，入库了以后可以安装兼容你系统的版本(如果有的话)，基于开源汉化编译
 Author: Mineek & Nathan & SINI
@@ -4621,6 +4621,114 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPulse.png
 Name: WCPulse(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPulse/js.json
 
+Package: com.sini.ccautobrightness
+Version: 1.0.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 168
+Depends: com.opa334.ccsupport
+Filename: roothide/com.sini.ccautobrightness_1.0.0-1_iphoneos-arm64e.deb
+Size: 18028
+MD5sum: a1c1f3475279f1c5d3ef885971537b03
+SHA1: e5d7b342ce38eaf8b78e7e215fe056b020c7fc27
+SHA256: 19049db3afa03b9a46493b67f5228ac3263b004db77c767d683a18e24dce4b79
+Section: 控制中心
+Description: 控制中心自动亮度模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccautobrightness.png
+Name: CCAutoBrightness(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccautobrightness/js.json
+
+Package: com.sini.cclocation
+Version: 1.1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 164
+Depends: com.opa334.ccsupport
+Filename: roothide/com.sini.cclocation_1.1.0-1_iphoneos-arm64e.deb
+Size: 14204
+MD5sum: aa77e3c7ad8cfaf41954ec0cb6f63885
+SHA1: d33cbe12de4214de03920c322a58b4d3bddda25e
+SHA256: 4e9bb84d1ba64c798a7ec9d0c87a3c08aa083f9b1198ab2888547d9e5686da22
+Section: 控制中心
+Description: 控制中心定位开关模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cclocation.png
+Name: CCLocation(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cclocation/js.json
+
+Package: com.sini.cclockscreen
+Version: 1.1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 176
+Depends: com.opa334.ccsupport
+Filename: roothide/com.sini.cclockscreen_1.1.0-1_iphoneos-arm64e.deb
+Size: 24840
+MD5sum: fe4a6d2d8d48f9c24c1f31979a474da2
+SHA1: 3d12bf855a415849524f859d79b0c2a5cd2a0f84
+SHA256: 9b096f74e0dfbcafe95a26267ea17991bcc74d76f2c52555200ff5575bd2812e
+Section: 控制中心
+Description: 控制中心锁屏模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cclockscreen.png
+Name: CCLockScreen(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cclockscreen/js.json
+
+Package: com.sini.ccrespring
+Version: 2.0.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 192
+Depends: com.opa334.ccsupport
+Filename: roothide/com.sini.ccrespring_2.0.0-1_iphoneos-arm64e.deb
+Size: 19204
+MD5sum: 70b35523dbae2752671d566430323484
+SHA1: 8069c4891a3a49d9dcd213ac85e927421305fbca
+SHA256: d009d63c903d390ebf466668128164648fefe7409a5ff43d3f204425f2a2212c
+Section: 控制中心
+Description: 控制中心注销模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccrespring.png
+Name: CCRespring(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccrespring/js.json
+
+Package: com.sini.ccscreenshot
+Version: 1.0.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 164
+Depends: com.opa334.ccsupport
+Filename: roothide/com.sini.ccscreenshot_1.0.1-1_iphoneos-arm64e.deb
+Size: 13332
+MD5sum: 2db785e6a1c46b096132704fb6fc8bba
+SHA1: b04e60aa03ddd2019d78f0b33d8532b3bac1c15b
+SHA256: e321118c1c0d683f34d9061114dab808f75dd01bf185e2b4ec176c1de65a94b4
+Section: 控制中心
+Description: 控制中心截图模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccscreenshot.png
+Name: CCScreenShot(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccscreenshot/js.json
+
+Package: com.sini.ccsettrings
+Version: 1.1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 184
+Depends: com.opa334.ccsupport
+Filename: roothide/com.sini.ccsettrings_1.1.0-1_iphoneos-arm64e.deb
+Size: 33164
+MD5sum: ac5a93a8fdd26fe14537eb85fc5de82c
+SHA1: c0e1b2c441225f47bea1531772ee3f338f3ea6e4
+SHA256: 7048fcaa6a9a646bea3f49f8cb71c12a37caf7530ae44fb0e0c82af0f81aa9a3
+Section: 控制中心
+Description: 控制中心设置快捷入口模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccsettrings.png
+Name: CCSettrings(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccsettrings/js.json
+
 Package: com.sini.chromatic
 Version: 3.0
 Architecture: iphoneos-arm64e
@@ -4764,16 +4872,16 @@ Name: Yuki(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/yuki/js.json
 
 Package: com.sini921.appstoretroller
-Version: 0.1.1-3
+Version: 0.1.1-4
 Architecture: iphoneos-arm64e
 Maintainer: Mineek & Nathan & SINI
 Installed-Size: 568
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.appstoretroller_0.1.1-3_iphoneos-arm64e.deb
-Size: 38312
-MD5sum: 332d6ee5a52a70e3d76e994b386f6613
-SHA1: 4145d6205fbece61360eee30e68b2db464e011eb
-SHA256: a52cc51e584292de73b16179e08990391fde36b024bf88816b4326e3652f85fc
+Filename: roothide/com.sini921.appstoretroller_0.1.1-4_iphoneos-arm64e.deb
+Size: 40060
+MD5sum: 1ce2b60191770f02f3409eeb4706e3cc
+SHA1: be79cd9c1a8d6267438579310db36595becaf86b
+SHA256: a8329205f3aceeac4e401c398f5c014e2fde9ada9188bf23442caa97fb1c7fb8
 Section: 越狱插件
 Description: 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用，入库了以后可以安装兼容你系统的版本(如果有的话)，基于开源汉化编译
 Author: Mineek & Nathan & SINI
