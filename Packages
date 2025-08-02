@@ -3794,16 +3794,16 @@ Name: CozyBadges(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cozybadges/js.json
 
 Package: com.sini921.cylinderreborn
-Version: 1.1.2-3
+Version: 1.1.2-4
 Architecture: iphoneos-arm64
 Maintainer: Ryan Nair & SINI
 Installed-Size: 1372
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
-Filename: rootless/com.sini921.cylinderreborn_1.1.2-3_iphoneos-arm64.deb
-Size: 245826
-MD5sum: 3e4b9c43574a3abb703d6fa763f6fea3
-SHA1: a2013f4349b074bbacdaadb1ded7c2c4fdf59ccd
-SHA256: d6f3c359db3d8d81930886b4f0539afe9ac742b4ad8e6ed81a9311d9fbb9cbea
+Filename: rootless/com.sini921.cylinderreborn_1.1.2-4_iphoneos-arm64.deb
+Size: 246112
+MD5sum: b6bc60dd4036168dbda3fdde63f63cb3
+SHA1: 533ac1b0a3689df9456b36f3e11486da121cd933
+SHA256: 952a42b0405d6f2347bc1e189fa31059dae48973d32786b627d36d3a60ff54e2
 Section: 越狱插件
 Description: 有点意思的桌面图标动画，基于开源优化编译，修正汉化，适配支持roothide。
 Author: Ryan Nair & SINI
@@ -3960,16 +3960,16 @@ Name: Griddy(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/griddy/js.json
 
 Package: com.sini921.indicators
-Version: 1.2-3
+Version: 1.2-4
 Architecture: iphoneos-arm64
 Maintainer: LacertosusDeus & SINI
 Installed-Size: 468
 Depends: mobilesubstrate
-Filename: rootless/com.sini921.indicators_1.2-3_iphoneos-arm64.deb
-Size: 37932
-MD5sum: fafc5abaa35cec3f69c0e751f0e5fb88
-SHA1: 7e5e2568d68bb7a78669685462ce92243d55e25b
-SHA256: 9c382357315e300e3b6bf7208d208b3835db5cb28f3a113696f0992b9674d168
+Filename: rootless/com.sini921.indicators_1.2-4_iphoneos-arm64.deb
+Size: 38256
+MD5sum: 62ea0041c91a8dbbb98ffa795580c60d
+SHA1: 438c545a980aa0510a431e2ba6798ac032537041
+SHA256: 653e47b3369126d6c12bb6096580bf2acf724ea22575330f4e9bb452c4118f08
 Section: 越狱插件
 Description: VPN、勿扰模式、手电筒打开时右上角显示对应的指示灯，基于开源重新编译，修复支持iOS15+无根/隐根越狱。
 Author: LacertosusDeus & SINI
@@ -4998,16 +4998,16 @@ Name: CozyBadges(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cozybadges/js.json
 
 Package: com.sini921.cylinderreborn
-Version: 1.1.2-3
+Version: 1.1.2-4
 Architecture: iphoneos-arm64e
 Maintainer: Ryan Nair & SINI
 Installed-Size: 1372
 Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
-Filename: roothide/com.sini921.cylinderreborn_1.1.2-3_iphoneos-arm64e.deb
-Size: 245418
-MD5sum: d12d9089f8707323397ce395ebc85b99
-SHA1: 16c18b405b22c48c630bdd3522cd4bdf6685e8ed
-SHA256: b85f92e20c2c9f108bd33e87d943db51c4fc52e401af7a45b71c142610f619c8
+Filename: roothide/com.sini921.cylinderreborn_1.1.2-4_iphoneos-arm64e.deb
+Size: 245630
+MD5sum: 13dfae48e5e1cc35e56f33f36d46c2c0
+SHA1: 0e0e89637ab706882d10825a221a4eb05721342f
+SHA256: 4511b57ddc56ab84d92d0d085c617e3d251c69c71f571b111abff8e93887bc75
 Section: 越狱插件
 Description: 有点意思的桌面图标动画，基于开源优化编译，修正汉化，适配支持roothide。
 Author: Ryan Nair & SINI
@@ -5146,16 +5146,16 @@ Name: FreePIP(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
 
 Package: com.sini921.indicators
-Version: 1.2-3
+Version: 1.2-4
 Architecture: iphoneos-arm64e
 Maintainer: LacertosusDeus & SINI
 Installed-Size: 468
 Depends: mobilesubstrate
-Filename: roothide/com.sini921.indicators_1.2-3_iphoneos-arm64e.deb
-Size: 36168
-MD5sum: 2f0f44b9f7b0eb7904ccd4281bc94f1f
-SHA1: d3955504b03a5a454cdbca5e43c57ba6c8055b2b
-SHA256: 83e61da04c7d60e60398d312601ca7c45b2198ba3f8c97bc855ae534228f7706
+Filename: roothide/com.sini921.indicators_1.2-4_iphoneos-arm64e.deb
+Size: 36578
+MD5sum: 8b7944c2e7a99b02dcb924f3b9ab99b7
+SHA1: 3035a91569ad84436749c86801cbd76832178074
+SHA256: 29be6aa26bc1622e4a27d294183290706e600b31f701e775c736411bbb008dca
 Section: 越狱插件
 Description: VPN、勿扰模式、手电筒打开时右上角显示对应的指示灯，基于开源重新编译，修复支持iOS15+无根/隐根越狱。
 Author: LacertosusDeus & SINI
