@@ -2996,18 +2996,18 @@ Name: StoreSwitcher(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/storeswitcher2/js.json
 
 Package: com.sini.sutuplus.releasefugu15
-Version: 5.9.9-1-1
+Version: 5.9.9-2-1
 Architecture: iphoneos-arm64
 Maintainer: Carby <super.cat.sutuplus@gmail.com>
 Installed-Size: 1780
 Depends: mobilesubstrate
-Filename: rootless/com.sini.sutuplus.releasefugu15_5.9.9-1-1_iphoneos-arm64.deb
-Size: 514524
-MD5sum: 9d982e68c10ae72bafda0709f7814374
-SHA1: 9634b4976c246c931934c95f7ebfbee1303ba345
-SHA256: f3838da8812ce868006ca5a6397e003b094814a7b09850c557c0dd67e6669641
+Filename: rootless/com.sini.sutuplus.releasefugu15_5.9.9-2-1_iphoneos-arm64.deb
+Size: 514560
+MD5sum: c92e4b7a4d6b456176df7c53b329700a
+SHA1: 29fbf282391fa15af6e17ce2cf5f8fb20d6be2ce
+SHA256: e3bd1e88c05ee58f88c2e40782fa126aac3ec06b7931521ecde1d7625d3445a1
 Section: 微信插件
-Description: 微信主题美化，主题需付费
+Description: 本插件安装包来自苏兔源
 Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/sutuplus.releasefugu15.png
 Name: 酸果(rootless)
