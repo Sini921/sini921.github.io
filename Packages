@@ -259,6 +259,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPulse.png
 Name: WCPulse(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPulse/js.json
 
+Package: com.sini.WCPush2Chat
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.WCPush2Chat_1.0_iphoneos-arm64.deb
+Size: 8556
+MD5sum: d6846d2f4421d6f62260fd9a44050412
+SHA1: 44bc14ce9cc8a7aef939fd6e6ba611e3fceb03ce
+SHA256: aa94c6753bc910ab9e8b5e020b4d21ededa2584358dc528361c4f249ef109510
+Section: 微信插件
+Description: WCPush2Chat
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPush2Chat.png
+Name: WCPush2Chat(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPush2Chat/js.json
+
 Package: com.sini.WCThemes
 Version: 1.0-3
 Architecture: iphoneos-arm64
@@ -4657,6 +4675,24 @@ Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPulse.png
 Name: WCPulse(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPulse/js.json
+
+Package: com.sini.WCPush2Chat
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/com.sini.WCPush2Chat_1.0_iphoneos-arm64e.deb
+Size: 8504
+MD5sum: 591c8b895ce7e9c599b6c2365a9b6551
+SHA1: 2afd3b342d729192623e2b02da0e75c842ad969f
+SHA256: 458f3868d574a00f7bdd1e49af3f374e1841c004f681c6e24e5b1a74edd90a69
+Section: 微信插件
+Description: WCPush2Chat
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPush2Chat.png
+Name: WCPush2Chat(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPush2Chat/js.json
 
 Package: com.sini.ccautobrightness
 Version: 1.0.0-1
