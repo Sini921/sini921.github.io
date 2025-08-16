@@ -2108,20 +2108,20 @@ Name: MTerminal(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/mterminal/js.json
 
 Package: com.sini.neofreebird.bht
-Version: 5.1-1
+Version: 5.1-2
 Architecture: iphoneos-arm64
-Maintainer: actuallyaridan & 刀刀
+Maintainer: NeoFreeBird & 刀刀
 Depends: mobilesubstrate, ws.hbang.common
-Filename: rootless/com.sini.neofreebird.bht_5.1-1_iphoneos-arm64.deb
-Size: 7731056
-MD5sum: 9c41da1d55a533ba6a361143a337e60a
-SHA1: 353bb0c6cff1716ff32f61737abd42fe4bb56afc
-SHA256: eef662d1499788fa84b02b1945e17124bdc119398b62bebbedb5a61f11d46037
+Filename: rootless/com.sini.neofreebird.bht_5.1-2_iphoneos-arm64.deb
+Size: 7733188
+MD5sum: 24bfcc217b8e7145f78da68d99970034
+SHA1: d75e0f0b4672e6a6d708dcf12b0b80a346f9db07
+SHA256: cbaa7f10635618ef210e2fa8ef507a1164423a25800c7a3226670d28a22047b7
 Section: 应用破解
 Description: 推特多功能插件，NeoFreeBird版的BHTwitter，比常规BHTwitter功能多一点，设置通用，中文优化版，插件选项位于推特设置顶部。
-Author: BandarHelal & actuallyaridan
+Author: NeoFreeBird
 Icon: https://sini921.github.io/repo/sileodepiction/icon/neofreebird.bht.png
-Name: NeoFreeBird-BHT(rootless)
+Name: NFB-BHTwitter(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/neofreebird.bht/js.json
 
 Package: com.sini.noapplemobilerepair
@@ -3168,19 +3168,19 @@ Name: 主题盒子(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/themebox/js.json
 
 Package: com.sini.themepro
-Version: 3.9.8
+Version: 4.0.8
 Architecture: iphoneos-arm64
 Maintainer: MustangYM <MustangYM@yeah.net>
 Depends: mobilesubstrate
 Conflicts: ThemePro
 Replaces: ThemePro
-Filename: rootless/com.sini.themepro_3.9.8_iphoneos-arm64.deb
-Size: 5789272
-MD5sum: 66557823529b0fea032b37cb77a594fb
-SHA1: cd000152d50eedfe03c84896a8c7ac3fbf4ae077
-SHA256: f844adeba195f3c5b4968fc8704bcdf55fde20c1a8aef58d37c17eb48aac32cc
+Filename: rootless/com.sini.themepro_4.0.8_iphoneos-arm64.deb
+Size: 6282284
+MD5sum: 93d9195212accfdb26d8cd49135e5afc
+SHA1: 15a7a39d9fe55484936dc4bfc6718130407f965a
+SHA256: a673e02ef4ae117f49b9c697d600d5535305494f5856f7a8364fd3b575df1dd7
 Section: 微信插件
-Description: 微信主题美化，主题需付费
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
 Author: MustangYM <mm13299079785@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/themepro.png
 Name: ThemePro(rootless)
