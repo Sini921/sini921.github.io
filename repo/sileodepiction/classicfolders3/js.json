@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.0.6-3",
+                    "text": "3.0.6-4",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年07月27日",
+                    "text": "2025年08月16日",
                     "title": "更新日期"
                 },
                 {
@@ -90,6 +90,14 @@
                     "openExternal": 1,
                     "class": "DepictionButtonView"
                 },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 3.0.6-4\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
                 {
                     "class": "DepictionSeparatorView"
                 },
