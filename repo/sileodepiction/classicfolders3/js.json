@@ -97,7 +97,7 @@
                     "markdown": "#### 版本: 3.0.6-4\n- 这个源主很懒\n- 懒得写更新日志",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
-                }
+                },
                 {
                     "class": "DepictionSeparatorView"
                 },
