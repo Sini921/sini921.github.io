@@ -64,6 +64,12 @@
             "hideShadow": true
         },
         {
+            "url": "http://sini921.github.io/repo/images/morecomplications.png",
+            "title": "ChromaHomeBarx",
+            "package":"com.sini921.chromahomebarx",
+            "hideShadow": true
+        },
+        {
             "url": "http://sini921.github.io/repo/images/appstoretroller.png",
             "title": "AppStoreTroller",
             "package":"com.sini921.appstoretroller",

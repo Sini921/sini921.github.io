@@ -3759,18 +3759,18 @@ Name: ChatGPTHook(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/chatgpthook/js.json
 
 Package: com.sini921.chromahomebarx
-Version: 1.2-5
+Version: 1.2-6
 Architecture: iphoneos-arm64
 Maintainer: Afnan Ahmad & SINI
-Installed-Size: 480
+Installed-Size: 496
 Depends: mobilesubstrate
-Filename: rootless/com.sini921.chromahomebarx_1.2-5_iphoneos-arm64.deb
-Size: 56972
-MD5sum: 079ae0b49fdc36e2c6f6293ee0beba12
-SHA1: b1c2a9a3c318a0f4fcfb4f17da589055aaec4540
-SHA256: 96576ddef90dc5d9d02c5f011f8b16716a9a868c9ca8e266b51f4900e7d6fa93
+Filename: rootless/com.sini921.chromahomebarx_1.2-6_iphoneos-arm64.deb
+Size: 54946
+MD5sum: e40c9c489779b135b3f48292853689bf
+SHA1: f6acfe868544a0688bb4962cd0eb2563fa39c0e8
+SHA256: 36d2abf4083f368e1c4af3d2ba4dd5a25ab93897a8cfc864ac844460135e34ff
 Section: 越狱插件
-Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根/隐根越狱，去掉了Alderis Color Picker依赖
+Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根/隐根越狱，去掉了Alderis Color Picker依赖。
 Author: Afnan Ahmad & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/chromahomebarx.png
 Name: ChromaHomeBarX(rootless)
@@ -5019,18 +5019,18 @@ Name: CCBorder(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
 
 Package: com.sini921.chromahomebarx
-Version: 1.2-5
+Version: 1.2-6
 Architecture: iphoneos-arm64e
 Maintainer: Afnan Ahmad & SINI
-Installed-Size: 480
+Installed-Size: 476
 Depends: mobilesubstrate
-Filename: roothide/com.sini921.chromahomebarx_1.2-5_iphoneos-arm64e.deb
-Size: 55288
-MD5sum: 8104db96d3bf4ec02ef17fec52d71c94
-SHA1: bb3d3e0266f08e1753eb7778c922082acfd41fe4
-SHA256: 68f62dec029f85fd486ca5eeba000e9e49087aecf8cfd3cd0af6b767b54c0292
+Filename: roothide/com.sini921.chromahomebarx_1.2-6_iphoneos-arm64e.deb
+Size: 53322
+MD5sum: aa9e419132d13d4f5104314120983cbf
+SHA1: aa759f980dbc5f5a5507e6627b4dd35c27a4646e
+SHA256: 9a5cf1298b9edd026e151d8377f04075af2bf2b2de022e0f275a0b02c3867b18
 Section: 越狱插件
-Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根/隐根越狱，去掉了Alderis Color Picker依赖
+Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根/隐根越狱，去掉了Alderis Color Picker依赖。
 Author: Afnan Ahmad & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/chromahomebarx.png
 Name: ChromaHomeBarX(roothide)

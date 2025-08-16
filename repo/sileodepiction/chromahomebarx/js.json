@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "headerImage": "https://sini921.github.io/repo/images/zoomanimation.png",
+    "headerImage": "https://sini921.github.io/repo/images/chromahomebarx.png",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -17,7 +17,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。\n- 注意！roothide请使用roothide专用包，通过转换rootless包可能无法使用。",
+                    "markdown": "## 描述\n- 底部横条动态颜色\n- 基于开源重新编译，去除所有依赖，修复支持iOS15+无根/隐根越狱",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -36,17 +36,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "SINI",
+                    "text": "Afnan Ahmad & SINI",
                     "title": "作者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0.1-4",
+                    "text": "1.2-6",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年06月06日",
+                    "text": "2025年08月16日",
                     "title": "更新日期"
                 },
                 {
@@ -70,31 +70,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 0.0.1-4\n- 修复roothide越狱注销按钮没反应的问题",
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "markdown": "#### 版本: 0.0.1-3\n- 滑块左右加减号的步进数修正为0.01",
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "markdown": "#### 版本: 0.0.1-2\n- 修复设置项不生效的问题",
-                    "useSpacing": true,
-                    "class": "DepictionMarkdownView"
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "markdown": "#### 版本: 0.0.1\n- 这个源主很懒\n- 懒得写更新日志",
+                    "markdown": "#### 版本: 1.2-6\n- 这个源主很懒\n- 懒得写更新日志",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }
