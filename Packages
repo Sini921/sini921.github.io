@@ -4154,16 +4154,16 @@ Name: snapper3中文图标(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zhforsnapper3/js.json
 
 Package: com.sini921.zoomanimation
-Version: 0.0.1-4
+Version: 0.0.1-5
 Architecture: iphoneos-arm64
 Maintainer: SINI
-Installed-Size: 388
+Installed-Size: 392
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.zoomanimation_0.0.1-4_iphoneos-arm64.deb
-Size: 22770
-MD5sum: 797a9c46f3dcb80a939a415a1bfd114b
-SHA1: e51119bc2f5d79a2d3497a99b15bd5e18827c881
-SHA256: da9f1365cc5ec54b6b4344a660cd2027f87d1958ce0d30a385bb881b4bd4d327
+Filename: rootless/com.sini921.zoomanimation_0.0.1-5_iphoneos-arm64.deb
+Size: 25160
+MD5sum: da558acac89a0f2ba714ae99885025d7
+SHA1: f7ab7aa52b1b923b38f7e7736b7004d13449c1ce
+SHA256: 2834dbae98d52776760f9241c43d22cccae2479498ce6e71753e61586a5ad473
 Section: 越狱插件
 Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。注意！roothide请使用roothide专用包，通过转换rootless包可能无法使用。
 Author: SINI
@@ -5157,16 +5157,16 @@ Name: QuickActions(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickactions/js.json
 
 Package: com.sini921.zoomanimation
-Version: 0.0.1-4
+Version: 0.0.1-5
 Architecture: iphoneos-arm64e
 Maintainer: SINI
-Installed-Size: 388
+Installed-Size: 392
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.zoomanimation_0.0.1-4_iphoneos-arm64e.deb
-Size: 20916
-MD5sum: bde9aca5472aaac0b693630f51d8502e
-SHA1: a0742dd4e235468a9faeac86f6badf3a5da7af3b
-SHA256: afbc194b48ddf69ecce27ac2ecbed968c9aa343eb95c99a548a3435ccb81d332
+Filename: roothide/com.sini921.zoomanimation_0.0.1-5_iphoneos-arm64e.deb
+Size: 23182
+MD5sum: 5441f9d53e23546293832fca314fb50a
+SHA1: 2d4ba1b4f0c6e1959e3c8b0ebf8c58ed2ce42159
+SHA256: d78ffb7c89e1d3b3d8fb77ffbfe4950eb49f3d4692d44f423188b1665ff7a5cd
 Section: 越狱插件
 Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。注意！roothide请使用roothide专用包，通过转换rootless包可能无法使用。
 Author: SINI
