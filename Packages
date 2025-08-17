@@ -3830,111 +3830,16 @@ Name: CylinderReborn(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cylinderreborn/js.json
 
 Package: com.sini921.dyyylite
-Version: 2.2-8-1753686593
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 2624
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini921.dyyylite_2.2-8-1753686593_iphoneos-arm64.deb
-Size: 570800
-MD5sum: e87bc238ad7205e6fd5b727b769019f9
-SHA1: 1440c00a5dfc7a44f9e6d8de5b5b49f1e537c479
-SHA256: f044f80b784d8532a94376dee58c8deeaaadcbdf30db6aca46a73681c4de37f0
-Section: 应用破解
-Priority: optional
-Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
-Name: DYYY Lite(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
-
-Package: com.sini921.dyyylite
-Version: 2.2-8-1753790733
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 2624
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini921.dyyylite_2.2-8-1753790733_iphoneos-arm64.deb
-Size: 570810
-MD5sum: c0ff17262bec2eb9954dcb5e36f9900c
-SHA1: a4d164f2f71a0426d83f27a21c5aea697d75ef54
-SHA256: 5888dd69798e1cc02e00d60edd12c18441f418569829092209b87c4e0a2f7e48
-Section: 应用破解
-Priority: optional
-Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
-Name: DYYY Lite(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
-
-Package: com.sini921.dyyylite
-Version: 2.2-8-1753855138
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 2624
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini921.dyyylite_2.2-8-1753855138_iphoneos-arm64.deb
-Size: 570714
-MD5sum: 31583b5d5789ffdef13f20ddd9d98c96
-SHA1: d57d096148a2d3470a2e35d8c68518300785df04
-SHA256: c6ab006ad77f78797d2d118219167472fcf5804da5254ffb78f72800d6e4e8a4
-Section: 应用破解
-Priority: optional
-Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
-Name: DYYY Lite(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
-
-Package: com.sini921.dyyylite
-Version: 2.2-8-1753875436
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 2624
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini921.dyyylite_2.2-8-1753875436_iphoneos-arm64.deb
-Size: 573248
-MD5sum: 109c964e61281371bc0ec6ed98d9086d
-SHA1: c8375efbd1b85c91c617d82036f59b0fa3601e16
-SHA256: 60a4714174886468f2afb3405c00566eaee314231f5a86bfcb34df226ebb31f0
-Section: 应用破解
-Priority: optional
-Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
-Name: DYYY Lite(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
-
-Package: com.sini921.dyyylite
-Version: 2.2-8-1754413375
+Version: 2.2-8-1755416598
 Architecture: iphoneos-arm64
 Maintainer: huami
 Installed-Size: 2640
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini921.dyyylite_2.2-8-1754413375_iphoneos-arm64.deb
-Size: 574956
-MD5sum: 2edd4bcda954d8a103f9ab88a3eb37ef
-SHA1: 388f15f8c6df8934bc79e1e3bf7be2416295735f
-SHA256: 6ec09ba199dbff05da80d009514feaa54964133af6fc16424f35de0942c27ffd
-Section: 应用破解
-Priority: optional
-Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
-Name: DYYY Lite(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
-
-Package: com.sini921.dyyylite
-Version: 2.2-8-1754653952
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 2640
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini921.dyyylite_2.2-8-1754653952_iphoneos-arm64.deb
-Size: 576494
-MD5sum: bf214cea8fc2ba69055d6eb01651641b
-SHA1: f847e3bd3e8ffb0fa93d9bc062436b13f3ee6a93
-SHA256: 347deeee6a7c5e41a7742ad986c04751e7a7b13d874e062661ab70bb37bfe079
+Filename: rootless/com.sini921.dyyylite_2.2-8-1755416598_iphoneos-arm64.deb
+Size: 575278
+MD5sum: 3062f1922a7666abb4d101f722f4f6e1
+SHA1: fb8733b292e0be8dc0746861c37a1eca1695662f
+SHA256: 3517abb80d67613cfb3d0d9709eb98c668fb0b50763bfb3f76adc93086f653c9
 Section: 应用破解
 Priority: optional
 Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
@@ -5090,111 +4995,16 @@ Name: CylinderReborn(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cylinderreborn/js.json
 
 Package: com.sini921.dyyylite
-Version: 2.2-8-1753686593
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 2624
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini921.dyyylite_2.2-8-1753686593_iphoneos-arm64e.deb
-Size: 571062
-MD5sum: 7b44c2d91deb447d9a1364f2957db207
-SHA1: 3ad7d8fafb547b12e5c10c564a51deae86bd023d
-SHA256: 0423101c5af4b31fda21bd1268fb373765b8a5aef17b21b0c4d30f7542255b07
-Section: 应用破解
-Priority: optional
-Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
-Name: DYYY Lite(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
-
-Package: com.sini921.dyyylite
-Version: 2.2-8-1753790733
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 2624
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini921.dyyylite_2.2-8-1753790733_iphoneos-arm64e.deb
-Size: 570290
-MD5sum: e6c16a7ae79ce4aa00d1b2fb82eedd25
-SHA1: 200577323e6c62501b5297bed5b3998706f8e0e5
-SHA256: 0f855d973d6bc356267bbc1fa271a34bbb8258b1623d0f2fafc4b7f402dec148
-Section: 应用破解
-Priority: optional
-Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
-Name: DYYY Lite(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
-
-Package: com.sini921.dyyylite
-Version: 2.2-8-1753855138
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 2624
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini921.dyyylite_2.2-8-1753855138_iphoneos-arm64e.deb
-Size: 571000
-MD5sum: c6f93f9c83e3bae7a9ac86a26f188ce9
-SHA1: 0d67ade55a15c2907400beaa9ec061e037178f3c
-SHA256: e8303c325f4d9da4ba36a9664273e9acf71f9150c9ef3b326e5488f9c3da7600
-Section: 应用破解
-Priority: optional
-Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
-Name: DYYY Lite(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
-
-Package: com.sini921.dyyylite
-Version: 2.2-8-1753875436
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 2624
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini921.dyyylite_2.2-8-1753875436_iphoneos-arm64e.deb
-Size: 573098
-MD5sum: 67eca7edd670039dbb406b51eebe13af
-SHA1: 7b90c621069bb9b3e03728ae623b92367a1cf21d
-SHA256: 61a2309ff20ce166c98be580220b3e8ae918127a2d464f3d4842b0940a3ce81f
-Section: 应用破解
-Priority: optional
-Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
-Name: DYYY Lite(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
-
-Package: com.sini921.dyyylite
-Version: 2.2-8-1754413375
+Version: 2.2-8-1755416598
 Architecture: iphoneos-arm64e
 Maintainer: huami
 Installed-Size: 2640
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini921.dyyylite_2.2-8-1754413375_iphoneos-arm64e.deb
-Size: 574090
-MD5sum: 52a1b47de2962a1dc7040e1172b2e6af
-SHA1: 6e549634341fa57f7639b14a217657f86193c514
-SHA256: 335dd1a7bf7bc21fbb8ca9b4eec367993c58d44e9a3f4f4c06011cf383f868ca
-Section: 应用破解
-Priority: optional
-Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
-Name: DYYY Lite(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
-
-Package: com.sini921.dyyylite
-Version: 2.2-8-1754653952
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 2640
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini921.dyyylite_2.2-8-1754653952_iphoneos-arm64e.deb
-Size: 575830
-MD5sum: 1918a8fbbc406897bf648eaed4a59526
-SHA1: 41bd68d98584c84f59c9136e8d0bdea023b77826
-SHA256: 66c82cd90fa06a4ac1211ba0d9a26b2369e9d798a6a31229b4039b04b8d6aca0
+Filename: roothide/com.sini921.dyyylite_2.2-8-1755416598_iphoneos-arm64e.deb
+Size: 575368
+MD5sum: bd5c79badffa9b4f5ce373132a394414
+SHA1: 5f4345c0a01e16e7866038dda20ffef644a3821b
+SHA256: b8566eadc52d73686ffd49f49cb241440d85e81a8fa8116a30370c08e9a7281e
 Section: 应用破解
 Priority: optional
 Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
