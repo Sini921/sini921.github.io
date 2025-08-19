@@ -87,5 +87,11 @@
             "package":"com.sini921.classicfolders3",
             "hideShadow": true
         },
+        {
+            "url": "http://sini921.github.io/repo/images/ersatz.png",
+            "title": "Ersatz",
+            "package":"com.sini921.ersatz",
+            "hideShadow": true
+        },
     ]
 }
