@@ -17,7 +17,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 替换系统范围内的任意文本\n- 默认全局注入生效，可能会误替换你不想替换的文本，你可以用choicy禁止他注入你不想他生效的App，或者在动态库配置文件中自行配置注入哪里",
+                    "markdown": "## 描述\n- 替换系统范围内的任意文本\n- 默认全局注入生效，可能会误替换你不想替换的文本，你可以用choicy禁止它注入你不想让它生效的App，或者在动态库配置文件中自行配置注入哪里",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },

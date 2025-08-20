@@ -17,7 +17,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 打开勿扰模式、手电筒、VPN时右上角显示对应的指示灯\n- 基于开源重新编译，修复支持iOS15+无根/隐根越狱\n- 去除Alderis Color Picker以及Cephei Tweak Support依赖",
+                    "markdown": "## 描述\n- 打开勿扰模式、手电筒、VPN时右上角显示对应的指示灯\n- 基于开源重新编译，修复支持iOS15+无根/隐根越狱\n- 去除所有依赖",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },

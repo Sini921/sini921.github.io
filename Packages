@@ -3650,16 +3650,16 @@ Name: Zetsu(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zetsu/js.json
 
 Package: com.sini921.appstoretroller
-Version: 0.1.2-1
+Version: 0.1.2-2
 Architecture: iphoneos-arm64
 Maintainer: Mineek & Nathan & SINI
 Installed-Size: 568
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.appstoretroller_0.1.2-1_iphoneos-arm64.deb
-Size: 42564
-MD5sum: 45b70f04ee253ad4eb4cf4415ca6546b
-SHA1: 977e1ddd28210aa9501bf4f9c661e500badae5c7
-SHA256: 2b63422105b9fad8c731f1d0afca9f1744d1213ec86f21a251ffa2b826d16450
+Filename: rootless/com.sini921.appstoretroller_0.1.2-2_iphoneos-arm64.deb
+Size: 42682
+MD5sum: 20786557ce2b8d4ed7c5cd05c5e80e27
+SHA1: 374934510245d1e13b8312cc10e84434109efc47
+SHA256: 7147a7b23edaf368cac263f764a737615b6d2525eb0cb3ab59e0a9672010f957
 Section: 越狱插件
 Description: 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用，入库了以后可以安装兼容你系统的版本(如果有的话)，基于开源汉化编译
 Author: Mineek & Nathan & SINI
@@ -4867,16 +4867,16 @@ Name: Yuki(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/yuki/js.json
 
 Package: com.sini921.appstoretroller
-Version: 0.1.2-1
+Version: 0.1.2-2
 Architecture: iphoneos-arm64e
 Maintainer: Mineek & Nathan & SINI
 Installed-Size: 568
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.appstoretroller_0.1.2-1_iphoneos-arm64e.deb
-Size: 40310
-MD5sum: f5246cd471619d80097004ea1bc7df68
-SHA1: 872d640c9804af75d4585c26e12f8c3f3e6eb687
-SHA256: 2acaf7c3674c7026a3ac7b330afa199fa355af4f5868a533ae223c4b09224cc7
+Filename: roothide/com.sini921.appstoretroller_0.1.2-2_iphoneos-arm64e.deb
+Size: 40456
+MD5sum: ab3301847363d7b168c979135899aef7
+SHA1: 2a93e51720ec21ee2ea7c478ddee29c214b04732
+SHA256: 9a288e31e2e7c7f5fe9445efa66b69d98871d1620682150caaec88e9b263236f
 Section: 越狱插件
 Description: 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用，入库了以后可以安装兼容你系统的版本(如果有的话)，基于开源汉化编译
 Author: Mineek & Nathan & SINI
