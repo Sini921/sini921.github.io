@@ -46,6 +46,12 @@
             "hideShadow": true
         },
         {
+            "url": "http://sini921.github.io/repo/images/eneko.png",
+            "title": "Eneko",
+            "package":"com.sini921.eneko",
+            "hideShadow": true
+        },
+        {
             "url": "http://sini921.github.io/repo/images/fakesignalbar.png",
             "title": "FakeSignalBar",
             "package":"com.sini921.fakesignalbar",
