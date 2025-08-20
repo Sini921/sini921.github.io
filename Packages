@@ -3596,16 +3596,16 @@ Name: 亚瑟浏览器Pro(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ysbrowserhook/js.json
 
 Package: com.sini.yuki
-Version: 0.0-8
+Version: 0.0-8-1
 Architecture: iphoneos-arm64
 Maintainer: vita
 Installed-Size: 336
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.yuki_0.0-8_iphoneos-arm64.deb
-Size: 54024
-MD5sum: 7a3700679fb63b84ace4e2aea18e1dd8
-SHA1: 9ba22bcda5f4e80a53b197227d4d3e4c7db0a67d
-SHA256: 7e36c0fefa3ba9f82e04eeb65063c1e9adaf3bd4bd0cb9f389f955a2a60f0a3d
+Filename: rootless/com.sini.yuki_0.0-8-1_iphoneos-arm64.deb
+Size: 54748
+MD5sum: 01a1ca67de8352890bc96438638fa91f
+SHA1: 95821042a387e7e00c668de12f7272df9ca0623f
+SHA256: 6e4e966b7048cc2b7214686c13284b5a5aaf3dcc1706376a78ddc3f850b7588e
 Section: 应用破解
 Priority: optional
 Description: 免费插件，随缘更新。
