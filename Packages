@@ -3922,16 +3922,16 @@ Name: Griddy(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/griddy/js.json
 
 Package: com.sini921.indicators
-Version: 1.2-7
+Version: 1.2-8
 Architecture: iphoneos-arm64
 Maintainer: LacertosusDeus & SINI
 Installed-Size: 472
 Depends: mobilesubstrate
-Filename: rootless/com.sini921.indicators_1.2-7_iphoneos-arm64.deb
-Size: 40884
-MD5sum: 1958f05e22ea7ee1c3856ce8c65a233e
-SHA1: bebe23bb6c6d294fb04dc52cd55afc45b72e741e
-SHA256: b42c0945aaca0c981f64c9b3714484b820cf21822daacfc93f941320f5197cbb
+Filename: rootless/com.sini921.indicators_1.2-8_iphoneos-arm64.deb
+Size: 40854
+MD5sum: 4c7ddbbbc5f99bf46a31d2d58c2e3bf2
+SHA1: 6f5627ad6c0c2032839a707b6f7a01fe0b25f2c4
+SHA256: 3dd68d23bc23b85e9ddea601bc01c7255e1a3ecfc7875361905e5ef4f9e26899
 Section: 越狱插件
 Description: VPN、勿扰模式、手电筒打开时右上角显示对应的指示灯，基于开源重新编译，修复支持iOS15+无根/隐根越狱。
 Author: LacertosusDeus & SINI
@@ -4155,18 +4155,18 @@ Name: snapper3中文图标(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zhforsnapper3/js.json
 
 Package: com.sini921.zoomanimation
-Version: 0.0.1-6
+Version: 0.0.1-7
 Architecture: iphoneos-arm64
 Maintainer: SINI
 Installed-Size: 392
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.zoomanimation_0.0.1-6_iphoneos-arm64.deb
-Size: 26412
-MD5sum: 842e1f85fbba84ad5ea53ca54f4c6a84
-SHA1: 8705f8f3572d3d1c1a6db535d6d05d0cdcce5853
-SHA256: 6766da67fb4462dcdfb60f41df08d8b95e46d5ac2730f36265a4b5390b76ca51
+Filename: rootless/com.sini921.zoomanimation_0.0.1-7_iphoneos-arm64.deb
+Size: 26326
+MD5sum: db13d6fdf5ca1663bf167aacb64c485c
+SHA1: 58f06e98a9b91d716be88328db041138bae332a2
+SHA256: 855c92f228ab42527d908125126cf091c6ed2cbafbc37f7565882ee29ce90630
 Section: 越狱插件
-Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。注意！roothide请使用roothide专用包，通过转换rootless包可能无法使用。
+Description: 桌面动画，可选动画样式，调节动画幅度。
 Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/zoomanimation.png
 Name: ZoomAnimation(rootless)
@@ -5085,16 +5085,16 @@ Name: FreePIP(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
 
 Package: com.sini921.indicators
-Version: 1.2-7
+Version: 1.2-8
 Architecture: iphoneos-arm64e
 Maintainer: LacertosusDeus & SINI
 Installed-Size: 472
 Depends: mobilesubstrate
-Filename: roothide/com.sini921.indicators_1.2-7_iphoneos-arm64e.deb
-Size: 39278
-MD5sum: 2d4dfbf11564b865ac6e0cb52874c036
-SHA1: e65352b7e0214fb529c174d15b3266f3cb587c6e
-SHA256: f5ae1df9fbbd4f6dfcce78204f084df3a6987e810835a6ed90c5991cf0fa3b16
+Filename: roothide/com.sini921.indicators_1.2-8_iphoneos-arm64e.deb
+Size: 39162
+MD5sum: 0ba386f67ab98706a079fcf61092589b
+SHA1: e4f48a2e1d8fe8fb618a1ee5b260d696c69e49e9
+SHA256: baaf1efade646d0660dabfaac87e4fb8a2fbce9cdbb52af3649aff405e453d3e
 Section: 越狱插件
 Description: VPN、勿扰模式、手电筒打开时右上角显示对应的指示灯，基于开源重新编译，修复支持iOS15+无根/隐根越狱。
 Author: LacertosusDeus & SINI
@@ -5174,18 +5174,18 @@ Name: QuickActions(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickactions/js.json
 
 Package: com.sini921.zoomanimation
-Version: 0.0.1-6
+Version: 0.0.1-7
 Architecture: iphoneos-arm64e
 Maintainer: SINI
 Installed-Size: 392
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.zoomanimation_0.0.1-6_iphoneos-arm64e.deb
-Size: 24548
-MD5sum: d0c23f46ac717719dc677a5b729f6595
-SHA1: d221134d310f089d92817e86d8a8ebee63d0db3c
-SHA256: fe7bf757ab11c195ef9d72485368320f5fe0f6902f7b1b5f17f61540486a687a
+Filename: roothide/com.sini921.zoomanimation_0.0.1-7_iphoneos-arm64e.deb
+Size: 24450
+MD5sum: a680220755bf6025b35da07e36b99786
+SHA1: 3c5f2855e1932bc1fef43f08a78320097e7d18cb
+SHA256: b48a22f2039f19af650d07f9a8e8973c6ed8af513da9d05cbff66a6c3efa91a4
 Section: 越狱插件
-Description: 桌面缩放动画，灵感来自SpringAnimations插件，但是不喜欢他的转圈。注意！roothide请使用roothide专用包，通过转换rootless包可能无法使用。
+Description: 桌面动画，可选动画样式，调节动画幅度。
 Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/zoomanimation.png
 Name: ZoomAnimation(roothide)
