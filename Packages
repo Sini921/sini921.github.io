@@ -3813,16 +3813,16 @@ Name: CylinderReborn(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cylinderreborn/js.json
 
 Package: com.sini921.dyyylite
-Version: 2.2-8-1755519645
+Version: 2.2-8-1755745571
 Architecture: iphoneos-arm64
 Maintainer: huami
 Installed-Size: 2640
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini921.dyyylite_2.2-8-1755519645_iphoneos-arm64.deb
-Size: 575086
-MD5sum: 84fc33c162866e595e038cd95eb255ed
-SHA1: cd6bdfd42dc7aedbcd7287bc71631adc3c439dd5
-SHA256: 07dd72cd9548839f8beba3bc4e3dfb2cfe993ca85560e70a31d1aa0cdd291b12
+Filename: rootless/com.sini921.dyyylite_2.2-8-1755745571_iphoneos-arm64.deb
+Size: 575376
+MD5sum: a1e647194e40d2c66cd6de100fe16628
+SHA1: 1665635d1ebdfdb382f301e37fd56cf498fb2c6d
+SHA256: c034c1c1792f940de83218c69940503b0453e90a7a908c708142d458822845e0
 Section: 应用破解
 Priority: optional
 Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
@@ -5012,16 +5012,16 @@ Name: CylinderReborn(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cylinderreborn/js.json
 
 Package: com.sini921.dyyylite
-Version: 2.2-8-1755519645
+Version: 2.2-8-1755745571
 Architecture: iphoneos-arm64e
 Maintainer: huami
 Installed-Size: 2640
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini921.dyyylite_2.2-8-1755519645_iphoneos-arm64e.deb
-Size: 575406
-MD5sum: 948a2b0b9201ab1e7f883506148a5676
-SHA1: de7f3c37da9c608741176931e74b155eac201e46
-SHA256: 9dd25666832545dde51a059fc596cfa938b2ee2062067fce5a9fefa6a3092975
+Filename: roothide/com.sini921.dyyylite_2.2-8-1755745571_iphoneos-arm64e.deb
+Size: 575330
+MD5sum: 0778f3824b4ef06f21aeb414f688883e
+SHA1: f8e7dc788a7a712c99e6670627a17d8c12047041
+SHA256: a4c45fa849a6a5e25705e21f362663a36b47e2856f5537315236331b516b5d58
 Section: 应用破解
 Priority: optional
 Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
