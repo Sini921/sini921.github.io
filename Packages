@@ -3705,17 +3705,17 @@ Name: CallMeMaybe(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/callmemaybe/js.json
 
 Package: com.sini921.ccborder
-Version: 1.1.2-5
+Version: 1.1.2-6
 Architecture: iphoneos-arm64
 Maintainer: fiore & p2kdev & SINI
-Installed-Size: 612
+Installed-Size: 624
 Depends: mobilesubstrate, firmware (>= 16.0)
-Filename: rootless/com.sini921.ccborder_1.1.2-5_iphoneos-arm64.deb
-Size: 80932
-MD5sum: a08e5b0e10e536b1c12261339a1165de
-SHA1: abf76281c714b1a2ec79d18c2e573beb6a10642f
-SHA256: 3e325e1dcbffd0ad895eee8f76c60afa081c734ef4bd7d3ca4313eab48102435
-Section: 控制中心
+Filename: rootless/com.sini921.ccborder_1.1.2-6_iphoneos-arm64.deb
+Size: 81362
+MD5sum: c7c0af346ecbbcf5c615770cd43b2fb4
+SHA1: 665f9c566a7a83ab06909fa39e541abb65422db1
+SHA256: 70ca8847a8152b104b4e454da121db38ed016627c33af1e3e973afebd2196995
+Section: 越狱插件
 Description: 控制中心调整，基于开源修改编译，去掉了Alderis Color Picker依赖
 Author: fiore & p2kdev & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
@@ -3741,16 +3741,16 @@ Name: ChatGPTHook(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/chatgpthook/js.json
 
 Package: com.sini921.chromahomebarx
-Version: 1.2-9
+Version: 1.2-10
 Architecture: iphoneos-arm64
 Maintainer: Afnan Ahmad & SINI
 Installed-Size: 512
 Depends: mobilesubstrate
-Filename: rootless/com.sini921.chromahomebarx_1.2-9_iphoneos-arm64.deb
-Size: 56306
-MD5sum: 72099c4c7f9204de2d6b5e8bff363a42
-SHA1: 17ff5175323542684c51e8e678aaed4e80b1ee21
-SHA256: 2008de9c71f1119f6ac1a473fe05e56924567880d29eabbe1878d3bffef672db
+Filename: rootless/com.sini921.chromahomebarx_1.2-10_iphoneos-arm64.deb
+Size: 56348
+MD5sum: 34f925918199e55623c7d32efa2ba24d
+SHA1: a05470b18b8fd327c2a25ad1547805174bd90fb6
+SHA256: 6b270470483c325c85fd37bc08a9bad36917781cbff516e731a0f103e72b3bb5
 Section: 越狱插件
 Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根/隐根越狱，去掉了Alderis Color Picker依赖。
 Author: Afnan Ahmad & SINI
@@ -3759,16 +3759,16 @@ Name: ChromaHomeBarX(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/chromahomebarx/js.json
 
 Package: com.sini921.classicfolders3
-Version: 3.0.6-4
+Version: 3.0.6-5
 Architecture: iphoneos-arm64
 Maintainer: CoolStar & Lizynz & SINI
 Installed-Size: 4276
 Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
-Filename: rootless/com.sini921.classicfolders3_3.0.6-4_iphoneos-arm64.deb
-Size: 3224428
-MD5sum: 4ff85f189b2a124c28cf3cbd1f22e71f
-SHA1: 1218ba1d99dfa126bad644b348e616bc1179c885
-SHA256: 1233ce0d77a50ddce5417da2363057dc518837f36512a111aff7918787bd58ab
+Filename: rootless/com.sini921.classicfolders3_3.0.6-5_iphoneos-arm64.deb
+Size: 3224466
+MD5sum: a73b4a99a93d1f0d723379897ec4f6e9
+SHA1: 553f3fe5ea90870684738f3fbcd313be6203d67d
+SHA256: a6a6b5c6c5c7cfa894ea4b97f932d1e998f453354e0515c883ea43058548cb3f
 Section: 越狱插件
 Description: 经典文件夹，基于开源代码优化编译。
 Author: CoolStar & Lizynz & SINI
@@ -3777,16 +3777,16 @@ Name: ClassicFolders3(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/classicfolders3/js.json
 
 Package: com.sini921.cozybadges
-Version: 2.2-3
+Version: 2.2-4
 Architecture: iphoneos-arm64
 Maintainer: NoisyFlake & SINI
 Installed-Size: 496
 Depends: firmware (>= 13.0), mobilesubstrate
-Filename: rootless/com.sini921.cozybadges_2.2-3_iphoneos-arm64.deb
-Size: 50632
-MD5sum: 91827302444fadec19a1f3640bbb6ee8
-SHA1: fea2eee2a8838778307080adc1c90ca17597ae67
-SHA256: fee0cdd911e336ebbbf0e63e00812d843a7f96b2c744df0f836584443de69052
+Filename: rootless/com.sini921.cozybadges_2.2-4_iphoneos-arm64.deb
+Size: 51098
+MD5sum: 5b5affdaf546dea6538c481ca3854ea0
+SHA1: 62b2a8b63c6dd2a9ffafa6e8783334c4644511c0
+SHA256: 56e02571724bbea2b531d2c82b0e225ad8711de5822543f568bc491e436e1ec3
 Section: 越狱插件
 Description: App的名字变成通知数量，基于开源优化编译适配roothide。去掉了Alderis Color Picker依赖
 Author: NoisyFlake & SINI
@@ -3832,16 +3832,16 @@ Name: DYYY Lite(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
 
 Package: com.sini921.eneko
-Version: 1.4-4
+Version: 1.4-5
 Architecture: iphoneos-arm64
 Maintainer: Traurige & SINI
 Installed-Size: 644
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: rootless/com.sini921.eneko_1.4-4_iphoneos-arm64.deb
-Size: 210594
-MD5sum: a6bb89bd2e66fb7dc46bad55c9363939
-SHA1: 44c12e8e21a36fcbbbe2d9ced8768bd1565ac0a3
-SHA256: fb8f0c60cf80d74a7f469c59ea148325433d73f98e1c2148f98b53fbb4eeeccb
+Filename: rootless/com.sini921.eneko_1.4-5_iphoneos-arm64.deb
+Size: 210542
+MD5sum: ff232ff42cf4d9ec1c5919ccd1c9d42c
+SHA1: 87c9a910530462fb5fd23bf5caadd7e5bbde02cb
+SHA256: 64ce38546c84380ace7b2fa472e6bd644adb52b658196c31295bbc33bd32ecc4
 Section: 越狱插件
 Description: 使用自定义视频为锁屏与桌面壁纸，基于开源重新编译，去除LibGcUniversal依赖，编译适配roothide。
 Author: Traurige & SINI
@@ -3886,16 +3886,16 @@ Name: FakeSignalBar(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakesignalbar/js.json
 
 Package: com.sini921.freepip
-Version: 0.0.6
+Version: 0.0.6-1
 Architecture: iphoneos-arm64
 Maintainer: Soh Satoh & SINI
 Installed-Size: 440
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.freepip_0.0.6_iphoneos-arm64.deb
-Size: 42114
-MD5sum: 36aaa7fcabe298e4c9bf4271bf791075
-SHA1: b3e272b55198f4334c87c530cbd22fcb9bedec61
-SHA256: e5c0e861926cfc706644aaa7892d76fb37efc9a28c579a67331900266e220252
+Filename: rootless/com.sini921.freepip_0.0.6-1_iphoneos-arm64.deb
+Size: 43118
+MD5sum: 48df64b5b8fbb7453dbfa3487f1b8db9
+SHA1: 952310d9333d6e57fb1829b9e7711b1db1092831
+SHA256: 9b18e258a95cc1cbb4d2c07084382728cabbce618b15c42f91e1c01dbb06d466
 Section: 越狱插件
 Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，基于开源重新编译，优化了一些代码，改进了一些细节。
 Author: Soh Satoh & SINI
@@ -3922,16 +3922,16 @@ Name: Griddy(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/griddy/js.json
 
 Package: com.sini921.indicators
-Version: 1.2-8
+Version: 1.2-9
 Architecture: iphoneos-arm64
 Maintainer: LacertosusDeus & SINI
 Installed-Size: 472
 Depends: mobilesubstrate
-Filename: rootless/com.sini921.indicators_1.2-8_iphoneos-arm64.deb
-Size: 40854
-MD5sum: 4c7ddbbbc5f99bf46a31d2d58c2e3bf2
-SHA1: 6f5627ad6c0c2032839a707b6f7a01fe0b25f2c4
-SHA256: 3dd68d23bc23b85e9ddea601bc01c7255e1a3ecfc7875361905e5ef4f9e26899
+Filename: rootless/com.sini921.indicators_1.2-9_iphoneos-arm64.deb
+Size: 40976
+MD5sum: 02613c7ccaf8f41d4c3c1ff6abbc0d6d
+SHA1: 929a5f5eaa1ddaebfa38900dcdec28cab254f341
+SHA256: 71250cd08a0ac739b90a0376677e6b12750f6a5be590461022640299862e373d
 Section: 越狱插件
 Description: VPN、勿扰模式、手电筒打开时右上角显示对应的指示灯，基于开源重新编译，修复支持iOS15+无根/隐根越狱。
 Author: LacertosusDeus & SINI
@@ -4029,16 +4029,16 @@ Name: QQAvatarRotation(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/qqavatarrotation/js.json
 
 Package: com.sini921.quickactions
-Version: 1.0.1-3
+Version: 1.0.1-4
 Architecture: iphoneos-arm64
 Maintainer: Cameron Katri & SINI
 Installed-Size: 468
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: rootless/com.sini921.quickactions_1.0.1-3_iphoneos-arm64.deb
-Size: 48270
-MD5sum: 476858cbdc57483d39b4452dd020d0cf
-SHA1: 241f04af3c2921ca13c359d5ae62a6cc3d28890d
-SHA256: c28dd315f2bed3ba9cc9709813e3e161123f1034565dc1822b87f65ab7cae38a
+Filename: rootless/com.sini921.quickactions_1.0.1-4_iphoneos-arm64.deb
+Size: 49164
+MD5sum: e60c0a4b864ddfa293db61cf636fadcd
+SHA1: 7d97d86ec95ee7c4537336c18001e692d3ec9e34
+SHA256: 43cfd7455c5a987e3dba044d5733afd8e1fad7d19c207145d285134f959f41d9
 Section: 越狱插件
 Description: 锁屏界面的相机与手电筒按钮自定义，基于开源修改编译，添加一些电源操作。
 Author: Cameron Katri & SINI
@@ -4155,16 +4155,16 @@ Name: snapper3中文图标(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zhforsnapper3/js.json
 
 Package: com.sini921.zoomanimation
-Version: 0.0.1-9
+Version: 0.0.1-10
 Architecture: iphoneos-arm64
 Maintainer: SINI
 Installed-Size: 392
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.zoomanimation_0.0.1-9_iphoneos-arm64.deb
-Size: 30736
-MD5sum: 561335c28d24eada03eb298d99d53c57
-SHA1: 70570c1e529d416ec17efe2379b70c70151e83d6
-SHA256: d712824764c098c1aacc7519918a6f33514bf0c5593d8e8ecf9d327738770b29
+Filename: rootless/com.sini921.zoomanimation_0.0.1-10_iphoneos-arm64.deb
+Size: 30804
+MD5sum: bc17a2a2f5b1bd8594d5097d4bcb189f
+SHA1: 38b7139a54f05b1c47c159192a89021b051366dd
+SHA256: 05fb659173b57d5b689f6e543826e4fb42d9e900a9799b84068839ec2c9f8d7c
 Section: 越狱插件
 Description: 桌面动画，可选动画样式，调节动画幅度。
 Author: SINI
@@ -4922,17 +4922,17 @@ Name: BatteryBuddy(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/batterybuddy/js.json
 
 Package: com.sini921.ccborder
-Version: 1.1.2-5
+Version: 1.1.2-6
 Architecture: iphoneos-arm64e
 Maintainer: fiore & p2kdev & SINI
-Installed-Size: 580
+Installed-Size: 592
 Depends: mobilesubstrate, firmware (>= 16.0)
-Filename: roothide/com.sini921.ccborder_1.1.2-5_iphoneos-arm64e.deb
-Size: 78432
-MD5sum: 719fdf9cbe3fd381c05b96e690d626d7
-SHA1: e7b5cc5d761750d73d6ec55ccf48df92eb276eb3
-SHA256: b155db2358da7be3a2d17229813590c0ed88ed0e24ebcd24a3abc4f35bc32679
-Section: 控制中心
+Filename: roothide/com.sini921.ccborder_1.1.2-6_iphoneos-arm64e.deb
+Size: 79376
+MD5sum: dfe7ca2cd47e6f0a3616baf693ab8837
+SHA1: dbe324dc10dc9a58265a4bf99a8cda774eb8f151
+SHA256: 433d0c8e5a4079e7a6c62b98729871799f19773196520918ff657692b9970841
+Section: 越狱插件
 Description: 控制中心调整，基于开源修改编译，去掉了Alderis Color Picker依赖
 Author: fiore & p2kdev & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
@@ -4940,16 +4940,16 @@ Name: CCBorder(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
 
 Package: com.sini921.chromahomebarx
-Version: 1.2-9
+Version: 1.2-10
 Architecture: iphoneos-arm64e
 Maintainer: Afnan Ahmad & SINI
 Installed-Size: 512
 Depends: mobilesubstrate
-Filename: roothide/com.sini921.chromahomebarx_1.2-9_iphoneos-arm64e.deb
-Size: 54592
-MD5sum: 27eb866403e7ff4a1383ea1feb7cece4
-SHA1: 0f10bc2b90c44107261ddda06c4482a146f7da76
-SHA256: 3c47f5bd491f1c2566d39017ffa461e6aef3c82ab4561f422f29251760d99800
+Filename: roothide/com.sini921.chromahomebarx_1.2-10_iphoneos-arm64e.deb
+Size: 54690
+MD5sum: ab44bd09c4d9e5531f7628caf66eacce
+SHA1: 046f3af983e1876934a2628d1569a796ec735c70
+SHA256: d020e15d54d1300edf454702dc0f09deca052601022010c390f5623279c2dcc3
 Section: 越狱插件
 Description: 底部横条动态颜色，基于开源代码重新编译，修复支持iOS15+无根/隐根越狱，去掉了Alderis Color Picker依赖。
 Author: Afnan Ahmad & SINI
@@ -4958,16 +4958,16 @@ Name: ChromaHomeBarX(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/chromahomebarx/js.json
 
 Package: com.sini921.classicfolders3
-Version: 3.0.6-4
+Version: 3.0.6-5
 Architecture: iphoneos-arm64e
 Maintainer: CoolStar & Lizynz & SINI
 Installed-Size: 4260
 Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
-Filename: roothide/com.sini921.classicfolders3_3.0.6-4_iphoneos-arm64e.deb
-Size: 3222738
-MD5sum: 553ec6551d844f86e5441a1b1afa82f5
-SHA1: 5c9cf158c96f9fbdf51e8c416c80b139cccee898
-SHA256: c3deae0dea14f34ef36c4d1a5496abb44b5bb5600c0b200e2f3be56d843678a8
+Filename: roothide/com.sini921.classicfolders3_3.0.6-5_iphoneos-arm64e.deb
+Size: 3222794
+MD5sum: cbdd0ffa9355354d91bd97ff27091548
+SHA1: 94d965aa81b309aee1f8500f712af8818bdc4963
+SHA256: fb07e1dbf0a637dda757b702be02950e0ab3c4fe22a726207eead01b04e9c723
 Section: 越狱插件
 Description: 经典文件夹，基于开源代码优化编译。
 Author: CoolStar & Lizynz & SINI
@@ -4976,16 +4976,16 @@ Name: ClassicFolders3(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/classicfolders3/js.json
 
 Package: com.sini921.cozybadges
-Version: 2.2-3
+Version: 2.2-4
 Architecture: iphoneos-arm64e
 Maintainer: NoisyFlake & SINI
 Installed-Size: 496
 Depends: firmware (>= 13.0), mobilesubstrate
-Filename: roothide/com.sini921.cozybadges_2.2-3_iphoneos-arm64e.deb
-Size: 48780
-MD5sum: a7a6657b395a26b203a52e2fad570f96
-SHA1: bb57bf84b9e26b7beeb9b87c812c7a9ac3b78663
-SHA256: c59dac534590b5cb1329758eb919e40dc65131fb2c4932e4ef7cfde3e4dac38c
+Filename: roothide/com.sini921.cozybadges_2.2-4_iphoneos-arm64e.deb
+Size: 49040
+MD5sum: 0147a2e99b123ccdcb9f96f0e9360bb4
+SHA1: a059dafc6c4a3ea6ec39a2f620c7b9d4b4037eca
+SHA256: 74ab34137f3f145c967f79c3d2aad87fb8679e46a353b66c6d779431e7cfccf3
 Section: 越狱插件
 Description: App的名字变成通知数量，基于开源优化编译适配roothide。去掉了Alderis Color Picker依赖
 Author: NoisyFlake & SINI
@@ -5031,16 +5031,16 @@ Name: DYYY Lite(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
 
 Package: com.sini921.eneko
-Version: 1.4-4
+Version: 1.4-5
 Architecture: iphoneos-arm64e
 Maintainer: Traurige & SINI
 Installed-Size: 628
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: roothide/com.sini921.eneko_1.4-4_iphoneos-arm64e.deb
-Size: 208372
-MD5sum: d0326a91298d88945ff195343d248ca1
-SHA1: 3f610fb9a14b6ae07aa0f11acfc90bdc9ea43ac8
-SHA256: 5c8febe8c5d3c7b447888981ed87cc8d070fb64c1a257dcf3d4d0de38513f699
+Filename: roothide/com.sini921.eneko_1.4-5_iphoneos-arm64e.deb
+Size: 208574
+MD5sum: bdf2b07ad28c7d2b638de2fa3ebc71bb
+SHA1: 5c38583c86c7b62b906bc152f6d9aa763eda44e8
+SHA256: 14c58ea8ddfa908b1eec4b7585980323939fbf58c89843fa447b70a84eb567ec
 Section: 越狱插件
 Description: 使用自定义视频为锁屏与桌面壁纸，基于开源重新编译，去除LibGcUniversal依赖，编译适配roothide。
 Author: Traurige & SINI
@@ -5085,16 +5085,16 @@ Name: FakeSignalBar(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakesignalbar/js.json
 
 Package: com.sini921.freepip
-Version: 0.0.6
+Version: 0.0.6-1
 Architecture: iphoneos-arm64e
 Maintainer: Soh Satoh & SINI
-Installed-Size: 424
+Installed-Size: 440
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.freepip_0.0.6_iphoneos-arm64e.deb
-Size: 40476
-MD5sum: ee42abd55c87b4a2fe1a68ca6df76517
-SHA1: d0bd4d954fdb99c202f958675d72d57255ba3390
-SHA256: 0853a99736e77c46e0e3f55987375c8564df3a9ef48f38f72f6dcd26b9e91734
+Filename: roothide/com.sini921.freepip_0.0.6-1_iphoneos-arm64e.deb
+Size: 41108
+MD5sum: d07777f6b6b10cbe9000045b615e5013
+SHA1: 9c6f6bae48ee6a504e460a2e956058ba98901fa8
+SHA256: 5b66ddbab8c6a577846f91ca0b5f1ce028ce088522c792cc603a4ba4f06d1d0b
 Section: 越狱插件
 Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，基于开源重新编译，优化了一些代码，改进了一些细节。
 Author: Soh Satoh & SINI
@@ -5103,16 +5103,16 @@ Name: FreePIP(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
 
 Package: com.sini921.indicators
-Version: 1.2-8
+Version: 1.2-9
 Architecture: iphoneos-arm64e
 Maintainer: LacertosusDeus & SINI
 Installed-Size: 472
 Depends: mobilesubstrate
-Filename: roothide/com.sini921.indicators_1.2-8_iphoneos-arm64e.deb
-Size: 39162
-MD5sum: 0ba386f67ab98706a079fcf61092589b
-SHA1: e4f48a2e1d8fe8fb618a1ee5b260d696c69e49e9
-SHA256: baaf1efade646d0660dabfaac87e4fb8a2fbce9cdbb52af3649aff405e453d3e
+Filename: roothide/com.sini921.indicators_1.2-9_iphoneos-arm64e.deb
+Size: 39274
+MD5sum: 73d0239655f2f74b5e6b193d61096f6d
+SHA1: dbdb57a4ceabbfbe8c61f4e96831e7da0787cb9c
+SHA256: c8ba094e42ee95a1e90390f63e7a8aa08dff74e4565f197bb6da8b9e5633c5df
 Section: 越狱插件
 Description: VPN、勿扰模式、手电筒打开时右上角显示对应的指示灯，基于开源重新编译，修复支持iOS15+无根/隐根越狱。
 Author: LacertosusDeus & SINI
@@ -5174,16 +5174,16 @@ Name: QQAvatarRotation(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/qqavatarrotation/js.json
 
 Package: com.sini921.quickactions
-Version: 1.0.1-3
+Version: 1.0.1-4
 Architecture: iphoneos-arm64e
 Maintainer: Cameron Katri & SINI
 Installed-Size: 468
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: roothide/com.sini921.quickactions_1.0.1-3_iphoneos-arm64e.deb
-Size: 46896
-MD5sum: 0cb45dda9d5ae47a8696eba565e404c2
-SHA1: 6469f0377ea0d0b20de476f6f65a15a85eb96b94
-SHA256: 4cc768c62dc891797dc023342340a3de344a4683f2b84a462c1ec801e0886981
+Filename: roothide/com.sini921.quickactions_1.0.1-4_iphoneos-arm64e.deb
+Size: 47600
+MD5sum: b51c4d3d6b050b9fc8c3a3092729cb60
+SHA1: 3a6d89a6f97d4a14e9c87b0b24038dc626569424
+SHA256: 545e4752e6d575cc366608682e9dc9329791606f7248bb4ce6ac7f0a1019657a
 Section: 越狱插件
 Description: 锁屏界面的相机与手电筒按钮自定义，基于开源修改编译，添加一些电源操作。
 Author: Cameron Katri & SINI
@@ -5192,16 +5192,16 @@ Name: QuickActions(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickactions/js.json
 
 Package: com.sini921.zoomanimation
-Version: 0.0.1-9
+Version: 0.0.1-10
 Architecture: iphoneos-arm64e
 Maintainer: SINI
 Installed-Size: 392
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.zoomanimation_0.0.1-9_iphoneos-arm64e.deb
-Size: 28806
-MD5sum: eea14d614fd6e658b691251bce40c283
-SHA1: 0e991983e3e2098279bbdf6318cea6288f60dafd
-SHA256: b69cc849c59ce98baf7101eb65a5f07d99d797acd3196b8db78bc03fdf10c62d
+Filename: roothide/com.sini921.zoomanimation_0.0.1-10_iphoneos-arm64e.deb
+Size: 28914
+MD5sum: 4e7aea577627c82a06fed0b5f47bd79a
+SHA1: f9736e96b02f47e0c392db1a705f271e1098031b
+SHA256: fcc1d9674efa86eae0b61116ba87143922ab631791d055ae75158a93663995ce
 Section: 越狱插件
 Description: 桌面动画，可选动画样式，调节动画幅度。
 Author: SINI

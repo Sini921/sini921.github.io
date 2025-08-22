@@ -73,12 +73,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2.2-3",
+                    "text": "2.2-4",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年07月20日",
+                    "text": "2025年08月22日",
                     "title": "更新日期"
                 },
                 {
@@ -97,6 +97,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.2-4\n- 修复滑块单元格没有对齐的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"

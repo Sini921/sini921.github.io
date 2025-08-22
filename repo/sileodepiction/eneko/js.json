@@ -41,7 +41,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.4-4",
+                    "text": "1.4-5",
                     "title": "版本"
                 },
                 {
@@ -65,6 +65,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.4-5\n- 修复滑块单元格没有对齐的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
