@@ -41,7 +41,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.4-3",
+                    "text": "1.4-4",
                     "title": "版本"
                 },
                 {
@@ -65,6 +65,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.4-4\n- 新增跳转到已选视频目录的按钮",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"

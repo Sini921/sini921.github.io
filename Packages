@@ -3832,16 +3832,16 @@ Name: DYYY Lite(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
 
 Package: com.sini921.eneko
-Version: 1.4-3
+Version: 1.4-4
 Architecture: iphoneos-arm64
 Maintainer: Traurige & SINI
 Installed-Size: 644
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: rootless/com.sini921.eneko_1.4-3_iphoneos-arm64.deb
-Size: 208968
-MD5sum: f9ac526d344baa578b57351b59b81ab2
-SHA1: 97b1c139f4ca821dedbc56e3b372192d9c76e1b7
-SHA256: 2460d4123e9c2c1c2221194c99a4962886dbbd40622fb1e839d40c9dcec71132
+Filename: rootless/com.sini921.eneko_1.4-4_iphoneos-arm64.deb
+Size: 210594
+MD5sum: a6bb89bd2e66fb7dc46bad55c9363939
+SHA1: 44c12e8e21a36fcbbbe2d9ced8768bd1565ac0a3
+SHA256: fb8f0c60cf80d74a7f469c59ea148325433d73f98e1c2148f98b53fbb4eeeccb
 Section: 越狱插件
 Description: 使用自定义视频为锁屏与桌面壁纸，基于开源重新编译，去除LibGcUniversal依赖，编译适配roothide。
 Author: Traurige & SINI
@@ -5031,16 +5031,16 @@ Name: DYYY Lite(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
 
 Package: com.sini921.eneko
-Version: 1.4-3
+Version: 1.4-4
 Architecture: iphoneos-arm64e
 Maintainer: Traurige & SINI
 Installed-Size: 628
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: roothide/com.sini921.eneko_1.4-3_iphoneos-arm64e.deb
-Size: 206796
-MD5sum: cca60de7e061b2b9dba08091a7fa4e6b
-SHA1: c0891c55540cf423e612f9c99824ad322ab2dd41
-SHA256: 809c36cf0e79b9a776fe89fbf0617b0698631f24f9ca3aa6f1566c95cc494480
+Filename: roothide/com.sini921.eneko_1.4-4_iphoneos-arm64e.deb
+Size: 208372
+MD5sum: d0326a91298d88945ff195343d248ca1
+SHA1: 3f610fb9a14b6ae07aa0f11acfc90bdc9ea43ac8
+SHA256: 5c8febe8c5d3c7b447888981ed87cc8d070fb64c1a257dcf3d4d0de38513f699
 Section: 越狱插件
 Description: 使用自定义视频为锁屏与桌面壁纸，基于开源重新编译，去除LibGcUniversal依赖，编译适配roothide。
 Author: Traurige & SINI
