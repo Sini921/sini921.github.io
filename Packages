@@ -3668,17 +3668,17 @@ Name: Atria(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/atria/js.json
 
 Package: com.sini921.batterybuddy
-Version: 1.3.5-3
+Version: 1.3.5-4
 Architecture: iphoneos-arm64
 Maintainer: Traurige & neilsardesai & SINI
 Installed-Size: 652
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: love.litten.batterybuddy
-Filename: rootless/com.sini921.batterybuddy_1.3.5-3_iphoneos-arm64.deb
-Size: 237076
-MD5sum: 84de59a8cbf778ad4ffa3e5976ede9cd
-SHA1: 1004e2b526441cfd6f092aecf28d4e3cf3b3aeef
-SHA256: 5d8ae0e59b0d17b33339d04ef15facec3ff2222a07decc38ed57033fce2a4e81
+Filename: rootless/com.sini921.batterybuddy_1.3.5-4_iphoneos-arm64.deb
+Size: 237166
+MD5sum: e9b12fde17a378b0eac85aedf463b0ed
+SHA1: 787b2aa7764ba9a66a7f81ec494bc6fa52446974
+SHA256: a1552a476612724c7c85c69750b6cef69d2b6ef28e048eeaec339fb0e8e313c6
 Section: 越狱插件
 Description: 一个可爱的电池，基于开源修改编译。新增自定义颜色。
 Author: Traurige & neilsardesai & SINI
@@ -3832,16 +3832,16 @@ Name: DYYY Lite(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
 
 Package: com.sini921.eneko
-Version: 1.4-2
+Version: 1.4-3
 Architecture: iphoneos-arm64
 Maintainer: Traurige & SINI
-Installed-Size: 624
+Installed-Size: 644
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: rootless/com.sini921.eneko_1.4-2_iphoneos-arm64.deb
-Size: 207812
-MD5sum: 515b8835ab5bbd9b7ca3374d4a207c7b
-SHA1: 9146d00db5e4c4f2fe388d18147e33059af32d39
-SHA256: 801033d38c5e19e4b73add3775fb8d2dba8cab633004bff73f20e50e694ef6f2
+Filename: rootless/com.sini921.eneko_1.4-3_iphoneos-arm64.deb
+Size: 208968
+MD5sum: f9ac526d344baa578b57351b59b81ab2
+SHA1: 97b1c139f4ca821dedbc56e3b372192d9c76e1b7
+SHA256: 2460d4123e9c2c1c2221194c99a4962886dbbd40622fb1e839d40c9dcec71132
 Section: 越狱插件
 Description: 使用自定义视频为锁屏与桌面壁纸，基于开源重新编译，去除LibGcUniversal依赖，编译适配roothide。
 Author: Traurige & SINI
@@ -4903,17 +4903,17 @@ Name: Atria(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/atria/js.json
 
 Package: com.sini921.batterybuddy
-Version: 1.3.5-3
+Version: 1.3.5-4
 Architecture: iphoneos-arm64e
 Maintainer: Traurige & neilsardesai & SINI
 Installed-Size: 652
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: love.litten.batterybuddy
-Filename: roothide/com.sini921.batterybuddy_1.3.5-3_iphoneos-arm64e.deb
-Size: 235140
-MD5sum: 142ebc975b5b874dcb969d232fdd9d2d
-SHA1: 7f679bfc901f5da8ba7083a7d9dfd80365d08b03
-SHA256: 2db1da2ff147c3512522e553b9313625183cce38f55860354893d7e107dc9071
+Filename: roothide/com.sini921.batterybuddy_1.3.5-4_iphoneos-arm64e.deb
+Size: 235148
+MD5sum: 1e19e6e98fc1790d258a3c9b63a95dcc
+SHA1: b433f80c89055ffc6ae30a1238516c37a428ba2e
+SHA256: cabf6fec73ed7448b045fee7b4c5146e089b843eb7f0eaaa717cc560cb5d685a
 Section: 越狱插件
 Description: 一个可爱的电池，基于开源修改编译。新增自定义颜色。
 Author: Traurige & neilsardesai & SINI
@@ -5031,16 +5031,16 @@ Name: DYYY Lite(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
 
 Package: com.sini921.eneko
-Version: 1.4-2
+Version: 1.4-3
 Architecture: iphoneos-arm64e
 Maintainer: Traurige & SINI
-Installed-Size: 624
+Installed-Size: 628
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
-Filename: roothide/com.sini921.eneko_1.4-2_iphoneos-arm64e.deb
-Size: 205858
-MD5sum: 57d3bac27397aca27cf3d110c9e37cfc
-SHA1: baa9834abc206ca24d540843a2c6532882d111f3
-SHA256: 7b3bbf44fadb1bf7cd106bcc3648a3f1c5b5180ef8c80d7ca8dba03732e33d2e
+Filename: roothide/com.sini921.eneko_1.4-3_iphoneos-arm64e.deb
+Size: 206796
+MD5sum: cca60de7e061b2b9dba08091a7fa4e6b
+SHA1: c0891c55540cf423e612f9c99824ad322ab2dd41
+SHA256: 809c36cf0e79b9a776fe89fbf0617b0698631f24f9ca3aa6f1566c95cc494480
 Section: 越狱插件
 Description: 使用自定义视频为锁屏与桌面壁纸，基于开源重新编译，去除LibGcUniversal依赖，编译适配roothide。
 Author: Traurige & SINI
