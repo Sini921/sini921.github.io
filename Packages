@@ -3886,16 +3886,16 @@ Name: FakeSignalBar(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakesignalbar/js.json
 
 Package: com.sini921.freepip
-Version: 0.0.6-1
+Version: 0.0.6-2
 Architecture: iphoneos-arm64
 Maintainer: Soh Satoh & SINI
 Installed-Size: 440
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.freepip_0.0.6-1_iphoneos-arm64.deb
-Size: 43118
-MD5sum: 48df64b5b8fbb7453dbfa3487f1b8db9
-SHA1: 952310d9333d6e57fb1829b9e7711b1db1092831
-SHA256: 9b18e258a95cc1cbb4d2c07084382728cabbce618b15c42f91e1c01dbb06d466
+Filename: rootless/com.sini921.freepip_0.0.6-2_iphoneos-arm64.deb
+Size: 43948
+MD5sum: 874b8811af366ea23d896ef757031998
+SHA1: 1245e4f9a22cae64381c945c0e901ed6526e921b
+SHA256: d7d6b70150db74ce80f05398be6562c94bcd84ade6c82ce53a6f6fabc2de2632
 Section: 越狱插件
 Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，基于开源重新编译，优化了一些代码，改进了一些细节。
 Author: Soh Satoh & SINI
@@ -5085,16 +5085,16 @@ Name: FakeSignalBar(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakesignalbar/js.json
 
 Package: com.sini921.freepip
-Version: 0.0.6-1
+Version: 0.0.6-2
 Architecture: iphoneos-arm64e
 Maintainer: Soh Satoh & SINI
 Installed-Size: 440
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.freepip_0.0.6-1_iphoneos-arm64e.deb
-Size: 41108
-MD5sum: d07777f6b6b10cbe9000045b615e5013
-SHA1: 9c6f6bae48ee6a504e460a2e956058ba98901fa8
-SHA256: 5b66ddbab8c6a577846f91ca0b5f1ce028ce088522c792cc603a4ba4f06d1d0b
+Filename: roothide/com.sini921.freepip_0.0.6-2_iphoneos-arm64e.deb
+Size: 41906
+MD5sum: be9fe542a70d08417153d10a1833b34c
+SHA1: abff3d2d13f5f687d77fe39db5241953ecddc429
+SHA256: 117dd468bd86facef86b5e0eaee22abfed0c1ec54dfc4586f2540bb8989b0be0
 Section: 越狱插件
 Description: 任意调整画中画大小和位置，长按画中画窗口切换模式，基于开源重新编译，优化了一些代码，改进了一些细节。
 Author: Soh Satoh & SINI
