@@ -2485,6 +2485,24 @@ Name: ReachPlayer(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/reach/js.json
 Sponsor: sini921
 
+Package: com.sini.recordanywhere
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Muirey03 & lclrc
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: rootless/com.sini.recordanywhere_1.1.0_iphoneos-arm64.deb
+Size: 4592
+MD5sum: 0ec8ccdbb4a262b772d479acf449ea34
+SHA1: 6861fcf4d5c3e2b18adf661d96a2d37943f056a7
+SHA256: dce59266be0c3b44c45732240bdcb33ac90182b07c8fa6e36b5bed78d8d860c4
+Section: 越狱插件
+Description: 使手机在锁屏状态也可以继续录屏。
+Author: Muirey03 & lclrc
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: RecordAnywhere(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/recordanywhere/js.json
+
 Package: com.sini.recorder-bubble
 Version: 0.0.1
 Architecture: iphoneos-arm64
