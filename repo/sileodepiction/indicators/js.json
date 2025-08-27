@@ -94,6 +94,14 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
+                    "markdown": "#### 版本: 1.2-14\n- 排序列表用颜色区分开启与未开启的指示灯",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "markdown": "#### 版本: 1.2-13\n- 这个源主很懒\n- 懒得写更新日志",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
