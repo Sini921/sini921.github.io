@@ -3713,11 +3713,11 @@ Maintainer: fiore & p2kdev & SINI
 Installed-Size: 624
 Depends: mobilesubstrate, firmware (>= 16.0)
 Filename: rootless/com.sini921.ccborder_1.1.2-6_iphoneos-arm64.deb
-Size: 81362
-MD5sum: c7c0af346ecbbcf5c615770cd43b2fb4
-SHA1: 665f9c566a7a83ab06909fa39e541abb65422db1
-SHA256: 70ca8847a8152b104b4e454da121db38ed016627c33af1e3e973afebd2196995
-Section: 越狱插件
+Size: 81596
+MD5sum: b866bbc968b584f536d3e5f029614e8d
+SHA1: 808e942bae3e13d39c976b66cb7776973a77fa40
+SHA256: 4451a4ec32a1b4299562ae64d5495efcf76ff55bbdb851b438a4c6b79c2e41e0
+Section: 控制中心
 Description: 控制中心调整，基于开源修改编译，去掉了Alderis Color Picker依赖
 Author: fiore & p2kdev & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
@@ -4930,11 +4930,11 @@ Maintainer: fiore & p2kdev & SINI
 Installed-Size: 592
 Depends: mobilesubstrate, firmware (>= 16.0)
 Filename: roothide/com.sini921.ccborder_1.1.2-6_iphoneos-arm64e.deb
-Size: 79376
-MD5sum: dfe7ca2cd47e6f0a3616baf693ab8837
-SHA1: dbe324dc10dc9a58265a4bf99a8cda774eb8f151
-SHA256: 433d0c8e5a4079e7a6c62b98729871799f19773196520918ff657692b9970841
-Section: 越狱插件
+Size: 79564
+MD5sum: 8487655142cf24e2e288944e02353689
+SHA1: 75a9dee00fd8927e6d14eb3f1f8e95d69abf369a
+SHA256: 5affafd53b31c989ba1bcaa91443b3dddda528a7402447143adf6ec5634480d5
+Section: 控制中心
 Description: 控制中心调整，基于开源修改编译，去掉了Alderis Color Picker依赖
 Author: fiore & p2kdev & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
