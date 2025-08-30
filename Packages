@@ -561,18 +561,18 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dy.png
 Name: AwemeDownloadMedia(rootless)
 
 Package: com.sini.awemefullscreen
-Version: 1.3-6
+Version: 1.3-7
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 448
 Depends: firmware (>= 12.0), mobilesubstrate
-Filename: rootless/com.sini.awemefullscreen_1.3-6_iphoneos-arm64.deb
-Size: 186872
-MD5sum: 9d13018631f3f34978e1d450e0367b66
-SHA1: 5cf16b386dcfecd1782fad4877187d755ef44635
-SHA256: 893e6cb9faa0db832bc95f5054122be29d6a9d48b5cfc0be42d23cf619b969bb
+Filename: rootless/com.sini.awemefullscreen_1.3-7_iphoneos-arm64.deb
+Size: 191348
+MD5sum: c7a31d4751942e0bbd62a607dfa4bbba
+SHA1: facfdef0e664f9a3c146e0ce3acade52803108dc
+SHA256: 55f8a98b9ec62a9cf405485211d38f0bf37019e9f46933a34ef711bceaebb129
 Section: 应用破解
-Description: 抖音主页全屏。仅支持34.7.0及以上版本
+Description: 抖音主页全屏。仅支持35.0.0及以上版本
 Author: Netskao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/awemefullscreen.png
 Name: AwemeFullScreen(rootless)
