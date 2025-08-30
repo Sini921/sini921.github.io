@@ -3459,21 +3459,22 @@ Name: 微信广告净化助手(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wechatnoads/js.json
 
 Package: com.sini.wechatnotiavatar
-Version: 1.2-5
+Version: 1.2-9
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 2336
+Installed-Size: 1244
 Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
-Filename: rootless/com.sini.wechatnotiavatar_1.2-5_iphoneos-arm64.deb
-Size: 523368
-MD5sum: 5270a235fee89c9a11b39811322c2ec3
-SHA1: c94b9c68b5d534bbd2c9f5b063c3b2ef887eea35
-SHA256: 4ee82f0733689279512775cf04b3963ee4a058bd2e5fb18b9c895a617a93a1b9
+Filename: rootless/com.sini.wechatnotiavatar_1.2-9_iphoneos-arm64.deb
+Size: 241556
+MD5sum: fb37e3160f4cb123713e7cba32afa5cc
+SHA1: 4c5aa5eb592077be0e52b68716bbd72a88762b9a
+SHA256: f4a4e04fc43ad4956d69408051678eecca0e2538f3fdd3b702449300a787f42d
 Section: 微信插件
-Description: 微信通知显示头像
+Description: 使用iOS15+API显示微信应用程序的通知头像
 Author: Netskao
-Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wechatnotiavatar.png
 Name: WeChatNotiAvatar(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/wechatnotiavatar/js.json
 
 Package: com.sini.wechatuiswitchloader
 Version: 1.1-5
