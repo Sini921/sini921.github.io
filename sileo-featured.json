@@ -10,6 +10,12 @@
             "hideShadow": true
         },
         {
+            "url": "http://sini921.github.io/repo/images/quickpowerbutton.png",
+            "title": "QuickPowerButton",
+            "package":"com.sini921.quickpowerbutton",
+            "hideShadow": true
+        },
+        {
             "url": "http://sini921.github.io/repo/images/indicators.png",
             "title": "Indicators",
             "package":"com.sini921.indicators",
