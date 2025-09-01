@@ -1254,18 +1254,18 @@ Name: 斗图助手(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/doutu.rootless/js.json
 
 Package: com.sini.dumpapp.wechat-rootless
-Version: 2.0.9
+Version: 2.1.0
 Architecture: iphoneos-arm64
-Maintainer: WeChat
-Installed-Size: 28608
+Maintainer: DumpApp
+Installed-Size: 29984
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: rootless/com.sini.dumpapp.wechat-rootless_2.0.9_iphoneos-arm64.deb
-Size: 10518732
-MD5sum: 5c636f3642e3e1c6d5bda95ca4796a20
-SHA1: 2b87898776d8c99b92fb2e8a65cbbfd5cf39f79b
-SHA256: 337fafb988631709d248c9a3e877da530c585e7719421a6c8994786f88b58b40
+Filename: rootless/com.sini.dumpapp.wechat-rootless_2.1.0_iphoneos-arm64.deb
+Size: 10903808
+MD5sum: fdf391e01818ca642c972c985e2732ce
+SHA1: 468949a76c34d7a3bb32900aae1371217cb6e71e
+SHA256: 16ce03b75d410815a7505e5ee214862ecd25cf0309ac059e6ac77712b730d802
 Section: 微信插件
-Description: 锤子助手插件
+Description: 微信插件
 Author: DumpApp
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dumpapp.wechat-rootless.png
 Name: 锤子助手(rootless)
