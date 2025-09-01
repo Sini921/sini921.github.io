@@ -3330,6 +3330,24 @@ Author: ethxnn88 <ethxnn88@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ldd.png
 Name: VisibleIsland(rootless)
 
+Package: com.sini.vitreux
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: MTAC
+Installed-Size: 6160
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: rootless/com.sini.vitreux_1.1_iphoneos-arm64.deb
+Size: 5590496
+MD5sum: e2b33cbf4892ab2559289ce2f2f2f41b
+SHA1: c612e7e5490da0e9789679657ce4f9a214c32421
+SHA256: fc43ecd43f1ba5710ba5d93e61926d72364f2b3799b75e00d1bc0ec16ee00757
+Section: 越狱插件
+Description: 液体玻璃
+Author: MTAC
+Icon: https://sini921.github.io/repo/sileodepiction/icon/vitreux.png
+Name: Vitreux(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/vitreux/js.json
+
 Package: com.sini.voices.rootless
 Version: 1.0-5
 Architecture: iphoneos-arm64
