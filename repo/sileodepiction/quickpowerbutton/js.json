@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0.1-1",
+                    "text": "0.0.1-2",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年09月01日",
+                    "text": "2025年09月02日",
                     "title": "更新日期"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.0.1-2\n- 重构代码结构，修复弹窗后会影响一些其他系统触摸行为的bug，比如无法输入解锁密码，无法点击通知横幅左滑后出现的清除按钮\n- 重新封装按钮UI代码，使用标准Objective-C面向对象方式实现，方便后续添加新功能",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
