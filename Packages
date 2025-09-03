@@ -1,16 +1,15 @@
 Package: com.0xkuj.safarix
-Version: 1.9.9
+Version: 1.9.9.1
 Architecture: iphoneos-arm64
 Maintainer: 0xkuj
-Installed-Size: 928
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: rootless/com.0xkuj.safarix_1.9.9_iphoneos-arm64.deb
-Size: 322472
-MD5sum: 5f1c535db582c0a31f75a7dae2a04e0c
-SHA1: c4884e3f95a6c9c69d1ab93f85f66fa29972d52a
-SHA256: f6f086e372844c3c0031e65852f7ec8b1120b33188114ea2407f385a9d9dd9e3
+Filename: rootless/com.0xkuj.safarix_1.9.9.1_iphoneos-arm64.deb
+Size: 322288
+MD5sum: d624f19c0dc0b45dabf417967c6db4d0
+SHA1: bb549944517974c7e1763d07bf46ef630e4d0f24
+SHA256: aec91cc337fe98215c3e8dbbed5e55733867e615c7dd2375ae9672bda720cec5
 Section: 越狱插件
-Description: Safari浏览器增强，加入刀刀源汉化。
+Description: Safari浏览器增强，加入刀刀源汉化
 Author: 0xkuj
 Icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
 Name: SafariX(rootless)
@@ -2597,12 +2596,12 @@ Architecture: iphoneos-arm64
 Maintainer: 0xkuj
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
 Filename: rootless/com.sini.safarix_1.3.0_iphoneos-arm64.deb
-Size: 278980
-MD5sum: 6aefdb3d33eaa85d3c5bf3a31f9092d2
-SHA1: 8a2efc4acce80b4d9223297ad876f1fc5d45522f
-SHA256: 1366d6f2956fc413f7c799e2f1d781c48219bdd295b3c9a241a87ef8dc455c8a
+Size: 278984
+MD5sum: 6422fe26743a3ee351b4d2f4af94ad2f
+SHA1: 30e2702bac618e4f5af82a5632897c6d873a1b42
+SHA256: 2459b0f865a774abf1a20e912d6cfb0ce93f549f79df1ccf666059a2922c38dc
 Section: 越狱插件
-Description: Safari 浏览器多功能增强插件！
+Description: Safari 浏览器多功能增强，加入刀刀源汉化
 Author: 0xkuj
 Icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
 Name: SafariX(rootless)
