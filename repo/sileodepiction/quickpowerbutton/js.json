@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0.1-10",
+                    "text": "0.0.1-11",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年09月03日",
+                    "text": "2025年09月04日",
                     "title": "更新日期"
                 },
                 {
@@ -93,6 +93,14 @@
                 {
                     "class": "DepictionSeparatorView"
                 },
+                {
+                    "markdown": "#### 版本: 0.0.1-11\n- 修复弹窗会跑到控制中心去的bug",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                
                 {
                     "markdown": "#### 版本: 0.0.1-10\n- 这个源主很懒\n- 懒得写更新日志",
                     "useSpacing": true,
