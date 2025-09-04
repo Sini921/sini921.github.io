@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0.1-13",
+                    "text": "0.0.1-14",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年09月04日",
+                    "text": "2025年09月05日",
                     "title": "更新日期"
                 },
                 {
@@ -93,6 +93,14 @@
                 {
                     "class": "DepictionSeparatorView"
                 },
+                {
+                    "markdown": "#### 版本: 0.0.1-14\n- 弃用系统弹窗，相关配套设置项一并删除\n- 改为自写弹窗，使用相机手电筒按钮同款背景材质，使整体风格彻底统一",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                
                 {
                     "markdown": "#### 版本: 0.0.1-13\n- 弹窗可以选择固定浅色模式以及固定深色模式或者跟随系统",
                     "useSpacing": true,
