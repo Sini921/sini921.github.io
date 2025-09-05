@@ -100,7 +100,7 @@
                 },
                 {
                     "class": "DepictionSeparatorView"
-                
+                },
                 {
                     "markdown": "#### 版本: 0.0.1-13\n- 弹窗可以选择固定浅色模式以及固定深色模式或者跟随系统",
                     "useSpacing": true,
