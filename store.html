@@ -1,111 +1,271 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-<title>季伯之家源 - 插件商店</title>
-<style>
-body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f5; }
-header { background: #333; color: white; padding: 15px; text-align: center; position: sticky; top: 0; z-index: 1000; }
-header input { width: 90%; max-width: 500px; padding: 8px; border-radius: 5px; border: none; margin-top: 10px; }
-.filter-buttons { display: flex; justify-content: center; margin: 10px 0; }
-.filter-buttons button { margin: 0 5px; padding: 6px 12px; border: none; border-radius: 6px; background: #007bff; color: white; cursor: pointer; }
-.filter-buttons button.active { background: #64c466; }
-.package { background: white; margin: 10px auto; padding: 15px; border-radius: 8px; width: 90%; max-width: 600px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); display: flex; flex-direction: column; }
-.package-header { display: flex; align-items: center; margin-bottom: 5px; }
-.package img { width: 60px; height: 60px; border-radius: 12px; margin-right: 10px; }
-.package-title { font-size: 18px; font-weight: bold; }
-.package-arch { font-size: 12px; color: #666; margin-top: 2px; }
-.package-desc { font-size: 14px; color: #444; margin-bottom: 10px; }
-.package-info { font-size: 12px; color: #666; margin-bottom: 10px; line-height: 1.5; }
-.package-footer { font-size: 12px; color: #777; }
-.package-footer a { display: inline-block; margin: 5px 5px 0 0; padding: 5px 10px; background: #007bff; color: white; text-decoration: none; border-radius: 5px; font-size: 13px; }
-.package-footer a:hover { background: #0056b3; } html, body { overflow-x: hidden; }
-</style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <title>季伯之家源 - 插件商店</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f5;
+    }
+
+    header {
+      background: #333;
+      color: white;
+      padding: 15px;
+      text-align: center;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+    }
+
+    header input {
+      width: 90%;
+      max-width: 500px;
+      padding: 8px;
+      border-radius: 5px;
+      border: none;
+      margin-top: 10px;
+    }
+
+    .filter-buttons {
+      display: flex;
+      justify-content: center;
+      margin: 10px 0;
+    }
+
+    .filter-buttons button {
+      margin: 0 5px;
+      padding: 6px 12px;
+      border: none;
+      border-radius: 6px;
+      background: #007bff;
+      color: white;
+      cursor: pointer;
+    }
+
+    .filter-buttons button.active {
+      background: #64c466;
+    }
+
+    .package {
+      background: white;
+      margin: 10px auto;
+      padding: 15px;
+      border-radius: 8px;
+      width: 90%;
+      max-width: 600px;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+      display: flex;
+      flex-direction: column;
+    }
+
+    .package-header {
+      display: flex;
+      align-items: center;
+      margin-bottom: 5px;
+    }
+
+    .package img {
+      width: 60px;
+      height: 60px;
+      border-radius: 12px;
+      margin-right: 10px;
+    }
+
+    .package-title {
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    .package-arch {
+      font-size: 12px;
+      color: #666;
+      margin-top: 2px;
+    }
+
+    .package-desc {
+      font-size: 14px;
+      color: #444;
+      margin-bottom: 10px;
+    }
+
+    .package-info {
+      font-size: 12px;
+      color: #666;
+      margin-bottom: 10px;
+      line-height: 1.5;
+    }
+
+    .package-footer {
+      font-size: 12px;
+      color: #777;
+    }
+
+    .package-footer a {
+      display: inline-block;
+      margin: 5px 5px 0 0;
+      padding: 5px 10px;
+      background: #eb4d3d;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      font-size: 13px;
+    }
+
+    .package-footer a:nth-child(1) {
+      background: #eb4d3d;
+    }
+
+    .package-footer a:nth-child(1):hover {
+      background: #f7a846;
+    }
+
+    .package-footer a:nth-child(2) {
+      background: #4da7ac;
+    }
+
+    .package-footer a:nth-child(2):hover {
+      background: #f7a846;
+    }
+
+    .package-footer a:nth-child(3) {
+      background: #4974e1;
+    }
+
+    .package-footer a:nth-child(3):hover {
+      background: #f7a846;
+    }
+
+    html,
+    body {
+      overflow-x: hidden;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      body {
+        background: #121212;
+        color: #ddd;
+      }
+
+      header {
+        background: #222;
+        color: #fff;
+      }
+
+      .package {
+        background: #1e1e1e;
+        box-shadow: 0 2px 6px rgba(255, 255, 255, 0.1);
+      }
+
+      .package-desc {
+        color: #ccc;
+      }
+
+      .package-info {
+        color: #aaa;
+      }
+
+      .package-arch {
+        color: #aaa;
+      }
+
+      .package-footer {
+        color: #bbb;
+      }
+    }
+  </style>
 </head>
 <body>
-<header>
-<h2>季伯之家源 - 插件商店</h2>
-<input type="text" id="searchBox" placeholder="输入关键字搜索...">
-<div class="filter-buttons">
-  <button class="active" data-arch="all">全部插件</button>
-  <button data-arch="iphoneos-arm64">无根插件</button>
-  <button data-arch="iphoneos-arm64e">隐根插件</button>
-</div>
-</header>
-
-<div id="package-list"></div>
-
-<script>
-let packages = [];
-let currentArch = 'all';
-let currentSearch = '';
-
-fetch('Packages')
-  .then(res => res.text())
-  .then(text => {
-    let entries = text.split(/\n\n+/);
-    packages = entries.map(entry => {
-      let pkg = {};
-      entry.split(/\n/).forEach(line => {
-        let [key, ...rest] = line.split(': ');
-        if(key && rest.length) pkg[key] = rest.join(': ');
-      });
-      return pkg;
-    }).filter(p => p.Filename && p.Package !== 'com.sini.gonggao');
-    renderList();
-  });
-
-function renderList(){
-  let filtered = packages.filter(p=>{
-    let matchArch = currentArch==='all' || p.Architecture===currentArch;
-    let matchSearch = p.Package.toLowerCase().includes(currentSearch) || (p.Name && p.Name.toLowerCase().includes(currentSearch));
-    return matchArch && matchSearch;
-  });
-
-  let html = filtered.map(p=>{
-    let archLabel = p.Architecture==='iphoneos-arm64' ? '(rootless)' : p.Architecture==='iphoneos-arm64e' ? '(roothide)' : '';
-    return `
-    <div class="package">
-      <div class="package-header">
-        <img src="${p.Icon||''}" onerror="this.style.display='none'">
-        <div>
-          <div class="package-title">${p.Name||p.Package}</div>
-          <div class="package-arch">${p.Architecture||''} ${archLabel}</div>
-        </div>
-      </div>
-      <div class="package-desc">${p.Description||''}</div>
-      <div class="package-info">
-        开发作者: ${p.Author||'未知'}<br>
-        当前版本: ${p.Version||'未知'}<br>
-        插件类型: ${p.Section||'未知'}<br>
-        需要依赖: ${[p.Depends, p['Pre-Depends']].filter(Boolean).join(', ') || '无'}
-      </div>
-      <div class="package-footer">
-        <a href="${p.Filename}" download>下载 .deb</a>
-        <a href="sileo://source/https://sini921.github.io" target="_blank">前往 Sileo</a>
-        <a href="apt-repo://https://sini921.github.io" target="_blank">前往 Saily</a>
-      </div>
+  <header>
+    <h2>季伯之家源 - 插件商店</h2>
+    <input type="text" id="searchBox" placeholder="输入关键字搜索...">
+    <div class="filter-buttons">
+      <button class="active" data-arch="all">全部插件</button>
+      <button data-arch="iphoneos-arm64">无根插件</button>
+      <button data-arch="iphoneos-arm64e">隐根插件</button>
     </div>
-    `;
-  }).join('');
+  </header>
 
-  document.getElementById('package-list').innerHTML = html || '<p style="text-align:center;">未找到结果</p>';
-}
+  <div id="package-list"></div>
 
-document.getElementById('searchBox').addEventListener('input', function(){
-  currentSearch = this.value.toLowerCase();
-  renderList();
-});
+  <script>
+    let packages = [];
+    let currentArch = 'all';
+    let currentSearch = '';
 
-document.querySelectorAll('.filter-buttons button').forEach(btn=>{
-  btn.addEventListener('click', function(){
-    document.querySelectorAll('.filter-buttons button').forEach(b=>b.classList.remove('active'));
-    this.classList.add('active');
-    currentArch = this.dataset.arch;
-    renderList();
-  });
-});
-</script>
+    fetch('Packages')
+      .then(res => res.text())
+      .then(text => {
+        let entries = text.split(/\n\n+/);
+        packages = entries.map(entry => {
+          let pkg = {};
+          entry.split(/\n/).forEach(line => {
+            let [key, ...rest] = line.split(': ');
+            if (key && rest.length) pkg[key] = rest.join(': ');
+          });
+          return pkg;
+        }).filter(p => p.Filename && p.Package !== 'com.sini.gonggao');
+        renderList();
+      });
+
+    function renderList() {
+      let filtered = packages.filter(p => {
+        let matchArch = currentArch === 'all' || p.Architecture === currentArch;
+        let matchSearch = p.Package.toLowerCase().includes(currentSearch) || (p.Name && p.Name.toLowerCase().includes(currentSearch));
+        return matchArch && matchSearch;
+      });
+
+      let html = filtered.map(p => {
+        let archLabel = p.Architecture === 'iphoneos-arm64'
+          ? '(rootless)'
+          : p.Architecture === 'iphoneos-arm64e'
+            ? '(roothide)'
+            : '';
+        return `
+          <div class="package">
+            <div class="package-header">
+              <img src="${p.Icon || ''}" onerror="this.style.display='none'">
+              <div>
+                <div class="package-title">${p.Name || p.Package}</div>
+                <div class="package-arch">${p.Architecture || ''} ${archLabel}</div>
+              </div>
+            </div>
+            <div class="package-desc">${p.Description || ''}</div>
+            <div class="package-info">
+              开发作者: ${p.Author || '未知'}<br>
+              当前版本: ${p.Version || '未知'}<br>
+              插件类型: ${p.Section || '未知'}<br>
+              需要依赖: ${[p.Depends, p['Pre-Depends']].filter(Boolean).join(', ') || '无'}
+            </div>
+            <div class="package-footer">
+              <a href="${p.Filename}" download>下载 .deb</a>
+              <a href="sileo://source/https://sini921.github.io" target="_blank">前往 Sileo</a>
+              <a href="apt-repo://https://sini921.github.io" target="_blank">前往 Saily</a>
+            </div>
+          </div>
+        `;
+      }).join('');
+
+      document.getElementById('package-list').innerHTML = html || '<p style="text-align:center;">未找到结果</p>';
+    }
+
+    document.getElementById('searchBox').addEventListener('input', function () {
+      currentSearch = this.value.toLowerCase();
+      renderList();
+    });
+
+    document.querySelectorAll('.filter-buttons button').forEach(btn => {
+      btn.addEventListener('click', function () {
+        document.querySelectorAll('.filter-buttons button').forEach(b => b.classList.remove('active'));
+        this.classList.add('active');
+        currentArch = this.dataset.arch;
+        renderList();
+      });
+    });
+  </script>
 </body>
 </html>
