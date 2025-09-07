@@ -184,13 +184,6 @@
     text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
   }
 
-  .emoji {     
-      position: fixed;
-      top: -50px;
-      animation: fall linear infinite;
-      pointer-events: none;
-    }
-
     @keyframes fall {
       0% {
         transform: translateY(-50px) rotate(0deg);
@@ -212,20 +205,20 @@
     <img src="repo/images/likaixin.png" alt="李开心" class="rotating-image"><br>点击头像播放李开心自我介绍
   </div>
   <audio id="audio" src="repo/audio/jntm.mp3"></audio>
-  <div class="source-row">
-    <div class="source-container" onclick="window.location.href='sileo://source/https://sini921.github.io'">
-      <img src="repo/images/sileo.png" alt="Sileo">
-      <div class="source-text">添加到Sileo</div>
-    </div>
-    <div class="source-container" onclick="window.location.href='apt-repo://https://sini921.github.io'">
-      <img src="repo/images/saily.png" alt="Saily">
-      <div class="source-text">添加到Saily</div>
-    </div>
-    <div class="source-container" onclick="window.location.href='nsk-sign://addsource?url='">
-      <img src="repo/images/sign.png" alt="全能签">
-      <div class="source-text">添加到全能签</div>
-    </div>
+<div class="source-row">
+  <div class="source-container" onclick="window.location.href='sileo://source/https://sini921.github.io'">
+    <img src="repo/images/sileo.png" alt="Sileo">
+    <div class="source-text">添加到Sileo</div>
   </div>
+  <div class="source-container" onclick="window.location.href='apt-repo://https://sini921.github.io'">
+    <img src="repo/images/saily.png" alt="Saily">
+    <div class="source-text">添加到Saily</div>
+  </div>
+  <div class="source-container" onclick="window.location.href='store.html'">
+    <img src="CydiaIcon.png" alt="插件商店">
+    <div class="source-text">进入插件商店</div>
+  </div>
+</div>
   <div class="overlay" id="modal-overlay">
     <div class="modal">
       <h2>不要为了越狱而放弃升级的乐趣～</h2>
@@ -234,7 +227,7 @@
     </div>
   </div>
   <div class="footer" onclick="showModal()">
-    <span>感谢「季伯麤」提供技术支持<br>本源由季伯之家「季伯奥迪哥<季伯橙>」独家冠名<br>季伯之家 © 2008~2024 季伯腾</span>
+    <span>感谢「季伯麤」提供技术支持<br>本源由季伯之家「季伯奥迪哥<季伯橙>」独家冠名<br>季伯之家 © 2008~2025 季伯腾</span>
   </div>
   <script>
     function playAudio() {
@@ -267,36 +260,6 @@
       timestampElement.textContent = `时间戳: ${Math.floor(now.getTime() / 1000)}`;
     }
     setInterval(updateTime, 1000);
-
-    let emojiCount = 0;
-    const maxEmojis = 50;
-    const emojis = ['🌺', '🌸', '🌼', '☘️', '🍀', '🍂', '🍁'];
-
-    function createEmoji() {
-        if (emojiCount >= maxEmojis) return;
-
-        const emoji = document.createElement('div');
-        emoji.className = 'emoji';
-        emoji.textContent = emojis[Math.floor(Math.random() * emojis.length)];
-        emoji.style.left = Math.random() * 100 + 'vw';
-        emoji.style.fontSize = Math.random() * 5 + 20 + 'px';
-        emoji.style.opacity = Math.random() * 1 + 0.1;
-        emoji.style.animationDuration = `${Math.random() * 7 + 2}s`;
-
-        document.body.appendChild(emoji);
-        emojiCount++;
-
-        emoji.addEventListener('animationend', () => {
-            emoji.remove();
-            emojiCount--;
-        });
-    }
-
-    function startEmojiRain() {
-        setInterval(createEmoji, 100);
-    }
-
-    startEmojiRain();
   </script>
 </body>
 </html>

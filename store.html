@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <title>季伯之家源 - 插件商店</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f5f5f5; }
+    header {
+      background: #333; color: white; padding: 15px; text-align: center;
+      position: sticky; top: 0; z-index: 1000;
+    }
+    header input {
+      width: 90%; max-width: 500px; padding: 8px;
+      border-radius: 5px; border: none; margin-top: 10px;
+    }
+    .package {
+      background: white; margin: 10px auto; padding: 15px; border-radius: 8px;
+      width: 90%; max-width: 600px; box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    .package img {
+      width: 50px; height: 50px; vertical-align: middle; margin-right: 10px;
+      border-radius: 12px;
+    }
+    .package-title {
+      font-size: 16px; font-weight: bold; display: inline-block; vertical-align: middle;
+    }
+    .package-version { color: #666; font-size: 12px; margin-left: 5px; }
+    .package-desc { margin-top: 5px; font-size: 14px; color: #444; }
+    .package-footer {
+      margin-top: 10px; font-size: 12px; color: #777;
+    }
+    .package-footer a {
+      display: inline-block; margin-top: 5px; margin-right: 5px;
+      padding: 5px 10px;
+      background: #007bff; color: white; text-decoration: none;
+      border-radius: 5px; font-size: 13px;
+    }
+    .package-footer a:hover { background: #0056b3; }
+  </style>
+</head>
+<body>
+  <header>
+    <h2>季伯之家源 - 插件商店</h2>
+    <input type="text" id="searchBox" placeholder="搜索 rootless / roothide 或插件名...">
+  </header>
+
+  <div id="package-list"></div>
+
+  <script>
+    let packages = [];
+
+    fetch('Packages')
+      .then(res => res.text())
+      .then(text => {
+        let entries = text.split(/\n\n+/);
+        packages = entries.map(entry => {
+          let pkg = {};
+          entry.split(/\n/).forEach(line => {
+            let [key, ...rest] = line.split(': ');
+            if (key && rest.length) pkg[key] = rest.join(': ');
+          });
+          return pkg;
+        }).filter(p => p.Filename);
+
+        renderList(packages);
+      });
+
+    function renderList(list) {
+      let html = list.map(p => `
+        <div class="package">
+          <img src="${p.Icon || ''}" onerror="this.style.display='none'">
+          <span class="package-title">${p.Name || p.Package}</span>
+          <span class="package-version">(${p.Version})</span>
+          <div class="package-desc">${p.Description || ''}</div>
+          <div class="package-footer">
+            作者: ${p.Author || '未知'}<br>
+            <a href="${p.Filename}" download>下载 .deb</a>
+            <a href="sileo://source/https://sini921.github.io" target="_blank">前往 Sileo</a>
+            <a href="apt-repo://https://sini921.github.io" target="_blank">前往 Saily</a>
+          </div>
+        </div>
+      `).join('');
+      document.getElementById('package-list').innerHTML = html || '<p style="text-align:center;">未找到结果</p>';
+    }
+
+    document.getElementById('searchBox').addEventListener('input', function () {
+      let query = this.value.toLowerCase();
+      let results = packages.filter(p =>
+        (p.Package && p.Package.toLowerCase().includes(query)) ||
+        (p.Name && p.Name.toLowerCase().includes(query)) ||
+        (p.Filename && p.Filename.toLowerCase().includes(query))
+      );
+      renderList(results);
+    });
+  </script>
+</body>
+</html>
