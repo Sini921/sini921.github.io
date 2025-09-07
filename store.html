@@ -265,6 +265,8 @@
     const track = document.querySelector('.carousel-track');
     const slides = Array.from(track.children);
     const dotsContainer = document.querySelector('.carousel-dots');
+    const firstClone = slides[0].cloneNode(true);
+track.appendChild(firstClone);
     let index = 0;
     let startX = 0;
     let isDragging = false;
@@ -289,15 +291,27 @@
     }
 
     function nextSlide() {
-      index = (index + 1) % slides.length;
-      showSlide(index);
+      index++;
+      track.style.transition = 'transform 0.5s ease';
+      track.style.transform = `translateX(${-index * 100}%)`;
+
+      if (index === slides.length) {
+        setTimeout(() => {
+          track.style.transition = 'none';
+          track.style.transform = `translateX(0%)`;
+          index = 0;
+        }, 500);
+      }
+
+      dots.forEach(d => d.classList.remove('active'));
+      dots[index % slides.length].classList.add('active');
     }
 
-    let autoSlide = setInterval(nextSlide, 1500);
+    let autoSlide = setInterval(nextSlide, 2000);
 
     function resetAutoSlide() {
       clearInterval(autoSlide);
-      autoSlide = setInterval(nextSlide, 1500);
+      autoSlide = setInterval(nextSlide, 2000);
     }
 
     const carousel = document.querySelector('.carousel');
