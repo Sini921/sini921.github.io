@@ -52,7 +52,7 @@ fetch('Packages')
         if(key && rest.length) pkg[key] = rest.join(': ');
       });
       return pkg;
-    }).filter(p => p.Filename);
+    }).filter(p => p.Filename && p.Package !== 'com.sini.gonggao');
     renderList();
   });
 
@@ -64,7 +64,7 @@ function renderList(){
   });
 
   let html = filtered.map(p=>{
-    let archLabel = p.Architecture==='iphoneos-arm64' ? '(rootless)' : p.Architecture==='iphoneos-arm64e' ? '(hide)' : '';
+    let archLabel = p.Architecture==='iphoneos-arm64' ? '(rootless)' : p.Architecture==='iphoneos-arm64e' ? '(roothide)' : '';
     return `
     <div class="package">
       <div class="package-header">
