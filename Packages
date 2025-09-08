@@ -1060,20 +1060,20 @@ Name: Saily(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/saily/js.json
 
 Package: com.sini.classickeyboardxs
-Version: 1.1-8
+Version: 1.1-9
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 1060
+Installed-Size: 1044
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: rootless/com.sini.classickeyboardxs_1.1-8_iphoneos-arm64.deb
-Size: 233688
-MD5sum: 2a89528315f1b1cf897e23d673ea0376
-SHA1: b989c67df87f178f6aa9463589086cc7bf99cd34
-SHA256: 45b54d6eb12771b1b5726f06d147f0670756837b1dc5d7fe72f86a936a106b5a
+Filename: rootless/com.sini.classickeyboardxs_1.1-9_iphoneos-arm64.deb
+Size: 275948
+MD5sum: 53d41fa0d0a60e799c7fa52b23edfec0
+SHA1: ae2aca580df6d87ddbd3df252967b28b405ec5b7
+SHA256: 26b0327b85f63f6e91e21af4f2ea8e3848084edc5b243d4aad264eabb2c1b7b7
 Section: 越狱插件
 Description: 自定义键盘底部的高度、地球底部的高度等。
 Author: Netskao
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/classickeyboardxs.png
 Name: ClassicKeyboardXS(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/classickeyboardxs/js.json
 
