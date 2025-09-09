@@ -2678,16 +2678,16 @@ Name: SettingsRevamp(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/settingsrevamp/js.json
 
 Package: com.sini.shortvideodl
-Version: 2.1.6
+Version: 2.1.7
 Architecture: iphoneos-arm64
 Maintainer: lenglengyu <lenglengyu@126.com>
 Installed-Size: 3640
 Depends: mobilesubstrate, preferenceloader
-Filename: rootless/com.sini.shortvideodl_2.1.6_iphoneos-arm64.deb
-Size: 957432
-MD5sum: 8a1d3224d6c2b924ce185b9079293039
-SHA1: 3f50739297adda703a8be0d2cc500597fb981600
-SHA256: c0a3c0410328f02ec4a6d5e414940a4b3ad77d06b1d923f061794e280d0ec24b
+Filename: rootless/com.sini.shortvideodl_2.1.7_iphoneos-arm64.deb
+Size: 961384
+MD5sum: d333b22a562fdd2f9880d774cb4d1e41
+SHA1: 133967abb97dffccc78ad69e7f3309356e68dba2
+SHA256: 273b9475f4056046e366f7b74d3e478a09bbcb27a8081e141246f9e8e4672f77
 Section: 应用破解
 Description: 支持抖音、快手、微视等无水印下载。
 Author: lenglengyu
