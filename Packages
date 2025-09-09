@@ -3688,17 +3688,17 @@ Name: Atria(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/atria/js.json
 
 Package: com.sini921.batterybuddy
-Version: 1.3.5-9
+Version: 1.3.5-10
 Architecture: iphoneos-arm64
 Maintainer: Traurige & neilsardesai & SINI
-Installed-Size: 672
+Installed-Size: 688
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: love.litten.batterybuddy
-Filename: rootless/com.sini921.batterybuddy_1.3.5-9_iphoneos-arm64.deb
-Size: 245664
-MD5sum: 1f28fcd9c2b5a6fa8b140cf1c7c9198f
-SHA1: 807273513cca30238e0edfdff0af0122ef274b6a
-SHA256: 7aca9ab9f7669962d381f94f3df0934563d4b531094ab9bca06eeccfc06e42c6
+Filename: rootless/com.sini921.batterybuddy_1.3.5-10_iphoneos-arm64.deb
+Size: 246524
+MD5sum: d2b82f886115b07a8d3b9c4f613de5b4
+SHA1: a8cd47b000168bbbe923fcc777035ff52fef6a93
+SHA256: eca50e661a2edb3d6ad806d06e73568f1439803d8c8733427e847d9260082dbe
 Section: 越狱插件
 Description: 一个可爱的电池，基于开源修改编译。新增自定义颜色。
 Author: Traurige & neilsardesai & SINI
@@ -4941,17 +4941,17 @@ Name: Atria(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/atria/js.json
 
 Package: com.sini921.batterybuddy
-Version: 1.3.5-9
+Version: 1.3.5-10
 Architecture: iphoneos-arm64e
 Maintainer: Traurige & neilsardesai & SINI
 Installed-Size: 656
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: love.litten.batterybuddy
-Filename: roothide/com.sini921.batterybuddy_1.3.5-9_iphoneos-arm64e.deb
-Size: 243342
-MD5sum: e26117f0a329a4147376e0b6b7293c33
-SHA1: 5249434e511b2e1d8495447ebc35dc76d1a0c59b
-SHA256: ecc925eb86a14e11a424ff1ba2365bfdae076ef0a407dd153a8a53222e072a6d
+Filename: roothide/com.sini921.batterybuddy_1.3.5-10_iphoneos-arm64e.deb
+Size: 243450
+MD5sum: b64cf731d7c0a53608c5d715013a3612
+SHA1: 428e284deefdfbd690736b1251a80f6ceef2f255
+SHA256: d7805adddd80f492594ce9bdc6d19ff8182163b5e355ad32164a331dc03f80d8
 Section: 越狱插件
 Description: 一个可爱的电池，基于开源修改编译。新增自定义颜色。
 Author: Traurige & neilsardesai & SINI
