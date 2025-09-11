@@ -1,7 +1,7 @@
-[最小配置](https://www.nsloon.com/openloon/import?sub=https://raw.githubusercontent.com/Sini921/sini921.github.io/refs/heads/main/repo/Loon/Loon_Simple_Sample_Configuration_By_iKeLee.lcf)
+[自动](https://www.nsloon.com/openloon/import?sub=https://raw.githubusercontent.com/Sini921/sini921.github.io/refs/heads/main/repo/Loon/Loon_Simple_Sample_Configuration_By_iKeLee.lcf)
 
 
-[无脑配置](https://www.nsloon.com/openloon/import?sub=https://raw.githubusercontent.com/Sini921/sini921.github.io/refs/heads/main/repo/Loon/Loon_Lazy_Configuration_By_iKeLee.lcf)
+[手动](https://www.nsloon.com/openloon/import?sub=https://raw.githubusercontent.com/Sini921/sini921.github.io/refs/heads/main/repo/Loon/Loon_Lazy_Configuration_By_iKeLee.lcf)
 
 
 1. 导入配置之后请[切换至自动分流](https://www.nsloon.com/openloon/flowmodel=filter)，将代理模式[切换至TUN Only](https://www.nsloon.com/openloon/proxymode=tun)
