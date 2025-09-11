@@ -3779,16 +3779,16 @@ Name: ChromaHomeBarX(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/chromahomebarx/js.json
 
 Package: com.sini921.classicfolders3
-Version: 3.0.6-7
+Version: 3.0.6-8
 Architecture: iphoneos-arm64
 Maintainer: CoolStar & Lizynz & SINI
 Installed-Size: 4280
 Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
-Filename: rootless/com.sini921.classicfolders3_3.0.6-7_iphoneos-arm64.deb
-Size: 3235172
-MD5sum: fee0a8720485b755c1fe3a6184158eb5
-SHA1: dc17c04305c3efc619249425bb1d5ab32341f7dd
-SHA256: 2b5ce0f303cc70568ea246e1cf5b9ad858fe7bc1a0d10b5f8995ca8b915c1256
+Filename: rootless/com.sini921.classicfolders3_3.0.6-8_iphoneos-arm64.deb
+Size: 3235586
+MD5sum: ad3725022c551cf0e0f26bcea4195367
+SHA1: 5933e1d71b1c9346576cb8dd7ceb02d1353c8e07
+SHA256: f573d8f5f970d5e3aaae67cd9321bf5d3d7a5799c563c7a23b73748f09968fd7
 Section: 越狱插件
 Description: 经典文件夹，基于开源代码优化编译。
 Author: CoolStar & Lizynz & SINI
@@ -4996,16 +4996,16 @@ Name: ChromaHomeBarX(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/chromahomebarx/js.json
 
 Package: com.sini921.classicfolders3
-Version: 3.0.6-7
+Version: 3.0.6-8
 Architecture: iphoneos-arm64e
 Maintainer: CoolStar & Lizynz & SINI
 Installed-Size: 4280
 Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
-Filename: roothide/com.sini921.classicfolders3_3.0.6-7_iphoneos-arm64e.deb
-Size: 3233338
-MD5sum: 0bdcea7e1b5129a0022c03724f00fb82
-SHA1: 5ef97912d9ff280612298a04c262e8c64b8a2f4c
-SHA256: f2bd4186128e96d97c00303a3d6d8add61680914412bc940e7b92c55ecb13742
+Filename: roothide/com.sini921.classicfolders3_3.0.6-8_iphoneos-arm64e.deb
+Size: 3233474
+MD5sum: 3c40857bd2d9fcec93505dea4cc21b00
+SHA1: d106f360dfffdf6a9133de93a8f7a5ac915b79c2
+SHA256: ac5d270619037bf5d259b942b4808b1d5927bc83dbac7a44d043127875ff61e5
 Section: 越狱插件
 Description: 经典文件夹，基于开源代码优化编译。
 Author: CoolStar & Lizynz & SINI

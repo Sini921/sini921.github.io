@@ -65,7 +65,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "3.0.6-7",
+                    "text": "3.0.6-8",
                     "title": "版本"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 3.0.6-8\n- 新增箭头设置，可选择显示箭头或者隐藏箭头\n- 展开高度新增取决于首页高度的选项",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
