@@ -3725,18 +3725,18 @@ Name: CallMeMaybe(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/callmemaybe/js.json
 
 Package: com.sini921.ccborder
-Version: 1.1.2-6
+Version: 1.1.2-7
 Architecture: iphoneos-arm64
 Maintainer: fiore & p2kdev & SINI
-Installed-Size: 624
+Installed-Size: 596
 Depends: mobilesubstrate, firmware (>= 16.0)
-Filename: rootless/com.sini921.ccborder_1.1.2-6_iphoneos-arm64.deb
-Size: 81596
-MD5sum: b866bbc968b584f536d3e5f029614e8d
-SHA1: 808e942bae3e13d39c976b66cb7776973a77fa40
-SHA256: 4451a4ec32a1b4299562ae64d5495efcf76ff55bbdb851b438a4c6b79c2e41e0
+Filename: rootless/com.sini921.ccborder_1.1.2-7_iphoneos-arm64.deb
+Size: 82920
+MD5sum: 8b41037f9a692aaf3d4cdb47c1f9b65c
+SHA1: 5ed67b406ba430874d5f8bb8d7936859d1dce54d
+SHA256: 66c7ff2ae4a5a26d227e4f26b8ba218c7f2042277311673fb34ae757b8219f20
 Section: 控制中心
-Description: 控制中心调整，基于开源修改编译，去掉了Alderis Color Picker依赖
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
 Author: fiore & p2kdev & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
 Name: CCBorder(rootless)
@@ -4960,18 +4960,18 @@ Name: BatteryBuddy(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/batterybuddy/js.json
 
 Package: com.sini921.ccborder
-Version: 1.1.2-6
+Version: 1.1.2-7
 Architecture: iphoneos-arm64e
 Maintainer: fiore & p2kdev & SINI
-Installed-Size: 592
+Installed-Size: 580
 Depends: mobilesubstrate, firmware (>= 16.0)
-Filename: roothide/com.sini921.ccborder_1.1.2-6_iphoneos-arm64e.deb
-Size: 79564
-MD5sum: 8487655142cf24e2e288944e02353689
-SHA1: 75a9dee00fd8927e6d14eb3f1f8e95d69abf369a
-SHA256: 5affafd53b31c989ba1bcaa91443b3dddda528a7402447143adf6ec5634480d5
+Filename: roothide/com.sini921.ccborder_1.1.2-7_iphoneos-arm64e.deb
+Size: 81058
+MD5sum: 74128ccf458bde4c9ae00980fef317da
+SHA1: 37d4d0d5a46e8a812da993ec8b3a4d90d04743a3
+SHA256: 39d740ba57f36a0ac260e6998017172e0bf61177e6bee7bf5ec1cec063257478
 Section: 控制中心
-Description: 控制中心调整，基于开源修改编译，去掉了Alderis Color Picker依赖
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
 Author: fiore & p2kdev & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
 Name: CCBorder(roothide)
