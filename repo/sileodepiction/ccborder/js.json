@@ -94,7 +94,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 1.1.2-7\n- 新增禁用在控制中心出开关有些功能时状态栏出现的提示文本",
+                    "markdown": "#### 版本: 1.1.2-7\n- 新增禁用在控制中心开关有些功能时状态栏出现的提示文本",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
