@@ -1,0 +1,156 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://sini921.github.io/repo/images/dingtu.png",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "插件介绍",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/jibozhijia",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 描述\n- APP设置界面右上角打开插件界面或双指长按设置界面\n- 默认移除一些广告\n- 原生按钮无水印保存图片、视频、live图、评论区图片和live图\n- 长按文案复制",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "截图",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/xhshook/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/xhshook/Screenshot_02.png" 
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "其他",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "X",
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "1.1.6-2",
+                    "title": "版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2025年05月02日",
+                    "title": "更新日期"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS15.0-iOS16.6.1",
+                    "title": "支持的系统"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/jibozhijia",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.6-2\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.5-1\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.5\n- 优化移除广告逻辑\n- 修复热门界面无法下载视频问题\n- 新增移除板块出现直播\n- 新增评论区翻译（自备百度翻译）",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.3\n- 修复-新增无水印保存图片/实况/视频\n- 移除底部热点\n- 评论区实况保存\n- 新增顶部下载弹窗提示音\n- 移除底部购物\n- 移除底部消息\n- 移除底部加号\n- 移除首页赞助/广告\n- 开启头像封面下载\n- 开启视频高清下载\n- 开启图片高清下载\n- 彩蛋1:插件头像自定义,图片以png格式命名为JiaJialLoveYou存放到小红书的沙河目 录Documents内即可\n- 彩蛋2:长按关闭输入我爱嘉嘉更改头像旁昵称,昵称后使用/可以换行,换行后文字会变 小即是个人留言\n- 彩蛋3:QQ群换新,男性不通过",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.2\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "本源公告",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/jibozhijia",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 季伯之家源:\n- 本源仅为搬运一些自已常用的插件方便自用以及学习交流测试备份\n- 源内插件均来自互联网\n- 安装以后请于24小时内删除\n- 安装以后出现异常与本源无关\n- 如有冒犯，请联系我指定下架某个插件\n- 季伯奥迪哥",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        }
+    ],
+}
