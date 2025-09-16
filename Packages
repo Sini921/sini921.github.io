@@ -3741,6 +3741,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/zetsu.png
 Name: Zetsu(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zetsu/js.json
 
+Package: com.sini.zhadkill
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: ylr <ylr275536387>
+Installed-Size: 152
+Depends: mobilesubstrate,firmware (>= 14.0)
+Filename: rootless/com.sini.zhadkill_1.5.5_iphoneos-arm64.deb
+Size: 5888
+MD5sum: 3e829a9b93057e92a04c3bf186198037
+SHA1: 1578821fbd796221a475175304811410d78b767a
+SHA256: 4ff3e09f145e3774a33ee083a44e218dbaead5dcd71aee657f9c6397ead11654
+Section: 应用破解
+Description: 知乎去广告，群友ylr制作投稿
+Author: ylr <ylr275536387>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zhadkill.png
+Name: 知乎去广告(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/zhadkill/js.json
+
 Package: com.sini921.appstoretroller
 Version: 0.1.2-4
 Architecture: iphoneos-arm64
