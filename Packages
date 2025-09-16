@@ -3366,16 +3366,16 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/ldd.png
 Name: VisibleIsland(rootless)
 
 Package: com.sini.vitreux
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm64
 Maintainer: MTAC
-Installed-Size: 6204
+Installed-Size: 7028
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
-Filename: rootless/com.sini.vitreux_1.2_iphoneos-arm64.deb
-Size: 5605516
-MD5sum: b2e5faa3a3c9c0aeca3bf3b86c377e58
-SHA1: 319007dabf6cad40a6b8899e658c82bbe64c1b76
-SHA256: 667a8ad7788a86df2c1e7cbfde0fd6ec42f9638629ead3c55f7ebe53ab93d258
+Filename: rootless/com.sini.vitreux_1.3_iphoneos-arm64.deb
+Size: 5921992
+MD5sum: 32c252fac5112c79337beee27abd885e
+SHA1: 369c380693e3b367ad972b7cc2f05dde6318037d
+SHA256: 67f5e5e86ad2fb2efd2bd74215488b70c60c04be063108d185185771bb014f70
 Section: 越狱插件
 Description: 仿iOS26液态玻璃
 Author: MTAC

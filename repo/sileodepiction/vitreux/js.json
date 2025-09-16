@@ -81,12 +81,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.2",
+                    "text": "1.3",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年09月15日",
+                    "text": "2025年09月16日",
                     "title": "更新日期"
                 },
                 {
@@ -105,6 +105,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.3\n- 修复了在iOS 15.x上启用控制中心效果时崩溃的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
