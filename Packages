@@ -3424,15 +3424,15 @@ Package: com.sini.wbsplashadkill
 Version: 1.5.5
 Architecture: iphoneos-arm64
 Maintainer: ylr <ylr275536387>
-Installed-Size: 152
+Installed-Size: 168
 Depends: mobilesubstrate,firmware (>= 14.0)
 Filename: rootless/com.sini.wbsplashadkill_1.5.5_iphoneos-arm64.deb
-Size: 6016
-MD5sum: 3cadceee78b457d6e6fca4d32d1956d7
-SHA1: adc3f96aa243b3ee79f96d3c8a180d926390f3cf
-SHA256: e2518b70ffc2652df112806960260d4ac8e23e92ac1d9da0762545e5bd621871
+Size: 6028
+MD5sum: f9715173e98a5f38b84784a3adc25294
+SHA1: 929f9db5185db58584dbb91d86be2987f388a3d3
+SHA256: da7989182dcf22ea60cc6c4945c2fe85cedf051a14b2c1b2fcf9977dcc3af4fe
 Section: 应用破解
-Description: 微博简广Tweak（屏蔽开屏广告、图片/GIF/视频广告，启动页瞬间隐藏，遍历所有UIWindow移除残留广告和启动页）安装插件后，建议先清理一下缓存！群友ylr制作投稿。
+Description: 微博屏蔽开屏广告、图片/GIF/视频广告，启动页瞬间隐藏，安装插件后，建议先清理一下缓存！群友ylr制作投稿。
 Author: ylr <ylr275536387>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/wbsplashadkill.png
 Name: WBsplashadkill(rootless)
