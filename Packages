@@ -3420,6 +3420,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: VolumeManager(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/volumemanager/js.json
 
+Package: com.sini.wbadkiller
+Version: 1.5.5-1
+Architecture: iphoneos-arm64
+Maintainer: ylr <ylr275536387>
+Installed-Size: 152
+Depends: mobilesubstrate,firmware (>= 14.0)
+Filename: rootless/com.sini.wbadkiller_1.5.5-1_iphoneos-arm64.deb
+Size: 13132
+MD5sum: 230582eb844a980217216d9fcd57ab6a
+SHA1: 60a2f7d43351e2f200e31bed080c2d33d49f0402
+SHA256: a897b6bc2b538b777c608fb7abb02ac738ef504c324f4f5656e6e48271356c51
+Section: 应用破解
+Description: 微博去开屏广告且秒进主页，首页小方块浮窗广告无，首页底栏透明
+Author: ylr <ylr275536387>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wbadkiller.png
+Name: WBAdKiller(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/wbadkiller/js.json
+
 Package: com.sini.wbsplashadkill
 Version: 1.5.5
 Architecture: iphoneos-arm64
