@@ -3438,24 +3438,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/wbadkiller.png
 Name: WBAdKiller(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wbadkiller/js.json
 
-Package: com.sini.wbsplashadkill
-Version: 1.5.5
-Architecture: iphoneos-arm64
-Maintainer: ylr <ylr275536387>
-Installed-Size: 168
-Depends: mobilesubstrate,firmware (>= 14.0)
-Filename: rootless/com.sini.wbsplashadkill_1.5.5_iphoneos-arm64.deb
-Size: 6028
-MD5sum: f9715173e98a5f38b84784a3adc25294
-SHA1: 929f9db5185db58584dbb91d86be2987f388a3d3
-SHA256: da7989182dcf22ea60cc6c4945c2fe85cedf051a14b2c1b2fcf9977dcc3af4fe
-Section: 应用破解
-Description: 微博屏蔽开屏广告、图片/GIF/视频广告，启动页瞬间隐藏，安装插件后，建议先清理一下缓存！群友ylr制作投稿。
-Author: ylr <ylr275536387>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/wbsplashadkill.png
-Name: WBsplashadkill(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/wbsplashadkill/js.json
-
 Package: com.sini.wcdisablehotupdates
 Version: 1.1-2
 Architecture: iphoneos-arm64
@@ -3759,23 +3741,23 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/zetsu.png
 Name: Zetsu(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zetsu/js.json
 
-Package: com.sini.zhadkill
-Version: 1.5.5
+Package: com.sini.zhihuadkiller
+Version: 1.5.5-1
 Architecture: iphoneos-arm64
 Maintainer: ylr <ylr275536387>
-Installed-Size: 152
+Installed-Size: 168
 Depends: mobilesubstrate,firmware (>= 14.0)
-Filename: rootless/com.sini.zhadkill_1.5.5_iphoneos-arm64.deb
-Size: 5888
-MD5sum: 3e829a9b93057e92a04c3bf186198037
-SHA1: 1578821fbd796221a475175304811410d78b767a
-SHA256: 4ff3e09f145e3774a33ee083a44e218dbaead5dcd71aee657f9c6397ead11654
+Filename: rootless/com.sini.zhihuadkiller_1.5.5-1_iphoneos-arm64.deb
+Size: 12472
+MD5sum: 00faef1673e904b213801e908332f559
+SHA1: a34e478017ee564ceb7a0f5eeec75320b2997f02
+SHA256: 1149aad8aa38f0f4f3401de22f7cbc783aebaf26ecf93f7e31dc16b19ce7b0b3
 Section: 应用破解
-Description: 知乎去广告，群友ylr制作投稿
+Description: 知乎去开屏且秒进主页面，完美版底栏透明！
 Author: ylr <ylr275536387>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/zhadkill.png
-Name: 知乎去广告(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/zhadkill/js.json
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zhihuadkiller.png
+Name: ZhiHuadKiller(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/zhihuadkiller/js.json
 
 Package: com.sini921.appstoretroller
 Version: 0.1.2-4
