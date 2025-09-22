@@ -3634,6 +3634,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/xhshook.png
 Name: 小红薯(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/xhshook/js.json
 
+Package: com.sini.xianyuadkiller
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: ylr <ylr275536387>
+Installed-Size: 204
+Depends: mobilesubstrate,firmware (>= 14.0)
+Filename: rootless/com.sini.xianyuadkiller_1.5.5_iphoneos-arm64.deb
+Size: 16308
+MD5sum: a3ab606b08e67879c07d4a6517f7bab5
+SHA1: 8d3be418498e7ab7311aa1326ce4e10bb4264773
+SHA256: 41dc7e922fb72122a591330c1cf92f9471f5d6172fb45b72829e706e5df2bfee
+Section: 应用破解
+Description: 闲鱼首页、详情页底栏透明度自定义调节（在我的右上角），闲鱼启动广告通杀！且秒进主页面！
+Author: ylr <ylr275536387>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/xianyuadkiller.png
+Name: XianYuAdKiller(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/xianyuadkiller/js.json
+
 Package: com.sini.xiaoxiangadkill
 Version: 1.5.5
 Architecture: iphoneos-arm64
@@ -3651,24 +3669,6 @@ Author: ylr <ylr275536387>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/xiaoxiangadkill.png
 Name: 小象超市去广告(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/xiaoxiangadkill/js.json
-
-Package: com.sini.xysplashdkill
-Version: 1.5.5
-Architecture: iphoneos-arm64
-Maintainer: ylr <ylr275536387>
-Installed-Size: 152
-Depends: mobilesubstrate,firmware (>= 14.0)
-Filename: rootless/com.sini.xysplashdkill_1.5.5_iphoneos-arm64.deb
-Size: 3940
-MD5sum: fa6c43d77833c4eafdfff8e8b2a11d3b
-SHA1: e8d21ca80c30278a6f4ef9d20af3c4a75cf63cda
-SHA256: 1e5ad69489a6fbf6c53bf9a8d9d4639b30095ad0f6b5205d1a8750fd80f9f396
-Section: 应用破解
-Description: 讨厌启动广告跟摇一摇，所有ylr制作投稿
-Author: ylr <ylr275536387>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/xysplashdkill.png
-Name: 闲鱼去广告(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/xysplashdkill/js.json
 
 Package: com.sini.youtubereborn
 Version: 4.2.6-2
