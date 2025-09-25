@@ -3659,10 +3659,10 @@ Maintainer: ylr <ylr275536387>
 Installed-Size: 268
 Depends: mobilesubstrate,firmware (>= 14.0)
 Filename: rootless/com.sini.xianyuadkiller_1.5.5_iphoneos-arm64.deb
-Size: 40964
-MD5sum: 2bdb5d500eca0a023ff57fd3728db65e
-SHA1: 754f37a019f6b870589ad11c643c513a3a4c6381
-SHA256: 28c8ac40645d87c7962ef37f2c50f1c6a2e1288188c8a5308f42c836aeccaa91
+Size: 41812
+MD5sum: 7345da7a2faf595089b8f4a0d054abf6
+SHA1: 4dd0ce4154ab6698626dae137ea00cb7ebdb90b1
+SHA256: b8e87eacd73dfe95322e6048e48b9f62387bc6b11c931159debd5bf63f9a0045
 Section: 应用破解
 Description: 闲鱼首页、详情页底栏透明度自定义调节（在我的右上角），闲鱼启动广告通杀！且秒进主页面！
 Author: ylr <ylr275536387>
