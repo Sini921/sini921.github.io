@@ -3582,6 +3582,24 @@ Author: 小果子
 Icon: https://sini921.github.io/repo/sileodepiction/icon/weifeng.png
 Name: 威锋FuckVIP-Ads(rootless)
 
+Package: com.sini.wifimasterkeyadkiller
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: ylr <ylr638058@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate,firmware (>= 14.0)
+Filename: rootless/com.sini.wifimasterkeyadkiller_1.5.5_iphoneos-arm64.deb
+Size: 11176
+MD5sum: c5b5a3bc18fc9a39d39e88bb93527564
+SHA1: b8cd18f022645eb3aa0237803da8c4428576458b
+SHA256: 090dd8f025cf7bbbc67116f85112f384bd080eae74994aa2d42ea6db741117c3
+Section: 应用破解
+Description: 尝试hookwifi万能药师去开屏、首页、用户页以及列表页等烦人广告！
+Author: ylr <ylr638058@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wifimasterkeyadkiller.png
+Name: WiFi Master Key AdKiiler(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/wifimasterkeyadkiller/js.json
+
 Package: com.sini.wtvrbglauncher
 Version: 1.1
 Architecture: iphoneos-arm64
