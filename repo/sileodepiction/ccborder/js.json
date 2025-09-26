@@ -65,7 +65,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.2-16",
+                    "text": "1.1.2-17",
                     "title": "版本"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.2-17\n- 新增专辑图片圆角大小设置\n- 修复音乐暂停时专辑图消失的问题\n- 修复AirPlay按钮的原有点击行为",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
