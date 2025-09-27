@@ -3032,24 +3032,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: StoreSwitcher(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/storeswitcher2/js.json
 
-Package: com.sini.sutuplus.releasefugu15
-Version: 5.9.9-4-1
-Architecture: iphoneos-arm64
-Maintainer: Carby <super.cat.sutuplus@gmail.com>
-Installed-Size: 1780
-Depends: mobilesubstrate
-Filename: rootless/com.sini.sutuplus.releasefugu15_5.9.9-4-1_iphoneos-arm64.deb
-Size: 516736
-MD5sum: c51d53f963cb1f820cc7765c44399201
-SHA1: 64fc196b0f2c4a1ce0808d92d1a1a9f3c5535be8
-SHA256: 5b02e60eabb6d67000c1461b610fd869ec26ffb1a7f3b0cf890b8359a5c9040a
-Section: 微信插件
-Description: 微信主题美化，主题需付费
-Author: 公众号：苏兔（bysutu） <super.cat.sutuplus@gmail.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sutuplus.releasefugu15.png
-Name: 酸果(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/sutuplus.releasefugu15/js.json
-
 Package: com.sini.swipeextenderx
 Version: 1.6.1~2
 Architecture: iphoneos-arm64
@@ -3778,16 +3760,16 @@ Name: ZhiHuadKiller(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zhihuadkiller/js.json
 
 Package: com.sini921.appstoretroller
-Version: 0.1.2-4
+Version: 0.1.2-5
 Architecture: iphoneos-arm64
 Maintainer: Mineek & Nathan & SINI
 Installed-Size: 568
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.appstoretroller_0.1.2-4_iphoneos-arm64.deb
-Size: 46398
-MD5sum: 9a8b1c85b7ef09edd6da936f9fa30714
-SHA1: 46ed99fcb6f009501fac266c5f3fb5dc19808df7
-SHA256: cd6cedd88af4f6e39bbf18779fdf13318e3dc72e8e6a72a10acdd83e833ab823
+Filename: rootless/com.sini921.appstoretroller_0.1.2-5_iphoneos-arm64.deb
+Size: 46268
+MD5sum: b76859e824d5fe28c5fe8696cd737068
+SHA1: 37d7504adb79d0f22a800f04e53a2f2297520f31
+SHA256: 5487ec1b7e551337695f36fe24c0cd180d238a6704bc1163550b2540f359e879
 Section: 越狱插件
 Description: 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用，入库了以后可以安装兼容你系统的版本(如果有的话)，基于开源汉化编译
 Author: Mineek & Nathan & SINI
@@ -5031,16 +5013,16 @@ Name: Yuki(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/yuki/js.json
 
 Package: com.sini921.appstoretroller
-Version: 0.1.2-4
+Version: 0.1.2-5
 Architecture: iphoneos-arm64e
 Maintainer: Mineek & Nathan & SINI
 Installed-Size: 568
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.appstoretroller_0.1.2-4_iphoneos-arm64e.deb
-Size: 44222
-MD5sum: 741caa124c0ed4daafb54f71778070a2
-SHA1: cc59d848b52dfa848907fe95ab8b7a7e77146c8a
-SHA256: 9845f14d988dee1757cdfc127b8f5cf58ff6da898cc1100edb4477614882cea7
+Filename: roothide/com.sini921.appstoretroller_0.1.2-5_iphoneos-arm64e.deb
+Size: 44024
+MD5sum: 8a3ed1e1a89cc149ffd5b8a30a699e20
+SHA1: cc41affc7f02f32de26a4fa90cd99ea8b66cacfd
+SHA256: 1588198fda0dfd47bfe554fe20ee91d25c7a9f6168794c86f9e2916b7ad6e4ff
 Section: 越狱插件
 Description: 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用，入库了以后可以安装兼容你系统的版本(如果有的话)，基于开源汉化编译
 Author: Mineek & Nathan & SINI
