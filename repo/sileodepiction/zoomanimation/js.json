@@ -41,12 +41,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0.1-11",
+                    "text": "0.0.1-12",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年10月01日",
+                    "text": "2025年10月02日",
                     "title": "更新日期"
                 },
                 {
@@ -65,6 +65,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.0.1-12\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"

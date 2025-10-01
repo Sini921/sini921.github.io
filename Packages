@@ -3796,17 +3796,17 @@ Name: Atria(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/atria/js.json
 
 Package: com.sini921.batterybuddy
-Version: 1.3.5-11
+Version: 1.3.5-12
 Architecture: iphoneos-arm64
 Maintainer: Traurige & neilsardesai & SINI
-Installed-Size: 688
+Installed-Size: 704
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: love.litten.batterybuddy
-Filename: rootless/com.sini921.batterybuddy_1.3.5-11_iphoneos-arm64.deb
-Size: 246624
-MD5sum: 5f02e8297c0e4271fd039021dff493ab
-SHA1: e9ed43ef5402bdc40682c8addecd53ed0e41b880
-SHA256: b0d1aec6869e2d296d2fc62464e60bb46694039466598c2c51281bb13624d5dd
+Filename: rootless/com.sini921.batterybuddy_1.3.5-12_iphoneos-arm64.deb
+Size: 248638
+MD5sum: b340b7afc02b1fbe3b95f5da10650dd9
+SHA1: 70877924fafebfe0e66dd3af8c9fd683bcc20ae8
+SHA256: 1d6ddf3320cd0d533a79ea822f0239102d063d8bc0bdc69ce4d86b355f5343b6
 Section: 越狱插件
 Description: 一个可爱的电池，基于开源修改编译。新增自定义颜色。
 Author: Traurige & neilsardesai & SINI
@@ -4301,16 +4301,16 @@ Name: snapper3中文图标(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zhforsnapper3/js.json
 
 Package: com.sini921.zoomanimation
-Version: 0.0.1-11
+Version: 0.0.1-12
 Architecture: iphoneos-arm64
 Maintainer: SINI
 Installed-Size: 396
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.zoomanimation_0.0.1-11_iphoneos-arm64.deb
-Size: 33254
-MD5sum: 335b89edb168846c6b2d93be894fbf1c
-SHA1: 75c6ee14151eaeb9fb6af3aac045966ce6aaeb00
-SHA256: efce79d1c25d75cd70f4e67101f75a572fa8b2225882ae2f55e704a7f1b857d4
+Filename: rootless/com.sini921.zoomanimation_0.0.1-12_iphoneos-arm64.deb
+Size: 32978
+MD5sum: bcd8566e32bfd4ea67e293f745f3f4ef
+SHA1: 2bbda2908873fea5af3be9b82df2d34bd118a020
+SHA256: d84566b6b8fe668fa8f0ded69eec3a6b2542af4afbd06501e600593a06238965
 Section: 越狱插件
 Description: 桌面动画，可选动画样式，调节动画幅度。
 Author: SINI
@@ -5049,17 +5049,17 @@ Name: Atria(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/atria/js.json
 
 Package: com.sini921.batterybuddy
-Version: 1.3.5-11
+Version: 1.3.5-12
 Architecture: iphoneos-arm64e
 Maintainer: Traurige & neilsardesai & SINI
-Installed-Size: 656
+Installed-Size: 688
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Conflicts: love.litten.batterybuddy
-Filename: roothide/com.sini921.batterybuddy_1.3.5-11_iphoneos-arm64e.deb
-Size: 243588
-MD5sum: 3947a3af7b05e0b9070a3b5b7ceb5f9f
-SHA1: 7e5a1818cd02a60754b778431cd3696e8d5d0610
-SHA256: 0b32d59e2453ff829b8c6756d60589b0c62f4d0f2ee744391384730eece285ce
+Filename: roothide/com.sini921.batterybuddy_1.3.5-12_iphoneos-arm64e.deb
+Size: 246508
+MD5sum: 9a98d159a65aadaf6db3380f71b0ce0f
+SHA1: 81efc85732fa0e5b6272055400934b0399407eba
+SHA256: 35551de5aef7b2780842ef8e7392bc7e9b0267db9042833c1d972c52fb423ca4
 Section: 越狱插件
 Description: 一个可爱的电池，基于开源修改编译。新增自定义颜色。
 Author: Traurige & neilsardesai & SINI
@@ -5356,16 +5356,16 @@ Name: QuickPowerButton(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickpowerbutton/js.json
 
 Package: com.sini921.zoomanimation
-Version: 0.0.1-11
+Version: 0.0.1-12
 Architecture: iphoneos-arm64e
 Maintainer: SINI
 Installed-Size: 396
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.zoomanimation_0.0.1-11_iphoneos-arm64e.deb
-Size: 32178
-MD5sum: ef7025fa94f52c5d270c76e3ddb12bd5
-SHA1: 457d536933ec0ac97b6294b1c00412d5fd229389
-SHA256: 0aa302396ea5b73c261b05d96ea2d25ac74e0ab9b076e207d1f96a5ff9e04927
+Filename: roothide/com.sini921.zoomanimation_0.0.1-12_iphoneos-arm64e.deb
+Size: 32144
+MD5sum: 1b15701870270a4d882d867a2059b734
+SHA1: 370cf2985397f1b270c8baee2fc617e3161824de
+SHA256: 39b885971f30b45a222ba89757d1dafce71fb23690d001ea7b0d4eb232fb2bd1
 Section: 越狱插件
 Description: 桌面动画，可选动画样式，调节动画幅度。
 Author: SINI
