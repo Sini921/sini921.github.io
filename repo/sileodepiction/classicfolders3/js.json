@@ -94,7 +94,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 3.0.6-11\n- 启用禁用图标飞入功能后，同时为首次解锁进入桌面时启用模糊效果\n- 新增导出配置、导入配置、重置设置功能",
+                    "markdown": "#### 版本: 3.0.6-11\n- 启用禁用图标飞入功能后，同时为首次解锁进入桌面时启用模糊效果\n- 调整默认展开高度为取决首页\n- 新增导出配置、导入配置、重置设置功能",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
