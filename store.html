@@ -223,6 +223,90 @@
         color: #bbb;
       }
     }
+
+    .popup-overlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0,0,0,0.5);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 9999;
+        opacity: 0;
+        pointer-events: none;
+        transition: opacity 0.3s ease;
+    }
+
+    .popup-overlay.show {
+        opacity: 1;
+        pointer-events: auto;
+    }
+
+    .popup {
+        background: #fff;
+        padding: 20px;
+        border-radius: 12px;
+        text-align: center;
+        width: 260px;
+        box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+        transform: translateY(-150vh);
+        opacity: 0;
+        transition: transform 0.5s ease, opacity 0.5s ease;
+    }
+
+    .popup-overlay.show .popup {
+        transform: translateY(0);
+        opacity: 1;
+    }
+
+    .popup h3 {
+        margin: 0 0 15px;
+        font-size: 16px;
+        color: #333;
+    }
+
+    .popup button {
+        margin: 10px 5px 0 5px;
+        padding: 8px 18px;
+        border: none;
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 14px;
+        transition: all 0.2s ease;
+    }
+
+    .popup button.sileo {
+        background-color: #4da7ac;
+        color: white;
+    }
+
+    .popup button.sileo:hover {
+        background-color: #3b8b88;
+    }
+
+    .popup button.saily {
+        background-color: #4974e1;
+        color: white;
+    }
+
+    .popup button.saily:hover {
+        background-color: #c73a2a;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        .popup {
+            background: #1e1e1e;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.7);
+        }
+
+    .popup h3 {
+        color: #ddd;
+    }
+}
+
   </style>
 </head>
 <body>
@@ -248,6 +332,13 @@
     </div>
     <div class="carousel-dots"></div>
   </div>
+<div class="popup-overlay" id="popupOverlay">
+  <div class="popup">
+    <h3>你想前往哪里？</h3>
+    <button class="sileo" id="sileoBtn">前往 Sileo</button>
+    <button class="saily" id="sailyBtn">前往 Saily</button>
+  </div>
+</div>
 
   <header>
     <h2>季伯之家源 - 插件商店</h2>
@@ -416,6 +507,31 @@ track.appendChild(firstClone);
         renderList();
       });
     });
+
+  const popupOverlay = document.getElementById('popupOverlay');
+  const sileoBtn = document.getElementById('sileoBtn');
+  const sailyBtn = document.getElementById('sailyBtn');
+
+  slides.forEach((img) => {
+    img.style.cursor = 'pointer';
+    img.addEventListener('click', () => {
+      popupOverlay.classList.add('show');
+    });
+  });
+
+  sileoBtn.addEventListener('click', () => {
+    window.open("sileo://source/https://sini921.github.io", "_blank");
+    popupOverlay.classList.remove('show');
+  });
+
+  sailyBtn.addEventListener('click', () => {
+    window.open("apt-repo://https://sini921.github.io", "_blank");
+    popupOverlay.classList.remove('show');
+  });
+
+  popupOverlay.addEventListener('click', (e) => {
+    if (e.target === popupOverlay) popupOverlay.classList.remove('show');
+  });
   </script>
 </body>
 </html>
