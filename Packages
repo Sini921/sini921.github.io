@@ -4120,6 +4120,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/notificationsgroupcount
 Name: NotificationsGroupCount(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/notificationsgroupcount/js.json
 
+Package: com.sini921.ntonia2forsnapper3
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: sini921
+Depends: mobilesubstrate, firmware (>= 15.0)
+Replaces: com.lclrc.hammerit, com.jontelang.snapper3, com.sini.bigshot, byg.iosios.net.bigshotsnapper3plugin, com.dao.bigshotsnapper3plugin, com.sini.snapper3, byg.iosios.net.snapper3
+Filename: rootless/com.sini921.ntonia2forsnapper3_1.0.4_iphoneos-arm64.deb
+Size: 521412
+MD5sum: dff66a6736d19645a8a1d939d0cae56c
+SHA1: 39c28cc74dc1edff29ae293854b9aa13794e2fa1
+SHA256: e133c25d2a53dff5e74daca32cc7613fb70dee05f95a4ccb33911e5972b432cd
+Section: 美化插件
+Description: Ntonia自用snapper3美化分享
+Author: Ntonia
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sn3.png
+Name: Ntoniaforsnapper3(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ntonia2forsnapper3/js.json
+
 Package: com.sini921.ntoniaforsnapper3
 Version: 1.0.4
 Architecture: iphoneos-arm64
