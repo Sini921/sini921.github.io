@@ -3996,16 +3996,16 @@ Name: Ersatz(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ersatz/js.json
 
 Package: com.sini921.fakesignalbar
-Version: 0.1-4
+Version: 0.1-5
 Architecture: iphoneos-arm64
 Maintainer: alias20
-Installed-Size: 388
+Installed-Size: 404
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: rootless/com.sini921.fakesignalbar_0.1-4_iphoneos-arm64.deb
-Size: 23938
-MD5sum: d3a83ea7ebf5fa325b247ba4f559d7d9
-SHA1: 1fb4fb1564b9af17412ca3476ebb4f2c984218a9
-SHA256: 7b61f540bde24b5660dd14f3ec3e69091e767383d5e87c6bfda2fe269ab63361
+Filename: rootless/com.sini921.fakesignalbar_0.1-5_iphoneos-arm64.deb
+Size: 24976
+MD5sum: 3b4eb7be7108254ed63f15e5ff7322d1
+SHA1: b70cb9dda975c768440ad7ebbddc9128fc69fb4f
+SHA256: 0fded09c4455c02c886b8acc539782728f5495e928cd78b3d9d1f9d465c32a95
 Section: 越狱插件
 Description: 自定义运营商名称、信号强度、蜂窝连接等等！基于开源汉化编译。
 Author: alias20 & SINI
@@ -5213,16 +5213,16 @@ Name: Ersatz(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ersatz/js.json
 
 Package: com.sini921.fakesignalbar
-Version: 0.1-4
+Version: 0.1-5
 Architecture: iphoneos-arm64e
 Maintainer: alias20
-Installed-Size: 372
+Installed-Size: 404
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: roothide/com.sini921.fakesignalbar_0.1-4_iphoneos-arm64e.deb
-Size: 21516
-MD5sum: 074d5dfe7f8d1fef3e9869214ddaa986
-SHA1: 93f3b6243edc73e35a89e963569dddc81dcd0491
-SHA256: e1cfdd338ed41464dde94e931da7ec1c977c088b5f2202e91c0843b715b4fdd5
+Filename: roothide/com.sini921.fakesignalbar_0.1-5_iphoneos-arm64e.deb
+Size: 23912
+MD5sum: bc270e97944fcc8d89c774a8d72b3d24
+SHA1: 05dce6e253ec7bee904ec1e7d2253714f1f5ffd2
+SHA256: 0e699489a2cc151b3838faa2d7ec238996565f428b1073d5444707722f24aaf5
 Section: 越狱插件
 Description: 自定义运营商名称、信号强度、蜂窝连接等等！基于开源汉化编译。
 Author: alias20 & SINI
