@@ -1571,24 +1571,6 @@ Author: x✨
 Icon: https://sini921.github.io/repo/sileodepiction/icon/gddt.png
 Name: 高德地图优化(rootless)
 
-Package: com.sini.gonggao
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 季伯腾
-Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
-Filename: rootless/com.sini.gonggao_1.0_iphoneos-arm64.deb
-Size: 1044
-MD5sum: 63a13d74db0ff5cfa3a4a2da5fc71745
-SHA1: f401104502e8cc30f9b6cb10aeb0d7622f12dc26
-SHA256: 30dc21b09b346ce321e2795c5f510c6a3bf2f0fdc2a6f3cf863069333ac62a66
-Section: 越狱插件
-Description: 本源仅为搬运一些自己常用的插件方便自己用以及学习交流测试备份！源内插件均来自互联网，安装以后请于24小时内删除！如果安装以后出现异常与本源无关！如有冒犯，请联系我指定下架某个插件！------------------------------------------------季伯奥迪哥
-Tag: cydia::commercial
-Author: 季伯腾
-Icon: https://sini921.github.io/repo/sileodepiction/icon/gonggao.png
-Name: - 季伯之家源公告
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/gonggao/js.json
-
 Package: com.sini.gridswitcher
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -4924,24 +4906,6 @@ Author: @bswbw
 Icon: https://sini921.github.io/repo/sileodepiction/icon/fixset.png
 Name: FixSet(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/fixset/js.json
-
-Package: com.sini.gonggao
-Version: 1.0
-Architecture: iphoneos-arm64e
-Maintainer: 季伯腾
-Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
-Filename: roothide/com.sini.gonggao_1.0_iphoneos-arm64e.deb
-Size: 1052
-MD5sum: 5cad6ed811d0207b1574ba4d2aaac028
-SHA1: 40216ed6fa6e971265e669d26634ec3f7cf7c894
-SHA256: 2a4f87433af78cf57ad2f9c082d3fbcc7b59564c6e22d37ef2d137f48ba37d8c
-Section: 越狱插件
-Description: 本源仅为搬运一些自己常用的插件方便自己用以及学习交流测试备份！源内插件均来自互联网，安装以后请于24小时内删除！如果安装以后出现异常与本源无关！如有冒犯，请联系我指定下架某个插件！------------------------------------------------季伯奥迪哥
-Tag: cydia::commercial
-Author: 季伯腾
-Icon: https://sini921.github.io/repo/sileodepiction/icon/gonggao.png
-Name: - 季伯之家源公告
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/gonggao/js.json
 
 Package: com.sini.kayoko
 Version: 2.9
