@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0.1-19",
+                    "text": "0.0.1-20",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年09月14日",
+                    "text": "2025年10月06日",
                     "title": "更新日期"
                 },
                 {
@@ -94,7 +94,15 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 0.0.1-19\n- 文本颜色同步相机手电筒图标颜色",
+                    "markdown": "#### 版本: 0.0.1-20\n- 新增自定义按钮中的标题与副标题文本颜色的功能",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.0.1-19\n- 按钮中的标题与副标题文本颜色同步相机手电筒图标颜色",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
