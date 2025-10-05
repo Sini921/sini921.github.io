@@ -682,6 +682,24 @@ Author: lenglengyu
 Icon: https://sini921.github.io/repo/sileodepiction/icon/bdwp.png
 Name: 百度网盘缓存文件导出(rootless)
 
+Package: com.sini.baiduwangpanadkiller
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: ylr <ylr638058@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate,firmware (>= 14.0)
+Filename: rootless/com.sini.baiduwangpanadkiller_1.5.5_iphoneos-arm64.deb
+Size: 7620
+MD5sum: b3770fc832bf39e33d8e0435f786fbde
+SHA1: 6545c8ed827380b4b6c574a9d683d294830b87ea
+SHA256: 82a5be03ab2bcb75a504429ea3d6ed321a5d7c12aad55e45e25bd8d1a981f4a4
+Section: 应用破解
+Description: 百度网盘去开屏及摇一摇跳转且秒进主页面，点击启动黑屏是百度原生设定。群友ylr制作投稿，感谢发电！
+Author: ylr <ylr638058@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/baiduwangpanadkiller.png
+Name: BaiDuWangPanAdKiller(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/baiduwangpanadkiller/js.json
+
 Package: com.sini.bdtbnoad
 Version: 1.5.5
 Architecture: iphoneos-arm64
