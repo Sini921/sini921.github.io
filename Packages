@@ -1377,19 +1377,19 @@ Name: EasyNotifications(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/easynotifications/js.json
 
 Package: com.sini.enhance
-Version: 1.5-6
+Version: 1.6-3
 Architecture: iphoneos-arm64
-Maintainer: 愫 茶
-Installed-Size: 2620
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.enhance_1.5-6_iphoneos-arm64.deb
-Size: 549888
-MD5sum: fff6171f4673474508e129e87786b44f
-SHA1: 722b07246a654688cfa0e33d3f4162745b1e6fb7
-SHA256: 5b57a6aa31debf69daf7dd154ff14278370095cb84da61461232c6ac5602a322
+Maintainer: 茶 愫
+Installed-Size: 1196
+Depends: mobilesubstrate
+Filename: rootless/com.sini.enhance_1.6-3_iphoneos-arm64.deb
+Size: 309780
+MD5sum: b6dddc4459c0e3596ddb09e84a5a6f72
+SHA1: 7b58c81f36642ca0d93a7c3741c8d6bb8ead31f7
+SHA256: d8855268eaf4a5edb850d06aac376245488d13a5fd0b96dbde72d66e5bed786c
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
-Author: 愫 茶
+Author: 茶 愫
 Icon: https://sini921.github.io/repo/sileodepiction/icon/enhance.png
 Name: WeChatEnhance(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/enhance/js.json
