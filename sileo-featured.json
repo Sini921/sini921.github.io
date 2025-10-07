@@ -34,6 +34,12 @@
             "hideShadow": true
         },
         {
+            "url": "http://sini921.github.io/repo/images/classicfolders3.png",
+            "title": "ClassicFolders3",
+            "package":"com.sini921.classicfolders3",
+            "hideShadow": true
+        },
+        {
             "url": "http://sini921.github.io/repo/images/atria.png",
             "title": "Atria",
             "package":"com.sini921.atria",
@@ -70,6 +76,12 @@
             "hideShadow": true
         },
         {
+            "url": "http://sini921.github.io/repo/images/quickappskill.png",
+            "title": "QuickAppsKill",
+            "package":"com.sini921.quickappskill",
+            "hideShadow": true
+        },
+        {
             "url": "http://sini921.github.io/repo/images/morecomplications.png",
             "title": "MoreComplications",
             "package":"com.sini921.morecomplications",
@@ -91,12 +103,6 @@
             "url": "http://sini921.github.io/repo/images/cozybadges.png",
             "title": "CozyBadges",
             "package":"com.sini921.cozybadges",
-            "hideShadow": true
-        },
-        {
-            "url": "http://sini921.github.io/repo/images/classicfolders3.png",
-            "title": "ClassicFolders3",
-            "package":"com.sini921.classicfolders3",
             "hideShadow": true
         },
         {

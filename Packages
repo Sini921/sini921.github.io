@@ -4192,6 +4192,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/quickactions.png
 Name: QuickActions(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickactions/js.json
 
+Package: com.sini921.quickappskill
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 460
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini921.quickappskill_0.0.1-1_iphoneos-arm64.deb
+Size: 41696
+MD5sum: 1ae6baf3530e01fa52706a59de402e08
+SHA1: 64b81f5115df73975fbe0b4e2438acdd2766abcf
+SHA256: 454bb7c53c20bafaa48936351961e57f4eae0ba2fb3421b2ee31fcf98fc97399
+Section: 越狱插件
+Description: 在后台界面添加一个清除所有App的按钮
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/quickappskill.png
+Name: QuickAppsKill(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickappskill/js.json
+
 Package: com.sini921.quickpowerbutton
 Version: 0.0.1-20
 Architecture: iphoneos-arm64
@@ -5336,6 +5354,24 @@ Author: Cameron Katri & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/quickactions.png
 Name: QuickActions(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickactions/js.json
+
+Package: com.sini921.quickappskill
+Version: 0.0.1-1
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 460
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/com.sini921.quickappskill_0.0.1-1_iphoneos-arm64e.deb
+Size: 40790
+MD5sum: 4ec51240ce81f266288fed37c755b92e
+SHA1: 6ce557bcc8dc9a6a2ef1e491571d4aba3a065552
+SHA256: bb4669add064241c966b236f33916ecc6422c9c3d05279c4c93671c2d13275ec
+Section: 越狱插件
+Description: 在后台界面添加一个清除所有App的按钮
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/quickappskill.png
+Name: QuickAppsKill(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickappskill/js.json
 
 Package: com.sini921.quickpowerbutton
 Version: 0.0.1-20
