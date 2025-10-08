@@ -4193,16 +4193,16 @@ Name: QuickActions(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickactions/js.json
 
 Package: com.sini921.quickappskill
-Version: 0.0.1-2
+Version: 0.0.1-3
 Architecture: iphoneos-arm64
 Maintainer: SINI
 Installed-Size: 464
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.quickappskill_0.0.1-2_iphoneos-arm64.deb
-Size: 43696
-MD5sum: 10b8fb5a8176a1b333ac126fc99fce94
-SHA1: 9894019e6e143e99e54d289137854f5688af7f1d
-SHA256: 7bf49fa1db715af1bfd10bcb7e81968be6d17d42b0219f9f4f8dbf1dc1a2188a
+Filename: rootless/com.sini921.quickappskill_0.0.1-3_iphoneos-arm64.deb
+Size: 43710
+MD5sum: 3f30a915317354260378ac4fbf985467
+SHA1: e7a85b93a7d149d7609d4d2b6fa76413e072ed4e
+SHA256: 522e9fe2cbae4f2bd6b104c24081a1118c8cc76e9c31e05856d10e3f152d3112
 Section: 越狱插件
 Description: 在后台界面添加一个清除所有App的按钮
 Author: SINI
@@ -5356,16 +5356,16 @@ Name: QuickActions(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickactions/js.json
 
 Package: com.sini921.quickappskill
-Version: 0.0.1-2
+Version: 0.0.1-3
 Architecture: iphoneos-arm64e
 Maintainer: SINI
 Installed-Size: 464
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.quickappskill_0.0.1-2_iphoneos-arm64e.deb
-Size: 42778
-MD5sum: 684c6eec38153ca14503a238779591d1
-SHA1: 1715492e07d3a6ed239c67cbe9a8fc976012548a
-SHA256: bb0db642f7607cca649588a8002ad9023c2cc824bbdfd28233cbaa52aefe569e
+Filename: roothide/com.sini921.quickappskill_0.0.1-3_iphoneos-arm64e.deb
+Size: 42994
+MD5sum: 6bed8950ea1eca36e408d8e46e8d185f
+SHA1: bf6422b0ea86ffe99d0e0b1f79d9a4491ebc9983
+SHA256: ba01b17f15cc29ba4cb12435eb59c22c16bb81d250ffd565b14da42fdbcee0b8
 Section: 越狱插件
 Description: 在后台界面添加一个清除所有App的按钮
 Author: SINI
