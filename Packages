@@ -3741,6 +3741,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/zetsu.png
 Name: Zetsu(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zetsu/js.json
 
+Package: com.sini.zgydadkiller
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: ylr <ylr638058@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate,firmware (>= 14.0)
+Filename: rootless/com.sini.zgydadkiller_1.5.5_iphoneos-arm64.deb
+Size: 3540
+MD5sum: 40a8e876bc4e078513370aa5064837ff
+SHA1: 46b373b0fdbda3dd8a3767e38a8ab50d48c9fe2c
+SHA256: 934bb3d999973651a6edec544193bf27e983a59068a11c57eec0351eb8a1e81f
+Section: 应用破解
+Description: 中国移动版本11.1.0，简单去开屏，ylr制作投稿
+Author: ylr <ylr638058@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zgydadkiller.png
+Name: ZGYDAdKiller(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/zgydadkiller/js.json
+
 Package: com.sini.zhihuadkiller
 Version: 1.5.5-1
 Architecture: iphoneos-arm64
