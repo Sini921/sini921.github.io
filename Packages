@@ -3687,6 +3687,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/zetsu.png
 Name: Zetsu(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zetsu/js.json
 
+Package: com.sini.zgltadkiiler
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: ylr <ylr638058@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate,firmware (>= 14.0)
+Filename: rootless/com.sini.zgltadkiiler_1.5.5_iphoneos-arm64.deb
+Size: 3380
+MD5sum: adde7badd55331eefbf6c000e1adb46e
+SHA1: 0235d35f227184b79c95f83f1381b1433d14fd05
+SHA256: 9b023ce9d2029c9b4fe2aefdc9ebb2da57c2865f01258e1c6f7a2a468ecfb2ee
+Section: 应用破解
+Description: 中国联通去广告，ylr制作投稿
+Author: ylr <ylr638058@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zgltadkiiler.png
+Name: ZGLTAdKiller(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/zgltadkiiler/js.json
+
 Package: com.sini.zgydadkiller
 Version: 1.5.5
 Architecture: iphoneos-arm64
