@@ -3709,15 +3709,15 @@ Package: com.sini.zgydadkiller
 Version: 1.5.5
 Architecture: iphoneos-arm64
 Maintainer: ylr <ylr638058@gmail.com>
-Installed-Size: 168
+Installed-Size: 188
 Depends: mobilesubstrate,firmware (>= 14.0)
 Filename: rootless/com.sini.zgydadkiller_1.5.5_iphoneos-arm64.deb
-Size: 3540
-MD5sum: 40a8e876bc4e078513370aa5064837ff
-SHA1: 46b373b0fdbda3dd8a3767e38a8ab50d48c9fe2c
-SHA256: 934bb3d999973651a6edec544193bf27e983a59068a11c57eec0351eb8a1e81f
+Size: 14148
+MD5sum: 8ea33d5f8f090f7cc533f13de8f1927e
+SHA1: 3fe76e532d370220c2586f0c1bb736bd74de42a7
+SHA256: 0efa020a63c0c46fd4f7112f07a66be3eeb9297148ec4867d0ffab786e08728d
 Section: 应用破解
-Description: 中国移动版本11.1.0，简单去开屏，ylr制作投稿
+Description: 移动12.0.0默认去启动广告，底栏透明+去Ai按钮（五键变四键）、顶栏透明双指长按弹窗（同时勾选两个开关即全透明）
 Author: ylr <ylr638058@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/zgydadkiller.png
 Name: ZGYDAdKiller(rootless)
@@ -4139,16 +4139,16 @@ Name: Ntoniaforsnapper3(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ntoniaforsnapper3/js.json
 
 Package: com.sini921.pscamera
-Version: 0.0.1-1
+Version: 0.0.1-2
 Architecture: iphoneos-arm64
 Maintainer: PoomSmart & SINI
 Installed-Size: 472
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.pscamera_0.0.1-1_iphoneos-arm64.deb
-Size: 61646
-MD5sum: 49f1ed9226134eb2db20547d6df51446
-SHA1: bacceb7d676ec7358eeee7454e99eb11aee74140
-SHA256: 65960617a6cc6fb6d86f410683b33320203cd4bbe1345cdfc518c8f5b8e07183
+Filename: rootless/com.sini921.pscamera_0.0.1-2_iphoneos-arm64.deb
+Size: 61678
+MD5sum: 474ccd46eb45483a118e8afe21ddd792
+SHA1: 47fd669b6d4246c6f95f9c43f807c616b88dce91
+SHA256: c12b720980998bf2e7b8d8eb7f307dac7c8f5eebb4aa6b635ca87e8093211627
 Section: 越狱插件
 Description: 对PoomSmart大神的5个系统相机插件的代码进行了合并，避免我自己有时找不到某个插件的尴尬场景。
 Author: PoomSmart & SINI
@@ -5302,16 +5302,16 @@ Name: MoreComplications(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/morecomplications/js.json
 
 Package: com.sini921.pscamera
-Version: 0.0.1-1
+Version: 0.0.1-2
 Architecture: iphoneos-arm64e
 Maintainer: PoomSmart & SINI
 Installed-Size: 472
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.pscamera_0.0.1-1_iphoneos-arm64e.deb
-Size: 60614
-MD5sum: 9f7a1bcd4fe452242252bd4a21025adf
-SHA1: 9f794f1eb042155fc2a03e60c7a693dd84dafbc5
-SHA256: 3fba36c42c8c0e78d83045d640f659d868e30080d14e67b6b4b987492322e353
+Filename: roothide/com.sini921.pscamera_0.0.1-2_iphoneos-arm64e.deb
+Size: 60890
+MD5sum: 695dfb9e8ec44d64518dfba5bc55f541
+SHA1: 3d8d9f495423adc7b545c334cd9b465623afbe41
+SHA256: 41384b728b5d5ab973393b30985667259951b2d0a1a22da130e24e28130921b9
 Section: 越狱插件
 Description: 对PoomSmart大神的5个系统相机插件的代码进行了合并，避免我自己有时找不到某个插件的尴尬场景。
 Author: PoomSmart & SINI
