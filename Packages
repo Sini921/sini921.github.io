@@ -4138,6 +4138,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sn3.png
 Name: Ntoniaforsnapper3(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ntoniaforsnapper3/js.json
 
+Package: com.sini921.pscamera
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: PoomSmart & SINI
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini921.pscamera_0.0.1-1_iphoneos-arm64.deb
+Size: 61646
+MD5sum: 49f1ed9226134eb2db20547d6df51446
+SHA1: bacceb7d676ec7358eeee7454e99eb11aee74140
+SHA256: 65960617a6cc6fb6d86f410683b33320203cd4bbe1345cdfc518c8f5b8e07183
+Section: 越狱插件
+Description: 对PoomSmart大神的5个系统相机插件的代码进行了合并，避免我自己有时找不到某个插件的尴尬场景。
+Author: PoomSmart & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/pscamera.png
+Name: PSCamera(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/pscamera/js.json
+
 Package: com.sini921.qqavatarrotation
 Version: 1.1.0-1
 Architecture: iphoneos-arm64
@@ -5282,6 +5300,24 @@ Author: Skitty & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/morecomplications.png
 Name: MoreComplications(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/morecomplications/js.json
+
+Package: com.sini921.pscamera
+Version: 0.0.1-1
+Architecture: iphoneos-arm64e
+Maintainer: PoomSmart & SINI
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/com.sini921.pscamera_0.0.1-1_iphoneos-arm64e.deb
+Size: 60614
+MD5sum: 9f7a1bcd4fe452242252bd4a21025adf
+SHA1: 9f794f1eb042155fc2a03e60c7a693dd84dafbc5
+SHA256: 3fba36c42c8c0e78d83045d640f659d868e30080d14e67b6b4b987492322e353
+Section: 越狱插件
+Description: 对PoomSmart大神的5个系统相机插件的代码进行了合并，避免我自己有时找不到某个插件的尴尬场景。
+Author: PoomSmart & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/pscamera.png
+Name: PSCamera(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/pscamera/js.json
 
 Package: com.sini921.qqavatarrotation
 Version: 1.1.0-1
