@@ -296,24 +296,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/adsspee.png
 Name: VideoAdsSpeed(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/adsspee/js.json
 
-Package: com.sini.advertisement
-Version: 2.1
-Architecture: iphoneos-arm64
-Maintainer: 季伯之家
-Installed-Size: 1897
-Depends: mobilesubstrate (>= 0.9.6100), firmware (>= 14.0)
-Filename: rootless/com.sini.advertisement_2.1_iphoneos-arm64.deb
-Size: 204588
-MD5sum: 682063614a07ea7a650370abd1273395
-SHA1: 06e89ee45742e055f76cf9052ae86bf265fc10db
-SHA256: 27bf81514482792481c740201dde8ed212dd77a523694df4d5b4e04ff69ca1e2
-Section: 应用破解
-Description: 辣鸡季伯腾自己打包自用
-Author: 季伯腾
-Icon: https://sini921.github.io/repo/sileodepiction/icon/gg.png
-Name: 广告杀手(rootless)
-Sponsor: 季伯腾
-
 Package: com.sini.afhook.app
 Version: 3.5.0
 Architecture: iphoneos-arm64
