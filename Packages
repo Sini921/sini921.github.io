@@ -3705,24 +3705,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/zgltadkiiler.png
 Name: ZGLTAdKiller(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zgltadkiiler/js.json
 
-Package: com.sini.zgydadkiller
-Version: 1.5.5
-Architecture: iphoneos-arm64
-Maintainer: ylr <ylr638058@gmail.com>
-Installed-Size: 188
-Depends: mobilesubstrate,firmware (>= 14.0)
-Filename: rootless/com.sini.zgydadkiller_1.5.5_iphoneos-arm64.deb
-Size: 14148
-MD5sum: 8ea33d5f8f090f7cc533f13de8f1927e
-SHA1: 3fe76e532d370220c2586f0c1bb736bd74de42a7
-SHA256: 0efa020a63c0c46fd4f7112f07a66be3eeb9297148ec4867d0ffab786e08728d
-Section: 应用破解
-Description: 移动12.0.0默认去启动广告，底栏透明+去Ai按钮（五键变四键）、顶栏透明双指长按弹窗（同时勾选两个开关即全透明）
-Author: ylr <ylr638058@gmail.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/zgydadkiller.png
-Name: ZGYDAdKiller(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/zgydadkiller/js.json
-
 Package: com.sini.zhihuadkiller
 Version: 1.5.5-1
 Architecture: iphoneos-arm64
