@@ -157,15 +157,15 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/appindex.png
 Name: AppIndex(rootless)
 
 Package: com.sini.HBWechatHelper.ailun
-Version: 1.9.5
+Version: 1.9.6
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: rootless/com.sini.HBWechatHelper.ailun_1.9.5_iphoneos-arm64.deb
-Size: 12470956
-MD5sum: 45d0e53737323816ed820f83fc16027f
-SHA1: 9cd021df6410de67a47dfe11fe2eb5cdd4736f4c
-SHA256: 8a3a0739c1d67857c1f67e6372717e31c18a98c2ecd79aa7f40b300a2f7d557a
+Filename: rootless/com.sini.HBWechatHelper.ailun_1.9.6_iphoneos-arm64.deb
+Size: 12462624
+MD5sum: 478aa108494484bb79b789551dff47e2
+SHA1: 005a475ba1633af565a974b3ee03e4de3765cdb6
+SHA256: 3b55e871496d532a32dcfd1c7f25d4fce71130262be25c77daa0918f4e51c3da
 Section: 微信插件
 Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
 Author: HuangBai <QQ:1343309363@qq.com>
@@ -789,42 +789,6 @@ Author: iOSign
 Icon: https://sini921.github.io/repo/sileodepiction/icon/caiyun.png
 Name: 彩云天气破解(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/caiyun/js.json
-
-Package: com.sini.camelapsedplus
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: PoomSmart
-Installed-Size: 196
-Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
-Filename: rootless/com.sini.camelapsedplus_1.0.1_iphoneos-arm64.deb
-Size: 20020
-MD5sum: 1e78273cd378c8c949f673f9bc04ce94
-SHA1: 4f2e7410ee3938f3af38a4502e194ab98cc79a81
-SHA256: 134477f9681a13663c039be95ab3c67d3a2717079010d9d25df305a3a2c9137f
-Section: 越狱插件
-Description: 在 iOS 相机应用程序中录制视频时，录制时间增加亚秒
-Author: PoomSmart
-Icon: https://sini921.github.io/repo/sileodepiction/icon/camelapsedplus.png
-Name: CamElapsed+(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/camelapsedplus/js.json
-
-Package: com.sini.cameramodes
-Version: 1.2.2
-Architecture: iphoneos-arm64
-Maintainer: PoomSmart
-Installed-Size: 400
-Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
-Filename: rootless/com.sini.cameramodes_1.2.2_iphoneos-arm64.deb
-Size: 36436
-MD5sum: 6875549b215799ce2391b76ffa715166
-SHA1: 38cb6857ec8cb0e00a2305e0da1b6aa47c02afbc
-SHA256: 77e045c5f3c35edc2cc9702dcc996102b7d944881328dad5da3424f3502f4584
-Section: 越狱插件
-Description: 指定可用的相机模式。
-Author: PoomSmart
-Icon: https://sini921.github.io/repo/sileodepiction/icon/cameramodes.png
-Name: CameraModes(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/cameramodes/js.json
 
 Package: com.sini.cc26
 Version: 0.4.8b
@@ -2501,42 +2465,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: recorder-bubble(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/recorder-bubble/js.json
 
-Package: com.sini.recordntorch
-Version: 1.8.4
-Architecture: iphoneos-arm64
-Maintainer: PoomSmart
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 11.0), gsc.camera-flash
-Filename: rootless/com.sini.recordntorch_1.8.4_iphoneos-arm64.deb
-Size: 4440
-MD5sum: 023d9ec4519bd2da51efcfd8fa3a000a
-SHA1: a5476fdb26bd67c17f5e8bdec3c5a6b84a081fcf
-SHA256: 86c9a3eb299a396cda28755eef32b98575268bacf2d89c749a2b3f1d24439393
-Section: 越狱插件
-Description: 录制视频时切换 LED 手电筒。
-Author: PoomSmart
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: Record 'n' Torch(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/recordntorch/js.json
-
-Package: com.sini.recordpause
-Version: 2.0.7
-Architecture: iphoneos-arm64
-Maintainer: PoomSmart
-Installed-Size: 216
-Depends: mobilesubstrate, firmware (>= 9.0), firmware (<< 18.0)
-Filename: rootless/com.sini.recordpause_2.0.7_iphoneos-arm64.deb
-Size: 11872
-MD5sum: 45d98ac4e7bd202406460995d3b23331
-SHA1: a912f1116e035b2f7867fc13f5d2d3af02285105
-SHA256: 3042dc83975003553190ee0925d0853fe78a211248d58b511881207dbb5f9ef4
-Section: 越狱插件
-Description: 暂停/恢复iOS相机应用程序中的视频录制。
-Author: PoomSmart
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: RecordPause(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/recordpause/js.json
-
 Package: com.sini.replaced
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -3013,24 +2941,6 @@ Author: Kyle Howells
 Icon: https://sini921.github.io/repo/sileodepiction/icon/swipeselection.png
 Name: SwipeSelection(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/swipeselection/js.json
-
-Package: com.sini.tapvideoconfig
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: PoomSmart
-Installed-Size: 172
-Depends: mobilesubstrate, firmware (>= 13.0)
-Filename: rootless/com.sini.tapvideoconfig_1.0.3_iphoneos-arm64.deb
-Size: 8904
-MD5sum: 0f102513eaa80308075cc4a029162197
-SHA1: c5cc0844f63d0c8fff3a6d4bd3c21efca27e421c
-SHA256: 58c573fa5ac975f9c056e9ab3d6774acbb446b7f1d71e651c9746630797bc893
-Section: 越狱插件
-Description: 直接在iOS相机应用程序中更改视频配置。
-Author: PoomSmart
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: TapVideoConfig(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/tapvideoconfig/js.json
 
 Package: com.sini.tccrack
 Version: 1.0
