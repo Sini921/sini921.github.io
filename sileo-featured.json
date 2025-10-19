@@ -16,6 +16,12 @@
             "hideShadow": true
         },
         {
+            "url": "http://sini921.github.io/repo/images/folderpro.png",
+            "title": "FolderPro",
+            "package":"com.sini921.folderpro",
+            "hideShadow": true
+        },
+        {
             "url": "http://sini921.github.io/repo/images/indicators.png",
             "title": "Indicators",
             "package":"com.sini921.indicators",
