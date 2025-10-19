@@ -22,6 +22,12 @@
             "hideShadow": true
         },
         {
+            "url": "http://sini921.github.io/repo/images/donut.png",
+            "title": "Donut",
+            "package":"com.sini921.donut",
+            "hideShadow": true
+        },
+        {
             "url": "http://sini921.github.io/repo/images/indicators.png",
             "title": "Indicators",
             "package":"com.sini921.indicators",
