@@ -3796,6 +3796,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
 Name: CylinderReborn(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cylinderreborn/js.json
 
+Package: com.sini921.donut
+Version: 0.0.1-2
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 396
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini921.donut_0.0.1-2_iphoneos-arm64.deb
+Size: 36044
+MD5sum: b4e0abd4ea20e4b39d2b2ff4483723b5
+SHA1: 0671367a810dcf0684fbea5cb97962a4b37aa3f1
+SHA256: 57ac93c052a4d8b81503ce5edbe739f62035b5bf9c95b6bbea5c2386cd768da2
+Section: 越狱插件
+Description: 桌面图标通知角标变成空心小圆圈
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/donut.png
+Name: Donut(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/donut/js.json
+
 Package: com.sini921.dyyylite
 Version: 2.2-8-1759795766
 Architecture: iphoneos-arm64
@@ -5048,6 +5066,24 @@ Author: Ryan Nair & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
 Name: CylinderReborn(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cylinderreborn/js.json
+
+Package: com.sini921.donut
+Version: 0.0.1-2
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 396
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/com.sini921.donut_0.0.1-2_iphoneos-arm64e.deb
+Size: 34962
+MD5sum: 78e46731a1d44622f0a28128873e9fe5
+SHA1: ae74469675f6d32214657aa2e58f24f5b745318c
+SHA256: 2baf4a7581ade10c6a91f5fc500a7d6b4411f15f336c8412efb06e216b91ba17
+Section: 越狱插件
+Description: 桌面图标通知角标变成空心小圆圈
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/donut.png
+Name: Donut(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/donut/js.json
 
 Package: com.sini921.dyyylite
 Version: 2.2-8-1759795766
