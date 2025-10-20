@@ -214,7 +214,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 0.0.1-5\n- 用微信的话说：本次更新解决了一些已知问题\n- 用抖音的话说：我们优化了多项功能来提升你的使用体验，快来试试吧",
+                    "markdown": "#### 版本: 0.0.1-5\n- 这个源主很懒\n- 懒得写更新日志",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -222,7 +222,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 0.0.1-4\n- 更新了个寂寞~",
+                    "markdown": "#### 版本: 0.0.1-4\n- 这个源主很懒\n- 懒得写更新日志",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
