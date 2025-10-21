@@ -3526,6 +3526,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/xiaoxiangadkill.png
 Name: 小象超市去广告(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/xiaoxiangadkill/js.json
 
+Package: com.sini.ykhook
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: ylr
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: rootless/com.sini.ykhook_1.5.5_iphoneos-arm64.deb
+Size: 7804
+MD5sum: e4659263304f539aaa6c441bdfe85f9a
+SHA1: 1175eed2b39e5260ef8ef71a42d486adb0eeba01
+SHA256: 035bf2cc89195387d7a9f00cd6d6a06cdc41c59648ec23a24eb0a40469994795
+Section: 应用破解
+Description: 默认去开屏广告+尝试拒绝暂停播放变广告
+Author: ylr
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ykhook.png
+Name: YKHOOK(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ykhook/js.json
+
 Package: com.sini.youtubereborn
 Version: 4.2.6-2
 Architecture: iphoneos-arm64
