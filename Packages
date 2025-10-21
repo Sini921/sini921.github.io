@@ -420,6 +420,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: App Lecard(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/applecard/js.json
 
+Package: com.sini.aqyhook
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: ylr
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.aqyhook_1.5.5_iphoneos-arm64.deb
+Size: 5144
+MD5sum: 67e53d406a47f4c46e840981f0af3fb4
+SHA1: ca5d3e3a9e32ddeb8fe24e7ea8d3ccedebb5419d
+SHA256: 583bb2cf21f353bcb633df130ed7e7897cd7d84d4485b00f65c0cf997d73fbb7
+Section: 应用破解
+Description: 仅供学习交流，如有传播；使用者请在24小时内自觉删除。ylr制作投稿
+Author: ylr
+Icon: https://sini921.github.io/repo/sileodepiction/icon/aqyhook.png
+Name: AQYHook(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/aqyhook/js.json
+
 Package: com.sini.autofillfix
 Version: 0.1
 Architecture: iphoneos-arm64
