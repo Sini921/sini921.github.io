@@ -3187,6 +3187,24 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/tweaksett.png
 Name: TweakSettings(rootless)
 
+Package: com.sini.txhook
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: ylr
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.txhook_1.5.5_iphoneos-arm64.deb
+Size: 10400
+MD5sum: ebcbf1279815fd6acfb4e89048c8d9d6
+SHA1: 942940a1f24618ea977c396207301df793e0feaf
+SHA256: 7f7b9c09e199289e3efaeb65ebda4ae98bd7941c639d6abc4005e51778e090db
+Section: 应用破解
+Description: TXHook 去开屏广告，ylr制作投稿，感谢发电
+Author: ylr
+Icon: https://sini921.github.io/repo/sileodepiction/icon/txhook.png
+Name: TXHook(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/txhook/js.json
+
 Package: com.sini.velvet2
 Version: 2.2
 Architecture: iphoneos-arm64
