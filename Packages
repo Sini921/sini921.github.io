@@ -3546,16 +3546,16 @@ Name: 小象超市去广告(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/xiaoxiangadkill/js.json
 
 Package: com.sini.xxuegao
-Version: 1.1-5
+Version: 1.1-6
 Architecture: iphoneos-arm64
 Maintainer: xuegao
 Installed-Size: 3584
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.xxuegao_1.1-5_iphoneos-arm64.deb
-Size: 1578700
-MD5sum: a635b3b397607f082a3ce646891605b8
-SHA1: 2d33f2fa1f8c0e3ec45ad65be5013a1bbd2a011c
-SHA256: 1d3ebc102fd48006a45b2da880705518de16cd56291311084aa6db5645f6903e
+Filename: rootless/com.sini.xxuegao_1.1-6_iphoneos-arm64.deb
+Size: 2166404
+MD5sum: 319ddd974d16cfbeea1fd678aa93fbcb
+SHA1: b6e08f592b1e84db52f2befdb6bd9ab6220e21ec
+SHA256: f27b9625c76db6bc1591df2c12ff1f281806c8b16a9d949fb83a1b076e443b7c
 Section: 微信插件
 Description: 全局隐藏底部标签栏，朋友圈双击点赞等实用功能
 Author: xuegao
@@ -4995,16 +4995,16 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/yuyin.png
 Name: 语音转文字免跳转(roothide)
 
 Package: com.sini.xxuegao
-Version: 1.1-5
+Version: 1.1-6
 Architecture: iphoneos-arm64e
 Maintainer: xuegao
 Installed-Size: 3584
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini.xxuegao_1.1-5_iphoneos-arm64e.deb
-Size: 1617144
-MD5sum: 5a19736ee8bf6788e535af1ba76c8120
-SHA1: 0e825ee06537de312b3a5d347f40f731c85853ca
-SHA256: d7aa1f03dfc7387bad605d5fb7744be61cc4c97b70fd5322edec2a2a90ae5a2f
+Filename: roothide/com.sini.xxuegao_1.1-6_iphoneos-arm64e.deb
+Size: 2197252
+MD5sum: d5fe6719ade3fae988bb6539d0e5f801
+SHA1: 42b3c5a1c51e9d70df8806c741fa8cb1fdf84c17
+SHA256: e009908559ebe39fbcc9500e3c720403fe93d761743d5a22a8fcb083a303cb14
 Section: 微信插件
 Description: 全局隐藏底部标签栏，朋友圈双击点赞等实用功能
 Author: xuegao
