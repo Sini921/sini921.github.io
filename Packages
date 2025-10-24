@@ -3979,21 +3979,21 @@ Name: FreePIP(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
 
 Package: com.sini921.griddy
-Version: 1.0.5
+Version: 1.0.5-1
 Architecture: iphoneos-arm64
-Maintainer: mikifp
-Installed-Size: 204
+Maintainer: mikifp & SINI
+Installed-Size: 428
 Depends: mobilesubstrate
-Filename: rootless/com.sini921.griddy_1.0.5_iphoneos-arm64.deb
-Size: 19072
-MD5sum: 337eb46551160b7f1bf061fbfe1ed2c7
-SHA1: 270c5c42730b9fbadb58b289e9a1a10a36bc35f3
-SHA256: 494002cc48528e0e7fa0baec3149c823aa1434da2247f7a834ec3f8be9a4008d
+Filename: rootless/com.sini921.griddy_1.0.5-1_iphoneos-arm64.deb
+Size: 43580
+MD5sum: 5fcb2df522542c93b6132adb61cbdfa2
+SHA1: 9b6123b5fb986ecad61b985470dd5e432e219eed
+SHA256: 8c41fc3781a717d73af0c4e2903177bc47d357199fbda1d8be9927e4aee5515d
 Section: 越狱插件
-Description: 桌面图标随意摆
-Author: mikifp
+Description: 将桌面图标放在任何你想要的地方！
+Author: mikifp & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/griddy.png
-Name: Griddy(rootless)
+Name: Gridd(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/griddy/js.json
 
 Package: com.sini921.indicators
@@ -5266,6 +5266,24 @@ Author: Soh Satoh & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
 Name: FreePIP(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
+
+Package: com.sini921.griddy
+Version: 1.0.5-1
+Architecture: iphoneos-arm64e
+Maintainer: mikifp & SINI
+Installed-Size: 428
+Depends: mobilesubstrate
+Filename: roothide/com.sini921.griddy_1.0.5-1_iphoneos-arm64e.deb
+Size: 41908
+MD5sum: 9c412d15c2667ca50c3875eea706b29d
+SHA1: f4f224077db6ca05cd32625d071f38aec7186dd1
+SHA256: 77d2e7e9ea03e79e723fe98a1c466a0d62b4d9f7e0728c0aec295fd91a04b1b6
+Section: 越狱插件
+Description: 将桌面图标放在任何你想要的地方！
+Author: mikifp & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/griddy.png
+Name: Gridd(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/griddy/js.json
 
 Package: com.sini921.indicators
 Version: 1.2-17
