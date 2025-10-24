@@ -28,6 +28,12 @@
             "hideShadow": true
         },
         {
+            "url": "http://sini921.github.io/repo/images/quickappskill.png",
+            "title": "QuickAppsKill",
+            "package":"com.sini921.quickappskill",
+            "hideShadow": true
+        },
+        {
             "url": "http://sini921.github.io/repo/images/indicators.png",
             "title": "Indicators",
             "package":"com.sini921.indicators",
@@ -88,9 +94,9 @@
             "hideShadow": true
         },
         {
-            "url": "http://sini921.github.io/repo/images/quickappskill.png",
-            "title": "QuickAppsKill",
-            "package":"com.sini921.quickappskill",
+            "url": "http://sini921.github.io/repo/images/griddy.png",
+            "title": "Griddy",
+            "package":"com.sini921.griddy",
             "hideShadow": true
         },
         {
