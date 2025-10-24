@@ -3985,15 +3985,15 @@ Maintainer: mikifp & SINI
 Installed-Size: 428
 Depends: mobilesubstrate
 Filename: rootless/com.sini921.griddy_1.0.5-1_iphoneos-arm64.deb
-Size: 43580
-MD5sum: 5fcb2df522542c93b6132adb61cbdfa2
-SHA1: 9b6123b5fb986ecad61b985470dd5e432e219eed
-SHA256: 8c41fc3781a717d73af0c4e2903177bc47d357199fbda1d8be9927e4aee5515d
+Size: 43644
+MD5sum: ac228633c4105c7c1879e53866b57174
+SHA1: c3641af9bc4e3ea9190129ce640e4830cfb1aae9
+SHA256: 877935cc54405f7e6b0688e62dc719d406b19c6e144bbd463432fe61dccafd58
 Section: 越狱插件
 Description: 将桌面图标放在任何你想要的地方！
 Author: mikifp & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/griddy.png
-Name: Gridd(rootless)
+Name: Griddy(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/griddy/js.json
 
 Package: com.sini921.indicators
@@ -5274,15 +5274,15 @@ Maintainer: mikifp & SINI
 Installed-Size: 428
 Depends: mobilesubstrate
 Filename: roothide/com.sini921.griddy_1.0.5-1_iphoneos-arm64e.deb
-Size: 41908
-MD5sum: 9c412d15c2667ca50c3875eea706b29d
-SHA1: f4f224077db6ca05cd32625d071f38aec7186dd1
-SHA256: 77d2e7e9ea03e79e723fe98a1c466a0d62b4d9f7e0728c0aec295fd91a04b1b6
+Size: 42008
+MD5sum: 7fdc6806552fff707200b33c6347c417
+SHA1: 04ea6e3a20a80c3c12ccd1a09630f4715f786775
+SHA256: 5c8736893018ed2dd38687dd2abd73a3c88ada4b65666fb8500ce185b4c9978b
 Section: 越狱插件
 Description: 将桌面图标放在任何你想要的地方！
 Author: mikifp & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/griddy.png
-Name: Gridd(roothide)
+Name: Griddy(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/griddy/js.json
 
 Package: com.sini921.indicators
