@@ -225,15 +225,15 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/tg.png
 Name: Telegrammask(rootless)
 
 Package: com.sini.WCEhance
-Version: 1.2-2
+Version: 1.2-3
 Architecture: iphoneos-arm64
 Maintainer: Lxcloud
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.WCEhance_1.2-2_iphoneos-arm64.deb
-Size: 1730904
-MD5sum: 6348b585683b7ec9139cb0814ee732fd
-SHA1: 04a1cbb04f9e5a9bcf4232ba2dcde8b5af5ffaa4
-SHA256: b34cadeaf27f2090fbd70b0a57aa12ffdb269bc6187e232a11626055e52f704f
+Filename: rootless/com.sini.WCEhance_1.2-3_iphoneos-arm64.deb
+Size: 1769484
+MD5sum: 466c9626b38b3117fae8f3db241b2c47
+SHA1: 08b456af51f3b10b6640c9c767f528c9ae0af255
+SHA256: e6b342dfd8e5c2e514906365f88025a1cdebc0de763b8e8620bfc144e97be22f
 Section: 微信插件
 Priority: optional
 Description: 微信增强,用于优化一些反人类设计和增强功能。
@@ -3027,15 +3027,15 @@ Name: TGExtraFE(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/tgextra/js.json
 
 Package: com.sini.themebox
-Version: 2.1.7
+Version: 2.1.8
 Architecture: iphoneos-arm64
 Maintainer: WeChat
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.themebox_2.1.7_iphoneos-arm64.deb
-Size: 4767076
-MD5sum: e468c677f8dd116f3083d26c4f7e5df0
-SHA1: 1d3f011de976892251b00349d68434fd54c798e8
-SHA256: 4c859404adbf923b3590c9e4d823f68f6728ab2d48d18271e738104574a3f519
+Filename: rootless/com.sini.themebox_2.1.8_iphoneos-arm64.deb
+Size: 4782572
+MD5sum: c79d8a2552fe2c1430bc2220ed09ac65
+SHA1: 42497271ed2bc580d12c9f19dbda2d251c5d18a5
+SHA256: b892a24551c7d90a057522ad43aa88de4270d6ede0127a1669d19cee8d4719c3
 Section: 微信插件
 Description: 微信主题盒子
 Author: WeChat
@@ -4712,15 +4712,15 @@ Name: LibGcUniversal(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/libgcuniversal/js.json
 
 Package: com.sini.WCEhance
-Version: 1.2-2
+Version: 1.2-3
 Architecture: iphoneos-arm64e
 Maintainer: Lxcloud
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini.WCEhance_1.2-2_iphoneos-arm64e.deb
-Size: 1730664
-MD5sum: 72fa4675b3a61d172c27549297a4f67e
-SHA1: 659fe231173377548782f44ae86e859287927544
-SHA256: 2ae33893707b9c0247118fe1ed862038dfb4a36bf1f17e9214f4516c818a568b
+Filename: roothide/com.sini.WCEhance_1.2-3_iphoneos-arm64e.deb
+Size: 1770348
+MD5sum: 527756eb7fcdb7bc38d57bfb9bbc6e49
+SHA1: a97574bf9fdb9b0c3fef4639d273e2a247eccf33
+SHA256: c92187a0b8d014e68d3ae02384ef25844f8594452660bfe889e21d4e9b084282
 Section: 微信插件
 Priority: optional
 Description: 微信增强,用于优化一些反人类设计和增强功能。
