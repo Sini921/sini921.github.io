@@ -1270,24 +1270,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dumpdecrypter.png
 Name: DumpDecrypter(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dumpdecrypter/js.json
 
-Package: com.sini.dyhook
-Version: 2.0.8+8
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 8652
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.dyhook_2.0.8+8_iphoneos-arm64.deb
-Size: 2668028
-MD5sum: 30fea54c7e9c0fac1a7cb1d908755ffb
-SHA1: 733aa21f21bbd2676bda7dfc665b6f15201235c7
-SHA256: 25f819faac47c45ecdb4de0c3489376e0b076a1d9ea7b8c99d1e175e165f220e
-Section: 应用破解
-Description: 自用 越狱食用
-Author: x✨
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyhook.png
-Name: 抖音图层(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyhook/js.json
-
 Package: com.sini.dynamicstage.zhcn
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -1339,23 +1321,6 @@ Author: 茶 愫
 Icon: https://sini921.github.io/repo/sileodepiction/icon/enhance.png
 Name: WeChatEnhance(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/enhance/js.json
-
-Package: com.sini.fakedualsim
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: CydiaGeek <lucaluca86@aol.com>
-Depends: mobilesubstrate
-Filename: rootless/com.sini.fakedualsim_1.0.1_iphoneos-arm64.deb
-Size: 4160
-MD5sum: eebf1a97c607b086eb8a8b92c87a7be3
-SHA1: 46d598eb5870140ccf5f05e70a2c991681cc3838
-SHA256: 5f89225555d0a092d23777d04d3bef7cbe545a8880bb9bfca7ac869236017ece
-Section: 越狱插件
-Description: 单卡机型安装此插件配合FakeSignalBar可开启双卡信号
-Author: CydiaGeek <lucaluca86@aol.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: FakeDualSIM(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakedualsim/js.json
 
 Package: com.sini.fightenegery
 Version: 1.0.0
@@ -1429,24 +1394,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/flexlist.png
 Name: FLEXList(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/flexlist/js.json
 
-Package: com.sini.floating-keyboard
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: sunshinesong
-Installed-Size: 328
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.floating-keyboard_0.0.1_iphoneos-arm64.deb
-Size: 60616
-MD5sum: fd91be66016d59be57113a3ce5c28f5a
-SHA1: 852bf39f8e684b7d97c314ed59dee2ac72722832
-SHA256: b8c6610c3473fff704f22949c750ec1ca2d893dd5e60c6b00e2b057419e45e98
-Section: 越狱插件
-Description: 像ipad一样的悬浮键盘，备份
-Author: sunshinesong
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: floating-keyboard(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/floating-keyboard/js.json
-
 Package: com.sini.flora
 Version: 1.1.3
 Architecture: iphoneos-arm64
@@ -1464,24 +1411,6 @@ Author: Rosie
 Icon: https://sini921.github.io/repo/sileodepiction/icon/flora.png
 Name: Flora(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/flora/js.json
-
-Package: com.sini.fuckads
-Version: 5.2.0
-Architecture: iphoneos-arm64
-Maintainer: 小果子
-Installed-Size: 2532
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.fuckads_5.2.0_iphoneos-arm64.deb
-Size: 1093960
-MD5sum: ca6cbd6ed0045199968d1505e2781eef
-SHA1: 229546a45cc53aaea1ac14423f25b33a29f5891f
-SHA256: 4b5723c5d8773835f76728a4a822a19d24d7122231812cd8dca107ff7ddb77c7
-Section: 应用破解
-Description: 通用去广告插件,拿去看电影去吧,通杀大部分第三方广告
-Author: 小果子
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: 通用去广告(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/fuckads/js.json
 
 Package: com.sini.gamelogin
 Version: 0.1-5
@@ -2800,27 +2729,6 @@ Author: Skitty & EvenDev
 Icon: https://sini921.github.io/repo/sileodepiction/icon/spec.png
 Name: Spectrum(rootless)
 
-Package: com.sini.springanimations
-Version: 1.1.1
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 718
-Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader
-Filename: rootless/com.sini.springanimations_1.1.1_iphoneos-arm64.deb
-Size: 57256
-MD5sum: 291aa31c1320944590b9c08b88aea7f1
-SHA1: da42ba00ca9009ff2db6768f30772d9f9229b6e2
-SHA256: 9d1275aab642cd8cfe8e8ef815252291ab92be570dacaaaaf92b29817a2309a6
-Section: 越狱插件
-Priority: optional
-Description: 桌面动画，原图标太丑，换了个图标以及汉化
-Author: CydiaGeek <lucaluca86@aol.com>
-Dev: lucaluca86
-Icon: https://sini921.github.io/repo/sileodepiction/icon/springanimations.png
-Name: SpringAnimations(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/springanimations/js.json
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: com.sini.staypro
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -2942,23 +2850,6 @@ Author: Kyle Howells
 Icon: https://sini921.github.io/repo/sileodepiction/icon/swipeselection.png
 Name: SwipeSelection(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/swipeselection/js.json
-
-Package: com.sini.tccrack
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 1aaa3
-Depends: mobilesubstrate
-Filename: rootless/com.sini.tccrack_1.0_iphoneos-arm64.deb
-Size: 91064
-MD5sum: 32727fe087658aea190a3b233a210895
-SHA1: be67504eab2787e666eaf75e4445b9b2848f8adb
-SHA256: 9ab0f1729defbd21f7418858057d3e3b3625e76ab1333c1a099238aa4e5e9f5f
-Section: 应用破解
-Description: 破解抖音图层，小红书图层
-Author: 1aaa3
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: 逆无止境(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/tccrack/js.json
 
 Package: com.sini.telegram
 Version: 1.0
@@ -4516,23 +4407,6 @@ Author: Spark
 Icon: https://sini921.github.io/repo/sileodepiction/icon/snowboard.png
 Name: SnowBoard(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/snowboardapplication/js.json
-
-Package: com.sunshinesong.split-view-pro
-Version: 1.1.4
-Architecture: iphoneos-arm64
-Maintainer: sunshinesong
-Installed-Size: 5624
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
-Filename: rootless/com.sunshinesong.split-view-pro_1.1.4_iphoneos-arm64.deb
-Size: 1709240
-MD5sum: bc2449ebb267f804f2bcbb19bbcf9b1c
-SHA1: 80ab7b45d27e935c580b362718b4b23aefd3e93a
-SHA256: f1098fcc99f79674cad2b45831f53256b40105934c1949fbd298b77e5c074cb3
-Section: 越狱插件
-Description: 分屏，不必太复杂，一切从简即可。
-Author: sunshinesong
-Name: split-view-pro(rootless)
-Ts: sp-sss
 
 Package: com.sunshinesong.split-view-pro
 Version: 1.1.5
