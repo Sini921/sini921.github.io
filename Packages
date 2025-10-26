@@ -3492,18 +3492,18 @@ Name: 小红薯(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/xhshook/js.json
 
 Package: com.sini.xianyuadkiller
-Version: 1.5.5
+Version: 1.5.5-5
 Architecture: iphoneos-arm64
 Maintainer: ylr <ylr275536387>
-Installed-Size: 268
-Depends: mobilesubstrate,firmware (>= 14.0)
-Filename: rootless/com.sini.xianyuadkiller_1.5.5_iphoneos-arm64.deb
-Size: 42004
-MD5sum: d29807601e74341cdf2f00a79c8fc5ac
-SHA1: 3dd18d6d4d1507973e8701b0dfc5b29371712401
-SHA256: dc6adb7808318fe5940d328ad09b317acc0456ab426cad0fc39f21e38f3de1d8
+Installed-Size: 304
+Depends: mobilesubstrate,firmware (>= 15.0)
+Filename: rootless/com.sini.xianyuadkiller_1.5.5-5_iphoneos-arm64.deb
+Size: 54560
+MD5sum: c2d71f7c0822270c9400026bee9d7ecd
+SHA1: 5a23fc09aee4a934923112128ecdbb7a9aa4541f
+SHA256: c35ddaa360159dfa795cafa7e0db0d8d8202e52d12986acaf8989efa687dd3ed
 Section: 应用破解
-Description: 闲鱼首页、详情页底栏透明度自定义调节（在我的右上角），闲鱼启动广告通杀！且秒进主页面！
+Description: 闲鱼长按底栏或者任意页面双指长按，闲鱼默认去开屏秒进主页面，单指长按底栏+双指长按任意页面弹窗，实时开/关底栏按钮，实时调节底栏颜色与透明度，ylr制作投稿
 Author: ylr <ylr275536387>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/xianyuadkiller.png
 Name: XianYuAdKiller(rootless)
