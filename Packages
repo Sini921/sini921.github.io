@@ -2132,15 +2132,15 @@ Name: PicsewPro(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/picsewpro/js.json
 
 Package: com.sini.pkc.rootless
-Version: 0.8-0
+Version: 0.8-1
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: rootless/com.sini.pkc.rootless_0.8-0_iphoneos-arm64.deb
-Size: 927108
-MD5sum: 40412b7a31345163b7489e5f13c2ad60
-SHA1: e90ca3c0dd29e111d3267717c883c34c75b6d023
-SHA256: 312fe6d9b99a48fefbb291ac01148e86bed89b66a5e8e54e05daa70cc4f47689
+Filename: rootless/com.sini.pkc.rootless_0.8-1_iphoneos-arm64.deb
+Size: 940316
+MD5sum: 43a526be993fc21c2161fb5600ddf13e
+SHA1: 201d5db2f3a38c97e582b1cb17eb183c3d19ac6c
+SHA256: 8adf0b18b610ca6b96859c27d63f4ff3c1876b70196798b52056df511c8979c4
 Section: 微信插件
 Priority: optional
 Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
@@ -3834,16 +3834,16 @@ Name: FakeSignalBar(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakesignalbar/js.json
 
 Package: com.sini921.folderpro
-Version: 0.0.1-2
+Version: 0.0.1-3
 Architecture: iphoneos-arm64
 Maintainer: SINI
 Installed-Size: 392
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.folderpro_0.0.1-2_iphoneos-arm64.deb
-Size: 30366
-MD5sum: c7130fd37655e9e9c1626e80291e8596
-SHA1: 5b9ee16bab8e25e6dcec6af258ef2244f9645140
-SHA256: 038abcc1e420e10fe2621efebcb1194f8fa57f57067a3822a60153c98ef58aa4
+Filename: rootless/com.sini921.folderpro_0.0.1-3_iphoneos-arm64.deb
+Size: 30330
+MD5sum: e5c97f4f2b8f66c2cfa70f03208d702e
+SHA1: 80bb129b9a5cc872ee9747eb8ee92b83cfe6f060
+SHA256: c4a81c68c6e1c0fd00be49df56524d6aff692d3de8ca548480af2e96dd45ec6a
 Section: 越狱插件
 Description: 文件夹简单优化
 Author: SINI
@@ -5106,16 +5106,16 @@ Name: FakeSignalBar(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakesignalbar/js.json
 
 Package: com.sini921.folderpro
-Version: 0.0.1-2
+Version: 0.0.1-3
 Architecture: iphoneos-arm64e
 Maintainer: SINI
 Installed-Size: 388
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.folderpro_0.0.1-2_iphoneos-arm64e.deb
-Size: 29180
-MD5sum: b107e96e0e1f5cae8cbbc71902f346ee
-SHA1: 6be5c08347b84763ea8b19480b415e12cba29b56
-SHA256: 4204aa2fedd12e7e23f921690f0a071c691261b07e30ec48593b7f2cb6b5f606
+Filename: roothide/com.sini921.folderpro_0.0.1-3_iphoneos-arm64e.deb
+Size: 29186
+MD5sum: 903c7668f0605f2f943b776d64577c6c
+SHA1: 851f01c1fe8a5b247691f7aa792a9979abea666b
+SHA256: 343f2147647aaa801ad69e0a86779e92a50773cc4510bc95fce3221e55763d61
 Section: 越狱插件
 Description: 文件夹简单优化
 Author: SINI
