@@ -3223,6 +3223,24 @@ Name: 微信插件管理Plus(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wcpluginsplus/js.json
 Sponsor: admin@25mao.com
 
+Package: com.sini.wcsimplify
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: ylr
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.wcsimplify_1.5.5_iphoneos-arm64.deb
+Size: 23268
+MD5sum: de90fd01987dfc4dfd1313e0ae32dd16
+SHA1: ab53855b63ae8d38d24d32535125938f591bfdd6
+SHA256: 629069c1494210d59aec42302081a3dfed64251350d100564f619e0a67fb2584
+Section: 微信插件
+Description: 长按任意顶部导航栏弹窗，ylr制作投稿
+Author: ylr
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wcsimplify.png
+Name: WCSimplify(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/wcsimplify/js.json
+
 Package: com.sini.wechat-pop-vc
 Version: 0.0.4
 Architecture: iphoneos-arm64
