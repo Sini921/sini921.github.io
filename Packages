@@ -3383,16 +3383,16 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/wy.png
 Name: 网易云去广告净化(rootless)
 
 Package: com.sini.xhshook
-Version: 1.1.6-5
+Version: 1.1.6-8
 Architecture: iphoneos-arm64
 Maintainer: x✨
-Installed-Size: 4312
+Installed-Size: 4296
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.xhshook_1.1.6-5_iphoneos-arm64.deb
-Size: 1459028
-MD5sum: 32b09254936c297fb54a3935104ed97b
-SHA1: 4dc39269bfd0455c6c89a5c77d1e43ed771f2ab2
-SHA256: 19f4cbe1dfd8aa0cda97ccccda91274bd01652ff8b57b174e4d46f699b745ee7
+Filename: rootless/com.sini.xhshook_1.1.6-8_iphoneos-arm64.deb
+Size: 1451920
+MD5sum: fcca50798c1db10f18a4d1213dc06cc3
+SHA1: 42cbe061ac769f4173c22337dd368465cbc01a5a
+SHA256: 31e4c8a1ee6ac3995b55cfc2562b9366a54dc89b1c903dd2b7c23ce33ca143d1
 Section: 应用破解
 Description: 自用
 Author: x✨
