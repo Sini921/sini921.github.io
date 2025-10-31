@@ -3604,10 +3604,10 @@ Maintainer: ren7995 & SINI
 Installed-Size: 1104
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: rootless/com.sini921.atria_1.4.1-6_iphoneos-arm64.deb
-Size: 376596
-MD5sum: 712a071043205c771a48f156b4124fc1
-SHA1: ef038fdc21d87fe0fa1514b17d1f2139647b64fb
-SHA256: 27a783e77e948133673043b4a3a434eae9853b325ebffcfa177cc73006262e2c
+Size: 375776
+MD5sum: fd5ee4fafa2259ae093a430c9e621751
+SHA1: 5080f01692b770b4d96f8da9d594780baf72723c
+SHA256: d47f75284cdb0179388b1dec05147639637b883eefa3a87cd47c0c7124d364a5
 Section: 越狱插件
 Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothide。
 Author: ren7995 & SINI
@@ -4912,10 +4912,10 @@ Maintainer: ren7995 & SINI
 Installed-Size: 1072
 Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
 Filename: roothide/com.sini921.atria_1.4.1-6_iphoneos-arm64e.deb
-Size: 375070
-MD5sum: 1d76b6abf0cb4c7ba9f567c819b474e9
-SHA1: 38d241a98be9c824cc0eaedd96a8d5a5a4875521
-SHA256: 95b058c67df4ac557138cc183162c64c849e92e9f083c1ddaac6ee5fb9cb56c9
+Size: 374904
+MD5sum: 1ed57d45ad6fef16d46bb5fdb22377ec
+SHA1: 02eff11e38c32e0baf8c0fc7afc7f0f700f647df
+SHA256: 00c0c0ff91245288f15540a49ddbd9f9c7f90b3eb8aefa9c50f147db64070796
 Section: 越狱插件
 Description: 适用于iOS 13-16的主屏幕布局编辑器，基于开源修改编译的中文版，去掉了Alderis Color Picker依赖，编译支持roothide。
 Author: ren7995 & SINI
