@@ -94,6 +94,12 @@
             "hideShadow": true
         },
         {
+            "url": "http://sini921.github.io/repo/images/photohub.png",
+            "title": "PhotoHub",
+            "package":"com.sini921.photohub",
+            "hideShadow": true
+        },
+        {
             "url": "http://sini921.github.io/repo/images/griddy.png",
             "title": "Griddy",
             "package":"com.sini921.griddy",
