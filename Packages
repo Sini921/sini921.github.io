@@ -1270,6 +1270,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dumpdecrypter.png
 Name: DumpDecrypter(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dumpdecrypter/js.json
 
+Package: com.sini.dyhook
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: ylr
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.dyhook_1.5.5_iphoneos-arm64.deb
+Size: 27520
+MD5sum: 6a0264f49821b34cf46fe795ae811774
+SHA1: 1f8841c0fb93c6d68e7c85f7991b3138a86c3bf8
+SHA256: e6095b5eb98942b5b3c438fa4b1d52696b1f04f9a2e6cd03bc9ec46476709cea
+Section: 应用破解
+Description: 仅供学习交流，如有传播；使用者请在24小时内自觉删除。ylr制作投稿
+Author: ylr
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyhook.png
+Name: DYHook(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyhook/js.json
+
 Package: com.sini.dynamicstage.zhcn
 Version: 1.1
 Architecture: iphoneos-arm64
