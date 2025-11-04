@@ -243,17 +243,17 @@ Name: 微信增强(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
 
 Package: com.sini.WCPulse
-Version: 1.3-2
+Version: 1.3-3
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 1120
+Installed-Size: 13680
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.WCPulse_1.3-2_iphoneos-arm64.deb
-Size: 225440
-MD5sum: 69f7ca7f6b42a072683ae6f962c81cf1
-SHA1: 7286eaa048b8f63b23f6c2aa1dcd20eb4ff04f56
-SHA256: 7acb95cb88584fd278cb0340c189c84135633aeee28be2d823a9b32355a60675
-Section: 微信插件
+Filename: rootless/com.sini.WCPulse_1.3-3_iphoneos-arm64.deb
+Size: 4840864
+MD5sum: 33844b9d779507559c0131cf03fae243
+SHA1: 94f185cb24018d1acc85cce56f80ca97bcf80d10
+SHA256: 3746abbee8be7f6fa75913685682aa1fc3d7e1a428754e07ca3b75f0b30b8c9a
+Section: 应用破解
 Description: WCPulse
 Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPulse.png
@@ -4037,10 +4037,10 @@ Maintainer: PoomSmart & SINI
 Installed-Size: 472
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini921.pscamera_0.0.1-4_iphoneos-arm64.deb
-Size: 60000
-MD5sum: 5a515c275288eeec7b9bbd3b3c720712
-SHA1: e50b841c1790d0b1ef84b12a373f49e506840ca2
-SHA256: fa5362cfd0b3fa11222e97bfa91c7f747221932b959bdd1cc49f699a07d069ab
+Size: 60918
+MD5sum: 84dbec7bcf6f2e417e5feb84e541af8a
+SHA1: 2993e9f5a5ccbd4a15427ef5be4f4bd056faf7a3
+SHA256: 6e4d5d3eff1366ef62f24a5dc47e281af3a0a00a84753ddeb47b846b02991f76
 Section: 越狱插件
 Description: 对PoomSmart大神的5个系统相机插件的代码进行了合并，避免我自己有时找不到某个插件的尴尬场景。
 Author: PoomSmart & SINI
@@ -4622,17 +4622,17 @@ Name: 微信增强(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
 
 Package: com.sini.WCPulse
-Version: 1.3-2
+Version: 1.3-3
 Architecture: iphoneos-arm64e
 Maintainer: huami
-Installed-Size: 1120
+Installed-Size: 13680
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini.WCPulse_1.3-2_iphoneos-arm64e.deb
-Size: 224948
-MD5sum: f7975458a546228c543914024d5e52c7
-SHA1: 1fc5b079be0a5dd22957e640eed2cab39d5f6435
-SHA256: 24b9455110398bc17b1aad037e015d9ae44fa82995367aa1a96b066612a9dd1c
-Section: 微信插件
+Filename: roothide/com.sini.WCPulse_1.3-3_iphoneos-arm64e.deb
+Size: 4833992
+MD5sum: 0489c74c7bc5a2c50be95e633e2ead72
+SHA1: 73c186e78f9139285f6fefa0cf133a75923ddbc1
+SHA256: b52dc0a06c4d5c8ddffbc57134382feb4f5edcb3f3e1979da1a380c509b1feaf
+Section: 应用破解
 Description: WCPulse
 Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPulse.png
@@ -5255,10 +5255,10 @@ Maintainer: PoomSmart & SINI
 Installed-Size: 472
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/com.sini921.pscamera_0.0.1-4_iphoneos-arm64e.deb
-Size: 59068
-MD5sum: b2d5b54aff5c389343bd69b8eb0c9eb7
-SHA1: 30956cccc8a8491561e6dab36a4571e2862804bd
-SHA256: 2671872d63714f5fb450935da621ad487a12b6bc373fe407c2a05642280b1c5b
+Size: 59878
+MD5sum: 7cf9d1291daa26c7dd57c9e8d25aab54
+SHA1: 7dff37900c23cde5a2fe38877ac9e2a789b94ffb
+SHA256: 0adc172ab748772c43ccb7e64a4f7397300b5e108f96decfaaae368239e3bdde
 Section: 越狱插件
 Description: 对PoomSmart大神的5个系统相机插件的代码进行了合并，避免我自己有时找不到某个插件的尴尬场景。
 Author: PoomSmart & SINI
