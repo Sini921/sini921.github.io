@@ -4037,10 +4037,10 @@ Maintainer: PoomSmart & SINI
 Installed-Size: 472
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini921.pscamera_0.0.1-4_iphoneos-arm64.deb
-Size: 60918
-MD5sum: 84dbec7bcf6f2e417e5feb84e541af8a
-SHA1: 2993e9f5a5ccbd4a15427ef5be4f4bd056faf7a3
-SHA256: 6e4d5d3eff1366ef62f24a5dc47e281af3a0a00a84753ddeb47b846b02991f76
+Size: 60694
+MD5sum: 03e34c911353c0296c3b9255f48a8449
+SHA1: 9a1b3d3bc8085af61d83b5ed0142a10d586831da
+SHA256: 60d067f31f1280689f177ff73c5d8e38240847995ea54e78885940db02d853e9
 Section: 越狱插件
 Description: 对PoomSmart大神的5个系统相机插件的代码进行了合并，避免我自己有时找不到某个插件的尴尬场景。
 Author: PoomSmart & SINI
@@ -5255,10 +5255,10 @@ Maintainer: PoomSmart & SINI
 Installed-Size: 472
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/com.sini921.pscamera_0.0.1-4_iphoneos-arm64e.deb
-Size: 59878
-MD5sum: 7cf9d1291daa26c7dd57c9e8d25aab54
-SHA1: 7dff37900c23cde5a2fe38877ac9e2a789b94ffb
-SHA256: 0adc172ab748772c43ccb7e64a4f7397300b5e108f96decfaaae368239e3bdde
+Size: 59684
+MD5sum: b67a09bbcff0dc07d8e81b60b4902b18
+SHA1: ab3a723331384b88fa4fc3bac07e1c14360634ea
+SHA256: aa4cc86ab993e838b31a86cc3cc269728cc437ee1fd56121addd410b6da15e2c
 Section: 越狱插件
 Description: 对PoomSmart大神的5个系统相机插件的代码进行了合并，避免我自己有时找不到某个插件的尴尬场景。
 Author: PoomSmart & SINI
