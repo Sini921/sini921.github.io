@@ -4109,10 +4109,10 @@ Maintainer: SINI
 Installed-Size: 468
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini921.quickpowerbutton_0.0.1-20_iphoneos-arm64.deb
-Size: 48934
-MD5sum: 2c1d8341b3b583f7edc655e42b6b43b7
-SHA1: 0375c41d1c8c8bbff44c83b01995ad2e6c6e075e
-SHA256: 7885d11b0ec9337cc60e34d8ee88bd12ab50e1ba24fdbe4698decab4c2ffd0a8
+Size: 49038
+MD5sum: d5ecb28f6ed8c799599881f8a70f554f
+SHA1: e3005a4a7711225a787e92ad429d63a23557fe18
+SHA256: 8a56ae69461888577cabd54d2255091740274546978fd217b088a767c6913ef8
 Section: 越狱插件
 Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
 Author: SINI
@@ -5327,10 +5327,10 @@ Maintainer: SINI
 Installed-Size: 468
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/com.sini921.quickpowerbutton_0.0.1-20_iphoneos-arm64e.deb
-Size: 47592
-MD5sum: 30199a9cb9af5fdb244bcf9f5b59c6ab
-SHA1: a021e9db94a75625fe8ec3541cf9b639fcbf1336
-SHA256: 1d729ec34ba06893a89bc6c75c6f79041eeac477504d2f7d49cea9653160b1be
+Size: 47550
+MD5sum: c978b6821058053bd6853821481db1df
+SHA1: 139a42abc16cb65e01e03043505db9d88c77d1cc
+SHA256: 941c3ce2c4aa8278b4e934b790fea051403b26fceccc7693204146ed9ec3fdca
 Section: 越狱插件
 Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
 Author: SINI
