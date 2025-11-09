@@ -4048,24 +4048,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/pscamera.png
 Name: PSCamera(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/pscamera/js.json
 
-Package: com.sini921.qqavatarrotation
-Version: 1.1.0-1
-Architecture: iphoneos-arm64
-Maintainer: SINI
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.qqavatarrotation_1.1.0-1_iphoneos-arm64.deb
-Size: 3748
-MD5sum: f3f6f60da47974554a90d18b4b88c5d2
-SHA1: ca1a9dc5df7c7165cbc537c2a1d7730aaeb539dd
-SHA256: 5c6a3a0bcb54f8a22b1695d0a30a82d8ab7d97d30667cf014c3e073e5979724d
-Section: 应用破解
-Description: QQ头像瞎季伯转，仅在9.1.25版本上测试。
-Author: SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/qq.png
-Name: QQAvatarRotation(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/qqavatarrotation/js.json
-
 Package: com.sini921.quickactions
 Version: 1.0.1-5
 Architecture: iphoneos-arm64
@@ -5265,24 +5247,6 @@ Author: PoomSmart & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/pscamera.png
 Name: PSCamera(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/pscamera/js.json
-
-Package: com.sini921.qqavatarrotation
-Version: 1.1.0-1
-Architecture: iphoneos-arm64e
-Maintainer: SINI
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.qqavatarrotation_1.1.0-1_iphoneos-arm64e.deb
-Size: 3684
-MD5sum: d15a377afb02e7621265679b0e3d4ce7
-SHA1: 62f39bb4c70fec9e7c0bcaaa5b5bbe5509ff864a
-SHA256: 0482dd1780ca9186355ae1180d2d6aab1a7c23afeba992be20e4c4b315989994
-Section: 应用破解
-Description: QQ头像瞎季伯转，仅在9.1.25版本上测试。
-Author: SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/qq.png
-Name: QQAvatarRotation(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/qqavatarrotation/js.json
 
 Package: com.sini921.quickactions
 Version: 1.0.1-5
