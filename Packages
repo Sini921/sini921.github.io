@@ -3242,16 +3242,16 @@ Sileodepiction: https://sini921.github.io/repo/sileodepiction/wcpluginsplus/js.j
 Sponsor: admin@25mao.com
 
 Package: com.sini.wcsimplify
-Version: 1.5.5-7
+Version: 1.5.6-1
 Architecture: iphoneos-arm64
 Maintainer: ylr
-Installed-Size: 284
+Installed-Size: 384
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.wcsimplify_1.5.5-7_iphoneos-arm64.deb
-Size: 42512
-MD5sum: a84414a3399ff0f98d3fb7419daf03ab
-SHA1: 3b7acdbf6703f2191c852e949f7d5453921981b2
-SHA256: 2edd6f323967a22c0120df543804114b8957cb66c591c85cfe6c90863600135b
+Filename: rootless/com.sini.wcsimplify_1.5.6-1_iphoneos-arm64.deb
+Size: 71160
+MD5sum: 26499b6ec2d20cfcd35087586a238f75
+SHA1: 05e9227e583c8a23556aea35b4a467b792de0655
+SHA256: 45478891810ec1d358d8a46f47f4e54734de08f479737dbb97384609e6b415c4
 Section: 微信插件
 Description: 本插件仅测试使用，如有传播，请马上删除！ylr制作投稿
 Author: ylr
