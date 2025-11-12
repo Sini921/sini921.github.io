@@ -1913,33 +1913,15 @@ Name: medousa(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/medousa/js.json
 
 Package: com.sini.miyou
-Version: 3.8-4
+Version: 3.8-8
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: rootless/com.sini.miyou_3.8-4_iphoneos-arm64.deb
-Size: 9296764
-MD5sum: 8e7f313f7c51fbbc84a8c17d99d1a8b7
-SHA1: 208420c56709bdac4012a055b3673d80241772d6
-SHA256: ecb5f33fa4c6ebea33a8d812bce6680d92928c16a07a8d9d10d6cd6a0279fcbf
-Section: 微信插件
-Priority: optional
-Description: 微信助手
-Author: Mao
-Icon: https://sini921.github.io/repo/sileodepiction/icon/miyou.png
-Name: 微信助手(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/miyou/js.json
-
-Package: com.sini.miyou
-Version: 3.8-7
-Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
-Depends: firmware (>= 5.0)
-Filename: rootless/com.sini.miyou_3.8-7_iphoneos-arm64.deb
-Size: 6234172
-MD5sum: 839345aa18112cba2fe9d1883f84e391
-SHA1: c7d77386dd048fa38dd5335486a1935a382cea83
-SHA256: 33a30c13ca7726bcd4e42568cc5444fa2623190afb7de49ce18fa4f247b1a3ad
+Filename: rootless/com.sini.miyou_3.8-8_iphoneos-arm64.deb
+Size: 6274100
+MD5sum: 9345aa418ea2b66e575365a2948a1e16
+SHA1: d31ddadbcaa76e641e5022b4eaac828f281cf1be
+SHA256: dc9184cb885697aa69ba6ac35846848f7901a55cf9c2393f5287ea0d531f7f04
 Section: 微信插件
 Description: 微信助手-Rootless版
 Author: Mao
