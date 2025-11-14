@@ -3224,21 +3224,21 @@ Sileodepiction: https://sini921.github.io/repo/sileodepiction/wcpluginsplus/js.j
 Sponsor: admin@25mao.com
 
 Package: com.sini.wcsimplify
-Version: 1.5.6-1
+Version: 1.5.6-3
 Architecture: iphoneos-arm64
 Maintainer: ylr
-Installed-Size: 384
+Installed-Size: 404
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.wcsimplify_1.5.6-1_iphoneos-arm64.deb
-Size: 71160
-MD5sum: 26499b6ec2d20cfcd35087586a238f75
-SHA1: 05e9227e583c8a23556aea35b4a467b792de0655
-SHA256: 45478891810ec1d358d8a46f47f4e54734de08f479737dbb97384609e6b415c4
+Filename: rootless/com.sini.wcsimplify_1.5.6-3_iphoneos-arm64.deb
+Size: 75940
+MD5sum: 5bc7961ebd3f7c55e5df28820af785c4
+SHA1: cb8d94c8a9e2838e2ac8e5a8924db4bef7b59f53
+SHA256: 4ec35f103d750b4b266dbd44e5dea74a0a48ffe0128aac0fa480ebebec4bffab
 Section: 微信插件
 Description: 本插件仅测试使用，如有传播，请马上删除！ylr制作投稿
 Author: ylr
 Icon: https://sini921.github.io/repo/sileodepiction/icon/wcsimplify.png
-Name: WCSimplify(rootless)
+Name: WCSimplify
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wcsimplify/js.json
 
 Package: com.sini.wechat-pop-vc
