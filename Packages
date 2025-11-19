@@ -2815,6 +2815,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: StoreSwitcher(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/storeswitcher2/js.json
 
+Package: com.sini.swiftgramcrack
+Version: 1.1-1
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 224
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: rootless/com.sini.swiftgramcrack_1.1-1_iphoneos-arm64.deb
+Size: 49724
+MD5sum: 689b78e164e976a5d7cc81d818609431
+SHA1: 68e1eae27cb090db6e50e1f21aff3f7823d8fd07
+SHA256: 0b653344de7ab4901bf3bb9e6707849905cf25887d38932a0cd3e2bb2c0b66c8
+Section: 应用破解
+Description: Swiftgram Pro, 支持当前最新版11.15
+Author: Netskao
+Icon: https://sini921.github.io/repo/sileodepiction/icon/swiftgramcrack.png
+Name: Swiftgram Crack(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/swiftgramcrack/js.json
+
 Package: com.sini.swipeextenderx
 Version: 1.6.1~2
 Architecture: iphoneos-arm64
