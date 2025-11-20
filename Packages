@@ -3834,6 +3834,25 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
 Name: DYYY Lite(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
 
+Package: com.sini921.dyyylite
+Version: 2.2-8-1763623810
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2656
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini921.dyyylite_2.2-8-1763623810_iphoneos-arm64.deb
+Size: 583120
+MD5sum: 149415576e121d13ea59521b2973ba4a
+SHA1: 6647b5e8026ddcbddc783193932842563be312a5
+SHA256: bf28d614126a9ea0286a52f6a980a752864952e1efa8c5ec67c1adca26977ac4
+Section: 应用破解
+Priority: optional
+Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
+Name: DYYY Lite(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
+
 Package: com.sini921.eneko
 Version: 1.4-5
 Architecture: iphoneos-arm64
@@ -5099,6 +5118,25 @@ Size: 582928
 MD5sum: 91493ad4c11a72ad99bd99048d9431ad
 SHA1: 08c91fda1f97fc6001764aa510f6b88e0903b4ac
 SHA256: 6c4686c44bb599a9ffdf86d3be54480d3f7cc3ffaea39e924372b3900b5c00e7
+Section: 应用破解
+Priority: optional
+Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyylite.png
+Name: DYYY Lite(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyylite/js.json
+
+Package: com.sini921.dyyylite
+Version: 2.2-8-1763623810
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 2656
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: roothide/com.sini921.dyyylite_2.2-8-1763623810_iphoneos-arm64e.deb
+Size: 581950
+MD5sum: 0ba63e0d6b9032326273bcfba696dbe7
+SHA1: 962303af31cf031771e3df9957843507dbe2ea0a
+SHA256: f39e56903d54a105dd032d53d53fe97006ab7f602384b59ed9e61b84c4b8d855
 Section: 应用破解
 Priority: optional
 Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
