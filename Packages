@@ -3277,6 +3277,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/wcsimplify.png
 Name: WCSimplify(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wcsimplify/js.json
 
+Package: com.sini.wctimelinereplacefind
+Version: 1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 852
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: rootless/com.sini.wctimelinereplacefind_1.1-2_iphoneos-arm64.deb
+Size: 348440
+MD5sum: 8307f8872cecc0722a5090cf8ee9035e
+SHA1: 9e5db85c1322573db80966e63e79e04f30ee9157
+SHA256: 56fa3c571099a3da913ca36d50483e429226696f87748d78480d286da740a8cb
+Section: 微信插件
+Description: 使用朋友圈替换发现底栏
+Author: Netskao
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wctimelinereplacefind.png
+Name: WCTimeLineReplaceFind(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/wctimelinereplacefind/js.json
+
 Package: com.sini.wechat-pop-vc
 Version: 0.0.4
 Architecture: iphoneos-arm64
