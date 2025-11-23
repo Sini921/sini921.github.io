@@ -3833,16 +3833,16 @@ Name: Donut(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/donut/js.json
 
 Package: com.sini921.dyyylite
-Version: 2.2-8-1763788082
+Version: 2.2-8-1763892758
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 2656
+Installed-Size: 2688
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini921.dyyylite_2.2-8-1763788082_iphoneos-arm64.deb
-Size: 584148
-MD5sum: bbec3e9635e8e159ce26767e2e674a74
-SHA1: f4074594ab14579f76a642ce5fdeee36f58880a7
-SHA256: fa7525828b620c6da1ff8e4a8b32520089b6919482e1c78cf85f02a49915f3e2
+Filename: rootless/com.sini921.dyyylite_2.2-8-1763892758_iphoneos-arm64.deb
+Size: 588172
+MD5sum: 3d80df48f9369275fae01efa06bc3448
+SHA1: 1a75136309e98dfc27b047501dab39a5b9376f8e
+SHA256: 55355dd80591673503912644f98e085b425fb36f14eb9e038f4d7c79e071debe
 Section: 应用破解
 Priority: optional
 Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
@@ -5087,16 +5087,16 @@ Name: Donut(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/donut/js.json
 
 Package: com.sini921.dyyylite
-Version: 2.2-8-1763788082
+Version: 2.2-8-1763892758
 Architecture: iphoneos-arm64e
 Maintainer: huami
-Installed-Size: 2656
+Installed-Size: 2688
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini921.dyyylite_2.2-8-1763788082_iphoneos-arm64e.deb
-Size: 583284
-MD5sum: 89bc4575bd7422faf6583d5828369c23
-SHA1: 74309a4ab73d6afb0d557ee262e4d0561f9daa1e
-SHA256: 88eab8b79195e42a6688eb7bf8770e40a3dabb9afa2824f4ca348a5a39ad091c
+Filename: roothide/com.sini921.dyyylite_2.2-8-1763892758_iphoneos-arm64e.deb
+Size: 589364
+MD5sum: ab9207afaa469a4d6ad14d3f3204c816
+SHA1: 5145954f45807e773a2e4d3706f0f879dc51041d
+SHA256: c3118a3ac34954e4532ba72673d75d8115fb056c1c96bd1e8014d91b68969168
 Section: 应用破解
 Priority: optional
 Description: 基于huami与唯她入我心的开源修改简化，去掉了双指长按弹出的设置入口，去掉了设置中左侧边栏快捷入口开关改为固定的点击左上角按钮进入设置。
