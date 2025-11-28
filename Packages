@@ -2815,18 +2815,18 @@ Name: StoreSwitcher(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/storeswitcher2/js.json
 
 Package: com.sini.swiftgramcrack
-Version: 1.1-5
+Version: 1.1-7
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 256
+Installed-Size: 1080
 Depends: firmware (>= 13.0), mobilesubstrate
-Filename: rootless/com.sini.swiftgramcrack_1.1-5_iphoneos-arm64.deb
-Size: 70004
-MD5sum: 300bf108580402a71b494773f7f449a3
-SHA1: e295758acfd2e60606558d7c391194a5a71bf20c
-SHA256: 8ca5d931ea4d35a038afbeffd7ac85be76b1754b6203032f7d3df85e60b8d8be
+Filename: rootless/com.sini.swiftgramcrack_1.1-7_iphoneos-arm64.deb
+Size: 423968
+MD5sum: 98f526e1b14abc5f87fee8df7004913f
+SHA1: c0cfb5cf7074745ba6c663384f7ad46d6c743c55
+SHA256: ba3c5b094d869d6926c4ac070f64c77ee0c32bba6be84fa9053e99f416bc7684
 Section: 应用破解
-Description: Swiftgram Pro. 附加解除下载保护/解除截图保护, 支持当前最新版12.2(解锁Pro首次登录需重启一次应用)
+Description: Swiftgram Pro. 附加解除下载保护/解除截图保护/去除官方广告, 支持当前最新版12.2(解锁Pro首次登录需重启一次应用)
 Author: Netskao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/swiftgramcrack.png
 Name: Swiftgram Crack(rootless)
