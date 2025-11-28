@@ -3525,6 +3525,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/ykhook.png
 Name: YKHOOK(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ykhook/js.json
 
+Package: com.sini.ylr.dyhook
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: ylr
+Installed-Size: 168
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: rootless/com.sini.ylr.dyhook_1.5.5_iphoneos-arm64.deb
+Size: 9248
+MD5sum: 94e11890b81c2aa4b396a5a4f89eea31
+SHA1: 0a267eb81ebf09fe4da8fbf1439aabb842dc46ca
+SHA256: 21dc3bef6c1a6cd590c324d6d49df459705ee797adb6b1737a7f35d84c04ef7e
+Section: 应用破解
+Description: 仅供学习交流，如有传播；使用者请在24小时内自觉删除。
+Author: ylr
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ylr.dyhook.png
+Name: 抖音聊天列表专用(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ylr.dyhook/js.json
+
 Package: com.sini.youtubereborn
 Version: 4.2.6-2
 Architecture: iphoneos-arm64
