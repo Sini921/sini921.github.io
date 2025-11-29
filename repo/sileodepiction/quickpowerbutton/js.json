@@ -102,7 +102,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 0.0.1-30\n- 新增禁用锁屏界面下滑搜索\n- 新增禁用锁屏界面右滑相机\n- 新增禁用锁屏界面左滑今日视图",
+                    "markdown": "#### 版本: 0.0.1-30\n- 新增禁用锁屏界面下滑搜索\n- 新增禁用锁屏界面左滑相机\n- 新增禁用锁屏界面右滑今日视图",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
