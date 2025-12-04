@@ -94,12 +94,12 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "class": "DepictionSeparatorView"
-                },
-                {
                     "markdown": "#### 版本: 0.0.1-9\n- 这个源主很懒\n- 懒得写更新日志",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
                 },
                 {
                     "markdown": "#### 版本: 0.0.1-8\n- 4x4布局功能改为可选4x4、5x5、6x6\n- 新增展开后文件夹内App图标大小设置\n- 新增文件夹展开背景宽度设置",
