@@ -157,15 +157,15 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/appindex.png
 Name: AppIndex(rootless)
 
 Package: com.sini.HBWechatHelper.ailun
-Version: 1.9.9
+Version: 2.0.1
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: rootless/com.sini.HBWechatHelper.ailun_1.9.9_iphoneos-arm64.deb
-Size: 12793820
-MD5sum: cd7a1c3a79e54b6143cd0c4ef2b678b7
-SHA1: 8a902f8db4a66934dd1e3038f5f0e676815dbe17
-SHA256: dc0f8950cc47f7f3c8fd0b702974a5bb6443bc8871d5e47d9ca35de78b07db0e
+Filename: rootless/com.sini.HBWechatHelper.ailun_2.0.1_iphoneos-arm64.deb
+Size: 12842172
+MD5sum: e2a8357538233474fcd5e8dd63debdb5
+SHA1: 93f8749a51421920534c2b339fcfc581108832e7
+SHA256: f167aed3ff03e0265a54953e7d17923730a215438ea612950351df0ad23b51cf
 Section: 微信插件
 Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
 Author: HuangBai <QQ:1343309363@qq.com>
@@ -174,16 +174,17 @@ Name: 黄白助手(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/HBWechatHelper.ailun/js.json
 
 Package: com.sini.MikotoHelper
-Version: 1.3.6-6
+Version: 1.3.6-7
 Architecture: iphoneos-arm64
 Maintainer: Mikoto
 Depends: mobilesubstrate
-Filename: rootless/com.sini.MikotoHelper_1.3.6-6_iphoneos-arm64.deb
-Size: 19229400
-MD5sum: 02a3dc74f0e61caf5af07d31d04cb6ff
-SHA1: d859235ca9a7abd425c65ffabddeee985f1791ca
-SHA256: bada38979135263122b09f54ebcbd84852b522ffed76a3efb496ad3732e86c6d
+Filename: rootless/com.sini.MikotoHelper_1.3.6-7_iphoneos-arm64.deb
+Size: 19259128
+MD5sum: 3462298979ca9c2213eee3d6284a9d38
+SHA1: a77ac6373928aaf6c6008d8208be4ddd628abb7d
+SHA256: a92976113e34a9edd8a2e96055aceb0ede7c558c0fd1e757d831f393d9f713e5
 Section: 微信插件
+Priority: optional
 Description: MikotoHelper
 Author: Mikoto
 Icon: https://sini921.github.io/repo/sileodepiction/icon/MikotoHelper.png
