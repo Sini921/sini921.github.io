@@ -1324,18 +1324,19 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dynamic.png
 Name: DynamicStage 简体中文包(rootless)
 
 Package: com.sini.dyyy
-Version: 2.2-8-build1587
+Version: 2.2-8-build1588
 Architecture: iphoneos-arm64
 Maintainer: huami
 Installed-Size: 2568
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.dyyy_2.2-8-build1587_iphoneos-arm64.deb
-Size: 521248
-MD5sum: cca041c92b0f247e575ace0935924e58
-SHA1: 97d7a4da588653b5b4509d43f84bc077dafe8f4f
-SHA256: 0638a96ac1c2369bf618cbf9a67b417e61010a040c080c5aacdb1b0bb1e27887
+Filename: rootless/com.sini.dyyy_2.2-8-build1588_iphoneos-arm64.deb
+Size: 521980
+MD5sum: 75905709cab12ac50f49df251db136ef
+SHA1: fdb4a8378cfbf9c78fd5bd5fc2a5bc320d9f771e
+SHA256: 7c4ea9241d20452b069052f2613d098121b8da391c8a5312f515fe560ad92c6a
 Section: 应用破解
-Description: 因为已经向维他仓库PR了禁用双指长按弹窗设置的开关，所以以后不再单独编译lite版(此版本开始包含)
+Priority: optional
+Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
 Name: DYYY(rootless)
@@ -4837,18 +4838,19 @@ Name: DayNightSwitch(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/daynightswitch/js.json
 
 Package: com.sini.dyyy
-Version: 2.2-8-build1587
+Version: 2.2-8-build1588
 Architecture: iphoneos-arm64e
 Maintainer: huami
 Installed-Size: 2568
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini.dyyy_2.2-8-build1587_iphoneos-arm64e.deb
-Size: 521060
-MD5sum: 17d6835c70b10a7f32ac5957da231988
-SHA1: 8fd7ac384f41899899bab93518844883c950e7d0
-SHA256: 9f65ecb1a845c37b6e3a0cdf18834c0a4f0aaf46ca01e406e2bde33423ce72ef
+Filename: roothide/com.sini.dyyy_2.2-8-build1588_iphoneos-arm64e.deb
+Size: 520484
+MD5sum: 385c37b0ec04e5324c643cd825a55eb5
+SHA1: 4c3e957f339c631d533f38dd92e7743dcb26fe7f
+SHA256: a901989a977dfcf1f42bc7fb2e88716b5d2a09facdb7e58c030058cece18c9ac
 Section: 应用破解
-Description: 因为已经向维他仓库PR了禁用双指长按弹窗设置的开关，所以以后不再单独编译lite版(此版本开始包含)
+Priority: optional
+Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
 Name: DYYY(roothide)
