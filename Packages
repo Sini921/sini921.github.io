@@ -225,19 +225,19 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/tg.png
 Name: Telegrammask(rootless)
 
 Package: com.sini.WCEhance
-Version: 1.2-3
+Version: 2.0-1
 Architecture: iphoneos-arm64
 Maintainer: Lxcloud
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.WCEhance_1.2-3_iphoneos-arm64.deb
-Size: 1769484
-MD5sum: 466c9626b38b3117fae8f3db241b2c47
-SHA1: 08b456af51f3b10b6640c9c767f528c9ae0af255
-SHA256: e6b342dfd8e5c2e514906365f88025a1cdebc0de763b8e8620bfc144e97be22f
+Filename: rootless/com.sini.WCEhance_2.0-1_iphoneos-arm64.deb
+Size: 1809516
+MD5sum: d3d463d4b0b95ae201ffd96de0fe3ab3
+SHA1: f1b57600673ccc5a4caeb8fc9f76456198fa21d0
+SHA256: d105c6d5554cafa601bc05df93dbd729ced4cd01a27380f1df0c609a32cd3fbd
 Section: 微信插件
 Priority: optional
 Description: 微信增强,用于优化一些反人类设计和增强功能。
-Author: huami & Lxcloud
+Author: huami&Lxcloud
 Icon: https://sini921.github.io/repo/sileodepiction/icon/WCEhance.png
 Name: 微信增强(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
@@ -4659,19 +4659,19 @@ Name: LibGcUniversal(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/libgcuniversal/js.json
 
 Package: com.sini.WCEhance
-Version: 1.2-3
+Version: 2.0-1
 Architecture: iphoneos-arm64e
 Maintainer: Lxcloud
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini.WCEhance_1.2-3_iphoneos-arm64e.deb
-Size: 1770348
-MD5sum: 527756eb7fcdb7bc38d57bfb9bbc6e49
-SHA1: a97574bf9fdb9b0c3fef4639d273e2a247eccf33
-SHA256: c92187a0b8d014e68d3ae02384ef25844f8594452660bfe889e21d4e9b084282
+Filename: roothide/com.sini.WCEhance_2.0-1_iphoneos-arm64e.deb
+Size: 1809280
+MD5sum: d051fd4ed69745a281c89c58a52bce54
+SHA1: 6ee478c832760911de520c4dc3949a5795aabccb
+SHA256: 50cb2fff761c3e6c72b31fcd5a42637b71052b287c608be32e7102f4daccde70
 Section: 微信插件
 Priority: optional
 Description: 微信增强,用于优化一些反人类设计和增强功能。
-Author: huami & Lxcloud
+Author: huami&Lxcloud
 Icon: https://sini921.github.io/repo/sileodepiction/icon/WCEhance.png
 Name: 微信增强(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
