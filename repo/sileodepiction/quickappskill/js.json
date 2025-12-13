@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0.1-9",
+                    "text": "0.0.1-10",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年10月13日",
+                    "text": "2025年12月14日",
                     "title": "更新日期"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.0.1-10\n- 稍微加大了一点点震动强度以提升手感，修复了偶现的触发两次震动的bug\n- 显示内存信息标签功能改为可以单独开启，不再依赖按钮功能\n- 提前异步加载App信息，提升流畅度\n- 其他代码优化",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
