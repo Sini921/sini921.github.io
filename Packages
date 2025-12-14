@@ -350,6 +350,25 @@ Author: Ethan Whited
 Icon: https://sini921.github.io/repo/sileodepiction/icon/airpods.png
 Name: AirpodsCompanion(rootless)
 
+Package: com.sini.alipaycc
+Version: 1.5.5-3+debug
+Architecture: iphoneos-arm64
+Maintainer: ylr
+Installed-Size: 224
+Depends: firmware (>= 14.0), com.opa334.ccsupport
+Filename: rootless/com.sini.alipaycc_1.5.5-3+debug_iphoneos-arm64.deb
+Size: 8228
+MD5sum: 52439fbd13340691851efce717d65b29
+SHA1: b2f3d8c8678f0edbae927b0ffe2aecb4117436bc
+SHA256: ad67d4d81072a685443b8d1a4fd6d064d2324dc3fd16e3b6c80ffa2e396c3f5b
+Section: 控制中心
+Priority: optional
+Description: 控制中心添加支付宝中蚂蚁森林与手机充值，ylr制作投稿
+Author: ylr
+Icon: https://sini921.github.io/repo/sileodepiction/icon/alipaycc.png
+Name: AlipayCC(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/alipaycc/js.json
+
 Package: com.sini.alpine
 Version: 1.4
 Architecture: iphoneos-arm64
