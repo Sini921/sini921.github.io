@@ -1,20 +1,3 @@
-Package: com.0xkuj.safarix
-Version: 1.9.9.1
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: rootless/com.0xkuj.safarix_1.9.9.1_iphoneos-arm64.deb
-Size: 322288
-MD5sum: d624f19c0dc0b45dabf417967c6db4d0
-SHA1: bb549944517974c7e1763d07bf46ef630e4d0f24
-SHA256: aec91cc337fe98215c3e8dbbed5e55733867e615c7dd2375ae9672bda720cec5
-Section: 越狱插件
-Description: Safari浏览器增强，加入刀刀源汉化
-Author: 0xkuj
-Icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
-Name: SafariX(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/safarix/js.json
-
 Package: com.creaturecoding.libcspreferences
 Version: 1.5.8
 Architecture: iphoneos-arm64
@@ -2469,23 +2452,6 @@ Author: 妖刀
 Icon: https://sini921.github.io/repo/sileodepiction/icon/rune.png
 Name: Rune 简体中文包(rootless)
 
-Package: com.sini.safarix
-Version: 1.3.0
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: rootless/com.sini.safarix_1.3.0_iphoneos-arm64.deb
-Size: 278984
-MD5sum: 6422fe26743a3ee351b4d2f4af94ad2f
-SHA1: 30e2702bac618e4f5af82a5632897c6d873a1b42
-SHA256: 2459b0f865a774abf1a20e912d6cfb0ce93f549f79df1ccf666059a2922c38dc
-Section: 越狱插件
-Description: Safari 浏览器多功能增强，加入刀刀源汉化
-Author: 0xkuj
-Icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
-Name: SafariX(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/safarix/js.json
-
 Package: com.sini.savephotos
 Version: 1.1
 Architecture: iphoneos-arm64
@@ -4031,24 +3997,6 @@ Author: Skitty & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/morecomplications.png
 Name: MoreComplications(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/morecomplications/js.json
-
-Package: com.sini921.notificationsgroupcount
-Version: 1.0.6
-Architecture: iphoneos-arm64
-Maintainer: 0xkuj & SINI
-Installed-Size: 528
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.notificationsgroupcount_1.0.6_iphoneos-arm64.deb
-Size: 88476
-MD5sum: 1cda99d804c7b03bb2f61014cd87ee35
-SHA1: 9ce83c9a6adffa158365afd1284a718fba87ed54
-SHA256: 10d91b2a01c7f6fcc0cab27338ce10775320bf6d8f0e1192e06d25203516f083
-Section: 越狱插件
-Description: 锁屏界面的通知分组后以角标显示每组通知数量。使用开源代码编译并汉化
-Author: 0xkuj & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/notificationsgroupcount.png
-Name: NotificationsGroupCount(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/notificationsgroupcount/js.json
 
 Package: com.sini921.ntonia2forsnapper3
 Version: 1.0.4
