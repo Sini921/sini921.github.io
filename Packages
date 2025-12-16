@@ -1096,23 +1096,6 @@ Author: Wes <wes.hamster@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/cornbar.png
 Name: CornBar(rootless)
 
-Package: com.sini.crane
-Version: 1.3.14-6
-Architecture: iphoneos-arm64
-Maintainer: opa334
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>= 1.0.5), com.opa334.libsandy, com.opa334.libundirect (>= 1.1.4) | firmware (<< 14.0)
-Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices, com.opa334.crane
-Filename: rootless/com.sini.crane_1.3.14-6_iphoneos-arm64.deb
-Size: 571424
-MD5sum: 32625e5df7eae230b11464d7c81a1fa4
-SHA1: 6343fd5ce64dde036200c09d6518e2a09b73bd54
-SHA256: 74976f962532fd2ad403bf3d3c23f23fcc44f23039ef9742ee3a75fd510bdaca
-Section: 越狱插件
-Description: 仅备份。请支持正版。
-Author: opa334
-Icon: https://sini921.github.io/repo/sileodepiction/icon/crane.png
-Name: Crane(rootless)
-
 Package: com.sini.daynightswitch
 Version: 1.2
 Architecture: iphoneos-arm64
