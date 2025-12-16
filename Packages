@@ -1608,44 +1608,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: IconOrder(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/iconorder/js.json
 
-Package: com.sini.instalauncher2
-Version: 1.11.0
-Architecture: iphoneos-arm64
-Maintainer: sini921
-Installed-Size: 1188
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Conflicts: com.jontelang.instalauncher2.beta
-Filename: rootless/com.sini.instalauncher2_1.11.0_iphoneos-arm64.deb
-Size: 204892
-MD5sum: afd9d59343a698e3c43fcbf37dafc598
-SHA1: e33b21f6afc0b7be682b29e28f24b5672320ed84
-SHA256: cf21087ac847086b8fc42e13fed82fcb5a1a4949f99a53f007662b3176b93bd9
-Section: 越狱插件
-Description: 快捷打开App，侧面呼出菜单
-Author: Jonathan Winger
-Icon: https://sini921.github.io/repo/sileodepiction/icon/cebian.png
-Name: InstaLauncher 2(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/cebian/js.json
-Sponsor: sini921
-
-Package: com.sini.jade
-Version: 1.0.5
-Architecture: iphoneos-arm64
-Maintainer: Nightwind & thetimeloop
-Installed-Size: 1502
-Depends: mobilesubstrate (>= 0.9.5000), com.opa334.ccsupport, com.mrgcgamer.libgcuniversal, preferenceloader, firmware (>= 15.0)
-Filename: rootless/com.sini.jade_1.0.5_iphoneos-arm64.deb
-Size: 308008
-MD5sum: a694267ab4f5fca9b82b6246a879ad46
-SHA1: 123055f04a475d8d3e8ebaa83b8a84cf8ee2c71e
-SHA256: 601598bb10e4156b603916aaac509ac6b5299d5647498bd3804bdb728a304b7e
-Section: 控制中心
-Description: 控制中心
-Author: Nightwind & thetimeloop
-Icon: https://sini921.github.io/repo/sileodepiction/icon/jade.png
-Name: Jade(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/jade/js.json
-
 Package: com.sini.jpyj
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -1751,22 +1713,6 @@ Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/kugou.png
 Name: kugouNoAds(rootless)
 
-Package: com.sini.kuku
-Version: 1.5
-Architecture: iphoneos-arm64
-Maintainer: b4db1r3
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal, ws.hbang.common (>= 1.17)
-Filename: rootless/com.sini.kuku_1.5_iphoneos-arm64.deb
-Size: 254576
-MD5sum: 7162274a0ca4307258409dfc73f6379c
-SHA1: 22f254ec19d2d0ba6a3b9ea345114c9ce869bc51
-SHA256: 3f29a05b4068d6fbbeac4a713eac56058b6a20bfeba5ddbe61d584e2ed0b2a9c
-Section: 越狱插件
-Description: 自定义通知横幅
-Author: b4db1r3
-Icon: https://sini921.github.io/repo/sileodepiction/icon/kuku.png
-Name: KuKu Reborn(rootless)
-
 Package: com.sini.lazycursor
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -1860,24 +1806,6 @@ Author: MrDeNsor
 Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: LockTouchX(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/locktouchx/js.json
-
-Package: com.sini.lynxtwo
-Version: 2.5.4
-Architecture: iphoneos-arm64
-Maintainer: MTAC
-Installed-Size: 2952
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
-Filename: rootless/com.sini.lynxtwo_2.5.4_iphoneos-arm64.deb
-Size: 676832
-MD5sum: 248fa274bd5cc624ab56315a5920686c
-SHA1: c15d23fca30b8411a3295751c786412f9a57748a
-SHA256: 38f29cd6c18284b6322f8e51f896ca26cc620e1562319adc1df9801938251c13
-Section: 越狱插件
-Description: 大杂烩
-Author: MTAC
-Icon: https://sini921.github.io/repo/sileodepiction/icon/lynxtwo.png
-Name: Lynx 2(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/lynxtwo/js.json
 
 Package: com.sini.magsafe
 Version: 1.0.4
@@ -2647,24 +2575,6 @@ Author: Jonathan Winger-lang
 Icon: https://sini921.github.io/repo/sileodepiction/icon/sn3.png
 Name: Snapper 2(rootless)
 
-Package: com.sini.snapper3
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: CyPwn
-Depends: mobilesubstrate, firmware(>=15.0), preferenceloader
-Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33, xyz.cypwn.snapper3
-Filename: rootless/com.sini.snapper3_1.0.2_iphoneos-arm64.deb
-Size: 912204
-MD5sum: 56559e8730fce3f683dd43d2b4032a56
-SHA1: e64138130f44262a01625f280a8a3eec897003c6
-SHA256: 64e5dae7193deec655696522050b00a4db18a1b45ebb0760a6ef639264cabf76
-Section: 越狱插件
-Description: snapper3破解版
-Author: Jonathan Winger-lang
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sn3.png
-Name: Snapper 3(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/sn3/js.json
-
 Package: com.sini.sneakycam
 Version: 2.0.7
 Architecture: iphoneos-arm64
@@ -2751,23 +2661,6 @@ Author: 0xkuj
 Icon: https://sini921.github.io/repo/sileodepiction/icon/staypro.png
 Name: Stay Pro(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/staypro/js.json
-
-Package: com.sini.stella
-Version: 1.1.5
-Architecture: iphoneos-arm64
-Maintainer: yan & 刀刀
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
-Filename: rootless/com.sini.stella_1.1.5_iphoneos-arm64.deb
-Size: 400916
-MD5sum: 23b0370aba1d56905ec7e2fec820a8e3
-SHA1: bd1f0812b66848a927c74d0bcb92fb4db154da4b
-SHA256: f35e70b3a900e828068a72d7508a6ac26eb67c9e44a81b073093214ea7d0a79a
-Section: 越狱插件
-Description: 2003年的第一场雪，比2002年来的稍季伯晚了一些
-Author: yan
-Icon: https://sini921.github.io/repo/sileodepiction/icon/stella.png
-Name: Stella(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/stella/js.json
 
 Package: com.sini.stepup
 Version: 1.2
@@ -3926,24 +3819,6 @@ Author: Soh Satoh & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
 Name: FreePIP(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
-
-Package: com.sini921.griddy
-Version: 1.0.5-1
-Architecture: iphoneos-arm64
-Maintainer: mikifp & SINI
-Installed-Size: 428
-Depends: mobilesubstrate
-Filename: rootless/com.sini921.griddy_1.0.5-1_iphoneos-arm64.deb
-Size: 43644
-MD5sum: ac228633c4105c7c1879e53866b57174
-SHA1: c3641af9bc4e3ea9190129ce640e4830cfb1aae9
-SHA256: 877935cc54405f7e6b0688e62dc719d406b19c6e144bbd463432fe61dccafd58
-Section: 越狱插件
-Description: 将桌面图标放在任何你想要的地方！
-Author: mikifp & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/griddy.png
-Name: Griddy(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/griddy/js.json
 
 Package: com.sini921.indicators
 Version: 1.2-17
@@ -5162,24 +5037,6 @@ Author: Soh Satoh & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/freepip.png
 Name: FreePIP(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/freepip/js.json
-
-Package: com.sini921.griddy
-Version: 1.0.5-1
-Architecture: iphoneos-arm64e
-Maintainer: mikifp & SINI
-Installed-Size: 428
-Depends: mobilesubstrate
-Filename: roothide/com.sini921.griddy_1.0.5-1_iphoneos-arm64e.deb
-Size: 42008
-MD5sum: 7fdc6806552fff707200b33c6347c417
-SHA1: 04ea6e3a20a80c3c12ccd1a09630f4715f786775
-SHA256: 5c8736893018ed2dd38687dd2abd73a3c88ada4b65666fb8500ce185b4c9978b
-Section: 越狱插件
-Description: 将桌面图标放在任何你想要的地方！
-Author: mikifp & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/griddy.png
-Name: Griddy(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/griddy/js.json
 
 Package: com.sini921.indicators
 Version: 1.2-17
