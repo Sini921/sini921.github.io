@@ -32,24 +32,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Name: libCSPreferences(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/libcspreferences/js.json
 
-Package: com.hitori.misaki
-Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: Hitori <mikasa-san@outlook.jp>
-Installed-Size: 1049
-Depends: mobilesubstrate, preferenceloader, ws.hbang.alderis
-Filename: rootless/com.hitori.misaki_2.2_iphoneos-arm64.deb
-Size: 306372
-MD5sum: 50e5e37a9b8ce78d666f9f8d83ac6b33
-SHA1: bb2bee5050b6e203be219ef0f5810ef57d088888
-SHA256: 17d4d7026ab58037eaaba7941ae1d548d9c7067d7eeb2ae89c025fe45e9bddf7
-Section: 越狱插件
-Description: 大杂烩
-Author: Hitori <mikasa-san@outlook.jp>
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/misaki/js.json
-Icon: https://sini921.github.io/repo/sileodepiction/icon/misaki.png
-Name: Misaki(rootless)
-
 Package: com.lclrc.hammerit
 Version: 1.7.1
 Architecture: iphoneos-arm64
@@ -3762,24 +3744,6 @@ Author: Traurige & neilsardesai & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/batterybuddy.png
 Name: BatteryBuddy(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/batterybuddy/js.json
-
-Package: com.sini921.callmemaybe
-Version: 1.0.1
-Architecture: iphoneos-arm64
-Maintainer: dvntm & SINI
-Installed-Size: 300
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.callmemaybe_1.0.1_iphoneos-arm64.deb
-Size: 71520
-MD5sum: ee2b425292c175ee059deb9f0c44dfa5
-SHA1: 90d1f083b0fe23c01b6303387430bb1dc6699b7c
-SHA256: 013cc7f9aeed7a721858ec06df9ccf505681b5573bf6bf0ec2c18a13a9415644
-Section: 越狱插件
-Description: 电话增强
-Author: dvntm & SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/callmemaybe.png
-Name: CallMeMaybe(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/callmemaybe/js.json
 
 Package: com.sini921.ccborder
 Version: 1.1.2-25
