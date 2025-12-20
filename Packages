@@ -4183,10 +4183,10 @@ Maintainer: SINI
 Installed-Size: 572
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini921.quickpowerbutton_0.0.1-32_iphoneos-arm64.deb
-Size: 66544
-MD5sum: b129f6540198ebaae20f2c7dc8ddc835
-SHA1: 36052a480da72a2a9ced5bc19fa1f7a38f333975
-SHA256: e76a18e10fd8aec2baa90581a44eff598bd40834a02c120b9d4e38526d424100
+Size: 67226
+MD5sum: c2c328dde7cbb5acad63772f15edd69e
+SHA1: 7b6921edd580cb70660a1077bce13e3ee0bd7fd8
+SHA256: 59e75869393ba8c7d1df1fddf7e249b9919bea9f8010eabf64e95728839d0ea5
 Section: 越狱插件
 Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
 Author: SINI
@@ -4309,10 +4309,10 @@ Maintainer: SINI
 Installed-Size: 472
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini921.zoomanimation_0.0.1-13_iphoneos-arm64.deb
-Size: 58176
-MD5sum: a082de968d0485ac09ab2a76b0c9369e
-SHA1: 263493b7e322cd303af7a99c3d2d515e43a9061d
-SHA256: 773e3ac543488b016331d1edfce4abeef330bb970235faa719c130afdc73986b
+Size: 58480
+MD5sum: 27b656331e67c14969b85111d4ced68f
+SHA1: 866c013a902bb25ed6d4fb82f66367007f0180fa
+SHA256: ee1d242812cd54da0f18e62fe5f44b7362ff351f65b7695ff2b6e8b4f4af4fc1
 Section: 越狱插件
 Description: 桌面动画，可选动画样式，调节动画幅度。
 Author: SINI
@@ -5383,10 +5383,10 @@ Maintainer: SINI
 Installed-Size: 568
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/com.sini921.quickpowerbutton_0.0.1-32_iphoneos-arm64e.deb
-Size: 64748
-MD5sum: 30c6bf0d772afd59fc1436425d38c875
-SHA1: cc133b22980c8c8a0939cd1a3ce23e463d9ea25b
-SHA256: 452c4e90724dc669d3d98ca3316e9bd31e0b31e09b690aaa755cf42caeb23752
+Size: 65470
+MD5sum: a9f6ff54bea89ce7c056d4bdbb94997d
+SHA1: efaecf34dbab3ac6bb7155123dfaf96b5f4a70eb
+SHA256: f65ce52f0786aed60f7da9eaa1f48a418406122165f32fb9a9c1d435f2baf53b
 Section: 越狱插件
 Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
 Author: SINI
@@ -5401,10 +5401,10 @@ Maintainer: SINI
 Installed-Size: 472
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/com.sini921.zoomanimation_0.0.1-13_iphoneos-arm64e.deb
-Size: 57254
-MD5sum: 8c21a714954c680ac428df73bc876f78
-SHA1: d58b3baa0e08aa8f7fb23056b5ef65a17d931e22
-SHA256: 075ab0df8bbcde7228a02c49e97943fe2d4ccf362b9209d896a486ace4a7fb3f
+Size: 57472
+MD5sum: 4cee6f0bcf5b1d81a2f92d3bd59831bd
+SHA1: 76426fd4792662256a8e512c182aa1f5e4669e4a
+SHA256: d9214ec40e4e628c4a23d4aef73482ecde8993ae9d5c3ea8890bbcc5dabdb748
 Section: 越狱插件
 Description: 桌面动画，可选动画样式，调节动画幅度。
 Author: SINI
