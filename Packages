@@ -4309,10 +4309,10 @@ Maintainer: SINI
 Installed-Size: 472
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini921.zoomanimation_0.0.1-13_iphoneos-arm64.deb
-Size: 59242
-MD5sum: 5a1321bb1103c1112b6b9d9f9dea060e
-SHA1: 7780e6a6004d600b76d02e7bcf71fa341fc26d14
-SHA256: 417c91795118485e4f93e1f69a10d9fc62d70ca68564ab3196c9cfd54960880e
+Size: 59212
+MD5sum: a471264eb159daa5afdc1e57610af043
+SHA1: 73228dfb24570769d6417437db6b94a6a4c13015
+SHA256: 54e6a712d84c122c6be054266532f51ba7154eefedd0da4757a0e5c2495b2025
 Section: 越狱插件
 Description: 桌面动画，可选动画样式，调节动画幅度。
 Author: SINI
@@ -5401,10 +5401,10 @@ Maintainer: SINI
 Installed-Size: 472
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/com.sini921.zoomanimation_0.0.1-13_iphoneos-arm64e.deb
-Size: 58136
-MD5sum: 03fadda7e200d1675e6d4bdadc603e57
-SHA1: 299540adfd574b1f0413b041f16a924d1b7c1691
-SHA256: 824b070b7fc27c0d0ab1ddef143a81b4d540518f64f7503201af3717a11c4bef
+Size: 58158
+MD5sum: 82a5875cc36102553848de204b5a4682
+SHA1: 873927e4de10d0d2a8c5b42e296335af944e6a03
+SHA256: 4178d19c7be5cead5f109a2b295e7639afc9372341ee7e4fd7d6a89de2ff559d
 Section: 越狱插件
 Description: 桌面动画，可选动画样式，调节动画幅度。
 Author: SINI
