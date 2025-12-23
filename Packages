@@ -667,6 +667,24 @@ Author: x✨
 Icon: https://sini921.github.io/repo/sileodepiction/icon/bddt.png
 Name: 百度地图优化(rootless)
 
+Package: com.sini.baiduhook
+Version: 1.5.5
+Architecture: iphoneos-arm64
+Maintainer: ylr <ylr638058@gmail.com>
+Installed-Size: 92
+Depends: mobilesubstrate,firmware (>= 14.0)
+Filename: rootless/com.sini.baiduhook_1.5.5_iphoneos-arm64.deb
+Size: 10604
+MD5sum: 8be17d4a01dd6778d4e97d8e240103ec
+SHA1: c3d3f076559be315a91700606d4b8ba25c76768d
+SHA256: 270ff3f3e92249a590788e3e676adc34a80aada79015f6522ee20e6378863556
+Section: 应用破解
+Description: 百度去开屏以及添加导出按钮，ylr制作投稿
+Author: ylr <ylr638058@gmail.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/baiduhook.png
+Name: 百度去开屏及导出按钮(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/baiduhook/js.json
+
 Package: com.sini.baidunetdiskoutput
 Version: 1.0.1K
 Architecture: iphoneos-arm64
@@ -4309,10 +4327,10 @@ Maintainer: SINI
 Installed-Size: 472
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini921.zoomanimation_0.0.1-13_iphoneos-arm64.deb
-Size: 59212
-MD5sum: a471264eb159daa5afdc1e57610af043
-SHA1: 73228dfb24570769d6417437db6b94a6a4c13015
-SHA256: 54e6a712d84c122c6be054266532f51ba7154eefedd0da4757a0e5c2495b2025
+Size: 59290
+MD5sum: 371438c06cd2226781c4ef2c8b9612a1
+SHA1: 44fd00e2a48b8d5914d7641da678032c1c0b8dc6
+SHA256: 16e510c409d207386e61854c1fb495239298bc3b1950ff9a0e2a0d2724992f49
 Section: 越狱插件
 Description: 桌面动画，可选动画样式，调节动画幅度。
 Author: SINI
@@ -5401,10 +5419,10 @@ Maintainer: SINI
 Installed-Size: 472
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/com.sini921.zoomanimation_0.0.1-13_iphoneos-arm64e.deb
-Size: 58158
-MD5sum: 82a5875cc36102553848de204b5a4682
-SHA1: 873927e4de10d0d2a8c5b42e296335af944e6a03
-SHA256: 4178d19c7be5cead5f109a2b295e7639afc9372341ee7e4fd7d6a89de2ff559d
+Size: 58282
+MD5sum: 5ae2c04fc8c66b356f29ea02c10f3c2c
+SHA1: 29f422c30ad99843fa25a28309940c8fd482d096
+SHA256: d2eac176c89e3418bbffd8ac48fc96ee3d68584137951ea22cccbee8f39b3c71
 Section: 越狱插件
 Description: 桌面动画，可选动画样式，调节动画幅度。
 Author: SINI
