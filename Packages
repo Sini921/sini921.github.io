@@ -1361,16 +1361,16 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dynamic.png
 Name: DynamicStage 简体中文包(rootless)
 
 Package: com.sini.dyyy
-Version: 2.2-8-build1593
+Version: 2.2-8-build1595
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 2584
+Installed-Size: 2004
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.dyyy_2.2-8-build1593_iphoneos-arm64.deb
-Size: 525116
-MD5sum: 34adc1d447c86842cfbfaed8ed828e02
-SHA1: 186c56bcd1cfa0c0e0f6d9557802851eba025a16
-SHA256: 4af7319f1dab4fb5aa1f45942f848a515ded2f86eac8c3631343e3bb1a003803
+Filename: rootless/com.sini.dyyy_2.2-8-build1595_iphoneos-arm64.deb
+Size: 435824
+MD5sum: 1c4d05064a9539dfc98f7bd64f2451be
+SHA1: f35e5f42f364d9860b626c8e3978cf9e3fdfd544
+SHA256: d5f323e2c12dad4b1bf4e18cc44e560e60631134fd0f3facc17da6790d4ae199
 Section: 应用破解
 Priority: optional
 Description: 仅供学习交流，请在 24 小时内自觉删除。
@@ -4857,16 +4857,16 @@ Name: DayNightSwitch(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/daynightswitch/js.json
 
 Package: com.sini.dyyy
-Version: 2.2-8-build1593
+Version: 2.2-8-build1595
 Architecture: iphoneos-arm64e
 Maintainer: huami
-Installed-Size: 2584
+Installed-Size: 2004
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini.dyyy_2.2-8-build1593_iphoneos-arm64e.deb
-Size: 526296
-MD5sum: 06c9e83687f0e438d0333c8379055a1b
-SHA1: 43dd18553f66f5f62ed12844100bd03dfe6d4cd0
-SHA256: 200e85f4a3c290b14bb2a51080b18e26ed177c7d7958b478bf3d9386983cc487
+Filename: roothide/com.sini.dyyy_2.2-8-build1595_iphoneos-arm64e.deb
+Size: 434780
+MD5sum: b0627c1890f6f9930b6ed2e28c97e5b7
+SHA1: 644aca8f54bc02aba5d5dc0be9e4b9834bda9bf8
+SHA256: 49e6afd275640d5385bce97fb6338a5e1a949662c08eb65a1e0919c1c86ca260
 Section: 应用破解
 Priority: optional
 Description: 仅供学习交流，请在 24 小时内自觉删除。
