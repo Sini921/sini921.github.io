@@ -3690,23 +3690,23 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/zgltadkiiler.png
 Name: ZGLTAdKiller(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zgltadkiiler/js.json
 
-Package: com.sini.zhihuadkiller
-Version: 1.5.5-1
+Package: com.sini.zhhook
+Version: 1.5.5
 Architecture: iphoneos-arm64
-Maintainer: ylr <ylr275536387>
-Installed-Size: 168
+Maintainer: ylr
+Installed-Size: 204
 Depends: mobilesubstrate,firmware (>= 14.0)
-Filename: rootless/com.sini.zhihuadkiller_1.5.5-1_iphoneos-arm64.deb
-Size: 12472
-MD5sum: 00faef1673e904b213801e908332f559
-SHA1: a34e478017ee564ceb7a0f5eeec75320b2997f02
-SHA256: 1149aad8aa38f0f4f3401de22f7cbc783aebaf26ecf93f7e31dc16b19ce7b0b3
+Filename: rootless/com.sini.zhhook_1.5.5_iphoneos-arm64.deb
+Size: 22660
+MD5sum: 57cb5921c61ac1ac694ffe1ff7b1ce4e
+SHA1: cc2b59e1bd143dd3b1700961a01e1b6754bad1e6
+SHA256: bfbd071fb5396d45d118e216eebdaa81ed63cd5e988dc306e8772ff02bd9131e
 Section: 应用破解
-Description: 知乎去开屏且秒进主页面，完美版底栏透明！
-Author: ylr <ylr275536387>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/zhihuadkiller.png
-Name: ZhiHuadKiller(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/zhihuadkiller/js.json
+Description: 知乎默认去开屏、推荐页、详情页广告及底栏按钮隐藏。 长按底栏呼出 调试版本10.75
+Author: ylr
+Icon: https://sini921.github.io/repo/sileodepiction/icon/zhhook.png
+Name: 知乎广告与按钮(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/zhhook/js.json
 
 Package: com.sini921.appstoretroller
 Version: 0.1.2-5
