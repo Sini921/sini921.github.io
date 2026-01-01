@@ -2189,15 +2189,15 @@ Name: PicsewPro(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/picsewpro/js.json
 
 Package: com.sini.pkc.rootless
-Version: 0.8-5
+Version: 0.8-6
 Architecture: iphoneos-arm64
 Maintainer: curtinlv@126.com
 Depends: firmware (>= 5.0)
-Filename: rootless/com.sini.pkc.rootless_0.8-5_iphoneos-arm64.deb
-Size: 977328
-MD5sum: bccccfb7ee31f5eee0b79095b36983e9
-SHA1: 97910ab3ed68f1e2fd38e90011b3358a83206081
-SHA256: 74b25c171368b662b0e3a8112a017f9151487632db4178d6292ced68558e133a
+Filename: rootless/com.sini.pkc.rootless_0.8-6_iphoneos-arm64.deb
+Size: 975380
+MD5sum: d08ec2096abde4394b9e5de57c06eaf8
+SHA1: 0657e11a4cb6cfdccce3d4e573514059582daa49
+SHA256: 35b6a93b27857210bd333a88898bdd1ff9aa6a67258be51ad6ce4b9bfa0fcde2
 Section: 微信插件
 Priority: optional
 Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
