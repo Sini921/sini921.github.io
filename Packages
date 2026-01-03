@@ -1360,6 +1360,25 @@ Author: 妖刀
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dynamic.png
 Name: DynamicStage 简体中文包(rootless)
 
+Package: com.sini.dyyy
+Version: 2.2-8-build1600
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2004
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini.dyyy_2.2-8-build1600_iphoneos-arm64.deb
+Size: 435408
+MD5sum: 077bda67261281351c78e5a3f61d017f
+SHA1: ff279c7c2792a006f7dc2eb99d0ab4f271300ee0
+SHA256: 0771a95a058516636460ec85bee16058ac6bf88faf2b9b4c5bc8b2158cbfc6ae
+Section: 应用破解
+Priority: optional
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
+Name: DYYY(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
+
 Package: com.sini.easynotifications
 Version: 3.0
 Architecture: iphoneos-arm64
@@ -4301,26 +4320,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/zoomanimation.png
 Name: ZoomAnimation(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zoomanimation/js.json
 
-Package: com.sinj.dyyy
-Version: 2.2-8-build1597
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 2004
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sinj.dyyy_2.2-8-build1597_iphoneos-arm64.deb
-Size: 435372
-MD5sum: d28073e663d6c7174f7255db5de46608
-SHA1: 1feff103c9879ca27ddd5a2481d193ae16b803bb
-SHA256: 03c2f30afbdaa91a6d9f584bc4a62b7c50ff0f19e60a2e9d8acac9d45867233f
-Section: 应用破解
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
-Name: DYYY(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
-
 Package: com.spark.snowboard
 Version: 1.5.37-Beta4-rootless
 Architecture: iphoneos-arm64
@@ -4856,6 +4855,25 @@ Author: Finn Gaida
 Icon: https://sini921.github.io/repo/sileodepiction/icon/daynightswitch.png
 Name: DayNightSwitch(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/daynightswitch/js.json
+
+Package: com.sini.dyyy
+Version: 2.2-8-build1600
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 2004
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: roothide/com.sini.dyyy_2.2-8-build1600_iphoneos-arm64e.deb
+Size: 435924
+MD5sum: dfbcee91f6471e89cec18805f2ffdea2
+SHA1: b675cf05aa314ba97e945d654d9b444f48f4da46
+SHA256: 0718d556183bdd6fd06c77f1e8971ebf9ddb2ed44f9424cb644aaebe600fe780
+Section: 应用破解
+Priority: optional
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
+Name: DYYY(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
 
 Package: com.sini.fixset
 Version: 1.1
@@ -5393,24 +5411,4 @@ Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/zoomanimation.png
 Name: ZoomAnimation(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zoomanimation/js.json
-
-Package: com.sinj.dyyy
-Version: 2.2-8-build1597
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 2004
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sinj.dyyy_2.2-8-build1597_iphoneos-arm64e.deb
-Size: 434744
-MD5sum: 14e85b3b4a32abf3f823384c52c014aa
-SHA1: 77f63525d94a1dff560f288a8362fbc1bfc0ced9
-SHA256: 3dce36bf49b9673c6deb1376d5577c12d80cb4551e6410ad6dca12570aebf04c
-Section: 应用破解
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
-Name: DYYY(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
 
