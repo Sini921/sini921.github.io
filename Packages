@@ -3762,6 +3762,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/atria.png
 Name: Atria(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/atria/js.json
 
+Package: com.sini921.autounlocked
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini921.autounlocked_0.0.1_iphoneos-arm64.deb
+Size: 2582
+MD5sum: 055cf3c0098d0f8ecf6f8eba6877369b
+SHA1: 9fd263b69e8cf812ff675425082eed0a10172b38
+SHA256: 9bda907f267880a596b70c1ef4bb364c0bc60025bad3b793cb63af00583b9d2a
+Section: 越狱插件
+Description: 面容ID解锁成功后自动进入桌面，开源地址https://github.com/Sini921/Autounlocked
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: Autounlocked(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/autounlocked/js.json
+
 Package: com.sini921.batterybuddy
 Version: 1.3.5-14
 Architecture: iphoneos-arm64
@@ -5051,6 +5069,24 @@ Author: ren7995 & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/atria.png
 Name: Atria(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/atria/js.json
+
+Package: com.sini921.autounlocked
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/com.sini921.autounlocked_0.0.1_iphoneos-arm64e.deb
+Size: 2510
+MD5sum: fa503dedf493508960231b558f33ef53
+SHA1: d6aff5d1c6cb022cd0ff76acd5ee7f72d2348def
+SHA256: bec3d8d85a4b848a81a7ba8901d492ebd171676c54b6217591409e32e19b88e3
+Section: 越狱插件
+Description: 面容ID解锁成功后自动进入桌面，开源地址https://github.com/Sini921/Autounlocked
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: Autounlocked(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/autounlocked/js.json
 
 Package: com.sini921.batterybuddy
 Version: 1.3.5-14
