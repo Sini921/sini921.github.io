@@ -2975,15 +2975,15 @@ Name: TGExtraFE(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/tgextra/js.json
 
 Package: com.sini.themebox
-Version: 2.2.1
+Version: 2.2.2
 Architecture: iphoneos-arm64
 Maintainer: WeChat
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.themebox_2.2.1_iphoneos-arm64.deb
-Size: 4808096
-MD5sum: 03d180c37741ecb2a9581acb26f4a5c5
-SHA1: a95185b6a3fcc979840a35daf89a91bb5a82c3f6
-SHA256: a243bfa3735b11cbe39b5d7c0739cd3aa176082b24b7786a6a5dd1715f109e0e
+Filename: rootless/com.sini.themebox_2.2.2_iphoneos-arm64.deb
+Size: 4963840
+MD5sum: 6cb35fff0413b03d438c7456b73f7b98
+SHA1: adb08b5f1b5392e6e7656e031b072e622f523684
+SHA256: b345d333c7a331187c5a71bef2ce135dc86b28534c3cf034f40edf1e4fc5e402
 Section: 微信插件
 Description: 微信主题盒子
 Author: WeChat
