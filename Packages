@@ -3654,6 +3654,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/ysbrowserhook.png
 Name: 亚瑟浏览器Pro(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ysbrowserhook/js.json
 
+Package: com.sini.ytlite
+Version: 5.2b4
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 16732
+Depends: mobilesubstrate
+Filename: rootless/com.sini.ytlite_5.2b4_iphoneos-arm64.deb
+Size: 6416432
+MD5sum: 1c2894ef9ecaddc27660f85c85bf9dfb
+SHA1: 296e90ba39e628143a861ee20a5dbcd16cac0e45
+SHA256: 625762d49431e42e66631f0bc5498eecaca71393c081555b80f448f0bf82edf7
+Section: 应用破解
+Description: 轻量级YouTube增强
+Author: dvntm
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ytlite.png
+Name: YTLite(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ytlite/js.json
+
 Package: com.sini.yuki
 Version: 0.0-9
 Architecture: iphoneos-arm64
@@ -5032,6 +5050,24 @@ Author: xuegao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/xxuegao.png
 Name: 小雪糕(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/xxuegao/js.json
+
+Package: com.sini.ytlite
+Version: 5.2b4
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 16732
+Depends: mobilesubstrate
+Filename: roothide/com.sini.ytlite_5.2b4_iphoneos-arm64e.deb
+Size: 6417844
+MD5sum: 73811bf50c0cb48b7a56dd0fa9286b2f
+SHA1: 266cf1382e63ecef3bf0bb399286f8e5f9a50c90
+SHA256: 10258f5cafdbdbaa13d47d1cc9fb63e6a44120640f6ba30529b6214029bb8f6e
+Section: 应用破解
+Description: 轻量级YouTube增强
+Author: dvntm
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ytlite.png
+Name: YTLite(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ytlite/js.json
 
 Package: com.sini.yuki
 Version: 0.0-9
