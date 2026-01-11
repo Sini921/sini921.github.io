@@ -4266,6 +4266,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sn3.png
 Name: snapper3杀马特版(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/smtforsnapper3/js.json
 
+Package: com.sini921.springboardstyledark
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini921.springboardstyledark_0.0.1_iphoneos-arm64.deb
+Size: 3102
+MD5sum: 226bc9e61691ccd94345e7a99456b764
+SHA1: a07663fba5658a9057169e94b0d41807173bf791
+SHA256: e9bee96986e98d10e1b9a4b7c93f4c529ca762880aa7ce6e6760c2480a3bc21b
+Section: 越狱插件
+Description: 将SpringBoard设置为固定深色模式
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: SpringBoardStyleDark(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/springboardstyledark/js.json
+
 Package: com.sini921.textforsnapper3
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -5447,6 +5465,24 @@ Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
 Name: QuickPowerButton(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickpowerbutton/js.json
+
+Package: com.sini921.springboardstyledark
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/com.sini921.springboardstyledark_0.0.1_iphoneos-arm64e.deb
+Size: 3040
+MD5sum: 2e3a642ae8bde5a9efe65cf98f4307d6
+SHA1: 557bff291b8343e4f5abf23a36ef4277d295e694
+SHA256: f761eae51254f39e9532dd6a5bc15257bbecd8be21165bca505eae4b179e4a50
+Section: 越狱插件
+Description: 将SpringBoard设置为固定深色模式
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: SpringBoardStyleDark(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/springboardstyledark/js.json
 
 Package: com.sini921.zoomanimation
 Version: 0.0.1-13
