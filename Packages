@@ -3769,10 +3769,10 @@ Maintainer: SINI
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini921.autounlocked_0.0.1_iphoneos-arm64.deb
-Size: 2582
-MD5sum: 055cf3c0098d0f8ecf6f8eba6877369b
-SHA1: 9fd263b69e8cf812ff675425082eed0a10172b38
-SHA256: 9bda907f267880a596b70c1ef4bb364c0bc60025bad3b793cb63af00583b9d2a
+Size: 2600
+MD5sum: 31d5455b566e5102a230756fdec36b41
+SHA1: 452decced002e7a8276c93d6a74870771dda01ee
+SHA256: 1ebeb6923665d5fa2fa046845a8b4be9c6012962a2095ab6f79268709fe94978
 Section: 越狱插件
 Description: 面容ID解锁成功后自动进入桌面，开源地址https://github.com/Sini921/Autounlocked
 Author: SINI
@@ -5077,10 +5077,10 @@ Maintainer: SINI
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/com.sini921.autounlocked_0.0.1_iphoneos-arm64e.deb
-Size: 2510
-MD5sum: fa503dedf493508960231b558f33ef53
-SHA1: d6aff5d1c6cb022cd0ff76acd5ee7f72d2348def
-SHA256: bec3d8d85a4b848a81a7ba8901d492ebd171676c54b6217591409e32e19b88e3
+Size: 2534
+MD5sum: 4a45e8abc0dabb5fa90bc72d3cf53763
+SHA1: 7edad3ef7a26418f605d8c583a959700126b8563
+SHA256: 8aa60bbaa969e8fa939e3b98772015b74ed27d81130f5474b57d4b08478052e2
 Section: 越狱插件
 Description: 面容ID解锁成功后自动进入桌面，开源地址https://github.com/Sini921/Autounlocked
 Author: SINI
