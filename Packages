@@ -4248,6 +4248,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
 Name: QuickPowerButton(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickpowerbutton/js.json
 
+Package: com.sini921.removequickactionsbutton
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini921.removequickactionsbutton_0.0.1_iphoneos-arm64.deb
+Size: 2596
+MD5sum: bc82d33a1d58379e99162345ea15380b
+SHA1: c16ec4784d9c7c8f012a17519c04dae8a600df1c
+SHA256: f596c4882bccc85b629e23ecec76a89538041fe040dfdfe2cbf79727afa99c67
+Section: 越狱插件
+Description: 隐藏锁屏界面的相机与手电筒
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: RemoveQuickActionsButton(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/removequickactionsbutton/js.json
+
 Package: com.sini921.showmytouches
 Version: 1.2.1
 Architecture: iphoneos-arm64
@@ -5501,6 +5519,24 @@ Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
 Name: QuickPowerButton(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickpowerbutton/js.json
+
+Package: com.sini921.removequickactionsbutton
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/com.sini921.removequickactionsbutton_0.0.1_iphoneos-arm64e.deb
+Size: 2524
+MD5sum: 595d1ad04749b6a780ba70ebc7fb775c
+SHA1: df6e5b60e71d3d9263e1f550a21a946e47d09b6d
+SHA256: 7d0e6e0169e8dc37f74839e8f37eb79e43f850a2610f2737f9b6e3bdc0167477
+Section: 越狱插件
+Description: 隐藏锁屏界面的相机与手电筒
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: RemoveQuickActionsButton(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/removequickactionsbutton/js.json
 
 Package: com.sini921.springboardstyledark
 Version: 0.0.1
