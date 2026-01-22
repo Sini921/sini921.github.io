@@ -1820,25 +1820,6 @@ Author: b4db1r3
 Icon: https://sini921.github.io/repo/sileodepiction/icon/kuku.png
 Name: KuKu Reborn(rootless)
 
-Package: com.sini.lazycursor
-Version: 1.0.3
-Architecture: iphoneos-arm64
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 385
-Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, org.thebigboss.libcolorpicker
-Filename: rootless/com.sini.lazycursor_1.0.3_iphoneos-arm64.deb
-Size: 39600
-MD5sum: fd261c2160079bdf1904bcd3cd61edb3
-SHA1: 6430c7098fc5bae60d0a9b8b0cc73aa355678ab3
-SHA256: d41e71e1b72a1d9aaeb2c37ad9e9af63244b456cba9098571c1c103d472f6939
-Section: 越狱插件
-Priority: optional
-Description: 输入框光标移除闪烁动画，自定义光标颜色等。
-Author: CydiaGeek <lucaluca86@aol.com>
-Icon: https://sini921.github.io/repo/sileodepiction/icon/lazy.png
-Name: LazyCursor(rootless)
-Sponsor: thebigboss.org <http://thebigboss.org>
-
 Package: com.sini.leftpan.rootless
 Version: 1.0-6
 Architecture: iphoneos-arm64
@@ -2663,24 +2644,6 @@ Author: Netskao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: SmallBanners(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/smallbanners/js.json
-
-Package: com.sini.smoothcursorios13
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: PoomSmart
-Installed-Size: 168
-Depends: mobilesubstrate, firmware (>= 6.0)
-Conflicts: org.thebigboss.smoothcursor
-Filename: rootless/com.sini.smoothcursorios13_0.0.1_iphoneos-arm64.deb
-Size: 3160
-MD5sum: 73a7455c7e45ef1ebd43c55b56cc9d75
-SHA1: 90dbe19a7e811f1027df5638e601f66ed4bb463a
-SHA256: 545406bd432fced8b6c738931486ebc8e4f38b13a24c55091e4441119dc0168d
-Section: 越狱插件
-Description: Office 2013风格的光标动画
-Author: PoomSmart
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: SmoothCursor(rootless)
 
 Package: com.sini.snapper2
 Version: 2.7.0
@@ -3924,6 +3887,24 @@ Author: NoisyFlake & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/cozybadges.png
 Name: CozyBadges(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cozybadges/js.json
+
+Package: com.sini921.cursorpro
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 452
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini921.cursorpro_0.0.1-1_iphoneos-arm64.deb
+Size: 52650
+MD5sum: 9cd5fd9875828d6a975d922af7ae38e6
+SHA1: 3e80848e7fbdef965063028a2f9adde9ffabf26c
+SHA256: 443ed260806b2ab0bb9f33daa2669608734999b2fa3d20bbaf09d131a1950747
+Section: 越狱插件
+Description: 光标简单优化
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cursorpro.png
+Name: CursorPro(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cursorpro/js.json
 
 Package: com.sini921.cylinderreborn
 Version: 1.1.2-4
@@ -5250,6 +5231,24 @@ Author: NoisyFlake & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/cozybadges.png
 Name: CozyBadges(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cozybadges/js.json
+
+Package: com.sini921.cursorpro
+Version: 0.0.1-1
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 452
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/com.sini921.cursorpro_0.0.1-1_iphoneos-arm64e.deb
+Size: 50704
+MD5sum: 01ee6adc48e8fbc704f9842bb3989904
+SHA1: bfb4fd6997dca24dc258453f552461c0af2d034a
+SHA256: 267dc904a29c6bac8992107f1da270afe1afaeeeaefb0dc8cb3799b55ef494a9
+Section: 越狱插件
+Description: 光标简单优化
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cursorpro.png
+Name: CursorPro(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cursorpro/js.json
 
 Package: com.sini921.cylinderreborn
 Version: 1.1.2-4
