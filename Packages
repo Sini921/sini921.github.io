@@ -3889,16 +3889,16 @@ Name: CozyBadges(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cozybadges/js.json
 
 Package: com.sini921.cursorpro
-Version: 0.0.1-1
+Version: 0.0.1-2
 Architecture: iphoneos-arm64
 Maintainer: SINI
-Installed-Size: 452
+Installed-Size: 456
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.cursorpro_0.0.1-1_iphoneos-arm64.deb
-Size: 52650
-MD5sum: 9cd5fd9875828d6a975d922af7ae38e6
-SHA1: 3e80848e7fbdef965063028a2f9adde9ffabf26c
-SHA256: 443ed260806b2ab0bb9f33daa2669608734999b2fa3d20bbaf09d131a1950747
+Filename: rootless/com.sini921.cursorpro_0.0.1-2_iphoneos-arm64.deb
+Size: 53600
+MD5sum: aac303db99fc9a96f6b9d417a48c2e17
+SHA1: 959451dbfc87f6d16a7e608605c9933875154abd
+SHA256: 5dae08b59dfa285e38e9c7af7bf2a41672ace12d70de1bb96079277e9def90c6
 Section: 越狱插件
 Description: 光标简单优化
 Author: SINI
@@ -5233,16 +5233,16 @@ Name: CozyBadges(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cozybadges/js.json
 
 Package: com.sini921.cursorpro
-Version: 0.0.1-1
+Version: 0.0.1-2
 Architecture: iphoneos-arm64e
 Maintainer: SINI
 Installed-Size: 452
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.cursorpro_0.0.1-1_iphoneos-arm64e.deb
-Size: 50704
-MD5sum: 01ee6adc48e8fbc704f9842bb3989904
-SHA1: bfb4fd6997dca24dc258453f552461c0af2d034a
-SHA256: 267dc904a29c6bac8992107f1da270afe1afaeeeaefb0dc8cb3799b55ef494a9
+Filename: roothide/com.sini921.cursorpro_0.0.1-2_iphoneos-arm64e.deb
+Size: 51686
+MD5sum: 182a1664779b2cb38404fd957c1c2623
+SHA1: d25adb5c697ab6d26b5654e565e472fca0730a04
+SHA256: 1e8b364ae7e945bc51176a0e87d5b88efc92effb68767b734141f5e499324cc6
 Section: 越狱插件
 Description: 光标简单优化
 Author: SINI
