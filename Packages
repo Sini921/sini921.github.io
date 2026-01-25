@@ -50,24 +50,6 @@ Sileodepiction: https://sini921.github.io/repo/sileodepiction/misaki/js.json
 Icon: https://sini921.github.io/repo/sileodepiction/icon/misaki.png
 Name: Misaki(rootless)
 
-Package: com.huami.WCPulse
-Version: 1.3-7
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 1868
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.huami.WCPulse_1.3-7_iphoneos-arm64.deb
-Size: 396440
-MD5sum: 0906a6f73744392470fb2a1d9413fa6c
-SHA1: 5ac2fa4bca0f0b180bd8928299a887663dbcea4c
-SHA256: 5f2564f8148c3768402efe0fae4e60cf2495116a3e9c853b2a40be95735b566b
-Section: 微信插件
-Description: WCPulse
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPulse.png
-Name: WCPulse(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPulse/js.json
-
 Package: com.lclrc.hammerit
 Version: 1.7.1
 Architecture: iphoneos-arm64
@@ -259,6 +241,24 @@ Author: huami&Lxcloud
 Icon: https://sini921.github.io/repo/sileodepiction/icon/WCEhance.png
 Name: 微信增强(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
+
+Package: com.sini.WCPulse
+Version: 1.3-7
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 1868
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.WCPulse_1.3-7_iphoneos-arm64.deb
+Size: 397228
+MD5sum: dc17c5d6ef7dbe921c1e0dacafcba67f
+SHA1: ac0e8b6967f029ff3a390b9d6119a9d84a0df77b
+SHA256: 278f4b96cff59afaa26cfbc9d14b6663baa34c437a0745bdd45e57468aff693c
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPulse.png
+Name: WCPulse(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPulse/js.json
 
 Package: com.sini.WCRefine
 Version: 1.2-1
@@ -4727,24 +4727,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Name: uncar(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/uncar/js.json
 
-Package: com.huami.WCPulse
-Version: 1.3-7
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 1868
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.huami.WCPulse_1.3-7_iphoneos-arm64e.deb
-Size: 396904
-MD5sum: 508bb8410cc929940a47456da201e36d
-SHA1: 1468adae657c185ebe298a69b233a6cca2b37ce3
-SHA256: a288455e190e74302f4e9d4a088d1840ec4fb3313723ef03857abfb800af0e03
-Section: 微信插件
-Description: WCPulse
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPulse.png
-Name: WCPulse(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPulse/js.json
-
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.7.0
 Architecture: iphoneos-arm64e
@@ -4783,6 +4765,24 @@ Author: huami&Lxcloud
 Icon: https://sini921.github.io/repo/sileodepiction/icon/WCEhance.png
 Name: 微信增强(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
+
+Package: com.sini.WCPulse
+Version: 1.3-7
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 1868
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/com.sini.WCPulse_1.3-7_iphoneos-arm64e.deb
+Size: 397016
+MD5sum: bedfe327b6fd274047f2b5ab88ebab63
+SHA1: 9734720ec01741a0bd00dce32c1b1588bbd921ee
+SHA256: de14b3ee3e3848e3ef84b5b393bd5f44f751980a74641d4cf6d33d54e79c795b
+Section: 微信插件
+Description: WCPulse
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/WCPulse.png
+Name: WCPulse(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPulse/js.json
 
 Package: com.sini.ccautobrightness
 Version: 1.0.0-1
