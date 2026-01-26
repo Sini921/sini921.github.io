@@ -3924,6 +3924,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
 Name: CylinderReborn(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cylinderreborn/js.json
 
+Package: com.sini921.disabledlockscreenmedia
+Version: 0.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini921.disabledlockscreenmedia_0.0.1-1_iphoneos-arm64.deb
+Size: 3014
+MD5sum: 926aabde02eef7e527c7ac4b6f65641a
+SHA1: da28cea86f1a81afc8a778d776038b0f0da93df1
+SHA256: 2b4e5aedae99cd5253101893ea1841a5f3cbe7a0337f2c86e8797a175be6ca6f
+Section: 越狱插件
+Description: 禁用锁屏界面的媒体控件，安装立即生效，无需注销
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: DisabledLockScreenMedia(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/disabledlockscreenmedia/js.json
+
 Package: com.sini921.donut
 Version: 0.0.1-2
 Architecture: iphoneos-arm64
@@ -5267,6 +5285,24 @@ Author: Ryan Nair & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
 Name: CylinderReborn(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cylinderreborn/js.json
+
+Package: com.sini921.disabledlockscreenmedia
+Version: 0.0.1-1
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: roothide/com.sini921.disabledlockscreenmedia_0.0.1-1_iphoneos-arm64e.deb
+Size: 2936
+MD5sum: 4d29fc921a2db16ae4ee8d18f2eb4615
+SHA1: b0a8183929a8c5163ee9518d3a8711ef3a9fa9fc
+SHA256: a5ddf4cfaea69e68f3542323671c8fd8d0b55edb17e9edbb667222a022ede17f
+Section: 越狱插件
+Description: 禁用锁屏界面的媒体控件，安装立即生效，无需注销
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
+Name: DisabledLockScreenMedia(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/disabledlockscreenmedia/js.json
 
 Package: com.sini921.disabledwarning
 Version: 0.0.1
