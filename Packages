@@ -5305,18 +5305,18 @@ Name: DisabledLockScreenMedia(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/disabledlockscreenmedia/js.json
 
 Package: com.sini921.disabledwarning
-Version: 0.0.1
+Version: 0.0.1-2
 Architecture: iphoneos-arm64e
 Maintainer: SINI
 Installed-Size: 168
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.disabledwarning_0.0.1_iphoneos-arm64e.deb
-Size: 3394
-MD5sum: a034f88dd56bc6f11dfd37b2965c134e
-SHA1: 52df98356acd20b018b8bb6373eddd39fe482cd2
-SHA256: 93c471b2110adec3e1d04eee7bd87712f6ec4e6773d8055378e4ba14b83976bd
+Filename: roothide/com.sini921.disabledwarning_0.0.1-2_iphoneos-arm64e.deb
+Size: 3442
+MD5sum: 24532e1b0e77d804cae93ee14ee5190b
+SHA1: 87e17eba522d9bff8a7a41e236c22808324f8637
+SHA256: ddc938891b8656fb9190eafa715f9a82a9361ba710529ea1980ae2c06b73fef3
 Section: 越狱插件
-Description: RootHideInject(白名单)每次打开都让我卸载openssh，所以去掉这个警告弹窗
+Description: RootHide(黑名单)与RootHideInject(白名单)每次打开都让我卸载openssh，卸载是不可能卸载的，所以去掉这个警告弹窗
 Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/disabledwarning.png
 Name: DisabledWarning(roothide)
