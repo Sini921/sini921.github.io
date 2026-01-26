@@ -3924,24 +3924,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
 Name: CylinderReborn(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cylinderreborn/js.json
 
-Package: com.sini921.disabledlockscreenmedia
-Version: 0.0.1-1
-Architecture: iphoneos-arm64
-Maintainer: SINI
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.disabledlockscreenmedia_0.0.1-1_iphoneos-arm64.deb
-Size: 3014
-MD5sum: 926aabde02eef7e527c7ac4b6f65641a
-SHA1: da28cea86f1a81afc8a778d776038b0f0da93df1
-SHA256: 2b4e5aedae99cd5253101893ea1841a5f3cbe7a0337f2c86e8797a175be6ca6f
-Section: 越狱插件
-Description: 禁用锁屏界面的媒体控件，安装立即生效，无需注销
-Author: SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: DisabledLockScreenMedia(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/disabledlockscreenmedia/js.json
-
 Package: com.sini921.donut
 Version: 0.0.1-2
 Architecture: iphoneos-arm64
@@ -4230,16 +4212,16 @@ Name: QuickAppsKill(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickappskill/js.json
 
 Package: com.sini921.quickpowerbutton
-Version: 0.0.1-32
+Version: 0.0.1-33
 Architecture: iphoneos-arm64
 Maintainer: SINI
-Installed-Size: 572
+Installed-Size: 600
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.quickpowerbutton_0.0.1-32_iphoneos-arm64.deb
-Size: 67226
-MD5sum: c2c328dde7cbb5acad63772f15edd69e
-SHA1: 7b6921edd580cb70660a1077bce13e3ee0bd7fd8
-SHA256: 59e75869393ba8c7d1df1fddf7e249b9919bea9f8010eabf64e95728839d0ea5
+Filename: rootless/com.sini921.quickpowerbutton_0.0.1-33_iphoneos-arm64.deb
+Size: 88248
+MD5sum: 4ded372a7e6263413e04513d6b2d6eb0
+SHA1: 443bf55d4c89bc320bfccab8653383672c8f129c
+SHA256: b88980c13598fb8e4f0c9b8a822e34d0fa4e71b0a242605ab0c1bcfd8e30f36b
 Section: 越狱插件
 Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
 Author: SINI
@@ -5286,24 +5268,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
 Name: CylinderReborn(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cylinderreborn/js.json
 
-Package: com.sini921.disabledlockscreenmedia
-Version: 0.0.1-1
-Architecture: iphoneos-arm64e
-Maintainer: SINI
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.disabledlockscreenmedia_0.0.1-1_iphoneos-arm64e.deb
-Size: 2936
-MD5sum: 4d29fc921a2db16ae4ee8d18f2eb4615
-SHA1: b0a8183929a8c5163ee9518d3a8711ef3a9fa9fc
-SHA256: a5ddf4cfaea69e68f3542323671c8fd8d0b55edb17e9edbb667222a022ede17f
-Section: 越狱插件
-Description: 禁用锁屏界面的媒体控件，安装立即生效，无需注销
-Author: SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: DisabledLockScreenMedia(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/disabledlockscreenmedia/js.json
-
 Package: com.sini921.disabledwarning
 Version: 0.0.1-2
 Architecture: iphoneos-arm64e
@@ -5556,16 +5520,16 @@ Name: QuickAppsKill(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickappskill/js.json
 
 Package: com.sini921.quickpowerbutton
-Version: 0.0.1-32
+Version: 0.0.1-33
 Architecture: iphoneos-arm64e
 Maintainer: SINI
-Installed-Size: 568
+Installed-Size: 600
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.quickpowerbutton_0.0.1-32_iphoneos-arm64e.deb
-Size: 65470
-MD5sum: a9f6ff54bea89ce7c056d4bdbb94997d
-SHA1: efaecf34dbab3ac6bb7155123dfaf96b5f4a70eb
-SHA256: f65ce52f0786aed60f7da9eaa1f48a418406122165f32fb9a9c1d435f2baf53b
+Filename: roothide/com.sini921.quickpowerbutton_0.0.1-33_iphoneos-arm64e.deb
+Size: 86298
+MD5sum: c0201f54e48adb4092783746dd05a8d8
+SHA1: 070bc3b0dadd45a7b75faf333f40fd413acc3314
+SHA256: c0142fb36d2ab7d652edcff43349cfc355a7b625fa62db9ce8786dcc117c20b9
 Section: 越狱插件
 Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
 Author: SINI
