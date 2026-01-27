@@ -4212,16 +4212,16 @@ Name: QuickAppsKill(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickappskill/js.json
 
 Package: com.sini921.quickpowerbutton
-Version: 0.0.1-35
+Version: 0.0.1-36
 Architecture: iphoneos-arm64
 Maintainer: SINI
-Installed-Size: 600
+Installed-Size: 620
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.quickpowerbutton_0.0.1-35_iphoneos-arm64.deb
-Size: 88044
-MD5sum: bcb2973a19d61374500140f01fe5b2a1
-SHA1: 51de1cbf9d48f269212ce3b37d93634c4dc5b373
-SHA256: 209b9f97cc1a523698fbcd06cedce2bc547f52b10dbab99380e44b51f77686c7
+Filename: rootless/com.sini921.quickpowerbutton_0.0.1-36_iphoneos-arm64.deb
+Size: 91964
+MD5sum: 8ebf7eb8912dd250ab78388aafe4fe6b
+SHA1: 364b813fb9d3e6abf0128f558389e136f332a855
+SHA256: 99aa39b130eb7d3486db29d2f99599c88ed08f22ab2fdf117447bcc8eaf2c240
 Section: 越狱插件
 Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
 Author: SINI
@@ -5520,16 +5520,16 @@ Name: QuickAppsKill(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickappskill/js.json
 
 Package: com.sini921.quickpowerbutton
-Version: 0.0.1-35
+Version: 0.0.1-36
 Architecture: iphoneos-arm64e
 Maintainer: SINI
 Installed-Size: 600
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.quickpowerbutton_0.0.1-35_iphoneos-arm64e.deb
-Size: 86486
-MD5sum: d5efbe309975dfc11d27750c89eef272
-SHA1: 698de957dd04fa73fe4c66639463f201d82be1a0
-SHA256: 967286c00e34c581787fa49d9c7086eac1c6ff585f7317fc7690ce379b07c57b
+Filename: roothide/com.sini921.quickpowerbutton_0.0.1-36_iphoneos-arm64e.deb
+Size: 89044
+MD5sum: bc4dda1a9280e938a9510e5f8264c165
+SHA1: 27a1459b1ea622f3d145800ab2aacdb5a0eae675
+SHA256: 1600942cf9d47c957b7494a4428195bbeb1c6352654eb86c8506e06926015424
 Section: 越狱插件
 Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
 Author: SINI
