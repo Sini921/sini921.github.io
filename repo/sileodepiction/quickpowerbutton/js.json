@@ -65,7 +65,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0.1-37",
+                    "text": "0.0.1-38",
                     "title": "版本"
                 },
                 {
@@ -94,7 +94,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 0.0.1-37\n- 修复16系统上的所有问题",
+                    "markdown": "#### 版本: 0.0.1-38\n- 修复16系统上的所有问题",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
