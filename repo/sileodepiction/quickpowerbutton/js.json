@@ -65,7 +65,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0.1-33",
+                    "text": "0.0.1-34",
                     "title": "版本"
                 },
                 {
@@ -94,7 +94,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 0.0.1-33\n- 改进了隐藏锁屏界面媒体播放器功能，现已支持iOS15，如果正在使用这个功能，更新后需要关掉重新打开一次，不需要注销",
+                    "markdown": "#### 版本: 0.0.1-34\n- 改进了隐藏锁屏界面媒体播放器功能，现已支持iOS15，如果正在使用这个功能，更新后需要关掉重新打开一次，不需要注销",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
