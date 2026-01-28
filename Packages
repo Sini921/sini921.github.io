@@ -1487,6 +1487,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/flexlist.png
 Name: FLEXList(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/flexlist/js.json
 
+Package: com.sini.flexloader
+Version: 5.25.19-1
+Architecture: iphoneos-arm64
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 3080
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: rootless/com.sini.flexloader_5.25.19-1_iphoneos-arm64.deb
+Size: 670172
+MD5sum: f823a00e1eb14b5cfc2a9d176c4dc95a
+SHA1: 845296ea1c48afbdab12324f70e53957da3e970f
+SHA256: 1731e98cf06b031912e9e8cfef55a8404e921aa751cec4b56691a03305fe86ec
+Section: 越狱插件
+Description: Flex 用于 iOS 开发调试工具
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/flexloader.png
+Name: FlexLoader(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/flexloader/js.json
+
 Package: com.sini.flora
 Version: 1.1.3
 Architecture: iphoneos-arm64
@@ -4964,6 +4982,24 @@ Author: @bswbw
 Icon: https://sini921.github.io/repo/sileodepiction/icon/fixset.png
 Name: FixSet(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/fixset/js.json
+
+Package: com.sini.flexloader
+Version: 5.25.19-1
+Architecture: iphoneos-arm64e
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 3080
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: roothide/com.sini.flexloader_5.25.19-1_iphoneos-arm64e.deb
+Size: 669976
+MD5sum: ce00235198edd4ee45090af01046bf01
+SHA1: 70aa7b6c3f885e2ab3262ae6bdfc83e4b991d0d8
+SHA256: 1576f7372d3fbe7dd3c11f745166de70323ef24875754933c5efb11c298461ae
+Section: 越狱插件
+Description: Flex 用于 iOS 开发调试工具
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Icon: https://sini921.github.io/repo/sileodepiction/icon/flexloader.png
+Name: FlexLoader(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/flexloader/js.json
 
 Package: com.sini.kayoko
 Version: 2.9
