@@ -243,16 +243,16 @@ Name: 微信增强(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
 
 Package: com.sini.WCPulse
-Version: 1.3-8
+Version: 1.3-9
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 1900
+Installed-Size: 2160
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.WCPulse_1.3-8_iphoneos-arm64.deb
-Size: 404684
-MD5sum: 65dc425c0f410d28c237309855fef91a
-SHA1: 91a0e84f06f6ba5c308afb7a54558d9c975d02a4
-SHA256: 461b4542caf3325df41b37b48fea9f0e5784a23e61ea490770ebe0d5d517537e
+Filename: rootless/com.sini.WCPulse_1.3-9_iphoneos-arm64.deb
+Size: 469916
+MD5sum: 696cf2298358ccc46cfe2de4b033050a
+SHA1: a7f443e361a05d95d577f172c25072e50218010d
+SHA256: 1d29bd1041db92e233e744fdc43d04e45e3e44ad0c63faeec1fa0b754c8980ea
 Section: 微信插件
 Description: WCPulse
 Author: huami
@@ -4786,16 +4786,16 @@ Name: 微信增强(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
 
 Package: com.sini.WCPulse
-Version: 1.3-8
+Version: 1.3-9
 Architecture: iphoneos-arm64e
 Maintainer: huami
-Installed-Size: 1900
+Installed-Size: 2160
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini.WCPulse_1.3-8_iphoneos-arm64e.deb
-Size: 405344
-MD5sum: 66331b3b004a28b9bd31aa280a2516f1
-SHA1: 685bab5ed1dc47f330eae4ab3c521b6fd703de54
-SHA256: 225d993e6447a9a49e90998e013f51d6784d5214a1b584a69cb681c8624b58c7
+Filename: roothide/com.sini.WCPulse_1.3-9_iphoneos-arm64e.deb
+Size: 470224
+MD5sum: 6b5b38a36b7aeb8f2520cf895bf62438
+SHA1: 8d669ec5a1924ab1bd4e2618e1d339f4fd9d72e9
+SHA256: 7ea3f76785c7f7d3b4ba3fbf1c475826ebefea9b9d214ec877c41e7276f13777
 Section: 微信插件
 Description: WCPulse
 Author: huami
