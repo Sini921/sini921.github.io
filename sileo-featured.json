@@ -10,15 +10,15 @@
             "hideShadow": true
         },
         {
-            "url": "http://sini921.github.io/repo/images/quickpowerbutton.png",
-            "title": "QuickPowerButton",
-            "package":"com.sini921.quickpowerbutton",
-            "hideShadow": true
-        },
-        {
             "url": "http://sini921.github.io/repo/images/folderpro.png",
             "title": "FolderPro",
             "package":"com.sini921.folderpro",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/quickpowerbutton.png",
+            "title": "QuickPowerButton",
+            "package":"com.sini921.quickpowerbutton",
             "hideShadow": true
         },
         {
@@ -97,6 +97,12 @@
             "url": "http://sini921.github.io/repo/images/freepip.png",
             "title": "FreePIP",
             "package":"com.sini921.freepip",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/pscamera.png",
+            "title": "PSCamera",
+            "package":"com.sini921.pscamera",
             "hideShadow": true
         },
         {

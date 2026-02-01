@@ -4177,18 +4177,18 @@ Name: Ntoniaforsnapper3(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ntoniaforsnapper3/js.json
 
 Package: com.sini921.pscamera
-Version: 0.0.1-4
+Version: 0.0.1-5
 Architecture: iphoneos-arm64
 Maintainer: PoomSmart & SINI
-Installed-Size: 472
+Installed-Size: 600
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.pscamera_0.0.1-4_iphoneos-arm64.deb
-Size: 60694
-MD5sum: 03e34c911353c0296c3b9255f48a8449
-SHA1: 9a1b3d3bc8085af61d83b5ed0142a10d586831da
-SHA256: 60d067f31f1280689f177ff73c5d8e38240847995ea54e78885940db02d853e9
+Filename: rootless/com.sini921.pscamera_0.0.1-5_iphoneos-arm64.deb
+Size: 122896
+MD5sum: e96b49a69f84b37103e5496fac2482c1
+SHA1: 6fdcc53631a7f69416be930658c0503bc9444a69
+SHA256: 9123b2f3db1fe7566738361b1d476284bc1fe904f1c66b4642088d8d9dedef87
 Section: 越狱插件
-Description: 对PoomSmart大神的5个系统相机插件的代码进行了合并，避免我自己有时找不到某个插件的尴尬场景。
+Description: 系统相机App简单优化，使用了一些PoomSmart的开源代码
 Author: PoomSmart & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/pscamera.png
 Name: PSCamera(rootless)
@@ -5503,18 +5503,18 @@ Name: MoreComplications(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/morecomplications/js.json
 
 Package: com.sini921.pscamera
-Version: 0.0.1-4
+Version: 0.0.1-5
 Architecture: iphoneos-arm64e
 Maintainer: PoomSmart & SINI
-Installed-Size: 472
+Installed-Size: 600
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.pscamera_0.0.1-4_iphoneos-arm64e.deb
-Size: 59684
-MD5sum: b67a09bbcff0dc07d8e81b60b4902b18
-SHA1: ab3a723331384b88fa4fc3bac07e1c14360634ea
-SHA256: aa4cc86ab993e838b31a86cc3cc269728cc437ee1fd56121addd410b6da15e2c
+Filename: roothide/com.sini921.pscamera_0.0.1-5_iphoneos-arm64e.deb
+Size: 121704
+MD5sum: 203a46ae95d24c59ea9556d9caeb8ae5
+SHA1: 00d289053f8386e236d13d632cbc63faf869f369
+SHA256: 42f77686aed3be157274826087eab7ff87f7baf87e4174c7a2f048907c48be94
 Section: 越狱插件
-Description: 对PoomSmart大神的5个系统相机插件的代码进行了合并，避免我自己有时找不到某个插件的尴尬场景。
+Description: 系统相机App简单优化，使用了一些PoomSmart的开源代码
 Author: PoomSmart & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/pscamera.png
 Name: PSCamera(roothide)
