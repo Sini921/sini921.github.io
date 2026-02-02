@@ -1361,18 +1361,19 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dynamic.png
 Name: DynamicStage 简体中文包(rootless)
 
 Package: com.sini.dyyy
-Version: 2.2-9-build1619
+Version: 2.2-9-build1629
 Architecture: iphoneos-arm64
 Maintainer: huami
 Installed-Size: 2036
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.dyyy_2.2-9-build1619_iphoneos-arm64.deb
-Size: 438472
-MD5sum: 80ea221e10be0048aa85aeb66939602b
-SHA1: b3cede41e582c6bd7725b95b406ac525ad17a8cd
-SHA256: 66e568a24372c964e5490e2d4abb251be36d824d8738e3ed51946eb95cc68fc6
+Filename: rootless/com.sini.dyyy_2.2-9-build1629_iphoneos-arm64.deb
+Size: 437780
+MD5sum: 07923b7d13c6afea9330d6bf49a204eb
+SHA1: 1231f912c33be445661d10ffcda55e8fb6ee1a3a
+SHA256: 106348eb46b9864a9019f106f3cc3c0933028599d4adadf85cc414a5fc5ea74b
 Section: 应用破解
 Priority: optional
+Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
@@ -4947,18 +4948,19 @@ Name: DayNightSwitch(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/daynightswitch/js.json
 
 Package: com.sini.dyyy
-Version: 2.2-9-build1619
+Version: 2.2-9-build1629
 Architecture: iphoneos-arm64e
 Maintainer: huami
 Installed-Size: 2036
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini.dyyy_2.2-9-build1619_iphoneos-arm64e.deb
-Size: 438020
-MD5sum: d060bcfe3ab7af1226a2dc17a484aed7
-SHA1: be6dc59467f2d028dfbce66809f092748a5ebf7c
-SHA256: 555a3495c678c86f4c5f1c4d81fa744478a5bcb4c8b1826b9df317b3cdcf9efc
+Filename: roothide/com.sini.dyyy_2.2-9-build1629_iphoneos-arm64e.deb
+Size: 438580
+MD5sum: 43a04d9f4f379a1e760dea9cef179738
+SHA1: 09903a731341578200ad8d7df1cb0517047d8d81
+SHA256: 44ff35b8b45d1a68bb68cfab9455f087db61e7a4cf6f6379a584f3d117643b55
 Section: 应用破解
 Priority: optional
+Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
 Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
