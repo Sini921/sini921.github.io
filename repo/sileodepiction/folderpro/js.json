@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0.1-27",
+                    "text": "0.0.1-28",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026年01月22日",
+                    "text": "2026年02月05日",
                     "title": "更新日期"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.0.1-28\n- 自定义展开标题功能新增水平位置调节\n- 新增文件夹展开后的毛玻璃背景上下左右长度调节\n- 因为新增了毛玻璃背景的调节，不在需要底部填补内容，所以删除了文件夹展开后底部占位标签功能",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
