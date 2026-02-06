@@ -426,6 +426,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/appdata.png
 Name: AppData(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/appdata/js.json
 
+Package: com.sini.appdata
+Version: 1.4.5
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 5188
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: rootless/com.sini.appdata_1.4.5_iphoneos-arm64.deb
+Size: 1493664
+MD5sum: 7705adaedb11729846f002f1f60e93b7
+SHA1: f27c14ae79518db073f72ef2ec4b961b0867f636
+SHA256: 514dc3e3a04efbe406555022ffc1fa25d9d3a80eef36b9fe1b1e9013f25727ce
+Section: 越狱插件
+Description: 从主屏幕查看和管理应用数据
+Author: Fouad Raheb
+Icon: https://sini921.github.io/repo/sileodepiction/icon/appdata.png
+Name: AppData(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/appdata/js.json
+
 Package: com.sini.applecard
 Version: 0.1
 Architecture: iphoneos-arm64
