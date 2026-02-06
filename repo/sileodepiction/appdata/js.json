@@ -17,7 +17,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 越狱必装插件\n- 可设置桌面图标上滑、下滑、长按呼出菜单\n- 快捷跳转路径",
+                    "markdown": "## 描述\n- 越狱必装插件\n- 可设置桌面图标上滑、下滑、长按呼出\n- 清理缓存，应用程序升降级，快捷跳转路径等",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
