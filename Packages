@@ -4039,16 +4039,16 @@ Name: FakeSignalBar(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakesignalbar/js.json
 
 Package: com.sini921.folderpro
-Version: 0.0.1-28
+Version: 0.0.1-29
 Architecture: iphoneos-arm64
 Maintainer: SINI
-Installed-Size: 660
+Installed-Size: 644
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.folderpro_0.0.1-28_iphoneos-arm64.deb
-Size: 96368
-MD5sum: c39521fc5fa0ddd0125a2c018ed4df7c
-SHA1: 1f367f2ce8def8243943135dea8f70b97eced5c8
-SHA256: 70e5f1cbcfd2418cebc6eaa92907c4e0cda7777393b0addf0c66bfbf9bb68f5c
+Filename: rootless/com.sini921.folderpro_0.0.1-29_iphoneos-arm64.deb
+Size: 96406
+MD5sum: 69f89c676f6acc3bce289ed74ed2f7cd
+SHA1: ae99bce0ea8501b7e72d7632c1bb2d62a867a3b8
+SHA256: 73f87962107bacf103740744285a9d7d613825cb6fe183ff8c7529dd70088a76
 Section: 越狱插件
 Description: 文件夹简单优化
 Author: SINI
@@ -5420,16 +5420,16 @@ Name: FakeSignalBar(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/fakesignalbar/js.json
 
 Package: com.sini921.folderpro
-Version: 0.0.1-28
+Version: 0.0.1-29
 Architecture: iphoneos-arm64e
 Maintainer: SINI
-Installed-Size: 660
+Installed-Size: 644
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.folderpro_0.0.1-28_iphoneos-arm64e.deb
-Size: 95136
-MD5sum: ef145808eee517c28c8d635410bbe63b
-SHA1: fe8c5733e3b5eb477396af595111202d3fef033a
-SHA256: 3b9529e7dab5b99564ffe20cebb751e4b7ce6040c2cec336a0b9048e8fa0ed09
+Filename: roothide/com.sini921.folderpro_0.0.1-29_iphoneos-arm64e.deb
+Size: 95078
+MD5sum: 732c4a28790a5d40cbe69014b804f261
+SHA1: 0f22919a74bdef9d2844f4115fb2b417ca07d7ae
+SHA256: 494824f6f91aa62de93ea0f27f458a6c2fc408a1673aab41e48775fddce03310
 Section: 越狱插件
 Description: 文件夹简单优化
 Author: SINI
