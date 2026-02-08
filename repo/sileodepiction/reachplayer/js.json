@@ -1,0 +1,304 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://sini921.github.io/repo/images/reachplayer.png",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "插件介绍",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/jibozhijia",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 描述\n- 便捷访问美化\n- 在便捷访问模式上方空白处添加音乐控件\n- 基于原作者@ETHN的开源优化编译\n- 感谢@鲨了个鱼的帮助",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "截图",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{160, 346}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/reachplayer/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/reachplayer/Screenshot_02.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/reachplayer/Screenshot_03.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/reachplayer/Screenshot_04.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/reachplayer/Screenshot_05.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "其他",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "ETHN & SINI & 鲨鱼",
+                    "title": "作者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2.25-1",
+                    "title": "版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2025年06月19日",
+                    "title": "更新日期"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS15.0-iOS16.6.1",
+                    "title": "支持的系统"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/jibozhijia",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.25-1\n- 原生的下滑打开与上滑关闭现在分开控制，自行行选择使用或禁用哪个手势。\n- 新增仅允许自定手势，启用后除了本插件中的自定义手势与原生手势，任何方法都无法启用便捷访问，旨在彻底干掉误触。注意：缺点是启用此开关后乌贼手势也无法打开便捷访问，使用乌贼手势调用便捷访问的不要开启这个。\n- 滑块再次优化，优化滑块单元格布局，加减按钮新增长按持续加/减数值。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.24-2\n- 修复了一些问题\n- 优化了一些代码\n- 改进了一些细节",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.24-1\n- 修复roothide无法加载bundle的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.23-5\n- 新增一个刷新配置按钮，替换配置文件或者删除配置文件以后，点击则立即刷新实际效果，不用在反复注销",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.23-3\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.23-2\n- 优化设置项内容\n- 改进了一些代码，优化了一些细节，提升了执行效率",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.23-1\n- 其他设置新增隐藏锁屏播放器",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.22-2\n- 这个源主很懒\n- 懒得写更新日志",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.22-1\n- 新增歌曲信息背景自定义颜色与透明度。\n- 滑块更新，新增加减号以方便微调，步进数为1，点击滑块右侧数值可直接输入数值，相关代码由@lhh提供，感谢贡献。\n- 从这个版本开始，原生支持arm64e，不在需要用rootless包转换，roothide用户不在卑微。\n- 可能解决了一些设备反应发热的问题。\n- 优化了一些代码，改进了一些细节。",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.21-2\n- 新增桌面缩放动画\n- 新增歌曲进度条\n- 优化了一些代码，改进了一些细节",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.20-2\n- 加回旧版粒子(个人认为太丑所以删了，没想到有人喜欢)，群友强烈要求\n- 修改部分设置项中的素材，素材来自老野和某位季伯，感谢！",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.20-1\n- 新增粒子发射器",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.19-6\n- 优化了一些代码，改进了一些细节",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.19-5\n- 新增歌曲信息大小自定义\n- 新增控制按钮大小自定义\n- 必须搭配他们的整体大小一起调整，否则可能会出现显示不全的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.18-20\n- 新增歌曲信息颜色自定义\n- 新增控制按钮颜色自定义\n- 修正部分标题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.18-9\n- 重新分类设置项，方便后续加功能\n- 多项设置项改版，新增更多自定义\n- 启用手势新增长按锁屏键\n- 新增歌曲信息自定义，可以自由设置显示哪些信息\n- 歌曲信息新增两个滑块，现在可随意单独调歌曲信息位置\n- 新增歌曲信息毛玻璃背景\n- 修复自定义路径跳转不了的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.17-8\n- 新增单击状态栏，长按状态栏，左滑、右滑状态栏等启用手势\n- 恢复系统原本的底部启用便捷访问的滑动手势逻辑(解决偶尔呼出失灵的问题)以及顶部单击、上滑关闭便捷访问手势\n- 新增禁用点击关闭便捷访问开关\n- 箭头透明度新增开关\n- 其他设置新增上一首、下一首、播放暂停等按钮自定义\n- 其他设置中的背景高度滑块移动至布局设置最下面",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.15-3\n- 修复有些设备无法去相册选择图片的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.14-7\n- 新增两个跳转路径\n- 新增禁用底部手势\n- 优化了一些代码\n- 改进了一些细节",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.13-28\n- 新增专辑封面、图片背景自定义\n- 新增唱片、唱针相关自定义\n- 新增跳转至插件目录",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.12-11\n- 新增专辑封面相关选项，新增5种封面预设",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 2.11-14\n- 新增圆形专辑\n- 新增专辑旋转动画\n- 新增黑胶唱片模式\n- 新增图片背景模式\n- 新增多项自定义，增加自由度",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "本源公告",
+            "views": [
+                {
+                    "text": "点此加入我们的装逼撩骚群",
+                    "action": "https://t.me/jibozhijia",
+                    "openExternal": 1,
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "## 季伯之家源:\n- 本源仅为搬运一些自已常用的插件方便自用以及学习交流测试备份\n- 源内插件均来自互联网\n- 安装以后请于24小时内删除\n- 安装以后出现异常与本源无关\n- 如有冒犯，请联系我指定下架某个插件\n- 季伯奥迪哥",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                }
+            ]
+        }
+    ],
+}

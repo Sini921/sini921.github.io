@@ -1,0 +1,151 @@
+{
+    "class": "FeaturedBannersView",
+    "itemSize": "{263, 148}",
+    "itemCornerRadius":10,
+    "banners": [
+        {
+            "url": "http://sini921.github.io/repo/images/zoomanimation.png",
+            "title": "ZoomAnimation",
+            "package":"com.sini921.zoomanimation",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/folderpro.png",
+            "title": "FolderPro",
+            "package":"com.sini921.folderpro",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/quickpowerbutton.png",
+            "title": "QuickPowerButton",
+            "package":"com.sini921.quickpowerbutton",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/donut.png",
+            "title": "Donut",
+            "package":"com.sini921.donut",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/quickappskill.png",
+            "title": "QuickAppsKill",
+            "package":"com.sini921.quickappskill",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/indicators.png",
+            "title": "Indicators",
+            "package":"com.sini921.indicators",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/ccborder.png",
+            "title": "CCBorder",
+            "package":"com.sini921.ccborder",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/cursorpro.png",
+            "title": "CursorPro",
+            "package":"com.sini921.cursorpro",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/cylinderreborn.png",
+            "title": "CylinderReborn",
+            "package":"com.sini921.cylinderreborn",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/classicfolders3.png",
+            "title": "ClassicFolders3",
+            "package":"com.sini921.classicfolders3",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/atria.png",
+            "title": "Atria",
+            "package":"com.sini921.atria",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/quickactions.png",
+            "title": "QuickActions",
+            "package":"com.sini921.quickactions",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/batterybuddy.png",
+            "title": "BatteryBuddy",
+            "package":"com.sini921.batterybuddy",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/eneko.png",
+            "title": "Eneko",
+            "package":"com.sini921.eneko",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/fakesignalbar.png",
+            "title": "FakeSignalBar",
+            "package":"com.sini921.fakesignalbar",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/freepip.png",
+            "title": "FreePIP",
+            "package":"com.sini921.freepip",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/pscamera.png",
+            "title": "PSCamera",
+            "package":"com.sini921.pscamera",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/photohub.png",
+            "title": "PhotoHub",
+            "package":"com.sini921.photohub",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/griddy.png",
+            "title": "Griddy",
+            "package":"com.sini921.griddy",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/morecomplications.png",
+            "title": "MoreComplications",
+            "package":"com.sini921.morecomplications",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/chromahomebarx.png",
+            "title": "ChromaHomeBarx",
+            "package":"com.sini921.chromahomebarx",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/appstoretroller.png",
+            "title": "AppStoreTroller",
+            "package":"com.sini921.appstoretroller",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/cozybadges.png",
+            "title": "CozyBadges",
+            "package":"com.sini921.cozybadges",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/ersatz.png",
+            "title": "Ersatz",
+            "package":"com.sini921.ersatz",
+            "hideShadow": true
+        },
+    ]
+}
