@@ -409,36 +409,18 @@ Name: AppData(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/appdata/js.json
 
 Package: com.sini.appdata
-Version: 1.4.4
+Version: 1.4.6
 Architecture: iphoneos-arm64
 Maintainer: Nets
-Installed-Size: 13548
+Installed-Size: 5140
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: rootless/com.sini.appdata_1.4.4_iphoneos-arm64.deb
-Size: 5048568
-MD5sum: b88d87947aeb7293ee4db82ae6b482d9
-SHA1: 23ec30266ed29935e8002d5dacef0d2329152eb2
-SHA256: 7586baa8475a4e189a5c59d97f0b4d153ed72c054f5f493350caefe7b51dba0f
+Filename: rootless/com.sini.appdata_1.4.6_iphoneos-arm64.deb
+Size: 1489692
+MD5sum: 6581228cf40c337c935ef92fbe83d9aa
+SHA1: 2e703500a8fee7c09703ddb21e5da8ba3164f6c7
+SHA256: fad8fc6bcb6203028baffee2e0e34e682d27cb7211d6ea229bb665a896a9a653
 Section: 越狱插件
-Description: 桌面应用图标上滑快捷功能
-Author: Fouad Raheb
-Icon: https://sini921.github.io/repo/sileodepiction/icon/appdata.png
-Name: AppData(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/appdata/js.json
-
-Package: com.sini.appdata
-Version: 1.4.5
-Architecture: iphoneos-arm64
-Maintainer: Nets
-Installed-Size: 5188
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: rootless/com.sini.appdata_1.4.5_iphoneos-arm64.deb
-Size: 1493664
-MD5sum: 7705adaedb11729846f002f1f60e93b7
-SHA1: f27c14ae79518db073f72ef2ec4b961b0867f636
-SHA256: 514dc3e3a04efbe406555022ffc1fa25d9d3a80eef36b9fe1b1e9013f25727ce
-Section: 越狱插件
-Description: 从主屏幕查看和管理应用数据
+Description: 从主屏幕查看和管理应用程序数据
 Author: Fouad Raheb
 Icon: https://sini921.github.io/repo/sileodepiction/icon/appdata.png
 Name: AppData(rootless)
@@ -3643,23 +3625,6 @@ Author: ylr
 Icon: https://sini921.github.io/repo/sileodepiction/icon/ylr.dyhook.png
 Name: 抖音聊天列表专用(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ylr.dyhook/js.json
-
-Package: com.sini.youtubereborn
-Version: 4.2.6-2
-Architecture: iphoneos-arm64
-Maintainer: arichornlover & 妖刀
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
-Conflicts: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, prasa.youtubeplus, com.unlimapps.ytpp, com.twickd.laki.raspberry, com.laki.raspberry, com.twickd.lazar.raspberry, 0xcc.woodfairy.noytads, weeb.lillie.enhancerforyoutubepremium, weeb.lillie.youtubepremiumplus, com.miro.uyou, com.ps.uyoucompat, com.ps.ytsystemappearance, com.yourepo.mohadu31.dzyoutube, com.lyvendia.ytspeed, com.miro.uyouimport, com.ichitaso.uyouplus, com.stem.deficient, com.ps.ytabconfig, com.ps.ytx, h.ryan.youtubereborn, com.hk.ryan.youtubereborn, com.hk.rootless.youtubereborn, com.hk.youtubereborn.cn.rl, com.hk.youtubereborn.cn
-Filename: rootless/com.sini.youtubereborn_4.2.6-2_iphoneos-arm64.deb
-Size: 9093172
-MD5sum: 68e9c2f75f0e57d47ab0c0013e372672
-SHA1: 76d8aadaaf140950e80aceef9249cdcb68e1acd7
-SHA256: ace3c5ea07064c2522deacc9c85094cd647f7d8ea9289492f40b00268ac95759
-Section: 应用破解
-Description: YouTube Reborn 中文版，根据开源，刀刀直接编译的中文版。油管高级自定义插件，可去广告、下载、画中画、改布局等。
-Author: Lillie & arichornlover
-Icon: https://sini921.github.io/repo/sileodepiction/icon/ytb.png
-Name: YouTube Reborn(rootless)
 
 Package: com.sini.ysbrowserhook
 Version: 1.0.2
