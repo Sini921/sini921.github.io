@@ -3304,16 +3304,16 @@ Name: WCDisableHotUpdates(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wcdisablehotupdates/js.json
 
 Package: com.sini.wchook
-Version: 1.6.5
+Version: 1.9.9
 Architecture: iphoneos-arm64
 Maintainer: ylr
-Installed-Size: 508
+Installed-Size: 952
 Depends: mobilesubstrate,firmware (>= 14.0)
-Filename: rootless/com.sini.wchook_1.6.5_iphoneos-arm64.deb
-Size: 164360
-MD5sum: a57430064fa18bfdf7283f4038cb920d
-SHA1: fcdede7fc149a5e1d0100d3065234e9e0060b82b
-SHA256: 62817fa31e2b69ce1555ccbf036892e4c40e13f4f7c77fff1d720d117103bff1
+Filename: rootless/com.sini.wchook_1.9.9_iphoneos-arm64.deb
+Size: 308208
+MD5sum: c11ca7a1e5a09c3e15725715b455f699
+SHA1: 283721f3807ae11bc537bc307cb1d31ef02137ec
+SHA256: f1bcd9952cbc99ed145424ffb54ba08e2c6c43cf29b339047bce5d0483c567ac
 Section: 微信插件
 Description: 本插件仅测试使用，如有传播，请马上删除！
 Author: ylr
