@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.2-25",
+                    "text": "1.1.2-26",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年12月13日",
+                    "text": "2026年02月17日",
                     "title": "更新日期"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.2-26\n- 新增点击专辑图后跳转至当前播放媒体的App的行为\n- 优化专辑图圆角，使其过渡更自然\n- 音量与亮度滑块展开时百分比文本不在参与位置调整，保持为固定居中\n- 修复启用边框功能后，专注模式模块背景在边框外漏鸡脚的问题",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
