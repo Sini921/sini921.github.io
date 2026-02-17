@@ -65,7 +65,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.2-27",
+                    "text": "1.1.2-28",
                     "title": "版本"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.2-28\n- 新增额外调整未在播放文本的垂直位置",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"

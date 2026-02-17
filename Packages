@@ -3844,16 +3844,16 @@ Name: CallMeMaybe(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/callmemaybe/js.json
 
 Package: com.sini921.ccborder
-Version: 1.1.2-27
+Version: 1.1.2-28
 Architecture: iphoneos-arm64
 Maintainer: fiore & p2kdev & SINI
 Installed-Size: 824
 Depends: mobilesubstrate, firmware (>= 16.0)
-Filename: rootless/com.sini921.ccborder_1.1.2-27_iphoneos-arm64.deb
-Size: 152608
-MD5sum: b9a4efa11dbf460e0b38b07fdb4382f9
-SHA1: e37807ff595c6c387bab6fe84f3b057ff808b6b4
-SHA256: 3ad49526688ce750bc2c1889261a9c03b8c4e97bdb19c0a46e084f2ac39277dd
+Filename: rootless/com.sini921.ccborder_1.1.2-28_iphoneos-arm64.deb
+Size: 152400
+MD5sum: 7ed558742de6ccfeeaa18fc2895e11a0
+SHA1: 5256925575e3fadb7fb387550e26625a7af7b134
+SHA256: 5e05fdee3cebd420a7d18c7d95b6dcd1b62d4433947c4fff091cfe8a7ac6b2c5
 Section: 控制中心
 Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
 Author: fiore & p2kdev & SINI
@@ -5244,16 +5244,16 @@ Name: BatteryBuddy(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/batterybuddy/js.json
 
 Package: com.sini921.ccborder
-Version: 1.1.2-27
+Version: 1.1.2-28
 Architecture: iphoneos-arm64e
 Maintainer: fiore & p2kdev & SINI
 Installed-Size: 804
 Depends: mobilesubstrate, firmware (>= 16.0)
-Filename: roothide/com.sini921.ccborder_1.1.2-27_iphoneos-arm64e.deb
-Size: 149554
-MD5sum: cd6e7c23c92d32a284f8e4484c0a2e45
-SHA1: 7f33589cb46f1ccbc70355dc897516eeae0c27fa
-SHA256: 594750768f2ca9afbf409c26ff3f56e8f70ffdec257316bb65312c20ed590354
+Filename: roothide/com.sini921.ccborder_1.1.2-28_iphoneos-arm64e.deb
+Size: 149294
+MD5sum: 01a2486579425ef4e750a0f11922b150
+SHA1: aea3272fdd239cd87df81f08ca6209ebcfb5bd4b
+SHA256: c54e36dbfc111a4e3f882e4ec3714cdf9c486d173dc0a42913c7f0391fcf5cb4
 Section: 控制中心
 Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
 Author: fiore & p2kdev & SINI
