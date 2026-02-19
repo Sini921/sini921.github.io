@@ -17,7 +17,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 控制中心简单美化\n- 基于开源重新编译\n- 去掉了AlderisColorPicker依赖\n- 加入音量亮度百分比，可调节大小、颜色",
+                    "markdown": "## 描述\n- 控制中心简单美化\n- 基于P2KDev的开源代码修改编译\n- 去掉了AlderisColorPicker依赖\n- 加入大量新功能",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
@@ -42,6 +42,10 @@
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://sini921.github.io/repo/sileodepiction/ccborder/Screenshot_02.png" 
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://sini921.github.io/repo/sileodepiction/ccborder/Screenshot_03.png" 
                         }
                     ]
                 },
