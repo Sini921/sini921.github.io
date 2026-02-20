@@ -69,12 +69,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.2-31",
+                    "text": "1.1.2-32",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026年02月20日",
+                    "text": "2026年02月21日",
                     "title": "更新日期"
                 },
                 {
@@ -93,6 +93,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.2-32\n- 优化代码，提升性能",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
