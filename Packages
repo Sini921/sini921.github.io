@@ -1978,11 +1978,11 @@ Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
 Filename: rootless/com.sini.miyou_3.9-2_iphoneos-arm64.deb
-Size: 4122120
-MD5sum: 0edd4fba3fca36701cdee72fbd51daa2
-SHA1: d47e6133e2cf569410ce8b0d0bf1a43a2b0a6cb1
-SHA256: 8296fe9de93b34298306872aa77f06af5eae438f993a7e9a66c852d8c7901a35
-Section: 微信哎插件
+Size: 4126088
+MD5sum: f957d5f37ac709f3cfe50781c03686b2
+SHA1: dbc62aa1175086044c73d9c079cfafbcd0e492b3
+SHA256: 3e5e8e19ddf52411fde201aebd531620f38e89e5ec864ddc4b8b13542d7c0eab
+Section: 微信插件
 Priority: optional
 Description: 微信助手-Rootless版
 Author: Mao
