@@ -1402,16 +1402,16 @@ Name: EasyNotifications(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/easynotifications/js.json
 
 Package: com.sini.enhance
-Version: 1.6-4
+Version: 1.6-5
 Architecture: iphoneos-arm64
 Maintainer: 茶 愫
 Installed-Size: 1196
 Depends: mobilesubstrate
-Filename: rootless/com.sini.enhance_1.6-4_iphoneos-arm64.deb
-Size: 308448
-MD5sum: a94edf49a2b1675aeff517ec97e6db9c
-SHA1: 4a1ef1972a06d63ef5ad7fb2c39dbc482199c59f
-SHA256: fa4dc30ef123b0b428fcfaa07d9d8d108466b2a62f20ba5127f8ae0c1e97c9ee
+Filename: rootless/com.sini.enhance_1.6-5_iphoneos-arm64.deb
+Size: 343792
+MD5sum: fc363de33cbf1a90f0c926b778bcafca
+SHA1: c8c5ba671255c52aeee9ce9256c47b3d9795a9ab
+SHA256: 744ab4a8e925d72a31bee9e19891c46d976ee274832cbb2b746dec2531002cd1
 Section: 微信插件
 Description: 微信插件，支持聊天按钮布局自定义等。
 Author: 茶 愫
