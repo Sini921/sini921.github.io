@@ -94,7 +94,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 1.1.2-36\n- 新增链接模块布局设置\n- 设置界面调整",
+                    "markdown": "#### 版本: 1.1.2-35\n- 新增链接模块布局设置\n- 设置界面调整",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
