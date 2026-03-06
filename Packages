@@ -760,24 +760,6 @@ Name: BetterAlarm(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/betteralarm/js.json
 Sponsor: Sini921
 
-Package: com.sini.bettercc
-Version: 0.0.6
-Architecture: iphoneos-arm64
-Maintainer: Sini921
-Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
-Filename: rootless/com.sini.bettercc_0.0.6_iphoneos-arm64.deb
-Size: 48588
-MD5sum: 6d35727774edf670b19f28ebf8c2004e
-SHA1: b6be8e94c007be78246f778a6e608de3f1de32e1
-SHA256: 3e535c2c593495326ea7883f8af9583bb8aa610a25ebdf48260fe5c048c4ed80
-Section: 控制中心
-Description: 控制中心模块大小调整
-Author: Miguelaka95
-Icon: https://sini921.github.io/repo/sileodepiction/icon/bettercc.png
-Name: BetterCC(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/bettercc/js.json
-Sponsor: Sini921
-
 Package: com.sini.betteruiswitch
 Version: 1.1
 Architecture: iphoneos-arm64
