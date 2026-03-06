@@ -3555,24 +3555,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/xiaoxiangadkill.png
 Name: 小象超市去广告(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/xiaoxiangadkill/js.json
 
-Package: com.sini.xxuegao
-Version: 1.1-6
-Architecture: iphoneos-arm64
-Maintainer: xuegao
-Installed-Size: 3584
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.xxuegao_1.1-6_iphoneos-arm64.deb
-Size: 2166404
-MD5sum: 319ddd974d16cfbeea1fd678aa93fbcb
-SHA1: b6e08f592b1e84db52f2befdb6bd9ab6220e21ec
-SHA256: f27b9625c76db6bc1591df2c12ff1f281806c8b16a9d949fb83a1b076e443b7c
-Section: 微信插件
-Description: 全局隐藏底部标签栏，朋友圈双击点赞等实用功能
-Author: xuegao
-Icon: https://sini921.github.io/repo/sileodepiction/icon/xxuegao.png
-Name: 小雪糕(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/xxuegao/js.json
-
 Package: com.sini.ykhook
 Version: 1.5.5
 Architecture: iphoneos-arm64
@@ -3827,16 +3809,16 @@ Name: CallMeMaybe(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/callmemaybe/js.json
 
 Package: com.sini921.ccborder
-Version: 1.1.2-34
+Version: 1.1.2-35
 Architecture: iphoneos-arm64
 Maintainer: fiore & p2kdev & SINI
-Installed-Size: 864
+Installed-Size: 948
 Depends: mobilesubstrate, firmware (>= 16.0)
-Filename: rootless/com.sini921.ccborder_1.1.2-34_iphoneos-arm64.deb
-Size: 158306
-MD5sum: 2a3096f780714fcae4b0c5a93a154e4a
-SHA1: 384de9c2d6f4e034b75e840dbef5c177c5801138
-SHA256: 3e67c020eda8c409e29a7f1d69f3494b75ca1bea375cf57149682dc99f2eb832
+Filename: rootless/com.sini921.ccborder_1.1.2-35_iphoneos-arm64.deb
+Size: 192434
+MD5sum: 23a02afbc33c39a9bbe01c76a519bd4d
+SHA1: 00a44c0bf550f0fbadc59c1929431bcd0f107fe2
+SHA256: b9043a33eccba3c82d7035f3983ac4fbc5e10fa9d8e90aa3b731fad1feb66d18
 Section: 控制中心
 Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
 Author: fiore & p2kdev & SINI
@@ -5098,24 +5080,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/wtvrbglauncher.png
 Name: 语音转文字免跳转(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wtvrbglauncher/js.json
 
-Package: com.sini.xxuegao
-Version: 1.1-6
-Architecture: iphoneos-arm64e
-Maintainer: xuegao
-Installed-Size: 3584
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini.xxuegao_1.1-6_iphoneos-arm64e.deb
-Size: 2197252
-MD5sum: d5fe6719ade3fae988bb6539d0e5f801
-SHA1: 42b3c5a1c51e9d70df8806c741fa8cb1fdf84c17
-SHA256: e009908559ebe39fbcc9500e3c720403fe93d761743d5a22a8fcb083a303cb14
-Section: 微信插件
-Description: 全局隐藏底部标签栏，朋友圈双击点赞等实用功能
-Author: xuegao
-Icon: https://sini921.github.io/repo/sileodepiction/icon/xxuegao.png
-Name: 小雪糕(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/xxuegao/js.json
-
 Package: com.sini.ytlite
 Version: 5.2b4
 Architecture: iphoneos-arm64e
@@ -5227,16 +5191,16 @@ Name: BatteryBuddy(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/batterybuddy/js.json
 
 Package: com.sini921.ccborder
-Version: 1.1.2-34
+Version: 1.1.2-35
 Architecture: iphoneos-arm64e
 Maintainer: fiore & p2kdev & SINI
-Installed-Size: 864
+Installed-Size: 948
 Depends: mobilesubstrate, firmware (>= 16.0)
-Filename: roothide/com.sini921.ccborder_1.1.2-34_iphoneos-arm64e.deb
-Size: 157478
-MD5sum: cef657414bcb3eb987ec04b89034c3cf
-SHA1: 9d0187c5634cd6b8f4d34eedf9dcd387bfc725ec
-SHA256: 996018663d78625529d91a404950ff870d0e222edaedc2ecf92c98ccf9470109
+Filename: roothide/com.sini921.ccborder_1.1.2-35_iphoneos-arm64e.deb
+Size: 189918
+MD5sum: c1f7875a1dad690135ceb150e06e4955
+SHA1: adb142f1494a1936bc332765ba7d0438653142a6
+SHA256: d7051c8d41084dccaf5b50211d172a7910272cf65304a9844e8dababeeefcffe
 Section: 控制中心
 Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
 Author: fiore & p2kdev & SINI
