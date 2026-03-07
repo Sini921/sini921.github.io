@@ -16,9 +16,9 @@
             "hideShadow": true
         },
         {
-            "url": "http://sini921.github.io/repo/images/quickpowerbutton.png",
-            "title": "QuickPowerButton",
-            "package":"com.sini921.quickpowerbutton",
+            "url": "http://sini921.github.io/repo/images/ccborder.png",
+            "title": "CCBorder",
+            "package":"com.sini921.ccborder",
             "hideShadow": true
         },
         {
@@ -40,15 +40,15 @@
             "hideShadow": true
         },
         {
-            "url": "http://sini921.github.io/repo/images/ccborder.png",
-            "title": "CCBorder",
-            "package":"com.sini921.ccborder",
-            "hideShadow": true
-        },
-        {
             "url": "http://sini921.github.io/repo/images/cursorpro.png",
             "title": "CursorPro",
             "package":"com.sini921.cursorpro",
+            "hideShadow": true
+        },
+        {
+            "url": "http://sini921.github.io/repo/images/quickpowerbutton.png",
+            "title": "QuickPowerButton",
+            "package":"com.sini921.quickpowerbutton",
             "hideShadow": true
         },
         {
