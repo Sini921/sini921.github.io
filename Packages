@@ -1884,15 +1884,15 @@ Name: Marker(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/marker/js.json
 
 Package: com.sini.miyou
-Version: 3.9-2
+Version: 3.9-3
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: rootless/com.sini.miyou_3.9-2_iphoneos-arm64.deb
-Size: 4126088
-MD5sum: f957d5f37ac709f3cfe50781c03686b2
-SHA1: dbc62aa1175086044c73d9c079cfafbcd0e492b3
-SHA256: 3e5e8e19ddf52411fde201aebd531620f38e89e5ec864ddc4b8b13542d7c0eab
+Filename: rootless/com.sini.miyou_3.9-3_iphoneos-arm64.deb
+Size: 5113180
+MD5sum: 726587eb0dea21ce3d946b63aea1adbb
+SHA1: c4ceddd797dc8d533bbad6ef5150941f883d46ee
+SHA256: a3a0900ba4ac67cd0aca7be0e0cb10d71017d1232a32eae73c9049b9aa53536c
 Section: 微信插件
 Priority: optional
 Description: 微信助手-Rootless版
