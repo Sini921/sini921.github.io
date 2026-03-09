@@ -1902,21 +1902,22 @@ Name: 微信助手(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/miyou/js.json
 
 Package: com.sini.msgfilt.rootless
-Version: 1.0-5.1
+Version: 1.0-6
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: rootless/com.sini.msgfilt.rootless_1.0-5.1_iphoneos-arm64.deb
-Size: 122248
-MD5sum: c671baf2a6aa70a6ee1aaec8f972b404
-SHA1: cf58a619e004bb5dac6795c5f659e92ec432fa4a
-SHA256: 6be78530c59c2a5c0b7bbbcdfe5c000cf2dfab0cb9e05d57e4f447068ade9e11
+Filename: rootless/com.sini.msgfilt.rootless_1.0-6_iphoneos-arm64.deb
+Size: 133472
+MD5sum: 6097e89c4e0001002d3ce676be95d457
+SHA1: b6bad42d6390ef983ffb3be3205e3fe7fd6ee01b
+SHA256: 38fe5297fa355a366706b044670fc8e07d525bf6c6a0c021dd336ae4d070cdb6
 Section: 微信插件
 Priority: optional
-Description: 微信消息屏蔽
+Description: 消息屏蔽助手
 Author: Mao
-Icon: https://sini921.github.io/repo/sileodepiction/icon/wechat.png
-Name: 微信消息屏蔽(rootless)
+Icon: https://sini921.github.io/repo/sileodepiction/icon/msgfilt.rootless.png
+Name: 消息屏蔽助手(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/msgfilt.rootless/js.json
 Sponsor: admin@25mao.com
 
 Package: com.sini.mterminal
@@ -3180,21 +3181,21 @@ Name: WCDisableHotUpdates(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wcdisablehotupdates/js.json
 
 Package: com.sini.wchook
-Version: 1.9.9
+Version: 2.0-8
 Architecture: iphoneos-arm64
 Maintainer: ylr
-Installed-Size: 952
-Depends: mobilesubstrate,firmware (>= 14.0)
-Filename: rootless/com.sini.wchook_1.9.9_iphoneos-arm64.deb
-Size: 308208
-MD5sum: c11ca7a1e5a09c3e15725715b455f699
-SHA1: 283721f3807ae11bc537bc307cb1d31ef02137ec
-SHA256: f1bcd9952cbc99ed145424ffb54ba08e2c6c43cf29b339047bce5d0483c567ac
+Installed-Size: 1620
+Depends: firmware (>= 15.0)
+Filename: rootless/com.sini.wchook_2.0-8_iphoneos-arm64.deb
+Size: 588168
+MD5sum: 6df310dc441281aae5bb3e649a768208
+SHA1: 7156580edc4a54d89e7c21594defbae4dd58b2f6
+SHA256: 6a92563e2edf1d7f7b1714ab8cf02b4a14c60191900bfbe10f904c3e12d29247
 Section: 微信插件
-Description: 本插件仅测试使用，如有传播，请马上删除！
+Description: 悬浮按钮分屏
 Author: ylr
 Icon: https://sini921.github.io/repo/sileodepiction/icon/wchook.png
-Name: 微信悬浮小功能(rootless)
+Name: 悬浮按钮分屏(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wchook/js.json
 
 Package: com.sini.wcpluginsplus.rootless
