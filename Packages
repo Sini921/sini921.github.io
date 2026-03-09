@@ -1192,17 +1192,17 @@ Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
 Filename: rootless/com.sini.doutu.rootless_3.1-7_iphoneos-arm64.deb
-Size: 783220
-MD5sum: 07922f59c082df74ef1c73859facc032
-SHA1: 2275d6c06da14002f082500fa0aea6433fef253f
-SHA256: d5cc436faedaf04f1d7e3d9b12fbbf1219c6550aafc9aebc741a3cb763622a38
+Size: 783088
+MD5sum: da1dd73592b52e4f233274124a61df35
+SHA1: 234d3321d8597229cdecb0c904bc960c8fa5765e
+SHA256: 70534fbb9cf24358fb8555a04a560288458f788d5afe6c9c91774d5f2955147d
 Section: 微信插件
 Priority: optional
 Description: 微信斗图助手
 Author: Mao
-Icon: https://sini921.github.io/repo/sileodepiction/icon/doutu.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/doutu.rootless.png
 Name: 斗图助手(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/doutu/js.json
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/doutu.rootless/js.json
 
 Package: com.sini.dumpapp.wechat-rootless
 Version: 2.3.0
