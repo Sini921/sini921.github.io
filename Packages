@@ -157,18 +157,18 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/appindex.png
 Name: AppIndex(rootless)
 
 Package: com.sini.HBWechatHelper.ailun
-Version: 2.0.4
+Version: 2.0.5
 Architecture: iphoneos-arm64
-Maintainer: HuangBai
+Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: rootless/com.sini.HBWechatHelper.ailun_2.0.4_iphoneos-arm64.deb
-Size: 13318084
-MD5sum: 4a0f1916664a97e8e0c391c3ead24a26
-SHA1: faf3ca52f9a176eaf529895f27cd64830a9318e3
-SHA256: 8341f8f3084fa6d4921ba197d70a0d10d211bf0b3d6dc6cc986d8259f5b690c9
+Filename: rootless/com.sini.HBWechatHelper.ailun_2.0.5_iphoneos-arm64.deb
+Size: 13076780
+MD5sum: ef5db7f691a34418e5e1c9279b563d41
+SHA1: b725e20ac78efe72a5e5ed269176b0dac08ecd20
+SHA256: f9cd3f929caf281b5caad63b73c83169e36f3853ffc28ac27c99d5a678b7235f
 Section: 微信插件
 Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
-Author: HuangBai
+Author: HuangBai <QQ:1343309363@qq.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/HBWechatHelper.ailun.png
 Name: 黄白助手(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/HBWechatHelper.ailun/js.json
@@ -654,23 +654,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dy.png
 Name: AwemeVideoTime(rootless)
 
 Package: com.sini.baiduhook
-Version: 1.0.2
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 356
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.baiduhook_1.0.2_iphoneos-arm64.deb
-Size: 102852
-MD5sum: a4f1bd2d29295a4a099b55986ad46af7
-SHA1: 6d2389e5b6024f5f405a325c38daf62b3593ccdf
-SHA256: bd2edb33c42dc0e4f0c772896cae3644159b193e83f16b19394d9501501756ef
-Section: 应用破解
-Description: 功能默认开启 | 移除一些无用的悬浮 广告 板块 移除底部tab | 如果需要某功能 可以长按设置界面1-2秒出菜单自行关闭 || 1.0.2更新内容：新版支持
-Author: x✨
-Icon: https://sini921.github.io/repo/sileodepiction/icon/bddt.png
-Name: 百度地图优化(rootless)
-
-Package: com.sini.baiduhook
 Version: 1.5.5
 Architecture: iphoneos-arm64
 Maintainer: ylr <ylr638058@gmail.com>
@@ -848,60 +831,6 @@ Author: iOSign
 Icon: https://sini921.github.io/repo/sileodepiction/icon/caiyun.png
 Name: 彩云天气破解(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/caiyun/js.json
-
-Package: com.sini.cc26
-Version: 0.4.8b
-Architecture: iphoneos-arm64
-Maintainer: therealhoodboy
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
-Filename: rootless/com.sini.cc26_0.4.8b_iphoneos-arm64.deb
-Size: 15052
-MD5sum: 7783570da2813daa3f43c8cf2ac01a40
-SHA1: cd1581147ba02b1875e4a532fcae51633f04779a
-SHA256: 3ad98da63c4444afb39707a52a52e0ba680d057a354454e9d0aea87a8cb4ab86
-Section: 控制中心
-Description: iOS26样式的控制中心，目前最新版需要系统大于等于16.0才可以使用。15系统要想用的话的去作者源装0.4.3b及以下版本吧。
-Author: therealhoodboy
-Icon: https://sini921.github.io/repo/sileodepiction/icon/cc26.png
-Name: CC26(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/cc26/js.json
-
-Package: com.sini.cc26
-Version: 0.4.9.1b
-Architecture: iphoneos-arm64
-Maintainer: therealhoodboy
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
-Filename: rootless/com.sini.cc26_0.4.9.1b_iphoneos-arm64.deb
-Size: 15604
-MD5sum: 189772b0cb80f21195ab8de8087ae3f3
-SHA1: c5300b5581428a361e6aa65ada978fdca26b5b0b
-SHA256: 80f90da421c19a7a93f5c1fa379829657b0bc3d81253a3d4ad459c8c6d93d017
-Section: 控制中心
-Description: iOS26样式的控制中心，目前最新版需要系统大于等于16.0才可以使用。15系统要想用的话的去作者源装0.4.3b及以下版本吧。
-Author: therealhoodboy
-Icon: https://sini921.github.io/repo/sileodepiction/icon/cc26.png
-Name: CC26(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/cc26/js.json
-
-Package: com.sini.cc26
-Version: 0.4.9.3b
-Architecture: iphoneos-arm64
-Maintainer: therealhoodboy
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
-Filename: rootless/com.sini.cc26_0.4.9.3b_iphoneos-arm64.deb
-Size: 18024
-MD5sum: 1fac3aab9da690a0b4b299d21d981cf9
-SHA1: 281dc27423d7efead481bf0cb29f6aedda59ccaa
-SHA256: 012550a4f057109c7a6d71216c0a1ec016b4a84385ecd27ac447d587809ba209
-Section: 控制中心
-Description: iOS26样式的控制中心
-Author: therealhoodboy
-Icon: https://sini921.github.io/repo/sileodepiction/icon/cc26.png
-Name: CC26(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/cc26/js.json
 
 Package: com.sini.ccautobrightness
 Version: 1.0.0-1
