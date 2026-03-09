@@ -1187,22 +1187,22 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/miss.png
 Name: DismissAlert(rootless)
 
 Package: com.sini.doutu.rootless
-Version: 3.1-6
+Version: 3.1-7
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: rootless/com.sini.doutu.rootless_3.1-6_iphoneos-arm64.deb
-Size: 1051924
-MD5sum: 8e941c863dd7d92166bc99f6ed171474
-SHA1: 540ad5281add3fbf5dc6441d2b0c675b567b28cc
-SHA256: 97d44a38372196b23688c3a523bbf333c3006d126ab91f0d0094cba129165ca6
+Filename: rootless/com.sini.doutu.rootless_3.1-7_iphoneos-arm64.deb
+Size: 783220
+MD5sum: 07922f59c082df74ef1c73859facc032
+SHA1: 2275d6c06da14002f082500fa0aea6433fef253f
+SHA256: d5cc436faedaf04f1d7e3d9b12fbbf1219c6550aafc9aebc741a3cb763622a38
 Section: 微信插件
 Priority: optional
-Description: 斗图助手
+Description: 微信斗图助手
 Author: Mao
-Icon: https://sini921.github.io/repo/sileodepiction/icon/doutu.rootless.png
+Icon: https://sini921.github.io/repo/sileodepiction/icon/doutu.png
 Name: 斗图助手(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/doutu.rootless/js.json
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/doutu/js.json
 
 Package: com.sini.dumpapp.wechat-rootless
 Version: 2.3.0
