@@ -1902,15 +1902,15 @@ Name: 微信助手(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/miyou/js.json
 
 Package: com.sini.msgfilt.rootless
-Version: 1.0-6
+Version: 1.0-7
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: rootless/com.sini.msgfilt.rootless_1.0-6_iphoneos-arm64.deb
-Size: 133472
-MD5sum: 6097e89c4e0001002d3ce676be95d457
-SHA1: b6bad42d6390ef983ffb3be3205e3fe7fd6ee01b
-SHA256: 38fe5297fa355a366706b044670fc8e07d525bf6c6a0c021dd336ae4d070cdb6
+Filename: rootless/com.sini.msgfilt.rootless_1.0-7_iphoneos-arm64.deb
+Size: 144788
+MD5sum: 340caa7058bc450aa7ba6a972432cd2a
+SHA1: 629507b3c4fe8c5b64ebbd0826f92033c018eff9
+SHA256: 3361d1d165548b2c0b99ee3506bbfecb74e3853b27a1b0b2355de0c66f011ccc
 Section: 微信插件
 Priority: optional
 Description: 消息屏蔽助手
