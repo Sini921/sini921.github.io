@@ -2496,16 +2496,16 @@ Name: SettingsRevamp(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/settingsrevamp/js.json
 
 Package: com.sini.shortvideodl
-Version: 2.1.7
+Version: 2.1.8
 Architecture: iphoneos-arm64
 Maintainer: lenglengyu <lenglengyu@126.com>
-Installed-Size: 3640
+Installed-Size: 3672
 Depends: mobilesubstrate, preferenceloader
-Filename: rootless/com.sini.shortvideodl_2.1.7_iphoneos-arm64.deb
-Size: 961384
-MD5sum: d333b22a562fdd2f9880d774cb4d1e41
-SHA1: 133967abb97dffccc78ad69e7f3309356e68dba2
-SHA256: 273b9475f4056046e366f7b74d3e478a09bbcb27a8081e141246f9e8e4672f77
+Filename: rootless/com.sini.shortvideodl_2.1.8_iphoneos-arm64.deb
+Size: 965884
+MD5sum: 105afe5fa679cdb16ca8ec38b0d87404
+SHA1: 5a33dfed205c525c8f8486148e662a1284ad4223
+SHA256: c3931e509d7ecf865541f79c4428be41d91b1d58b66650e732b39f60073d4135
 Section: 应用破解
 Description: 支持抖音、快手、微视等无水印下载。
 Author: lenglengyu
@@ -4979,6 +4979,24 @@ Author: Lessica <82flex@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/noredirect.png
 Name: No Redirect(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/noredirect/js.json
+
+Package: com.sini.shortvideodl
+Version: 2.1.8
+Architecture: iphoneos-arm64e
+Maintainer: lenglengyu <lenglengyu@126.com>
+Installed-Size: 3752
+Depends: mobilesubstrate, preferenceloader
+Filename: roothide/com.sini.shortvideodl_2.1.8_iphoneos-arm64e.deb
+Size: 983516
+MD5sum: d5d92422bb2855d65e2bcdb1f8b6ffda
+SHA1: 9ccacabc89f37f8bcf7c61de980a374d179a59be
+SHA256: 491db262a9b3a1020389c10b7015926d0edf37f952dffe579447d078f5e62d51
+Section: 应用破解
+Description: 支持抖音、快手、微视等无水印下载。
+Author: lenglengyu
+Icon: https://sini921.github.io/repo/sileodepiction/icon/shortvideodl.png
+Name: 短视频助手(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/shortvideodl/js.json
 
 Package: com.sini.singlevpn
 Version: 2.1-2
