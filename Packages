@@ -1294,6 +1294,26 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
 Name: DYYY(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
 
+Package: com.sini.dyyy
+Version: 2.2-9-build1640
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 2136
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: rootless/com.sini.dyyy_2.2-9-build1640_iphoneos-arm64.deb
+Size: 458600
+MD5sum: 73fab8c086f98af4acece944aca5fc60
+SHA1: 4ac070360cccca0c2cae8c218eeaaca74005417a
+SHA256: cf9db91993bf6a8219a39e413f1d4c6c9c796c0e4b7c39a588383992993309b7
+Section: 应用破解
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
+Name: DYYY(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
+
 Package: com.sini.easynotifications
 Version: 3.0
 Architecture: iphoneos-arm64
@@ -4859,6 +4879,26 @@ Size: 442856
 MD5sum: 4cab6afd95ac07a0665575bb5611907b
 SHA1: 5c3414ca8de4210f33f441b626631286d4af15fb
 SHA256: a6b76e85b43c2ace5a438caba2c9aaca034f486988bf6a0b8389606a6edd3877
+Section: 应用破解
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
+Name: DYYY(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
+
+Package: com.sini.dyyy
+Version: 2.2-9-build1640
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 2136
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: roothide/com.sini.dyyy_2.2-9-build1640_iphoneos-arm64e.deb
+Size: 457828
+MD5sum: 315be56db8595f05be4095d0652343dd
+SHA1: 72d44664f60714e54f78a7884a83bcc856318ba2
+SHA256: b025d814fe848918f466ad31808dcd38cf6b7bd9bbe30c26b203b9412f4ca67c
 Section: 应用破解
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
