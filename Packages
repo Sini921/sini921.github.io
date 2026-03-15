@@ -264,15 +264,15 @@ Name: WCPulse(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPulse/js.json
 
 Package: com.sini.WCRefine
-Version: 1.3-4
+Version: 1.3-5
 Architecture: iphoneos-arm64
 Maintainer: 热心网友
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: rootless/com.sini.WCRefine_1.3-4_iphoneos-arm64.deb
-Size: 2253720
-MD5sum: 989158d3afbc46979793f63394f0586a
-SHA1: ed24cde224df75b985e2f9411723aeb968a8eadb
-SHA256: 1a952522acaaa247ce0689fdfeb034e81f48f7ee8d4040b2febf780f31ccc489
+Filename: rootless/com.sini.WCRefine_1.3-5_iphoneos-arm64.deb
+Size: 2394964
+MD5sum: c80ec5a7d1ccd4a55d757522001f65b6
+SHA1: 5ac310c05c47f5e8ca0ff1456129cae728592014
+SHA256: 1f0baf8cedd1b7d20e4a573789a84157128292feda1bfdccc135bd4f91885d0d
 Section: 微信插件
 Priority: optional
 Description: 微信优化的重制版本，WCRefine基于微信8.0.64+版本制作。
@@ -2916,15 +2916,15 @@ Name: TGExtraFE(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/tgextra/js.json
 
 Package: com.sini.themebox
-Version: 2.2.5
+Version: 2.2.6
 Architecture: iphoneos-arm64
 Maintainer: WeChat
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.themebox_2.2.5_iphoneos-arm64.deb
-Size: 5025984
-MD5sum: 3a408f6a7ba7ba3eb349373789b9d27e
-SHA1: 54360f0c819964736268abb2114a94cc59b7b9af
-SHA256: b668a654fbeede6ebde742a51b0695b200ae214d1e067f8c7bdd16e26c638669
+Filename: rootless/com.sini.themebox_2.2.6_iphoneos-arm64.deb
+Size: 5190220
+MD5sum: 94aa6b4be367a6d608282a435a7a25ec
+SHA1: 75c1ecc343c67fc4dd9f6c1429807227cbaaa112
+SHA256: a033fb84137fc958c25e4093393c5b59683d0d907dec7165400decb7c4f029a4
 Section: 微信插件
 Description: 微信主题盒子
 Author: WeChat
