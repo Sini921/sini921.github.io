@@ -4264,16 +4264,16 @@ Name: SpringBoardStyleDark(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/springboardstyledark/js.json
 
 Package: com.sini921.switchpro
-Version: 0.0.1-6
+Version: 0.0.1-7
 Architecture: iphoneos-arm64
 Maintainer: SINI
 Installed-Size: 524
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.switchpro_0.0.1-6_iphoneos-arm64.deb
-Size: 85726
-MD5sum: 2757f05c47ee1ffdbf117411b121a181
-SHA1: 37d0f4a1dc24222efcbf3a909e358ba71281efa0
-SHA256: 90e3fa4256a7dbe1d94143d19fea9c17ef3bcfbe398f62299b46ea953bb21dd8
+Filename: rootless/com.sini921.switchpro_0.0.1-7_iphoneos-arm64.deb
+Size: 85750
+MD5sum: adb6800bb5ee9591d1cce32c6662c6c2
+SHA1: fdf00c521ac9d4d36a56c4bd231e1623e0aae97c
+SHA256: ebb7e601ef65cdd7d1184e5eee3e3fda3bcb944f8ef00e239c1a960749f46fcd
 Section: 越狱插件
 Description: 开关简单美化, 旨在为需要SnowBoard的开关美化功能但不需要SnowBoard的其他功能的情况下使用
 Author: SINI
@@ -5632,16 +5632,16 @@ Name: SpringBoardStyleDark(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/springboardstyledark/js.json
 
 Package: com.sini921.switchpro
-Version: 0.0.1-6
+Version: 0.0.1-7
 Architecture: iphoneos-arm64e
 Maintainer: SINI
 Installed-Size: 520
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.switchpro_0.0.1-6_iphoneos-arm64e.deb
-Size: 83712
-MD5sum: 57453e846d3bc2c751e6d7eafd8486b7
-SHA1: 31fee8b6392cf18f14c0f6c7a481c80e0cb8021c
-SHA256: db7893cd9a1dab3985e75cf8ffa36fe8a767a5aa10bf124ee7cc7f3138967c8a
+Filename: roothide/com.sini921.switchpro_0.0.1-7_iphoneos-arm64e.deb
+Size: 83726
+MD5sum: 8922fedfec2d9c48fe8ede0c4e727374
+SHA1: f89c77f541452b3752e87accd9a6c2b5ed6231ee
+SHA256: 548972e5bb7d5b1d725498c5d41f6de2adb29eda064e30bd154fa67f709b1544
 Section: 越狱插件
 Description: 开关简单美化, 旨在为需要SnowBoard的开关美化功能但不需要SnowBoard的其他功能的情况下使用
 Author: SINI
