@@ -94,7 +94,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 1.1.2-37\n- 修复iOS17.0手电筒模块的圆角和边框问题,感谢 @木子李 抽空帮助测试\n- 由于本人没有iOS17.0设备,其他在iOS17.0上失效的功能是否修复则随缘",
+                    "markdown": "#### 版本: 1.1.2-37\n- 新增彻底关闭WiFi功能\n- 新增彻底关闭蓝牙功能\n- 修复iOS17.0手电筒模块的圆角和边框问题,感谢 @木子李 抽空帮助测试\n- 由于本人没有iOS17.0设备,其他在iOS17.0上失效的功能是否修复则随缘",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
