@@ -2287,6 +2287,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/qmxshook.png
 Name: 七猫小说Hook(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/qmxshook/js.json
 
+Package: com.sini.qqantirecall.x
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 𝙓
+Installed-Size: 440
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: rootless/com.sini.qqantirecall.x_1.0_iphoneos-arm64.deb
+Size: 126468
+MD5sum: 9353416f097f99f3f09b2ab4bddfd37f
+SHA1: fb463071570a0f4e1174e7b14f2f1434bed73919
+SHA256: d18be4fa18404010d7bfc631ed2cfe3cc2324ea58c46d3b2b12768937f0e9a50
+Section: 应用破解
+Description: 仅在9.2.20 - 9.2.70测试 · 仅支持越狱
+Author: 𝙓
+Icon: https://sini921.github.io/repo/sileodepiction/icon/qqantirecall.x.png
+Name: NTQQ_AntiRecall(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/qqantirecall.x/js.json
+
 Package: com.sini.qqhook
 Version: 1.1.5
 Architecture: iphoneos-arm64
@@ -3453,23 +3471,23 @@ Author: 小果子
 Icon: https://sini921.github.io/repo/sileodepiction/icon/wy.png
 Name: 网易云去广告净化(rootless)
 
-Package: com.sini.xhshook
-Version: 1.1.7
+Package: com.sini.xhs.x
+Version: 1.2.0
 Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 4472
+Maintainer: 𝙓
+Installed-Size: 2608
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.xhshook_1.1.7_iphoneos-arm64.deb
-Size: 1521384
-MD5sum: 1198371da4ceaedaa1418e508424efaa
-SHA1: 0c2e9c3a5b1cb7f728f061592f1c9e982aa73e9c
-SHA256: 42d4f392377448bfed1caf2bc8a4e724b2eacd1dd4192c77a7bb29c4dd8efb27
+Filename: rootless/com.sini.xhs.x_1.2.0_iphoneos-arm64.deb
+Size: 1784300
+MD5sum: 090bd0b05afe94b7f436d2f8950cbe78
+SHA1: 1a748d40792bc7f0fda336ee845e38ed84705ea4
+SHA256: abd8198ca4abd9671e1718d4302f63ecb6731b45a5521eec00d08d7e61eb8049
 Section: 应用破解
 Description: 自用
-Author: x✨
-Icon: https://sini921.github.io/repo/sileodepiction/icon/xhshook.png
+Author: 𝙓
+Icon: https://sini921.github.io/repo/sileodepiction/icon/xhs.x.png
 Name: 小红薯(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/xhshook/js.json
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/xhs.x/js.json
 
 Package: com.sini.xianyuadkiller
 Version: 1.5.5-5
