@@ -22,6 +22,12 @@
             "hideShadow": true
         },
         {
+            "url": "http://sini921.github.io/repo/images/lockscreenhelper.png",
+            "title": "LockScreenHelper",
+            "package":"com.sini921.lockscreenhelper",
+            "hideShadow": true
+        },
+        {
             "url": "http://sini921.github.io/repo/images/switchpro.png",
             "title": "SwitchPro",
             "package":"com.sini921.switchpro",
