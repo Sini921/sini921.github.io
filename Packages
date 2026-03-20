@@ -4055,10 +4055,10 @@ Maintainer: SINI
 Installed-Size: 468
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini921.lockscreenhelper_0.0.1-1_iphoneos-arm64.deb
-Size: 57138
-MD5sum: d6a2759f85abc984eb59303b18bbb465
-SHA1: 797b786b0605fb3c196a9768622257c6c8f10282
-SHA256: 49cf74154484b71c6c080a44a87e9ff6c38170d644176c41bef1ab0f91c14954
+Size: 57190
+MD5sum: 7276afd8a2e125adc5504b1265037cb8
+SHA1: 2ef1edbbb5ff2a55194dae0c9c03b3023fb281dc
+SHA256: 19ac69da3d995cfb837e68ce8431a9c9aad6aa1d96b85feeb8cb7c7652736631
 Section: 越狱插件
 Description: 锁屏界面相关的简单优化
 Author: SINI
@@ -5531,10 +5531,10 @@ Maintainer: SINI
 Installed-Size: 436
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/com.sini921.lockscreenhelper_0.0.1-1_iphoneos-arm64e.deb
-Size: 55882
-MD5sum: fc25972e70930e41ec72dc5cda040aef
-SHA1: 038b76cb82ef1f374f406b99937130fa547b1c72
-SHA256: 64c3f4d346e9f9fd45b2a2636b849f51b210e3c515d6dcfe77370e2b621f9e36
+Size: 55922
+MD5sum: 78f4cf59bce4b95c95feed430f2e6495
+SHA1: 3bee764789ddc83bd35d1c38f389f073259127c1
+SHA256: a318f59fec8539dc29ac5f80bca3c78c799a2969aef07813f888de622d797591
 Section: 越狱插件
 Description: 锁屏界面相关的简单优化
 Author: SINI
