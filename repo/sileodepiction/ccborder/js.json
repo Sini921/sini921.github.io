@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.2-37",
+                    "text": "1.1.2-38",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026年03月17日",
+                    "text": "2026年03月21日",
                     "title": "更新日期"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.2-38\n- 链接模块排序功能不在依赖链接模块布局功能，都可以分别开启或者关闭\n- 新增链接模块中的按钮颜色自定义\n- 修复iOS17.0音量与亮度滑块百分比的问题,感谢 @木子李 抽空帮助测试\n- 如果遇到注销后冻屏卡死的问题，请关闭iOS18媒体模块功能或者卸载N95插件即可解决",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
