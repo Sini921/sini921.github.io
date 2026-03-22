@@ -157,15 +157,15 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/appindex.png
 Name: AppIndex(rootless)
 
 Package: com.sini.HBWechatHelper.ailun
-Version: 2.0.5
+Version: 2.0.6
 Architecture: iphoneos-arm64
 Maintainer: HuangBai <QQ:1343309363@qq.com>
 Depends: mobilesubstrate
-Filename: rootless/com.sini.HBWechatHelper.ailun_2.0.5_iphoneos-arm64.deb
-Size: 13076780
-MD5sum: ef5db7f691a34418e5e1c9279b563d41
-SHA1: b725e20ac78efe72a5e5ed269176b0dac08ecd20
-SHA256: f9cd3f929caf281b5caad63b73c83169e36f3853ffc28ac27c99d5a678b7235f
+Filename: rootless/com.sini.HBWechatHelper.ailun_2.0.6_iphoneos-arm64.deb
+Size: 13354920
+MD5sum: bf5250b553575cef62773b7502e7508e
+SHA1: 25f592dca84d28e3c360f175dd5e587dd7109dc1
+SHA256: 5641ea2ccccbd74ed8fa50636cf7ceff2e6197cba26660ee74c627c8239a7c8a
 Section: 微信插件
 Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
 Author: HuangBai <QQ:1343309363@qq.com>
@@ -2932,23 +2932,6 @@ Author: choco/waruhachi/TheWinner02/thewinner0217/daodao
 Icon: https://sini921.github.io/repo/sileodepiction/icon/tgextra.png
 Name: TGExtraFE(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/tgextra/js.json
-
-Package: com.sini.themebox
-Version: 2.2.6
-Architecture: iphoneos-arm64
-Maintainer: WeChat
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.themebox_2.2.6_iphoneos-arm64.deb
-Size: 5190220
-MD5sum: 94aa6b4be367a6d608282a435a7a25ec
-SHA1: 75c1ecc343c67fc4dd9f6c1429807227cbaaa112
-SHA256: a033fb84137fc958c25e4093393c5b59683d0d907dec7165400decb7c4f029a4
-Section: 微信插件
-Description: 微信主题盒子
-Author: WeChat
-Icon: https://sini921.github.io/repo/sileodepiction/icon/themebox.png
-Name: 主题盒子(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/themebox/js.json
 
 Package: com.sini.themebox
 Version: 2.2.7
