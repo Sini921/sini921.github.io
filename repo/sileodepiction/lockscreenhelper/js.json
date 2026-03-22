@@ -41,7 +41,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0.1-3",
+                    "text": "0.0.1-4",
                     "title": "版本"
                 },
                 {
@@ -65,6 +65,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.0.1-4\n- 新增锁屏密码解锁界面数字按钮随机打乱功能\n- 感谢刀总的帮助,刀刀源: https://xiangfeidexiaohuo.github.io/",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
