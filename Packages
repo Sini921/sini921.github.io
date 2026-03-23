@@ -242,15 +242,15 @@ Name: 微信增强(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
 
 Package: com.sini.WCPulse
-Version: 1.5-4
+Version: 1.5-5
 Architecture: iphoneos-arm64
 Maintainer: huami
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.WCPulse_1.5-4_iphoneos-arm64.deb
-Size: 19781176
-MD5sum: 0f0d786d84e66e7f88818d20a897595c
-SHA1: 700d648331283e93b53663b15d0fd414c2159301
-SHA256: 969c40beb42de620124e2f8b031208af31d7376746400b78226411e81449572f
+Filename: rootless/com.sini.WCPulse_1.5-5_iphoneos-arm64.deb
+Size: 7474456
+MD5sum: e78b11f6882ee541ad3cd08962d2baaf
+SHA1: d1cb991e4721f28365ae34c2ac7a14b46ac78d4e
+SHA256: 1728a7cff26a8cb8224a9c13551a06b51a8892c972637345321a3dff74200c56
 Section: 微信插件
 Description: WCPulse
 Author: huami
@@ -4025,16 +4025,16 @@ Name: Indicators(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/indicators/js.json
 
 Package: com.sini921.lockscreenhelper
-Version: 0.0.1-5
+Version: 0.0.1-6
 Architecture: iphoneos-arm64
 Maintainer: SINI
-Installed-Size: 476
+Installed-Size: 480
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.lockscreenhelper_0.0.1-5_iphoneos-arm64.deb
-Size: 66570
-MD5sum: 4b9bac2fcab65ef182066cd43955b222
-SHA1: f4c98e34dd38b2f77be9629a5af47a8c1919e708
-SHA256: c3bfcd8e2179d350cf2e75ae1f2d5d20691ceea3e93be09534b040db754c4419
+Filename: rootless/com.sini921.lockscreenhelper_0.0.1-6_iphoneos-arm64.deb
+Size: 68962
+MD5sum: 3de6f7fc4abbae1f6f8e79076c126040
+SHA1: cad4d5a00d1acb47fb84c4d9d80db47497331dbb
+SHA256: 9f59cf81fb68870b051f46b8436d8e3dc9f5de1a0fb786dce218402fe86914be
 Section: 越狱插件
 Description: 锁屏界面相关的简单优化
 Author: SINI
@@ -4759,15 +4759,15 @@ Name: 微信增强(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCEhance/js.json
 
 Package: com.sini.WCPulse
-Version: 1.5-4
+Version: 1.5-5
 Architecture: iphoneos-arm64e
 Maintainer: huami
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini.WCPulse_1.5-4_iphoneos-arm64e.deb
-Size: 19775128
-MD5sum: ebd3170ffe0eb601fff6bbd057695f61
-SHA1: 53f5e698cafe1e65798018a271e683e3513cc103
-SHA256: 0e695092353b182652d90c7683bc6ba9078275c78a1bb9790017a9fe0e90d769
+Filename: roothide/com.sini.WCPulse_1.5-5_iphoneos-arm64e.deb
+Size: 7472392
+MD5sum: 705a2dd18d35e4620242e4218987cf8b
+SHA1: 43d8d3868f23c0dabac03ad033ff4c22e82c6b8d
+SHA256: 74d4e5f31155033ce955928b9f77954461bca5f37dcb89d1b58cc186135670b9
 Section: 微信插件
 Description: WCPulse
 Author: huami
@@ -5501,16 +5501,16 @@ Name: Indicators(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/indicators/js.json
 
 Package: com.sini921.lockscreenhelper
-Version: 0.0.1-5
+Version: 0.0.1-6
 Architecture: iphoneos-arm64e
 Maintainer: SINI
-Installed-Size: 476
+Installed-Size: 480
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.lockscreenhelper_0.0.1-5_iphoneos-arm64e.deb
-Size: 65488
-MD5sum: b3523f34cbd425fc45a12d07a603b68e
-SHA1: 095b40353fa8754590352b45f4084255f50cf704
-SHA256: 2e518a70f1ca968c23e6d47909597993915a68a30ea98e371b091cc497213c6f
+Filename: roothide/com.sini921.lockscreenhelper_0.0.1-6_iphoneos-arm64e.deb
+Size: 68134
+MD5sum: d569482cc871fc2c98384bd3e27c3f65
+SHA1: c4c5071e127b78f1ae8ceb50ad9ca97625c74d3f
+SHA256: e2db0bea0a3bbdca1414163ffe9ac653999fa96fb98565724e12657cea5c5cae
 Section: 越狱插件
 Description: 锁屏界面相关的简单优化
 Author: SINI
