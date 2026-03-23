@@ -224,15 +224,15 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/tg.png
 Name: Telegrammask(rootless)
 
 Package: com.sini.WCEhance
-Version: 2.0-3
+Version: 2.0-4
 Architecture: iphoneos-arm64
 Maintainer: Lxcloud
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.WCEhance_2.0-3_iphoneos-arm64.deb
-Size: 1884564
-MD5sum: 6af28ef5393bf2cb7fdff5d104e30e57
-SHA1: 90922854a4208b7da2b660ccf082e3bfa0003bac
-SHA256: 30083131c4c0656e9228db6a7c57b62267f20a2233587d6e04411c43be0b67a0
+Filename: rootless/com.sini.WCEhance_2.0-4_iphoneos-arm64.deb
+Size: 2405252
+MD5sum: bf91800aadf8822261595a53af0329cd
+SHA1: 46201951487669fcbab626591f0b699afbb14578
+SHA256: f0812ce61777ad7f739396c4c60571a4dc2f381f4e0502a29165e953162ff8b3
 Section: 微信插件
 Priority: optional
 Description: 微信增强,用于优化一些反人类设计和增强功能。
@@ -4741,15 +4741,15 @@ Name: LibGcUniversal(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/libgcuniversal/js.json
 
 Package: com.sini.WCEhance
-Version: 2.0-3
+Version: 2.0-4
 Architecture: iphoneos-arm64e
 Maintainer: Lxcloud
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini.WCEhance_2.0-3_iphoneos-arm64e.deb
-Size: 1883852
-MD5sum: f874446136d7c8b18db331275c89bfc2
-SHA1: a5dcd067ce38390c5007e68339e6d4c4bffd1c00
-SHA256: 04a9c7805effb0a2d492677f0440cd75307cb79652616d6b920458b86ee06596
+Filename: roothide/com.sini.WCEhance_2.0-4_iphoneos-arm64e.deb
+Size: 2407736
+MD5sum: dd4b6ba7d4196f7bc771b69961d7ed5e
+SHA1: ee7b026c7602e18f5a7c6f3da12f6ea3f5dc902b
+SHA256: cd44a17bc7656cc4434d3b3131a785b23210689ad236241f277e5a92b2b48ba8
 Section: 微信插件
 Priority: optional
 Description: 微信增强,用于优化一些反人类设计和增强功能。
