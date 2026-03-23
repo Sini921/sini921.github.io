@@ -743,24 +743,6 @@ Name: BetterAlarm(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/betteralarm/js.json
 Sponsor: Sini921
 
-Package: com.sini.betteruiswitch
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: TiaoTiao
-Installed-Size: 232
-Depends: mobilesubstrate, firmware (>= 14.0)
-Filename: rootless/com.sini.betteruiswitch_1.1_iphoneos-arm64.deb
-Size: 58448
-MD5sum: 805c8acc0f6667582996749ab9f5d6b7
-SHA1: 00144b93c582997b948b02dabf0789869fa6e6ed
-SHA256: 959cb8ca07b6592a97b75965cd10a013eca40b390c8d245d3525d9b44b097f3c
-Section: 越狱插件
-Description: 涩涩开关
-Author: TiaoTiao
-Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
-Name: BetterUISwitch(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/betteruiswitch/js.json
-
 Package: com.sini.bhinsta
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -4299,16 +4281,16 @@ Name: SpringBoardStyleDark(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/springboardstyledark/js.json
 
 Package: com.sini921.switchpro
-Version: 0.0.1-8
+Version: 0.0.1-9
 Architecture: iphoneos-arm64
 Maintainer: SINI
 Installed-Size: 528
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist
-Filename: rootless/com.sini921.switchpro_0.0.1-8_iphoneos-arm64.deb
-Size: 87454
-MD5sum: 9a09d366707a70b004bd04c6eb4a6f4b
-SHA1: 9d1129b9985c3f6926312efaad4a3b60486384bb
-SHA256: 120a00195da41dc93c3649348c280a1d7fea0393d58c01f8e2588cc632f4fd16
+Filename: rootless/com.sini921.switchpro_0.0.1-9_iphoneos-arm64.deb
+Size: 87378
+MD5sum: a81348472e8695dcae03665604dc76fe
+SHA1: 3a4f95fb53d0408fc41837e33de1b41cd44632a2
+SHA256: 06d9e07215b8580d033c463d67c6880fe283951c00befbc6b178cd82c8a15f46
 Section: 越狱插件
 Description: 开关简单美化, 旨在为需要SnowBoard的开关美化功能但不需要SnowBoard的其他功能的情况下使用
 Author: SINI
@@ -5685,16 +5667,16 @@ Name: SpringBoardStyleDark(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/springboardstyledark/js.json
 
 Package: com.sini921.switchpro
-Version: 0.0.1-8
+Version: 0.0.1-9
 Architecture: iphoneos-arm64e
 Maintainer: SINI
 Installed-Size: 524
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist
-Filename: roothide/com.sini921.switchpro_0.0.1-8_iphoneos-arm64e.deb
-Size: 85332
-MD5sum: 0a9fab998866f21d839c6f6121839521
-SHA1: cb7fa62560b13c826ca0b9ec44e552b74baf2ee2
-SHA256: 94d49dfef8975519383da85073d0d5d1693f6b8c1e7d7cbb8975a52a77759f09
+Filename: roothide/com.sini921.switchpro_0.0.1-9_iphoneos-arm64e.deb
+Size: 85322
+MD5sum: 6f19eb03dc2759a5ad13565782c14276
+SHA1: 4888abfe511ca727ed8f574ba575d84514f9ae05
+SHA256: cdfba570e317d2770db1b59c823c94a35c6afa989aa81c416471e76800d375d8
 Section: 越狱插件
 Description: 开关简单美化, 旨在为需要SnowBoard的开关美化功能但不需要SnowBoard的其他功能的情况下使用
 Author: SINI
