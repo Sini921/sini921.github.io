@@ -2265,18 +2265,18 @@ Name: 七猫小说Hook(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/qmxshook/js.json
 
 Package: com.sini.qqantirecall.x
-Version: 1.0
+Version: 1.2
 Architecture: iphoneos-arm64
 Maintainer: 𝙓
-Installed-Size: 440
+Installed-Size: 784
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini.qqantirecall.x_1.0_iphoneos-arm64.deb
-Size: 126468
-MD5sum: 9353416f097f99f3f09b2ab4bddfd37f
-SHA1: fb463071570a0f4e1174e7b14f2f1434bed73919
-SHA256: d18be4fa18404010d7bfc631ed2cfe3cc2324ea58c46d3b2b12768937f0e9a50
+Filename: rootless/com.sini.qqantirecall.x_1.2_iphoneos-arm64.deb
+Size: 1234672
+MD5sum: d0db54b118d3299d29e2d5e001c3c518
+SHA1: e1b621b2056a0e47354689aa1a4c8d2bfb3facf3
+SHA256: 6daa52e537fab8378c787ebb93e81b8f4fd1c1c74626ff51f254f7bc3ef7e8f0
 Section: 应用破解
-Description: 仅在9.2.20 - 9.2.70测试 · 仅支持越狱
+Description: 模块入口位于QQ内设置: NTQQ_AntiRecall
 Author: 𝙓
 Icon: https://sini921.github.io/repo/sileodepiction/icon/qqantirecall.x.png
 Name: NTQQ_AntiRecall(rootless)
