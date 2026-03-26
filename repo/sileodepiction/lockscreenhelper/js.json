@@ -41,7 +41,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0.1-6",
+                    "text": "0.0.1-7",
                     "title": "版本"
                 },
                 {
@@ -65,6 +65,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.0.1-7\n- 将右滑横幅清除通知的滑动灵敏度数值调节最大值限制为100,默认值改为50,防止有人将灵敏度设置的过大后以为此功能需要滑动两次或者必须滑出按钮后点按钮才能触发",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
