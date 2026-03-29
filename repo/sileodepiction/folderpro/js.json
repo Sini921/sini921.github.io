@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0.1-30",
+                    "text": "0.0.1-31",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026年03月11日",
+                    "text": "2026年03月29日",
                     "title": "更新日期"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.0.1-31\n- 启用iPad启动动画功能后,可以自行选择是否启用iPad切换动画",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"

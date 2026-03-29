@@ -65,12 +65,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.2-39",
+                    "text": "1.1.2-40",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026年03月21日",
+                    "text": "2026年03月30日",
                     "title": "更新日期"
                 },
                 {
@@ -89,6 +89,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.1.2-40\n- 控制中心背景模糊程度改为可自定义\n- 新增模块背景透明度调整",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
