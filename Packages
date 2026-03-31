@@ -2805,17 +2805,17 @@ Name: 主题盒子(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/themebox/js.json
 
 Package: com.sini.themepro
-Version: 4.6.5
+Version: 4.6.7
 Architecture: iphoneos-arm64
 Maintainer: Shelby <Shelby@yeah.net>
 Depends: mobilesubstrate
 Conflicts: ThemePro
 Replaces: ThemePro
-Filename: rootless/com.sini.themepro_4.6.5_iphoneos-arm64.deb
-Size: 6536768
-MD5sum: 57e1347805c0c28d0a01e2f04edc9eef
-SHA1: 6c4e5f3c77f15ad4490e0a26bafdb4d8c6872c88
-SHA256: f379398f5a2b2be2acb6c22b8ed96287d342671f79bb470273a217442d65ebb0
+Filename: rootless/com.sini.themepro_4.6.7_iphoneos-arm64.deb
+Size: 6558012
+MD5sum: 9e46ac420e06dc635385e2f9bfec4b4c
+SHA1: 5c5a774f68e90e0372db133eb4dd3d107c2ca5bd
+SHA256: 6b14c1fee814322b84323b11b40fd9869745044381c9830ae39c9f59964a54d9
 Section: 微信插件
 Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
 Author: Shelby <mm13299079785@gmail.com>
