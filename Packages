@@ -247,10 +247,10 @@ Architecture: iphoneos-arm64
 Maintainer: huami
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: rootless/com.sini.WCPulse_1.5-8_iphoneos-arm64.deb
-Size: 8606020
-MD5sum: a55181a68b5d851de10442476f8c41e3
-SHA1: c86cf1b6d0620c83d0554760d9503a8a290182aa
-SHA256: c01ba631091d7b30c62301d54572cee9ecb1f7bb778ccba04173c5d582733a98
+Size: 8590824
+MD5sum: 97429ea941159d21bd1a6841e57bc3b8
+SHA1: 28b6fdec5261330ddeb5fbbd03c0568fe9761b51
+SHA256: 56753c5bbc7e5d6a5d772706a283fb84d72eabcf9bf26a12b19bd90d6043b260
 Section: 微信插件
 Description: WCPulse
 Author: huami
@@ -259,15 +259,15 @@ Name: WCPulse(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/WCPulse/js.json
 
 Package: com.sini.WCRefine
-Version: 1.3-9
+Version: 1.4-0
 Architecture: iphoneos-arm64
 Maintainer: 热心网友
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: rootless/com.sini.WCRefine_1.3-9_iphoneos-arm64.deb
-Size: 2425036
-MD5sum: 8af5a345091cc4dd0faaa138d18a39e4
-SHA1: 54892ae90767d350b8c05615e6cba3ca2134b330
-SHA256: 820847a611d4aa5947c1774a8a41b6553615ec517b5d4a4aa27ce4d86dec8fef
+Filename: rootless/com.sini.WCRefine_1.4-0_iphoneos-arm64.deb
+Size: 2424936
+MD5sum: b7d5b4e9c211148e0269b43471baa37a
+SHA1: fede782fd3d02cccb5656b918338dbf9ab3c86ea
+SHA256: e39f1d8b22d689586ffae062636fcd497347455ebe8360d7b491a45f49c44eb7
 Section: 微信插件
 Priority: optional
 Description: 微信优化的重制版，基于微信8.0.64+版本制作。
@@ -1219,56 +1219,16 @@ Name: DYHook(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyhook/js.json
 
 Package: com.sini.dyyy
-Version: 2.2-9-build1632
+Version: 2.2-9-build1653
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 2036
+Installed-Size: 2184
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.dyyy_2.2-9-build1632_iphoneos-arm64.deb
-Size: 443480
-MD5sum: 61be9ef868eb4e23407134dc51f85c0e
-SHA1: d073e37e9ed5d8e0f16848c694522bec750852e3
-SHA256: 6f53ae356f04bc05fad83043560d949fe51ec25e2cb87472ba4a0e0e4bdbdad3
-Section: 应用破解
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
-Name: DYYY(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
-
-Package: com.sini.dyyy
-Version: 2.2-9-build1640
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 2136
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.dyyy_2.2-9-build1640_iphoneos-arm64.deb
-Size: 458600
-MD5sum: 73fab8c086f98af4acece944aca5fc60
-SHA1: 4ac070360cccca0c2cae8c218eeaaca74005417a
-SHA256: cf9db91993bf6a8219a39e413f1d4c6c9c796c0e4b7c39a588383992993309b7
-Section: 应用破解
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
-Name: DYYY(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
-
-Package: com.sini.dyyy
-Version: 2.2-9-build1646
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 2136
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: rootless/com.sini.dyyy_2.2-9-build1646_iphoneos-arm64.deb
-Size: 458440
-MD5sum: 13e28c1b0f4fde7435276784cb17f615
-SHA1: 552ad66bdd3ecbd3c7406090dbcec4d19b0e7d38
-SHA256: 851cf771de3f01b762504512f819317d625830f6226d8af50af3e9e3619a9348
+Filename: rootless/com.sini.dyyy_2.2-9-build1653_iphoneos-arm64.deb
+Size: 461292
+MD5sum: bd9f0c5db566980459c781cee22df7c6
+SHA1: 9bef7e0e2b3efcd45b08ccccfbff8c0b177fbc5f
+SHA256: bb9c505699a8a7616f3910f0169259b75d088274a3d146e662419bb17a4180ed
 Section: 应用破解
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -4569,10 +4529,10 @@ Architecture: iphoneos-arm64e
 Maintainer: huami
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: roothide/com.sini.WCPulse_1.5-8_iphoneos-arm64e.deb
-Size: 8604356
-MD5sum: 8cab7468455419a3c7d4668318a87aa3
-SHA1: f995f3af9e2300ea48bab63b4d4dbd4a481399c6
-SHA256: ebc060c7bba21caf2f1cb88c7f59d23443b68ba6f4c24d13a365a95d2657d761
+Size: 8594984
+MD5sum: 797ce9bc512cffa4a5d65bd3133ed374
+SHA1: b907e91bf04679219012bde514bdaa4d79eee3c6
+SHA256: ed8515ae20ed8a4d314280c2bfb5390660c47e6185558a612c96e1f92154e0fb
 Section: 微信插件
 Description: WCPulse
 Author: huami
@@ -4724,56 +4684,16 @@ Name: DayNightSwitch(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/daynightswitch/js.json
 
 Package: com.sini.dyyy
-Version: 2.2-9-build1632
+Version: 2.2-9-build1653
 Architecture: iphoneos-arm64e
 Maintainer: huami
-Installed-Size: 2036
+Installed-Size: 2184
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini.dyyy_2.2-9-build1632_iphoneos-arm64e.deb
-Size: 442856
-MD5sum: 4cab6afd95ac07a0665575bb5611907b
-SHA1: 5c3414ca8de4210f33f441b626631286d4af15fb
-SHA256: a6b76e85b43c2ace5a438caba2c9aaca034f486988bf6a0b8389606a6edd3877
-Section: 应用破解
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
-Name: DYYY(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
-
-Package: com.sini.dyyy
-Version: 2.2-9-build1640
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 2136
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini.dyyy_2.2-9-build1640_iphoneos-arm64e.deb
-Size: 457828
-MD5sum: 315be56db8595f05be4095d0652343dd
-SHA1: 72d44664f60714e54f78a7884a83bcc856318ba2
-SHA256: b025d814fe848918f466ad31808dcd38cf6b7bd9bbe30c26b203b9412f4ca67c
-Section: 应用破解
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
-Icon: https://sini921.github.io/repo/sileodepiction/icon/dyyy.png
-Name: DYYY(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/dyyy/js.json
-
-Package: com.sini.dyyy
-Version: 2.2-9-build1646
-Architecture: iphoneos-arm64e
-Maintainer: huami
-Installed-Size: 2136
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: roothide/com.sini.dyyy_2.2-9-build1646_iphoneos-arm64e.deb
-Size: 459024
-MD5sum: 86e94ae995365b7a2279131a3af79a71
-SHA1: e0eac47b5d4377d4d7930a4c79b60b54ed9a1ee4
-SHA256: 356b594c786a0960c57c50fad88ef9769a9c2e636d8b4e721a3d11899cfbcb2d
+Filename: roothide/com.sini.dyyy_2.2-9-build1653_iphoneos-arm64e.deb
+Size: 461172
+MD5sum: f53850858f39a3526a55c0773e284cc9
+SHA1: e6eb6118074e15bea2c54391520877063e79b1e7
+SHA256: 2ee3f0d03edadb8a819c691bc03ece7d8fe5561b7371ccfaf9f94961a9eb9e70
 Section: 应用破解
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
