@@ -3016,16 +3016,16 @@ Name: WCDisableHotUpdates(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wcdisablehotupdates/js.json
 
 Package: com.sini.wchook
-Version: 2.0-8
+Version: 2.1-6
 Architecture: iphoneos-arm64
 Maintainer: ylr
-Installed-Size: 1620
+Installed-Size: 2568
 Depends: firmware (>= 15.0)
-Filename: rootless/com.sini.wchook_2.0-8_iphoneos-arm64.deb
-Size: 588168
-MD5sum: 6df310dc441281aae5bb3e649a768208
-SHA1: 7156580edc4a54d89e7c21594defbae4dd58b2f6
-SHA256: 6a92563e2edf1d7f7b1714ab8cf02b4a14c60191900bfbe10f904c3e12d29247
+Filename: rootless/com.sini.wchook_2.1-6_iphoneos-arm64.deb
+Size: 916448
+MD5sum: d547272d1e0eacffbb3ca19a8f16702f
+SHA1: 4d789b4d6ecccb95560b93826df5736f2c2efbed
+SHA256: c7c80c561e661c3ed3b31118bb1f438b19dd1f67ecc111315985518e87729661
 Section: 微信插件
 Description: 悬浮按钮分屏
 Author: ylr
