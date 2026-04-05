@@ -3069,6 +3069,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/wcplugins.rootless.png
 Name: 微信插件管理(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/wcplugins.rootless/js.json
 
+Package: com.sini.wcpureextension
+Version: 2026.04
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 23256
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: rootless/com.sini.wcpureextension_2026.04_iphoneos-arm64.deb
+Size: 7995236
+MD5sum: cf3aeeefe93152646215f42c64a8ea5c
+SHA1: 755328fd8c37dc150090a0473e66846a785bb193
+SHA256: fcf27fe44154f40bc46cc2a4f0e80597f688d204dbb98cd312b1a69531c34849
+Section: 微信插件
+Description: 微信净化. 还原聊天本质, 干净的微信给你. 仅支持8.0.29及以上版本, 设置位于微信-设置
+Author: Netskao
+Icon: https://sini921.github.io/repo/sileodepiction/icon/wcpureextension.png
+Name: 微信净化(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/wcpureextension/js.json
+
 Package: com.sini.wcsimplify
 Version: 1.5.6-7
 Architecture: iphoneos-arm64
