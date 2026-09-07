@@ -3878,6 +3878,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/lockscreenhelper.png
 Name: LockScreenHelper(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/lockscreenhelper/js.json
 
+Package: com.sini921.lockscreenhelper
+Version: 0.0.1-15
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 716
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, com.opa334.libsandy
+Filename: rootless/com.sini921.lockscreenhelper_0.0.1-15_iphoneos-arm64.deb
+Size: 86712
+MD5sum: f011ba8df6801349b711b9dc9acdcee3
+SHA1: cce3ce9be231ef4aab85d5bd1566738e1b569dbe
+SHA256: a3acec3a020c412461331aefc564d2a81c9306681d4631e73ebb5f55ef093693
+Section: 越狱插件
+Description: 锁屏界面相关的简单优化
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lockscreenhelper.png
+Name: LockScreenHelper(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/lockscreenhelper/js.json
+
 Package: com.sini921.lstimeseconds
 Version: 0.0.5-1
 Architecture: iphoneos-arm64
@@ -4020,24 +4038,6 @@ Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/quickappskill.png
 Name: QuickAppsKill(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickappskill/js.json
-
-Package: com.sini921.quickpowerbutton
-Version: 0.0.1-39
-Architecture: iphoneos-arm64
-Maintainer: SINI
-Installed-Size: 620
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.quickpowerbutton_0.0.1-39_iphoneos-arm64.deb
-Size: 91924
-MD5sum: ad28cb686629c63c2bd1c35b0f398b19
-SHA1: e991b33c2f0a873aeef2c1608043c4f6d5518e17
-SHA256: d90c6de29d8dd1e02fdb399ce63a73b322e0df334e6e6bc343208bc6366a55e8
-Section: 越狱插件
-Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
-Author: SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
-Name: QuickPowerButton(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickpowerbutton/js.json
 
 Package: com.sini921.removequickactionsbutton
 Version: 0.0.1
@@ -5296,6 +5296,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/lockscreenhelper.png
 Name: LockScreenHelper(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/lockscreenhelper/js.json
 
+Package: com.sini921.lockscreenhelper
+Version: 0.0.1-15
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 716
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, com.opa334.libsandy
+Filename: roothide/com.sini921.lockscreenhelper_0.0.1-15_iphoneos-arm64e.deb
+Size: 85568
+MD5sum: 5b57d237fc6aeefbcafafe4485e1151e
+SHA1: f5c3da3994e0c6a8ff5ee6db65a3bb58020b2c1c
+SHA256: 70803a94c6d9b84c03fe5fcb610859f38b70849bb9b999d45d6b36d3f3caa7d8
+Section: 越狱插件
+Description: 锁屏界面相关的简单优化
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/lockscreenhelper.png
+Name: LockScreenHelper(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/lockscreenhelper/js.json
+
 Package: com.sini921.lstimeseconds
 Version: 0.0.5-1
 Architecture: iphoneos-arm64e
@@ -5384,24 +5402,6 @@ Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/quickappskill.png
 Name: QuickAppsKill(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickappskill/js.json
-
-Package: com.sini921.quickpowerbutton
-Version: 0.0.1-39
-Architecture: iphoneos-arm64e
-Maintainer: SINI
-Installed-Size: 600
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.quickpowerbutton_0.0.1-39_iphoneos-arm64e.deb
-Size: 89190
-MD5sum: 3af01b647477d00a9236a1e74a58a15b
-SHA1: e624fd8ec36cbb5146bed5e6e76296cbab310899
-SHA256: c8e6c5caa0152e347f07af8244e0311c373adc3aff7afd8bbb1168c285dd8337
-Section: 越狱插件
-Description: 在锁屏界面手电筒与相机中间添加一个快捷按钮，点击后弹出电源选项
-Author: SINI
-Icon: https://sini921.github.io/repo/sileodepiction/icon/quickpowerbutton.png
-Name: QuickPowerButton(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/quickpowerbutton/js.json
 
 Package: com.sini921.removequickactionsbutton
 Version: 0.0.1
