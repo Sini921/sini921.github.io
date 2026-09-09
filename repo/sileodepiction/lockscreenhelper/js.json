@@ -78,6 +78,14 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
+                    "markdown": "#### 版本: 0.0.1-15\n- 新增禁止录屏结束后的通知出现在锁屏或者通知中心",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
                     "markdown": "#### 版本: 0.0.1-12\n- 这个源主很懒\n- 懒得写更新日志",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
