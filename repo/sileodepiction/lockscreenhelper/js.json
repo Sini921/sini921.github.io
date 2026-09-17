@@ -41,12 +41,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "0.0.1-16",
+                    "text": "0.0.1-18",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026年09月09日",
+                    "text": "2026年09月17日",
                     "title": "更新日期"
                 },
                 {
@@ -65,6 +65,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 0.0.1-18\n- 新增禁止录屏结束后顶部弹出的通知点击后跳转到照片应用程序",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
