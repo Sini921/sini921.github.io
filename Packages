@@ -1577,24 +1577,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/sileopink.png
 Name: 修改系统键盘圆角(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/jpyj/js.json
 
-Package: com.sini.kayoko
-Version: 3.0
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 952
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: rootless/com.sini.kayoko_3.0_iphoneos-arm64.deb
-Size: 131212
-MD5sum: a04f0a2e70c4524a6352bd0bd823d355
-SHA1: 59ceb697af88595a2c5e70d9a8aca3b7b6112f13
-SHA256: 9d771aa24b3a18529fbca2e9ac38e2c57ce1b123e3f31bdc515c87daf02704e4
-Section: 越狱插件
-Description: iOS版剪贴板管理器
-Author: Alexandra Aurora Göttlicher
-Icon: https://sini921.github.io/repo/sileodepiction/icon/kayoko.png
-Name: Kayoko(rootless)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayoko/js.json
-
 Package: com.sini.krashkop
 Version: 1.0.2
 Architecture: iphoneos-arm64
@@ -3608,6 +3590,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
 Name: CCBorder(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
 
+Package: com.sini921.ccborder
+Version: 1.1.2-44
+Architecture: iphoneos-arm64
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 1028
+Depends: mobilesubstrate, firmware (>= 16.0), com.opa334.libsandy
+Filename: rootless/com.sini921.ccborder_1.1.2-44_iphoneos-arm64.deb
+Size: 214490
+MD5sum: e0a2a4ce850726da68b4b2c2d52d651f
+SHA1: c4f6efa44383050a7c84fd14665ad6c73a64329b
+SHA256: 9d9bc29dd752ebb87a668f7bfc9549eed15b8711db5864947072b512aa000f13
+Section: 控制中心
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
+
 Package: com.sini921.chatgpthook
 Version: 0.0.1-2+debug
 Architecture: iphoneos-arm64
@@ -3859,6 +3859,42 @@ Author: LacertosusDeus & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/indicators.png
 Name: Indicators(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/indicators/js.json
+
+Package: com.sini921.kayokolite
+Version: 4.3.3-2
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 3060
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: rootless/com.sini921.kayokolite_4.3.3-2_iphoneos-arm64.deb
+Size: 796854
+MD5sum: b6835c5ba1ea684584996a22b13c434c
+SHA1: 688f4ed02c69f6c67a370ffeeb7898be8b38a0ba
+SHA256: b1689dbb7a5ceb5780f688fefcf45aa164bc253e10e2b8e331b921ef10fc29d0
+Section: 越狱插件
+Description: 基于82Flex的Kayoko开源项目重新修改编译
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/kayokolite.png
+Name: KayokoLite(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayokolite/js.json
+
+Package: com.sini921.liquidglassswitch
+Version: 0.0.1-8
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 676
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, com.opa334.libsandy
+Filename: rootless/com.sini921.liquidglassswitch_0.0.1-8_iphoneos-arm64.deb
+Size: 119174
+MD5sum: a9bc0dd2ff06a59d58c401f7feac49d3
+SHA1: 4a55bfe5000c5d8cbd284c2d9b149f61fbceedaf
+SHA256: b60f414568f57355cf976dca289d6f2734710810d7ae5ba1829a18d57a98765d
+Section: 越狱插件
+Description: 液态玻璃开关
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/liquidglassswitch.png
+Name: LiquidGlassSwitch(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/liquidglassswitch/js.json
 
 Package: com.sini921.lockscreenhelper
 Version: 0.0.1-19
@@ -4792,24 +4828,6 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/flexloader.png
 Name: FlexLoader(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/flexloader/js.json
 
-Package: com.sini.kayoko
-Version: 3.0
-Architecture: iphoneos-arm64e
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 968
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: roothide/com.sini.kayoko_3.0_iphoneos-arm64e.deb
-Size: 131616
-MD5sum: ba73b9d3cf4c0b4bbed96d8ff447cd17
-SHA1: 1d730db1c1e0f66114764056996e026e2ba95413
-SHA256: 9e1b2cbb9c1ac93146b5e3ec9abb42f89e07efa0c9ecb59d893c885c737b17db
-Section: 越狱插件
-Description: iOS版剪贴板管理器
-Author: Alexandra Aurora Göttlicher
-Icon: https://sini921.github.io/repo/sileodepiction/icon/kayoko.png
-Name: Kayoko(roothide)
-Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayoko/js.json
-
 Package: com.sini.noredirect
 Version: 2.1
 Architecture: iphoneos-arm64e
@@ -5001,6 +5019,24 @@ Size: 207532
 MD5sum: 147e010f756f089e90060fd701262708
 SHA1: bb5c97e42618230cbff3736981d87e5afe325c90
 SHA256: d51be8d0bd3b6eb6ed4c6542834a05c7f7ccf529b8ce32db1a5387501515e11b
+Section: 控制中心
+Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
+Author: fiore & p2kdev & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/ccborder.png
+Name: CCBorder(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/ccborder/js.json
+
+Package: com.sini921.ccborder
+Version: 1.1.2-44
+Architecture: iphoneos-arm64e
+Maintainer: fiore & p2kdev & SINI
+Installed-Size: 1028
+Depends: mobilesubstrate, firmware (>= 16.0), com.opa334.libsandy
+Filename: roothide/com.sini921.ccborder_1.1.2-44_iphoneos-arm64e.deb
+Size: 213668
+MD5sum: a5e25aa1115e4f9cfcaedda9b3d1d4a1
+SHA1: d2f10aa1e0009ecf7d54673a593c0c14d4055eaf
+SHA256: b486d8608a22d8666f9a1f7101f101b490166a4927dc33ba675798b50150c2b5
 Section: 控制中心
 Description: 控制中心调整，基于开源修改编译，去掉了AlderisColorPicker依赖
 Author: fiore & p2kdev & SINI
@@ -5259,6 +5295,42 @@ Author: LacertosusDeus & SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/indicators.png
 Name: Indicators(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/indicators/js.json
+
+Package: com.sini921.kayokolite
+Version: 4.3.3-2
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 3028
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: roothide/com.sini921.kayokolite_4.3.3-2_iphoneos-arm64e.deb
+Size: 795648
+MD5sum: d480a399f291546021dc4cd86820951b
+SHA1: cd36586f92f23a2fac75a2091b7c155409d72331
+SHA256: 3bc9cf61f40e59615f88878adf1312d96321642da4bfb90c406830a6b89c9a08
+Section: 越狱插件
+Description: 基于82Flex的Kayoko开源项目重新修改编译
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/kayokolite.png
+Name: KayokoLite(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayokolite/js.json
+
+Package: com.sini921.liquidglassswitch
+Version: 0.0.1-8
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 660
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, com.opa334.libsandy
+Filename: roothide/com.sini921.liquidglassswitch_0.0.1-8_iphoneos-arm64e.deb
+Size: 116196
+MD5sum: 2b6c18dc1edec0a220d3f6a7da50f882
+SHA1: e4b2adb29c2d838717710509012638be8b392ffe
+SHA256: 1463ab599d00b47c64946d01e082447c10e6ebd0d0e391ff800a309ea1340380
+Section: 越狱插件
+Description: 液态玻璃开关
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/liquidglassswitch.png
+Name: LiquidGlassSwitch(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/liquidglassswitch/js.json
 
 Package: com.sini921.lockscreenhelper
 Version: 0.0.1-19
