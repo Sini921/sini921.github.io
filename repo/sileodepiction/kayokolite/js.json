@@ -17,7 +17,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "## 描述\n- 基于82Flex的Kayoko开源项目修改/n- 精简了一些功能/n- 新增了一些功能",
+                    "markdown": "## 描述\n- 基于82Flex的Kayoko开源项目修改\n- 精简了一些功能\n- 新增了一些功能",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
