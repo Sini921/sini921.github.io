@@ -3896,6 +3896,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/kayokolite.png
 Name: KayokoLite(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayokolite/js.json
 
+Package: com.sini921.kayokolite
+Version: 4.3.3-6
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 3060
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: rootless/com.sini921.kayokolite_4.3.3-6_iphoneos-arm64.deb
+Size: 797994
+MD5sum: 396f6cd57451e7f03803615d5d5cc0eb
+SHA1: 530c46d7560a42fb7e6c41478e77557fc43acfcf
+SHA256: 0a58768dda7c2e2a122e5c81176bf880061a48f77c04a936e5753825713b7d4e
+Section: 越狱插件
+Description: 基于82Flex的Kayoko开源项目重新修改编译
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/kayokolite.png
+Name: KayokoLite(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayokolite/js.json
+
 Package: com.sini921.liquidglassswitch
 Version: 0.0.1-8
 Architecture: iphoneos-arm64
@@ -5343,6 +5361,24 @@ Size: 797822
 MD5sum: b89a77ef1ce53fb057ccba25d11f2d8d
 SHA1: 85bb28748ef778dc4b46d0b82d6bf2bd86a11dfc
 SHA256: 7d5b94271d1fe5121409018ee0ab0ffed9dd2d8534cddcfebaa591c58fd6ee01
+Section: 越狱插件
+Description: 基于82Flex的Kayoko开源项目重新修改编译
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/kayokolite.png
+Name: KayokoLite(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/kayokolite/js.json
+
+Package: com.sini921.kayokolite
+Version: 4.3.3-6
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 3044
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: roothide/com.sini921.kayokolite_4.3.3-6_iphoneos-arm64e.deb
+Size: 794408
+MD5sum: d5f771a468a8c678e08cf68e9ee05ebd
+SHA1: 05f632c39f35a89ffadc606011999c392feb5069
+SHA256: 636a206e0c6139c92feaa89914e306edeab7c6e9aa20588988370f88c2a4b8d9
 Section: 越狱插件
 Description: 基于82Flex的Kayoko开源项目重新修改编译
 Author: SINI
