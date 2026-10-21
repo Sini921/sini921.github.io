@@ -3716,6 +3716,24 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
 Name: CylinderReborn(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/cylinderreborn/js.json
 
+Package: com.sini921.cylinderreborn
+Version: 1.2.0-1
+Architecture: iphoneos-arm64
+Maintainer: Ryan Nair & SINI
+Installed-Size: 1860
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: rootless/com.sini921.cylinderreborn_1.2.0-1_iphoneos-arm64.deb
+Size: 338710
+MD5sum: 204bc74f2b522305fa5d79e08b3edeb6
+SHA1: 36591453d5b37ef094255fe8e37b77c910350e64
+SHA256: 90b017135f80d6981ac3fed479dcd5c4d4f08082b3d399bec06ba01da88d7bb0
+Section: 越狱插件
+Description: 有点意思的桌面图标动画，基于开源优化编译，修正汉化，适配支持roothide。
+Author: Ryan Nair & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
+Name: CylinderReborn(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cylinderreborn/js.json
+
 Package: com.sini921.donut
 Version: 0.0.1-2
 Architecture: iphoneos-arm64
@@ -5163,6 +5181,24 @@ Size: 245630
 MD5sum: 13dfae48e5e1cc35e56f33f36d46c2c0
 SHA1: 0e0e89637ab706882d10825a221a4eb05721342f
 SHA256: 4511b57ddc56ab84d92d0d085c617e3d251c69c71f571b111abff8e93887bc75
+Section: 越狱插件
+Description: 有点意思的桌面图标动画，基于开源优化编译，修正汉化，适配支持roothide。
+Author: Ryan Nair & SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/cylinderreborn.png
+Name: CylinderReborn(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/cylinderreborn/js.json
+
+Package: com.sini921.cylinderreborn
+Version: 1.2.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Ryan Nair & SINI
+Installed-Size: 1840
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: roothide/com.sini921.cylinderreborn_1.2.0-1_iphoneos-arm64e.deb
+Size: 337444
+MD5sum: 37e6fd43a47b8d7cc07f73e8b4f410e4
+SHA1: 7968153a6e2db9ba2f8cad573ad6fe8d8078836f
+SHA256: 014d12ea5cbf591f8e2c45db74c9a733e4c3229bb3055e3afcedf3e2c9c523df
 Section: 越狱插件
 Description: 有点意思的桌面图标动画，基于开源优化编译，修正汉化，适配支持roothide。
 Author: Ryan Nair & SINI

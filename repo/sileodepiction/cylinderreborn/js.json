@@ -69,17 +69,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "1.1.2-4",
+                    "text": "1.2.0-1",
                     "title": "版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025年08月03日",
+                    "text": "2026年10月22日",
                     "title": "更新日期"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS15.0-iOS16.6.1",
+                    "text": "iOS15.0-iOS27.0",
                     "title": "支持的系统"
                 }
             ]
@@ -93,6 +93,14 @@
                     "action": "https://t.me/jibozhijia",
                     "openExternal": 1,
                     "class": "DepictionButtonView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "markdown": "#### 版本: 1.2.0-1\n- 优化选择动画的列表,现在已选择的动画置顶显示,更直观的看到自己选择了什么\n- 同步原作者的更新:\n    • 主要性能改进\n    • 修复了最近关闭的应用程序图标不会显示动画的错误\n    • 修复了先前版本中损坏的许多效果\n    • 修复了图标飞入时效果不起作用的问题\n    • 将 Lua 更新至 5.5\n    • 脚本现在可以使用每个图标的行和列以及 icon:center()",
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
                     "class": "DepictionSeparatorView"
