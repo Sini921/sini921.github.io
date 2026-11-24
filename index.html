@@ -1,0 +1,542 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111111">
+  <title>思念变成海</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      font-family: Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
+      --orange: #ff8b16;
+      --yellow: #ffe34f;
+      --dark: #171717;
+      --muted: #9a9a9a;
+    }
+
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body { min-width: 320px; margin: 0; overflow-x: hidden; background: #101010; color: #eee; }
+    a { color: inherit; text-decoration: none; }
+    button, input { font: inherit; }
+
+    .utility {
+      height: 28px;
+      padding: 0 max(16px, calc((100% - 1120px) / 2));
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      color: #9c9c9c;
+      background: #151515;
+      font-size: 11px;
+    }
+    .utility-links { display: flex; gap: 16px; }
+    .utility a:hover { color: white; }
+
+    .header { background: #292929; border-top: 1px solid #393939; border-bottom: 1px solid #3b3b3b; }
+    .header-inner {
+      max-width: 1120px;
+      min-height: 70px;
+      margin: auto;
+      padding: 0 16px;
+      display: flex;
+      align-items: center;
+      gap: 42px;
+    }
+    .brand { display: flex; align-items: center; flex: 0 0 auto; gap: 7px; color: #ff9a2c; font-size: 21px; font-weight: 1000; letter-spacing: 0; text-shadow: 1px 2px #783914, 0 0 16px #f15b1b66; white-space: nowrap; }
+    .brand-copy { display: flex; flex-direction: column; line-height: 1.05; }
+    .brand-subtitle { margin-top: 3px; color: #d3b99f; font-size: 10px; font-weight: 600; letter-spacing: .08em; text-shadow: none; }
+    .brand-highlight { color: #ef3429; }
+    .brand-mark { width: 36px; height: 36px; object-fit: contain; }
+    .nav { min-width: 0; flex: 1; display: flex; justify-content: space-between; gap: 18px; overflow-x: auto; scrollbar-width: none; }
+    .nav::-webkit-scrollbar { display: none; }
+    .nav a { flex: 0 0 auto; padding: 26px 0; color: #bcbcbc; font-size: 13px; white-space: nowrap; }
+    .nav a:hover, .nav a.active { color: white; }
+    .account { flex: 0 0 auto; color: #aaa; font-size: 12px; }
+
+    .subnav { background: #202020; border-bottom: 1px solid #303030; }
+    .subnav-inner {
+      max-width: 1120px;
+      min-height: 34px;
+      margin: auto;
+      padding: 0 16px;
+      display: flex;
+      align-items: center;
+      gap: 22px;
+      overflow-x: auto;
+      scrollbar-width: none;
+      white-space: nowrap;
+    }
+    .subnav-inner::-webkit-scrollbar { display: none; }
+    .subnav a { color: var(--orange); font-size: 11px; }
+    .subnav a:hover { color: #ffd05a; }
+
+    main { width: min(820px, calc(100% - 28px)); margin: 0 auto; padding: 13px 0 50px; }
+    .quick-links { display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; margin: 0 14px 8px; }
+    .quick-link {
+      min-height: 34px;
+      padding: 4px 8px;
+      display: grid;
+      place-items: center;
+      border: 2px solid #fff4bf;
+      border-radius: 22px;
+      color: #a32016;
+      background: linear-gradient(#fff9d5 0%, #ffc94a 49%, #ffeeb1 100%);
+      box-shadow: inset 0 1px 2px #fff, 0 2px 6px #0009;
+      font-size: clamp(11px, 1.8vw, 17px);
+      font-weight: 900;
+      text-shadow: 0 1px #fff9;
+      white-space: nowrap;
+    }
+    .quick-link:hover { filter: brightness(1.17); }
+
+    .billboards { display: grid; gap: 5px; }
+    .banner {
+      position: relative;
+      min-height: 116px;
+      overflow: hidden;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 12px 22px;
+      isolation: isolate;
+      border: 2px solid #ffdc2f;
+      text-shadow: 1px 2px 2px #240900a8;
+      transition: filter .2s ease;
+    }
+    .banner:hover { filter: brightness(1.18) saturate(1.14); }
+    .banner-main { --flash-delay: .1s; }
+    .banner-cyan { --flash-delay: .4s; }
+    .banner-orange { --flash-delay: .3s; }
+    .banner-blue { --flash-delay: .1s; }
+    .banner-green { --flash-delay: .2s; }
+    .banner .banner-title,
+    .banner .banner-caption,
+    .banner .banner-stamp span,
+    .banner .banner-side,
+    .banner .banner-cta {
+      animation: text-flash .4s steps(2, end) infinite;
+      animation-delay: var(--flash-delay, 0s);
+    }
+    @keyframes text-flash {
+      0%, 49% { filter: brightness(1.45); text-shadow: 0 0 12px #fff9, 0 0 24px #fff7; }
+      50%, 100% { filter: brightness(.8); text-shadow: 1px 2px 2px #240900a8; }
+    }
+    .banner::before {
+      position: absolute;
+      z-index: -1;
+      inset: 0;
+      content: "";
+      opacity: .7;
+      background: repeating-linear-gradient(115deg, transparent 0 17px, #ffffff12 18px, transparent 20px 37px);
+      pointer-events: none;
+    }
+    .banner::before { display: none; }
+    .banner::after {
+      position: absolute;
+      z-index: -1;
+      width: 280px;
+      height: 280px;
+      top: -110px;
+      right: 12%;
+      content: "";
+      border: 2px solid #ffffff2a;
+      border-radius: 50%;
+      box-shadow: 0 0 0 14px #ffffff0b, 0 0 0 29px #ffffff0b, 0 0 32px #fff3;
+      pointer-events: none;
+    }
+    .banner::after { display: none; }
+    .banner-main {
+      min-height: 126px;
+      overflow: visible;
+      border: 12px solid #c51c13;
+      background: linear-gradient(105deg, #780900, #db2612 38%, #950900 69%, #500500);
+      box-shadow: inset 0 0 26px #ffcf1f55, inset 0 0 0 2px #f34b28, 0 0 15px #ff1b005c;
+    }
+    .running-lights {
+      position: absolute;
+      z-index: 10;
+      inset: -12px;
+      width: calc(100% + 24px);
+      height: calc(100% + 24px);
+      overflow: visible;
+      pointer-events: none;
+    }
+    .running-light {
+      fill: none;
+      stroke: #fff36a;
+      stroke-width: 6;
+      stroke-linecap: round;
+      stroke-dasharray: 2.5 12;
+      vector-effect: non-scaling-stroke;
+      filter: drop-shadow(0 0 3px #fff900) drop-shadow(0 0 7px #ff7a00);
+      animation: running-light .55s linear infinite;
+    }
+    @keyframes running-light {
+      to { stroke-dashoffset: -56; }
+    }
+    .banner-cyan {
+      min-height: 90px;
+      border-color: #43d5e5;
+      background: linear-gradient(105deg, #07141b, #165969 43%, #0c303e 71%, #071319);
+      box-shadow: inset 0 0 20px #00d9ff4f;
+    }
+    .banner-orange {
+      min-height: 90px;
+      border-color: #ffbe22;
+      background: linear-gradient(105deg, #720e08, #e04412 42%, #a6220e 73%, #570d08);
+      box-shadow: inset 0 0 22px #ffb81357;
+    }
+    .banner-blue {
+      min-height: 76px;
+      border-color: #fff000;
+      background: linear-gradient(100deg, #173082, #176bd5 47%, #5622bd 72%, #122578);
+      box-shadow: inset 0 0 22px #35caff5c;
+    }
+    .banner-green {
+      min-height: 76px;
+      border-color: #ffe600;
+      background: linear-gradient(100deg, #0d6040, #07977c 45%, #0879a2 72%, #1a347f);
+      box-shadow: inset 0 0 22px #55ffbd4f;
+    }
+    .banner-lead { display: flex; min-width: 0; align-items: center; gap: 15px; }
+    .banner-stamp {
+      flex: 0 0 auto;
+      width: 84px;
+      min-height: 66px;
+      display: grid;
+      place-items: center;
+      padding: 7px;
+      border: 1px solid #ffe178;
+      border-radius: 9px;
+      color: #fff3a7;
+      background: #35050070;
+      font-size: 15px;
+      font-weight: 900;
+      line-height: 1.2;
+      text-align: center;
+    }
+    .banner-stamp span { display: block; }
+    .banner-main .banner-stamp { min-height: 84px; border-width: 2px; font-size: 23px; }
+    .banner-title { font-size: clamp(20px, 4vw, 34px); font-weight: 1000; letter-spacing: 1px; line-height: 1.05; }
+    .banner-main .banner-title { color: #ffe866; font-size: clamp(38px, 8vw, 80px); letter-spacing: -2px; text-shadow: 2px 3px #8c1d00, 0 0 15px #ffe300a3; }
+    .banner-main .banner-title span { color: #fff3a2; font-size: .53em; letter-spacing: 0; }
+    .banner-caption { margin-top: 5px; color: #fff5d4; font-size: 12px; font-weight: 700; }
+    .banner-side { flex: 0 0 auto; margin-left: 12px; color: #fff2a1; font-size: clamp(14px, 2.3vw, 23px); font-weight: 1000; text-align: right; }
+    .banner-side strong { display: block; color: white; font-size: 1.3em; }
+    .banner-cta {
+      margin-left: 10px;
+      padding: 9px 13px;
+      border: 1px solid #fff28e;
+      border-radius: 4px;
+      color: #801000;
+      background: linear-gradient(#fff698, #ffbe24);
+      box-shadow: 0 2px 5px #3009;
+      font-size: 13px;
+      font-weight: 1000;
+      white-space: nowrap;
+    }
+    .banner-blue .banner-title, .banner-green .banner-title { font-size: clamp(18px, 3.2vw, 32px); }
+    .banner-blue .banner-title span, .banner-green .banner-title span { color: #fff84e; }
+
+    .search-row { display: flex; justify-content: center; margin: 14px auto 20px; }
+    .search-form { width: min(500px, 100%); display: flex; }
+    .search-form input {
+      min-width: 0;
+      flex: 1;
+      height: 38px;
+      padding: 0 13px;
+      border: 1px solid #555;
+      border-right: 0;
+      border-radius: 0;
+      outline: none;
+      color: #eee;
+      background: #222;
+      font-size: 12px;
+    }
+    .search-form input:focus { border-color: #ff971b; }
+    .search-form button {
+      width: 82px;
+      border: 1px solid #ff8b00;
+      color: white;
+      background: linear-gradient(#ffad19, #f07800);
+      cursor: pointer;
+      font-size: 13px;
+      font-weight: 800;
+    }
+
+    .section-heading { display: flex; align-items: center; justify-content: space-between; margin: 20px 0 12px; }
+    .section-heading h1, .section-heading h2 { margin: 0; font-size: 19px; }
+    .section-heading p { margin: 0; color: #777; font-size: 11px; }
+    .placeholder-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 10px; }
+    .placeholder-card { min-width: 0; overflow: hidden; border: 1px solid #343434; background: #1a1a1a; }
+    .placeholder-image {
+      display: block;
+      width: 100%;
+      aspect-ratio: 1.55;
+      object-fit: cover;
+      border-bottom: 1px solid #383838;
+    }
+    .placeholder-copy { padding: 9px 10px 10px; }
+    .placeholder-copy strong { display: block; overflow: hidden; font-size: 12px; text-overflow: ellipsis; white-space: nowrap; }
+    .placeholder-copy span { display: block; margin-top: 6px; color: #888; font-size: 10px; }
+    .floating-card {
+      position: fixed;
+      z-index: 20;
+      top: 12px;
+      left: 12px;
+      width: clamp(150px, 22vw, 250px);
+      overflow: hidden;
+      border: 2px solid #fff;
+      background: #171717;
+      box-shadow: 0 4px 18px #000b;
+      transition: left 5s ease-in-out, top 5s ease-in-out;
+      pointer-events: none;
+    }
+    .floating-card img { display: block; width: 100%; height: auto; }
+    .floating-card-close {
+      position: absolute;
+      top: 4px;
+      right: 4px;
+      width: 24px;
+      height: 24px;
+      display: grid;
+      place-items: center;
+      border: 1px solid #ffffffb3;
+      border-radius: 50%;
+      color: white;
+      background: #111c;
+      font: 700 18px/1 Arial, sans-serif;
+      text-shadow: 0 1px 3px #000;
+    }
+    .fixed-side-card {
+      position: fixed;
+      z-index: 19;
+      top: 50%;
+      left: 12px;
+      width: clamp(90px, 13vw, 150px);
+      overflow: hidden;
+      border: 2px solid #fff;
+      background: #171717;
+      box-shadow: 0 4px 18px #000b;
+      transform: translateY(-50%);
+      pointer-events: none;
+    }
+    .fixed-side-card::after {
+      position: absolute;
+      z-index: 1;
+      inset: 0;
+      background: white;
+      content: "";
+      opacity: 0;
+      pointer-events: none;
+      animation: fixed-side-card-flash .1s steps(2, end) infinite;
+    }
+    .fixed-side-card img { display: block; width: 100%; height: auto; }
+    .fixed-side-card .floating-card-close { z-index: 2; }
+    .fixed-side-card-right { right: 12px; left: auto; }
+    @keyframes fixed-side-card-flash {
+      50% { opacity: .9; }
+    }
+    footer { padding: 20px; border-top: 1px solid #292929; color: #666; text-align: center; font-size: 10px; }
+
+    @media (max-width: 650px) {
+      .utility { padding: 0 12px; }
+      .header-inner { min-height: 60px; flex-wrap: wrap; gap: 0 15px; padding: 0 12px 7px; }
+      .brand { height: 53px; font-size: 19px; }
+      .account { margin-left: auto; }
+      .nav { order: 3; flex-basis: 100%; gap: 20px; justify-content: flex-start; }
+      .nav a { padding: 5px 0 7px; font-size: 12px; }
+      .subnav-inner { padding: 0 12px; gap: 17px; }
+      main { width: calc(100% - 20px); padding-top: 11px; }
+      .quick-links { gap: 6px; margin-right: 5px; margin-left: 5px; }
+      .quick-link { min-height: 30px; padding: 3px 4px; border-width: 1px; font-size: 10px; }
+      .banner { min-height: 76px; padding: 8px 10px; }
+      .banner-main { min-height: 104px; }
+      .banner-cyan, .banner-orange { min-height: 74px; }
+      .banner-blue, .banner-green { min-height: 60px; }
+      .banner-lead { gap: 8px; }
+      .banner-stamp { width: 58px; min-height: 50px; padding: 4px; font-size: 10px; }
+      .banner-main .banner-stamp { width: 64px; min-height: 72px; font-size: 17px; }
+      .banner-title { font-size: clamp(17px, 4.7vw, 25px); }
+      .banner-main .banner-title { font-size: clamp(34px, 9.5vw, 56px); }
+      .banner-caption { font-size: 9px; }
+      .banner-side { margin-left: 5px; font-size: 12px; }
+      .banner-cta { margin-left: 5px; padding: 7px; font-size: 10px; }
+      .banner-blue .banner-title, .banner-green .banner-title { font-size: clamp(16px, 4.3vw, 22px); }
+      .search-row { margin: 12px auto 14px; }
+      .placeholder-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; }
+    }
+
+    @media (max-width: 390px) {
+      .banner-side { display: none; }
+      .banner-main .banner-title { font-size: 34px; }
+      .floating-card { width: min(44vw, 180px); }
+      .fixed-side-card { width: 76px; left: 6px; }
+      .fixed-side-card-right { right: 6px; left: auto; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      *, *::before, *::after { transition-duration: .01ms !important; }
+      .fixed-side-card::after { animation: none; }
+      .banner .banner-title,
+      .banner .banner-caption,
+      .banner .banner-stamp span,
+      .banner .banner-side,
+      .banner .banner-cta { animation: none; }
+      .running-light { animation: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="utility">
+    <span>追风赶月莫停留，平芜尽处是春山</span>
+    <div class="utility-links"><a href="#content">帮助</a><a href="#content">登录</a></div>
+  </div>
+
+  <header class="header">
+    <div class="header-inner">
+      <a class="brand" href="#" aria-label="思念变成海首页"><img class="brand-mark" src="repo/images/SINI.png" alt=""><span class="brand-copy"><span>思念变成<span class="brand-highlight">海</span></span><span class="brand-subtitle">Developer</span></span></a>
+      <nav class="nav" aria-label="主导航">
+        <a class="active" href="#content">首页</a>
+        <a href="#content">精选</a>
+        <a href="#content">视频</a>
+        <a href="#content">图集</a>
+        <a href="#content">专题</a>
+        <a href="#content">发现</a>
+        <a href="#content">会员专区</a>
+      </nav>
+      <a class="account" href="#content">登录　注册</a>
+    </div>
+  </header>
+
+  <div class="subnav">
+    <nav class="subnav-inner" aria-label="快捷分类">
+      <a href="#content">今日推荐</a>
+      <a href="#content">最新内容</a>
+      <a href="#content">人气排行</a>
+      <a href="#content">专题合集</a>
+      <a href="#content">精选片单</a>
+      <a href="#content">最近更新</a>
+      <a href="#content">更多分类</a>
+    </nav>
+  </div>
+
+  <main>
+    <nav class="quick-links" aria-label="热门入口">
+      <a class="quick-link" href="#content">精选推荐</a>
+      <a class="quick-link" href="#content">热门专题</a>
+      <a class="quick-link" href="#content">全新上线</a>
+      <a class="quick-link" href="#content">人气榜单</a>
+      <a class="quick-link" href="#content">更多内容</a>
+    </nav>
+
+    <section class="billboards" aria-label="主视觉占位横幅">
+      <a class="banner banner-main" href="#content">
+        <svg class="running-lights" viewBox="0 0 1000 200" preserveAspectRatio="none" aria-hidden="true">
+          <rect class="running-light" x="7.3" y="5" width="985.4" height="190" rx="3"></rect>
+        </svg>
+        <div class="banner-lead">
+          <span class="banner-stamp"><span>个人<br>源站</span></span>
+          <div><div class="banner-title">思念变成海<br><span>个人越狱源</span></div><div class="banner-caption">不要为了越狱，放弃升级的乐趣～</div></div>
+        </div>
+        <div class="banner-side">专题入口<strong>点击查看　›</strong></div>
+      </a>
+      <a class="banner banner-cyan" href="#content">
+        <div class="banner-lead">
+          <span class="banner-stamp"><span>越狱<br>精选</span></span>
+          <div><div class="banner-title">让设备解锁更多可能</div><div class="banner-caption">实用越狱插件与工具，发现更顺手的使用方式</div></div>
+        </div>
+        <div class="banner-side">插件灵感 <strong>JAILBREAK</strong></div>
+      </a>
+      <a class="banner banner-orange" href="#content">
+        <div class="banner-lead">
+          <span class="banner-stamp"><span>插件<br>推荐</span></span>
+          <div><div class="banner-title">从效率提升到界面美化</div><div class="banner-caption">看看有哪些插件，能让你的设备更合心意</div></div>
+        </div>
+        <span class="banner-cta">探索插件　›</span>
+      </a>
+      <a class="banner banner-green" href="sileo://source/https://sini921.github.io">
+        <div class="banner-lead">
+          <span class="banner-stamp"><span>每日<br>更新</span></span>
+          <div><div class="banner-title">在 Sileo 中添加</div></div>
+        </div>
+        <div class="banner-side">精选入口　›</div>
+      </a>
+      <a class="banner banner-blue" href="apt-repo://https://sini921.github.io">
+        <div class="banner-lead">
+          <span class="banner-stamp"><span>精彩<br>合集</span></span>
+          <div><div class="banner-title">添加到 <span>Saily</span></div></div>
+        </div>
+        <div class="banner-side">更多内容　›</div>
+      </a>
+    </section>
+
+    <div class="search-row">
+      <form class="search-form" role="search" onsubmit="event.preventDefault()">
+        <input type="search" placeholder="搜索内容…" aria-label="搜索内容">
+        <button type="submit">⌕　搜索</button>
+      </form>
+    </div>
+
+    <section id="content">
+      <div class="section-heading">
+        <h1>插件推荐</h1>
+        <p>精选必备实用插件推荐</p>
+      </div>
+      <div class="placeholder-grid">
+        <a class="placeholder-card" href="#content"><img class="placeholder-image" src="repo/images/folderpro.png" alt="FolderPro"><div class="placeholder-copy"><strong>FolderPro</strong><span>对桌面中的文件夹进行优化，附带一些其他实用小功能</span></div></a>
+        <a class="placeholder-card" href="#content"><img class="placeholder-image" src="repo/images/kayokolite.png" alt="KayokoLite"><div class="placeholder-copy"><strong>KayokoLite</strong><span>适用于iOS的功能丰富的剪贴板管理器</span></div></a>
+        <a class="placeholder-card" href="#content"><img class="placeholder-image" src="repo/images/liquidglassswitch.png" alt="LiquidGlassSwitch"><div class="placeholder-copy"><strong>LiquidGlassSwitch</strong><span>在iOS15~18中为开关控件提供iOS26风格的液态玻璃样式</span></div></a>
+        <a class="placeholder-card" href="#content"><img class="placeholder-image" src="repo/images/cylinderreborn.png" alt="CylinderReborn"><div class="placeholder-copy"><strong>CylinderReborn</strong><span>CylinderReborn为iOS带来了炫酷的滚动图标动画，通过自定义公式和特效组合，可为您的设备提供数以万亿计的图标特效</span></div></a>
+      </div>
+    </section>
+  </main>
+
+  <footer>© 2025-2026 • by思念变成海</footer>
+  <div class="floating-card" aria-hidden="true">
+    <img src="repo/images/laogongbuzaijia.png" alt="">
+    <span class="floating-card-close">×</span>
+  </div>
+  <div class="fixed-side-card" aria-hidden="true">
+    <img src="repo/images/18cm.png" alt="">
+    <span class="floating-card-close">×</span>
+  </div>
+  <div class="fixed-side-card fixed-side-card-right" aria-hidden="true">
+    <img src="repo/images/spa.png" alt="">
+    <span class="floating-card-close">×</span>
+  </div>
+  <script>
+    const floatingCard = document.querySelector(".floating-card");
+    const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
+    let floatingMoveTimer;
+
+    function moveFloatingCard() {
+      clearTimeout(floatingMoveTimer);
+      if (reduceMotion.matches) {
+        floatingCard.style.transition = "none";
+        floatingCard.style.left = "12px";
+        floatingCard.style.top = "12px";
+        return;
+      }
+
+      const bounds = floatingCard.getBoundingClientRect();
+      const margin = 12;
+      const maxLeft = Math.max(margin, window.innerWidth - bounds.width - margin);
+      const maxTop = Math.max(margin, window.innerHeight - bounds.height - margin);
+      const duration = 3500 + Math.random() * 4500;
+
+      floatingCard.style.transition = `left ${duration}ms ease-in-out, top ${duration}ms ease-in-out`;
+      floatingCard.style.left = `${margin + Math.random() * (maxLeft - margin)}px`;
+      floatingCard.style.top = `${margin + Math.random() * (maxTop - margin)}px`;
+      floatingMoveTimer = setTimeout(moveFloatingCard, duration);
+    }
+
+    moveFloatingCard();
+    window.addEventListener("resize", moveFloatingCard);
+    reduceMotion.addEventListener("change", moveFloatingCard);
+  </script>
+</body>
+</html>
