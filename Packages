@@ -3500,19 +3500,19 @@ Name: 知乎广告与按钮(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zhhook/js.json
 
 Package: com.sini921.appstoretroller
-Version: 0.1.2-5
+Version: 0.1.2-6
 Architecture: iphoneos-arm64
-Maintainer: Mineek & Nathan & SINI
-Installed-Size: 568
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: rootless/com.sini921.appstoretroller_0.1.2-5_iphoneos-arm64.deb
-Size: 46268
-MD5sum: b76859e824d5fe28c5fe8696cd737068
-SHA1: 37d7504adb79d0f22a800f04e53a2f2297520f31
-SHA256: 5487ec1b7e551337695f36fe24c0cd180d238a6704bc1163550b2540f359e879
+Maintainer: SINI
+Installed-Size: 1140
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.ccsupport
+Filename: rootless/com.sini921.appstoretroller_0.1.2-6_iphoneos-arm64.deb
+Size: 238296
+MD5sum: 25c49cdabfaa2999c07fe62cefd8b572
+SHA1: 97cfe03d71f4fdc338833f340316186f72548e4d
+SHA256: f4cae0a2dd5e2f3912461de139de7b1de634008700bd928e9c83db86450b09a8
 Section: 越狱插件
-Description: 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用，入库了以后可以安装兼容你系统的版本(如果有的话)，基于开源汉化编译
-Author: Mineek & Nathan & SINI
+Description: 在AppStore中安装应用程序时伪装系统版本以安装需要更高系统版本的应用程序
+Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
 Name: AppStoreTroller(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
@@ -4917,19 +4917,37 @@ Name: YTLite(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ytlite/js.json
 
 Package: com.sini921.appstoretroller
-Version: 0.1.2-5
-Architecture: iphoneos-arm64e
-Maintainer: Mineek & Nathan & SINI
-Installed-Size: 568
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: roothide/com.sini921.appstoretroller_0.1.2-5_iphoneos-arm64e.deb
-Size: 44024
-MD5sum: 8a3ed1e1a89cc149ffd5b8a30a699e20
-SHA1: cc41affc7f02f32de26a4fa90cd99ea8b66cacfd
-SHA256: 1588198fda0dfd47bfe554fe20ee91d25c7a9f6168794c86f9e2916b7ad6e4ff
+Version: 0.1.2-6
+Architecture: iphoneos-arm64
+Maintainer: SINI
+Installed-Size: 1140
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.ccsupport
+Filename: roothide/com.sini921.appstoretroller_0.1.2-6_iphoneos-arm64.deb
+Size: 238296
+MD5sum: 25c49cdabfaa2999c07fe62cefd8b572
+SHA1: 97cfe03d71f4fdc338833f340316186f72548e4d
+SHA256: f4cae0a2dd5e2f3912461de139de7b1de634008700bd928e9c83db86450b09a8
 Section: 越狱插件
-Description: 可以安装苹果商店中提示「需要iOSXX或更高版本」的应用，入库了以后可以安装兼容你系统的版本(如果有的话)，基于开源汉化编译
-Author: Mineek & Nathan & SINI
+Description: 在AppStore中安装应用程序时伪装系统版本以安装需要更高系统版本的应用程序
+Author: SINI
+Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
+Name: AppStoreTroller(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
+
+Package: com.sini921.appstoretroller
+Version: 0.1.2-6
+Architecture: iphoneos-arm64e
+Maintainer: SINI
+Installed-Size: 1140
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.ccsupport
+Filename: roothide/com.sini921.appstoretroller_0.1.2-6_iphoneos-arm64e.deb
+Size: 235864
+MD5sum: ae1fcaf65828f39b130222f1e441acad
+SHA1: b12c51f2edd5ec32189c522b5c720d695bdd06a7
+SHA256: 70cc112042adedcb9f8c454fe94431081512bd76c767f6df414206c78b0e0a97
+Section: 越狱插件
+Description: 在AppStore中安装应用程序时伪装系统版本以安装需要更高系统版本的应用程序
+Author: SINI
 Icon: https://sini921.github.io/repo/sileodepiction/icon/appstoretroller.png
 Name: AppStoreTroller(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/appstoretroller/js.json
