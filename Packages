@@ -2771,16 +2771,16 @@ Name: 知乎广告与按钮(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/zhhook/js.json
 
 Package: com.sini921.appstoretroller
-Version: 0.1.2-9
+Version: 0.1.2-10
 Architecture: iphoneos-arm64
 Maintainer: SINI
-Installed-Size: 1176
+Installed-Size: 1648
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.ccsupport
-Filename: rootless/com.sini921.appstoretroller_0.1.2-9_iphoneos-arm64.deb
-Size: 241936
-MD5sum: d47df9693dd8434b1045cda054e44877
-SHA1: c29fb7088c9baf9e2168299344f0078798bd1fe0
-SHA256: 7674d6f65b18c0324413f500fd7d29f399e0f249571707b1f093197d00394b3b
+Filename: rootless/com.sini921.appstoretroller_0.1.2-10_iphoneos-arm64.deb
+Size: 264818
+MD5sum: 0ce9c20082f52da0aa7345f23476a5fd
+SHA1: f001206d4116bd161dd8d9d6c8c2bc08f92fac1d
+SHA256: 56c8256ff2af0cb522fc04d0bc25ffb5158acfa9375c3e316f5be7c4f0ef054b
 Section: 越狱插件
 Description: 在AppStore中安装应用程序时伪装系统版本以安装需要更高系统版本的应用程序
 Author: SINI
@@ -4118,16 +4118,16 @@ Name: YTLite(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/ytlite/js.json
 
 Package: com.sini921.appstoretroller
-Version: 0.1.2-9
+Version: 0.1.2-10
 Architecture: iphoneos-arm64e
 Maintainer: SINI
-Installed-Size: 1156
+Installed-Size: 1596
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.libsandy, com.opa334.ccsupport
-Filename: roothide/com.sini921.appstoretroller_0.1.2-9_iphoneos-arm64e.deb
-Size: 238938
-MD5sum: 4cad2b237f7123c40047602d1e3ae2dc
-SHA1: 0a29215695da03a57032a6abe57e58b631971792
-SHA256: 3ab26c5491724dc759d0922336531d1d6bc2852dea0ac96297e6a9d08c248581
+Filename: roothide/com.sini921.appstoretroller_0.1.2-10_iphoneos-arm64e.deb
+Size: 262532
+MD5sum: becda4c8409adf7b950d8d402c216090
+SHA1: 6f2c839570c7757d6a03738a68b01e16bee149af
+SHA256: 93fcd1868aea5e36f2e5f9556a09600d9668dc15a201165a9c0a4c909a4658e7
 Section: 越狱插件
 Description: 在AppStore中安装应用程序时伪装系统版本以安装需要更高系统版本的应用程序
 Author: SINI
