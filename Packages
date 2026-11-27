@@ -32,6 +32,26 @@ Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Name: libCSPreferences(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/libcspreferences/js.json
 
+Package: com.doubao.weatherclock
+Version: 2.2.2-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 季伯腾
+Installed-Size: 704
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: rootless/com.doubao.weatherclock_2.2.2-1+debug_iphoneos-arm64.deb
+Size: 93876
+MD5sum: 40836313603368b059914de0c2c9ee98
+SHA1: db62763fc3413c3dd915a73e6785cc98787e7015
+SHA256: 6d0bc17911be72884af3f6716554a9ad84a1200f06929862041715c34d79d996
+Section: 越狱插件
+Description: 点击状态栏时间弹出时间卡片，展示秒级时钟、实时网速、开机时长、充电功率与电池温度。
+  可选开启天气预报：当前天气、体感温度、未来三天预报与穿衣提醒，按设置填写的天气城市查询。
+  支持自定义卡片背景色与字体颜色；各信息项可在设置中独立开关，可填写个性名称。
+  提供 rootless(无根) 与 roothide(隐根) 两种安装包，支持 iOS 16。
+Author: 季伯腾
+Icon: https://sini921.github.io/repo/sileodepiction/icon/weatherclock.png
+Name: 时间卡片
+
 Package: com.lclrc.hammerit
 Version: 1.7.1
 Architecture: iphoneos-arm64
@@ -3737,6 +3757,26 @@ Author: Elias Limneos <limneoselias@gmail.com>
 Icon: https://sini921.github.io/repo/sileodepiction/icon/yilai.png
 Name: uncar(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/uncar/js.json
+
+Package: com.doubao.weatherclock
+Version: 2.2.2-1+debug
+Architecture: iphoneos-arm64e
+Maintainer: 季伯腾
+Installed-Size: 704
+Depends: mobilesubstrate, firmware (>= 16.0)
+Filename: roothide/com.doubao.weatherclock_2.2.2-1+debug_iphoneos-arm64e.deb
+Size: 94028
+MD5sum: 2b99ad8b85df2afda56a5e1356a09ce9
+SHA1: 41504c38fad37d044872387e307198b661d45271
+SHA256: 54a578298fa3045dc08c578ee1f547ca9431dcee808489002de775f478559a26
+Section: 越狱插件
+Description: 点击状态栏时间弹出时间卡片，展示秒级时钟、实时网速、开机时长、充电功率与电池温度。
+  可选开启天气预报：当前天气、体感温度、未来三天预报与穿衣提醒，按设置填写的天气城市查询。
+  支持自定义卡片背景色与字体颜色；各信息项可在设置中独立开关，可填写个性名称。
+  提供 rootless(无根) 与 roothide(隐根) 两种安装包，支持 iOS 16。
+Author: 季伯腾
+Icon: https://sini921.github.io/repo/sileodepiction/icon/weatherclock.png
+Name: 时间卡片
 
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.7.0
