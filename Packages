@@ -39,10 +39,10 @@ Maintainer: 季伯腾
 Installed-Size: 768
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: rootless/com.doubao.weatherclock_2.2.4_iphoneos-arm64.deb
-Size: 112152
-MD5sum: 33afc4ea6e9b7a5279cbed3c52cbe87c
-SHA1: 2ed9354703d453e1b95fefdfb6ec0b807b2e1642
-SHA256: 79ccc8256ada9252ea6066a11f5480f56bd9ca8e2aaee605cf9b01e14180ce5e
+Size: 111672
+MD5sum: d9b54bf2cc3d93589410a68dd801f03f
+SHA1: a9c16da388f6e6fc1aaf1c7f1ac9b3398e577f7f
+SHA256: 187e18497217098de34376873c80730a81b6bc8cb73f9bd4510247cbdfd0d840
 Section: 越狱插件
 Description: 点击状态栏时间弹出时间卡片，展示秒级时钟、实时网速、开机时长、充电功率与电池温度。
   可选开启天气预报：当前天气、体感温度、未来三天预报与穿衣提醒，按设置填写的天气城市查询。
@@ -3767,10 +3767,10 @@ Maintainer: 季伯腾
 Installed-Size: 768
 Depends: mobilesubstrate, firmware (>= 15.0)
 Filename: roothide/com.doubao.weatherclock_2.2.4_iphoneos-arm64e.deb
-Size: 112220
-MD5sum: 4a47206c488c792c604331ea393e256a
-SHA1: 835dc7c4ffba39f4b980180e5e19bce2e87b5a85
-SHA256: 5b44cc2905a60068c9cc62807691da10a29dd0fe7aebb39e8c58f17a469b6ac9
+Size: 111424
+MD5sum: a6a325a7d07b11c7b58cadc794ed2a12
+SHA1: 3436c944d97d56d2d2967de16f8c88f2dbd93bfe
+SHA256: 4ebc9d381a122cc80aa0b24a33de05d893e4356dab7621fff3faebf9fc628c9c
 Section: 越狱插件
 Description: 点击状态栏时间弹出时间卡片，展示秒级时钟、实时网速、开机时长、充电功率与电池温度。
   可选开启天气预报：当前天气、体感温度、未来三天预报与穿衣提醒，按设置填写的天气城市查询。
