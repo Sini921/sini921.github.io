@@ -90,7 +90,7 @@
                     "class": "DepictionSeparatorView"
                 },
                 {
-                    "markdown": "#### 版本: 2.2.4\n- 基于开源修改编译。新增自定义颜色。",
+                    "markdown": "#### 版本: 2.2.4\n- 这个源主很懒\n- 懒得写更新日志",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 }
