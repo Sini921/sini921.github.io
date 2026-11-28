@@ -3154,16 +3154,16 @@ Name: LiquidGlassSwitch(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/liquidglassswitch/js.json
 
 Package: com.sini921.lockscreenhelper
-Version: 0.0.1-19
+Version: 0.0.1-20
 Architecture: iphoneos-arm64
 Maintainer: SINI
 Installed-Size: 732
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, com.opa334.libsandy
-Filename: rootless/com.sini921.lockscreenhelper_0.0.1-19_iphoneos-arm64.deb
-Size: 89322
-MD5sum: d2adb7f8578b828ac9b6a6ad6bf97261
-SHA1: 9ba46ea19b90522acda3c0667fadcfa24ae172cc
-SHA256: 9768177ed00f9f9fe32865e90dbdd3d32757c71bbf334765e2aa50ace4613e1b
+Filename: rootless/com.sini921.lockscreenhelper_0.0.1-20_iphoneos-arm64.deb
+Size: 90576
+MD5sum: d08dabffaf1745c5a1e330d4ea76bea8
+SHA1: 2abab62558775ed994fc8fab86d59f655e2b2f7c
+SHA256: e7e729a5808f40f74d70bb516b0b5d7b5cfac8d1c61bc12f65afb86e88b2fad9
 Section: 越狱插件
 Description: 锁屏界面相关的简单优化
 Author: SINI
@@ -4541,16 +4541,16 @@ Name: LiquidGlassSwitch(roothide)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/liquidglassswitch/js.json
 
 Package: com.sini921.lockscreenhelper
-Version: 0.0.1-19
+Version: 0.0.1-20
 Architecture: iphoneos-arm64e
 Maintainer: SINI
 Installed-Size: 732
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, com.opa334.libsandy
-Filename: roothide/com.sini921.lockscreenhelper_0.0.1-19_iphoneos-arm64e.deb
-Size: 87898
-MD5sum: 297467eff2c408289fdd751c72fd2baf
-SHA1: 7d6d7b68debf100a404519bdc089a3d9b036e352
-SHA256: 8c7a928674a81485d4481c40c1ab484a5f12b6a1beb6d1889379f41ccbeac0a2
+Filename: roothide/com.sini921.lockscreenhelper_0.0.1-20_iphoneos-arm64e.deb
+Size: 90184
+MD5sum: 8bdc96b76e7c61f5fc95d33ca23ea288
+SHA1: 1137816d758ae36112bb658ce41ee715b6fa5092
+SHA256: 06557963fd9771f3a92057d8f976f3732b8031c396df90b6a1b5617ea53c7cf0
 Section: 越狱插件
 Description: 锁屏界面相关的简单优化
 Author: SINI
