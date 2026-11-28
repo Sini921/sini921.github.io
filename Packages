@@ -33,24 +33,26 @@ Name: libCSPreferences(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/libcspreferences/js.json
 
 Package: com.doubao.weatherclock
-Version: 2.2.3
+Version: 2.2.4
 Architecture: iphoneos-arm64
 Maintainer: 季伯腾
-Installed-Size: 712
+Installed-Size: 768
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: rootless/com.doubao.weatherclock_2.2.3_iphoneos-arm64.deb
-Size: 97064
-MD5sum: aa82db6e3f382252f39f06be51f3046f
-SHA1: 77e5d96058bfdde3ffdf9e88b0d06c1b90267dab
-SHA256: d07c583987513ea9d150913e7bbec367c0adb1dc4455ac5771a759284feb7cce
+Filename: rootless/com.doubao.weatherclock_2.2.4_iphoneos-arm64.deb
+Size: 112152
+MD5sum: 33afc4ea6e9b7a5279cbed3c52cbe87c
+SHA1: 2ed9354703d453e1b95fefdfb6ec0b807b2e1642
+SHA256: 79ccc8256ada9252ea6066a11f5480f56bd9ca8e2aaee605cf9b01e14180ce5e
 Section: 越狱插件
 Description: 点击状态栏时间弹出时间卡片，展示秒级时钟、实时网速、开机时长、充电功率与电池温度。
   可选开启天气预报：当前天气、体感温度、未来三天预报与穿衣提醒，按设置填写的天气城市查询。
   支持自定义卡片背景色与字体颜色；各信息项可在设置中独立开关，可填写个性名称。
   提供 rootless(无根) 与 roothide(隐根) 两种安装包，支持 iOS 15.0-17.3.1。
 Author: 季伯腾
+Depiction: https://sini921.github.io/repo/sileodepiction/weatherclock/js.json
 Icon: https://sini921.github.io/repo/sileodepiction/icon/weatherclock.png
-Name: 时间卡片
+Name: 时间卡片(rootless)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/weatherclock/js.json
 
 Package: com.lclrc.hammerit
 Version: 1.7.1
@@ -3759,24 +3761,26 @@ Name: uncar(rootless)
 Sileodepiction: https://sini921.github.io/repo/sileodepiction/uncar/js.json
 
 Package: com.doubao.weatherclock
-Version: 2.2.3
+Version: 2.2.4
 Architecture: iphoneos-arm64e
 Maintainer: 季伯腾
-Installed-Size: 712
+Installed-Size: 768
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: roothide/com.doubao.weatherclock_2.2.3_iphoneos-arm64e.deb
-Size: 96708
-MD5sum: 9f009b5bd987e04c7d2970dba138ff1c
-SHA1: 518074f20122bf17c8ee4de7f447bcbd20c21fc9
-SHA256: 73b477815b350baaee8975828878c58c5f46ed0aa30c56541e5671c41a1be5f9
+Filename: roothide/com.doubao.weatherclock_2.2.4_iphoneos-arm64e.deb
+Size: 112220
+MD5sum: 4a47206c488c792c604331ea393e256a
+SHA1: 835dc7c4ffba39f4b980180e5e19bce2e87b5a85
+SHA256: 5b44cc2905a60068c9cc62807691da10a29dd0fe7aebb39e8c58f17a469b6ac9
 Section: 越狱插件
 Description: 点击状态栏时间弹出时间卡片，展示秒级时钟、实时网速、开机时长、充电功率与电池温度。
   可选开启天气预报：当前天气、体感温度、未来三天预报与穿衣提醒，按设置填写的天气城市查询。
   支持自定义卡片背景色与字体颜色；各信息项可在设置中独立开关，可填写个性名称。
   提供 rootless(无根) 与 roothide(隐根) 两种安装包，支持 iOS 15.0-17.3.1。
 Author: 季伯腾
+Depiction: https://sini921.github.io/repo/sileodepiction/weatherclock/js.json
 Icon: https://sini921.github.io/repo/sileodepiction/icon/weatherclock.png
-Name: 时间卡片
+Name: 时间卡片(roothide)
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/weatherclock/js.json
 
 Package: com.mrgcgamer.libgcuniversal
 Version: 1.7.0
